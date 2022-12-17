@@ -1,0 +1,1784 @@
+jerusalem, is surrounded by, mountains	city, is located near, mountains	False
+city, is located near, mountains	jerusalem, is surrounded by, mountains	True
+animal, lives in, america	the hornet, captured in, america	True
+the hornet, captured in, america	animal, lives in, america	False
+griseofulvin, is effective for, infections	drug, cures, infections	True
+drug, cures, infections	griseofulvin, is effective for, infections	False
+device, is made of, metal	the best strainer, is composed of pieces of, metal	True
+the best strainer, is composed of pieces of, metal	device, is made of, metal	False
+switzerland, was bounded on the north by, germany	european country, borders, switzerland	False
+european country, borders, switzerland	switzerland, was bounded on the north by, germany	True
+device, is made of, metal	the aneroid barometer, is a box of, metal	True
+the aneroid barometer, is a box of, metal	device, is made of, metal	False
+erythromycin, is effective for, infections	drug, cures, infections	True
+drug, cures, infections	erythromycin, is effective for, infections	False
+dress, imposed on, jews	clothing, is worn by, jews	False
+clothing, is worn by, jews	dress, imposed on, jews	True
+device, is made of, metal	the strainer, is composed of pieces of, metal	True
+the strainer, is composed of pieces of, metal	device, is made of, metal	False
+bread, seasoned with, salt	food, includes, salt	False
+food, includes, salt	bread, seasoned with, salt	True
+device, is made of, wood	the stirrups, are blocks of, wood	True
+the stirrups, are blocks of, wood	device, is made of, wood	False
+city, is located near, mountains	kyoto, is surrounded by, mountains	True
+kyoto, is surrounded by, mountains	city, is located near, mountains	False
+irons, contain, silicon	device, is made of, silicon	True
+device, is made of, silicon	irons, contain, silicon	False
+walt disney, created, mickey mouse	person, drew, mickey mouse	False
+person, drew, mickey mouse	walt disney, created, mickey mouse	True
+food, includes, salt	flour, seasoned with, salt	True
+flour, seasoned with, salt	food, includes, salt	False
+alexander bell, developed, the telephone	person, invented, the telephone	True
+person, invented, the telephone	alexander bell, developed, the telephone	False
+disney, created, mickey mouse	person, drew, mickey mouse	False
+person, drew, mickey mouse	disney, created, mickey mouse	True
+the ash, also contains, iron	plant life, is rich with, iron	True
+plant life, is rich with, iron	the ash, also contains, iron	False
+animal, lives in, africa	the neanderthals, spread throughout, africa	True
+the neanderthals, spread throughout, africa	animal, lives in, africa	False
+queen victoria, ascended the throne of, england	territory, was controlled by, queen victoria	False
+territory, was controlled by, queen victoria	queen victoria, ascended the throne of, england	True
+plant life, is processed into, flour	hard wheat, yields, such flour	False
+hard wheat, yields, such flour	plant life, is processed into, flour	True
+the surgeon, can do, reconstructive surgery	process, is conducted by, a surgeon	True
+process, is conducted by, a surgeon	the surgeon, can do, reconstructive surgery	False
+person, contributed to, science	reagan, awarded the medal of, science	True
+reagan, awarded the medal of, science	person, contributed to, science	False
+animal, lives in, africa	storks, migrate to, africa	True
+storks, migrate to, africa	animal, lives in, africa	False
+kansas, produced, corn	state, supplies, corn	True
+state, supplies, corn	kansas, produced, corn	False
+body part, secretes, hormones	the anterior pituitary, secretes a number of, hormones	True
+the anterior pituitary, secretes a number of, hormones	body part, secretes, hormones	False
+arabic, is the language of, all egyptians	language, is spoken by, egyptians	False
+language, is spoken by, egyptians	arabic, is the language of, all egyptians	True
+unit, measures, energy	energy, is usually measured in, joules	True
+energy, is usually measured in, joules	unit, measures, energy	False
+cent, comes from, canada	monetary unit, is accepted in, canada	False
+monetary unit, is accepted in, canada	cent, comes from, canada	True
+material, is abundant in, africa	cotton, is an crop in, africa	False
+cotton, is an crop in, africa	material, is abundant in, africa	True
+language, is spoken in, pakistan	pakistan, has adopted, urdu	True
+pakistan, has adopted, urdu	language, is spoken in, pakistan	False
+doxycycline, is recommended for patients with, infections	drug, cures, infections	False
+drug, cures, infections	doxycycline, is recommended for patients with, infections	True
+the cathode, is a plate of, platinum	device, is made of, platinum	False
+device, is made of, platinum	the cathode, is a plate of, platinum	True
+a capstan, is a cylinder of, wood	device, is made of, wood	False
+device, is made of, wood	a capstan, is a cylinder of, wood	True
+angora goats, were brought to, america	animal, lives in, america	False
+animal, lives in, america	angora goats, were brought to, america	True
+body of water, is inside, africa	the congo, is the river in, africa	True
+the congo, is the river in, africa	body of water, is inside, africa	False
+animal, lives in, africa	the donkey, is native to, africa	True
+the donkey, is native to, africa	animal, lives in, africa	False
+granada, lies at the foot of, the mountains	city, is located near, mountains	False
+city, is located near, mountains	granada, lies at the foot of, the mountains	True
+device, is made of, platinum	platinum, is used in, magnetos	False
+platinum, is used in, magnetos	device, is made of, platinum	True
+surgeons, can perform, thyroidectomies	process, is conducted by, a surgeon	True
+process, is conducted by, a surgeon	surgeons, can perform, thyroidectomies	False
+device, is made of, metal	the principal valves, require to be of, metal	True
+the principal valves, require to be of, metal	device, is made of, metal	False
+tissue, is infected by, pneumonia	pneumonia, refers to inflammation of, the parenchyma	True
+pneumonia, refers to inflammation of, the parenchyma	tissue, is infected by, pneumonia	False
+language, is spoken in, india	the gypsies, came from, india	True
+the gypsies, came from, india	language, is spoken in, india	False
+greece, was under, the dictatorship	political system, was prevalent in, greece	True
+political system, was prevalent in, greece	greece, was under, the dictatorship	False
+platinum, is used for, resistance thermometers	device, is made of, platinum	True
+device, is made of, platinum	platinum, is used for, resistance thermometers	False
+silicon, is used in, diodes	device, is made of, silicon	True
+device, is made of, silicon	silicon, is used in, diodes	False
+the thyroid tissue, usually supplies, hormone	body part, secretes, hormones	False
+body part, secretes, hormones	the thyroid tissue, usually supplies, hormone	True
+symptom, can be treated with, nsaids	nsaids, are effective for, pain	False
+nsaids, are effective for, pain	symptom, can be treated with, nsaids	True
+organism, is affected by, co2	patients, are hypersensitive to, co2	True
+patients, are hypersensitive to, co2	organism, is affected by, co2	False
+animal, lives in, africa	africa, is the land of, creepers	True
+africa, is the land of, creepers	animal, lives in, africa	False
+the electrodes, are usually made of, platinum	device, is made of, platinum	False
+device, is made of, platinum	the electrodes, are usually made of, platinum	True
+solid food, contains, vitamins	bread, is enriched with, vitamins	True
+bread, is enriched with, vitamins	solid food, contains, vitamins	False
+device, is made of, platinum	platinum, is used in, resistance thermometers	False
+platinum, is used in, resistance thermometers	device, is made of, platinum	True
+language, is spoken in, indonesia	indonesian, is the language of, indonesia	True
+indonesian, is the language of, indonesia	language, is spoken in, indonesia	False
+chemical, makes up, steel	diffused carbide, occurring in, steels	False
+diffused carbide, occurring in, steels	chemical, makes up, steel	True
+person, contributed to, science	hubbard, was a patron of, science	True
+hubbard, was a patron of, science	person, contributed to, science	False
+language, is spoken in, india	persian, remained the language of, india	True
+persian, remained the language of, india	language, is spoken in, india	False
+hirohito, becomes emperor of, japan	person, controlled, japan	False
+person, controlled, japan	hirohito, becomes emperor of, japan	True
+trees, use up, carbon dioxide	organism, requires, carbon dioxide	True
+organism, requires, carbon dioxide	trees, use up, carbon dioxide	False
+device, is made of, metal	a fuse, consists of a piece of, metal	True
+a fuse, consists of a piece of, metal	device, is made of, metal	False
+india, has been the land of, romance	language, is spoken in, india	False
+language, is spoken in, india	india, has been the land of, romance	True
+machinery, could not be made without, steel	device, is made of, steel	False
+device, is made of, steel	machinery, could not be made without, steel	True
+sheep, are bred for, meat	solid food, is produced from, sheep	False
+solid food, is produced from, sheep	sheep, are bred for, meat	True
+clinton, was still, president	senator, was elected as, president	False
+senator, was elected as, president	clinton, was still, president	True
+the jews, had, a costume	clothing, is worn by, jews	True
+clothing, is worn by, jews	the jews, had, a costume	False
+the shims, are often made of, wood	device, is made of, wood	False
+device, is made of, wood	the shims, are often made of, wood	True
+animal, lives in, america	marsupials, originated in, america	True
+marsupials, originated in, america	animal, lives in, america	False
+detectors, can be made from, silicon	device, is made of, silicon	True
+device, is made of, silicon	detectors, can be made from, silicon	False
+person, contributed to, science	kuhn, is a historian of, science	True
+kuhn, is a historian of, science	person, contributed to, science	False
+drug, cures, infections	acyclovir, has been fighting, infections	False
+acyclovir, has been fighting, infections	drug, cures, infections	True
+animal, lives in, australia	birds, originating in, australia	True
+birds, originating in, australia	animal, lives in, australia	False
+political system, is implemented in, india	india, became a republic within, the commonwealth	True
+india, became a republic within, the commonwealth	political system, is implemented in, india	False
+bird, feeds on, fish	the eaglet, had eaten, the fish	True
+the eaglet, had eaten, the fish	bird, feeds on, fish	False
+wood, must be used for, hammers	device, is made of, wood	False
+device, is made of, wood	wood, must be used for, hammers	True
+the jews, have, a foundation	clothing, is worn by, jews	True
+clothing, is worn by, jews	the jews, have, a foundation	False
+frances, only pays, dollars	monetary unit, is accepted in, france	False
+monetary unit, is accepted in, france	frances, only pays, dollars	True
+clothing, is worn by, jews	jews, attended in, attire	True
+jews, attended in, attire	clothing, is worn by, jews	False
+animal, lives in, america	the todies, are natives of, america	True
+the todies, are natives of, america	animal, lives in, america	False
+beverage, is manufactured in, germany	germany, is the home of, the riesling	True
+germany, is the home of, the riesling	beverage, is manufactured in, germany	False
+animal, lives in, africa	africa, is the country of, antelopes	True
+africa, is the country of, antelopes	animal, lives in, africa	False
+city, is located near, mountains	cape town, is situated at the foot of, mountain	True
+cape town, is situated at the foot of, mountain	city, is located near, mountains	False
+animal, lives in, australia	the dingo, is the dog of, australia	True
+the dingo, is the dog of, australia	animal, lives in, australia	False
+device, is made of, steel	steel, can be used in, the beam	False
+steel, can be used in, the beam	device, is made of, steel	True
+camels, were brought to, australia	animal, lives in, australia	False
+animal, lives in, australia	camels, were brought to, australia	True
+believers, are the children of, abraham	person, is the son of, abraham	True
+person, is the son of, abraham	believers, are the children of, abraham	False
+animal, lives in, africa	the zebras, are confined to, africa	True
+the zebras, are confined to, africa	animal, lives in, africa	False
+english, was known in, the cameroons	african country, speaks, english	True
+african country, speaks, english	english, was known in, the cameroons	False
+scientist, invented, the computer	the british turing, designed, a computer	False
+the british turing, designed, a computer	scientist, invented, the computer	True
+mutton, is the flesh of, the sheep	solid food, is produced from, sheep	False
+solid food, is produced from, sheep	mutton, is the flesh of, the sheep	True
+the menhaden, is a fish with, scales	animal, is covered in, scales	False
+animal, is covered in, scales	the menhaden, is a fish with, scales	True
+ruler, conquered, jerusalem	saladin, had retaken, jerusalem	True
+saladin, had retaken, jerusalem	ruler, conquered, jerusalem	False
+this insect, is said to be found in, texas	animal, lives in, texas	True
+animal, lives in, texas	this insect, is said to be found in, texas	False
+clothing, is worn by, the pope	the pope, escaped in, the disguise	True
+the pope, escaped in, the disguise	clothing, is worn by, the pope	False
+bologna, lies at the foot of, these mountains	city, is located near, mountains	False
+city, is located near, mountains	bologna, lies at the foot of, these mountains	True
+symptom, can be treated with, aspirin	the pain, may be relieved by, aspirin	False
+the pain, may be relieved by, aspirin	symptom, can be treated with, aspirin	True
+african country, speaks, english	english, is the language of, ghana	True
+english, is the language of, ghana	african country, speaks, english	False
+statesman, became, a dictator	the cincinnatus, was called and made, dictator	True
+the cincinnatus, was called and made, dictator	statesman, became, a dictator	False
+the piano, is used with, an orchestra	musical instrument, is a must in, an orchestra	True
+musical instrument, is a must in, an orchestra	the piano, is used with, an orchestra	False
+a koumiss, is prepared by the addition of, sugar	food, includes, sugar	False
+food, includes, sugar	a koumiss, is prepared by the addition of, sugar	True
+this band, was headed by, great scholars	person, plays in, a band	False
+person, plays in, a band	this band, was headed by, great scholars	True
+bird, feeds on, worms	rooks, are fond of, these worms	True
+rooks, are fond of, these worms	bird, feeds on, worms	False
+person, controlled, china	the present sovereign, is the emperor of, china	True
+the present sovereign, is the emperor of, china	person, controlled, china	False
+animal, lives in, africa	the new proconsul, withdrew from, africa	True
+the new proconsul, withdrew from, africa	animal, lives in, africa	False
+animal, lives in, africa	the hippopotamus, is confined to, africa	True
+the hippopotamus, is confined to, africa	animal, lives in, africa	False
+animal, lives in, america	robins, had been kept in, america	False
+robins, had been kept in, america	animal, lives in, america	True
+food, includes, sugar	this sherbet, is simply, sugar	True
+this sherbet, is simply, sugar	food, includes, sugar	False
+london, unfortunately has, mountains	city, is located near, mountains	False
+city, is located near, mountains	london, unfortunately has, mountains	True
+pakistan, would remain within, the british empire	territory, was controlled by, the british empire	False
+territory, was controlled by, the british empire	pakistan, would remain within, the british empire	True
+animal, lives in, africa	the camel, belongs to, africa	True
+the camel, belongs to, africa	animal, lives in, africa	False
+brant, returned to, america	animal, lives in, america	False
+animal, lives in, america	brant, returned to, america	True
+device, is made of, steel	the magnetic needle, is a piece of, steel	True
+the magnetic needle, is a piece of, steel	device, is made of, steel	False
+robins, are distributed throughout, america	animal, lives in, america	False
+animal, lives in, america	robins, are distributed throughout, america	True
+person, was given, an award	award, may be divided between, candidates	True
+award, may be divided between, candidates	person, was given, an award	False
+salt, is applied to the surface of, the cheese	food, includes, salt	False
+food, includes, salt	salt, is applied to the surface of, the cheese	True
+the length, was measured with, a micrometer	unit, measures, length	False
+unit, measures, length	the length, was measured with, a micrometer	True
+this vitamin, is found in, leafy vegetables	solid food, contains, vitamins	False
+solid food, contains, vitamins	this vitamin, is found in, leafy vegetables	True
+this vitamin, is found in, citrus fruits	solid food, contains, vitamins	False
+solid food, contains, vitamins	this vitamin, is found in, citrus fruits	True
+language, is spoken in, india	sanskrit, was the language in, india	True
+sanskrit, was the language in, india	language, is spoken in, india	False
+a resistance, was recorded of, pounds	unit, measures, resistance	False
+unit, measures, resistance	a resistance, was recorded of, pounds	True
+tenno, was the emperor of, japan	person, controlled, japan	False
+person, controlled, japan	tenno, was the emperor of, japan	True
+person, controlled, china	the sovereign, is the emperor of, china	True
+the sovereign, is the emperor of, china	person, controlled, china	False
+food, includes, sugar	a modified koumiss, is prepared by the addition of, sugar	True
+a modified koumiss, is prepared by the addition of, sugar	food, includes, sugar	False
+continent, suffers from, poverty	poverty, increased throughout, europe	True
+poverty, increased throughout, europe	continent, suffers from, poverty	False
+device, is made of, plastic	the floppy disk, is a piece of, plastic	True
+the floppy disk, is a piece of, plastic	device, is made of, plastic	False
+person, contributed to, science	galileo, led on the part of, science	True
+galileo, led on the part of, science	person, contributed to, science	False
+the restless marquis, became the leader of, a band	person, plays in, a band	False
+person, plays in, a band	the restless marquis, became the leader of, a band	True
+camels, appeared in, america	animal, lives in, america	True
+animal, lives in, america	camels, appeared in, america	False
+solid food, is produced from, sheep	sheep, are reared for, mutton	True
+sheep, are reared for, mutton	solid food, is produced from, sheep	False
+plant life, is rich with, iron	the heaths, are found to contain, iron	False
+the heaths, are found to contain, iron	plant life, is rich with, iron	True
+bakers, begin producing, bread	worker, produces, bread	False
+worker, produces, bread	bakers, begin producing, bread	True
+green monkeys, came from, africa	animal, lives in, africa	False
+animal, lives in, africa	green monkeys, came from, africa	True
+drug, cures, infections	bacitracin, is indicated in the treatment of, infections	False
+bacitracin, is indicated in the treatment of, infections	drug, cures, infections	True
+pertussis, usually is accompanied by, a fever	disease, causes, fever	True
+disease, causes, fever	pertussis, usually is accompanied by, a fever	False
+european country, is a member of, the eu	finland, left to join, the eu	True
+finland, left to join, the eu	european country, is a member of, the eu	False
+philosopher, questioned, the church	occam, was the critic of, the church	True
+occam, was the critic of, the church	philosopher, questioned, the church	False
+david, reigned in, jerusalem	ruler, conquered, jerusalem	True
+ruler, conquered, jerusalem	david, reigned in, jerusalem	False
+india, to remain within, the british empire	territory, was controlled by, the british empire	False
+territory, was controlled by, the british empire	india, to remain within, the british empire	True
+unit, measures, length	the length, totals, km	True
+the length, totals, km	unit, measures, length	False
+spinach, is high in, vitamins	solid food, contains, vitamins	False
+solid food, contains, vitamins	spinach, is high in, vitamins	True
+the insect, has been mistaken for, a thrips	animal, is not, an insect	False
+animal, is not, an insect	the insect, has been mistaken for, a thrips	True
+the band, is led by, the first performers	person, plays in, a band	False
+person, plays in, a band	the band, is led by, the first performers	True
+hirohito, became emperor of, japan	person, controlled, japan	False
+person, controlled, japan	hirohito, became emperor of, japan	True
+scientist, invented, the computer	the turing, designed, a computer	False
+the turing, designed, a computer	scientist, invented, the computer	True
+abraham, married and had, concubines	person, is the son of, abraham	False
+person, is the son of, abraham	abraham, married and had, concubines	True
+these mineral ores, are imported from, africa	material, is abundant in, africa	False
+material, is abundant in, africa	these mineral ores, are imported from, africa	True
+queen victoria, moved to, buckingham palace	monarch, lived in, buckingham palace	False
+monarch, lived in, buckingham palace	queen victoria, moved to, buckingham palace	True
+solid food, is served with, bread	the lamb, was eaten with, bread	False
+the lamb, was eaten with, bread	solid food, is served with, bread	True
+unit, measures, length	the length, could not be less than, yards	True
+the length, could not be less than, yards	unit, measures, length	False
+unit, measures, energy	this energy, amounts to, electron volts	True
+this energy, amounts to, electron volts	unit, measures, energy	False
+food, includes, salt	the cheese, is rubbed with, salt	True
+the cheese, is rubbed with, salt	food, includes, salt	False
+solid food, contains, vitamins	this vitamin, is found in, green vegetables	True
+this vitamin, is found in, green vegetables	solid food, contains, vitamins	False
+guinea fowls, are natives of, africa	animal, lives in, africa	False
+animal, lives in, africa	guinea fowls, are natives of, africa	True
+these amphibians, have been found in, america	animal, lives in, america	False
+animal, lives in, america	these amphibians, have been found in, america	True
+this antelope, is diffused throughout, africa	animal, lives in, africa	False
+animal, lives in, africa	this antelope, is diffused throughout, africa	True
+discs, are cut from, steel	device, is made of, steel	False
+device, is made of, steel	discs, are cut from, steel	True
+pali, was the language in, india	language, is spoken in, india	False
+language, is spoken in, india	pali, was the language in, india	True
+the british empire, consists of, the united kingdom	territory, was controlled by, the british empire	False
+territory, was controlled by, the british empire	the british empire, consists of, the united kingdom	True
+tasmania, swarmed with, kangaroos	territory, is inhabited by, kangaroos	False
+territory, is inhabited by, kangaroos	tasmania, swarmed with, kangaroos	True
+length, is equal to, centimeters	unit, measures, length	False
+unit, measures, length	length, is equal to, centimeters	True
+fulbright, served as, president	senator, was elected as, president	False
+senator, was elected as, president	fulbright, served as, president	True
+ruler, conquered, jerusalem	jerusalem, was recaptured by, saladin	True
+jerusalem, was recaptured by, saladin	ruler, conquered, jerusalem	False
+city, is located near, mountains	cape town, lies at the foot of, mountain	True
+cape town, lies at the foot of, mountain	city, is located near, mountains	False
+animal, lives in, africa	the civets, are abundant in, africa	True
+the civets, are abundant in, africa	animal, lives in, africa	False
+vertebrates, usually covered with, scales	animal, is covered in, scales	True
+animal, is covered in, scales	vertebrates, usually covered with, scales	False
+america, has been inhabited by, human beings	animal, lives in, america	True
+animal, lives in, america	america, has been inhabited by, human beings	False
+animal, lives in, america	america, is the country of, the rattlesnake	True
+america, is the country of, the rattlesnake	animal, lives in, america	False
+unit, measures, length	the length, is millionths of, a millimeter	True
+the length, is millionths of, a millimeter	unit, measures, length	False
+english, is the language in, nigeria	african country, speaks, english	False
+african country, speaks, english	english, is the language in, nigeria	True
+animal, lives in, america	the buzzard, is the bird of, america	True
+the buzzard, is the bird of, america	animal, lives in, america	False
+the sinhalese, came from, india	language, is spoken in, india	False
+language, is spoken in, india	the sinhalese, came from, india	True
+bird, feeds on, fish	the albatross, is going down to, fish	True
+the albatross, is going down to, fish	bird, feeds on, fish	False
+animal, lives in, america	these birds, are found throughout, america	True
+these birds, are found throughout, america	animal, lives in, america	False
+political system, is prevalent in, europe	direct democracy, has been used in, europe	False
+direct democracy, has been used in, europe	political system, is prevalent in, europe	True
+person, contributed to, science	all members, can develop, sciences	False
+all members, can develop, sciences	person, contributed to, science	True
+odessa, is the port on, the sea	city, is next to, the sea	False
+city, is next to, the sea	odessa, is the port on, the sea	True
+the nectar, largely consists of, sugar	food, includes, sugar	False
+food, includes, sugar	the nectar, largely consists of, sugar	True
+this asiatic horse, flourished in, america	animal, lives in, america	False
+animal, lives in, america	this asiatic horse, flourished in, america	True
+international organization, provides, aid	the united nations, came to, the aid	True
+the united nations, came to, the aid	international organization, provides, aid	False
+plant life, is processed into, sugar	the gums, are converted into, sugars	False
+the gums, are converted into, sugars	plant life, is processed into, sugar	True
+the length, indicates the number of, bytes	unit, measures, length	False
+unit, measures, length	the length, indicates the number of, bytes	True
+horses, will run down, an antelope	animal, hunts, antelopes	False
+animal, hunts, antelopes	horses, will run down, an antelope	True
+charleston, lies on, the sea	city, is next to, the sea	False
+city, is next to, the sea	charleston, lies on, the sea	True
+device, is made of, metal	metal, has been used in, germicidal lamps	False
+metal, has been used in, germicidal lamps	device, is made of, metal	True
+monarchy, was established at, rome	political system, was used by, rome	False
+political system, was used by, rome	monarchy, was established at, rome	True
+device, is made of, wood	trusses, may be built of, wood	False
+trusses, may be built of, wood	device, is made of, wood	True
+tyre, was surrounded by, sea	city, is next to, the sea	False
+city, is next to, the sea	tyre, was surrounded by, sea	True
+monkeys, form throughout, america	animal, lives in, america	False
+animal, lives in, america	monkeys, form throughout, america	True
+person, contributed to, science	pasteur, was elected a member of, the sciences	True
+pasteur, was elected a member of, the sciences	person, contributed to, science	False
+food, includes, sugar	fruit juices, are high in, sugar	True
+fruit juices, are high in, sugar	food, includes, sugar	False
+person, contributed to, science	mitchell, founded the institute of, sciences	True
+mitchell, founded the institute of, sciences	person, contributed to, science	False
+english, is the language of, zimbabwe	african country, speaks, english	False
+african country, speaks, english	english, is the language of, zimbabwe	True
+language, is spoken in, india	persian, was the language in, india	True
+persian, was the language in, india	language, is spoken in, india	False
+monarch, lived in, versailles	charles, was born at, versailles	True
+charles, was born at, versailles	monarch, lived in, versailles	False
+clothing, is worn by, jews	jews, must wear, a distinctive dress	True
+jews, must wear, a distinctive dress	clothing, is worn by, jews	False
+the father, sued and obtained, an award	person, was given, an award	False
+person, was given, an award	the father, sued and obtained, an award	True
+albert edward, was born at, buckingham palace	monarch, lived in, buckingham palace	False
+monarch, lived in, buckingham palace	albert edward, was born at, buckingham palace	True
+genoa, extended into, the sea	city, is next to, the sea	False
+city, is next to, the sea	genoa, extended into, the sea	True
+asian country, trades with, britain	nepal, had relations with, britain	False
+nepal, had relations with, britain	asian country, trades with, britain	True
+unit, measures, length	lengths, are given in terms of, the vara	True
+lengths, are given in terms of, the vara	unit, measures, length	False
+person, ruled, egypt	all egypt, was the estate of, the pharaoh	True
+all egypt, was the estate of, the pharaoh	person, ruled, egypt	False
+solid food, is served with, rice	rice, boiled with, raisins	True
+rice, boiled with, raisins	solid food, is served with, rice	False
+person, is the son of, abraham	jesus, was descended from, abraham	False
+jesus, was descended from, abraham	person, is the son of, abraham	True
+device, is made of, steel	dental needles, should be made of, steel	False
+dental needles, should be made of, steel	device, is made of, steel	True
+economists, have advocated, a tax	person, proposed, more tax	True
+person, proposed, more tax	economists, have advocated, a tax	False
+india, should remain within, the british empire	territory, was controlled by, the british empire	False
+territory, was controlled by, the british empire	india, should remain within, the british empire	True
+the zambezi, is the river of, africa	river, flows through, africa	False
+river, flows through, africa	the zambezi, is the river of, africa	True
+person, plays in, a band	the band, was headed by, a spaniard	True
+the band, was headed by, a spaniard	person, plays in, a band	False
+person, was given, an award	campbell, was the winner of, the award	True
+campbell, was the winner of, the award	person, was given, an award	False
+disease, causes, fever	fever, occurs after, pharyngitis	True
+fever, occurs after, pharyngitis	disease, causes, fever	False
+monetary unit, is accepted in, canada	cent, came from, canada	True
+cent, came from, canada	monetary unit, is accepted in, canada	False
+the length, is not less than, a quarter	unit, measures, length	False
+unit, measures, length	the length, is not less than, a quarter	True
+california, once belonged to, mexico	state, was taken from, mexico	True
+state, was taken from, mexico	california, once belonged to, mexico	False
+ruler, conquered, jerusalem	saladin, reconquered, jerusalem	True
+saladin, reconquered, jerusalem	ruler, conquered, jerusalem	False
+person, plays in, a band	the marquis, became the leader of, a band	True
+the marquis, became the leader of, a band	person, plays in, a band	False
+the electrode, is a piece of, platinum	device, is made of, platinum	False
+device, is made of, platinum	the electrode, is a piece of, platinum	True
+solid food, contains, vitamins	yellow vegetables, provide, vitamin a	True
+yellow vegetables, provide, vitamin a	solid food, contains, vitamins	False
+english, is the language of, nigeria	african country, speaks, english	False
+african country, speaks, english	english, is the language of, nigeria	True
+drug, cures, malaria	malaria, can be treated with, chloroquine	False
+malaria, can be treated with, chloroquine	drug, cures, malaria	True
+symptom, can be treated with, nsaids	pain, is treated with, nsaids	True
+pain, is treated with, nsaids	symptom, can be treated with, nsaids	False
+person, made a fortune from, oil	cleveland, bought and sold, oil	False
+cleveland, bought and sold, oil	person, made a fortune from, oil	True
+unit, measures, resistance	j, is associated with, resistance	False
+j, is associated with, resistance	unit, measures, resistance	True
+device, is made of, wood	stirrups, were also made of, wood	False
+stirrups, were also made of, wood	device, is made of, wood	True
+african country, trades with, france	tunisia, would operate with, france	False
+tunisia, would operate with, france	african country, trades with, france	True
+this method, was used by, newton	subject field, was studied by, newton	False
+subject field, was studied by, newton	this method, was used by, newton	True
+disease, causes, fever	lymphoma, may cause, fever	False
+lymphoma, may cause, fever	disease, causes, fever	True
+the footed ferret, is native to, america	animal, lives in, america	False
+animal, lives in, america	the footed ferret, is native to, america	True
+soap, will often remove, a stain	chemical, removes, stains	True
+chemical, removes, stains	soap, will often remove, a stain	False
+food, includes, salt	frozen foods, are loaded with, salt	True
+frozen foods, are loaded with, salt	food, includes, salt	False
+disease, causes, fever	grippe, is characterized by a onset of, fever	True
+grippe, is characterized by a onset of, fever	disease, causes, fever	False
+continent, suffers from, poverty	poverty, increased throughout, western europe	True
+poverty, increased throughout, western europe	continent, suffers from, poverty	False
+person, ruled, egypt	egypt, was conquered by, caesar	True
+egypt, was conquered by, caesar	person, ruled, egypt	False
+the alan turing, designed, a computer	scientist, invented, the computer	True
+scientist, invented, the computer	the alan turing, designed, a computer	False
+person, was defeated at, waterloo	napoleon, was defeated at the battle of, waterloo	True
+napoleon, was defeated at the battle of, waterloo	person, was defeated at, waterloo	False
+the surgeon, may perform, a myringotomy	process, is conducted by, a surgeon	True
+process, is conducted by, a surgeon	the surgeon, may perform, a myringotomy	False
+device, is made of, plastic	a diskette, consists of a piece of, plastic	True
+a diskette, consists of a piece of, plastic	device, is made of, plastic	False
+bahasa indonesia, is the language of, indonesia	language, is spoken in, indonesia	False
+language, is spoken in, indonesia	bahasa indonesia, is the language of, indonesia	True
+organism, is affected by, nitrogen	legumes, must depend on, nitrogen	True
+legumes, must depend on, nitrogen	organism, is affected by, nitrogen	False
+scientist, discovered, penicillin	fleming, accidentally discovered, penicillin	True
+fleming, accidentally discovered, penicillin	scientist, discovered, penicillin	False
+plant life, is processed into, flour	flours, are usually made from, maize	False
+flours, are usually made from, maize	plant life, is processed into, flour	True
+european country, had colonies in, the pacific	france, has possessions in, the pacific	False
+france, has possessions in, the pacific	european country, had colonies in, the pacific	True
+city, is located near, mountains	the mountain, is within sight of, tehran	True
+the mountain, is within sight of, tehran	city, is located near, mountains	False
+rome, is a power in, asia	continent, was ruled by, rome	True
+continent, was ruled by, rome	rome, is a power in, asia	False
+this mountain, lies to the east of, athens	city, is located near, mountains	False
+city, is located near, mountains	this mountain, lies to the east of, athens	True
+language, is spoken in, pakistan	urdu, became the language of, pakistan	True
+urdu, became the language of, pakistan	language, is spoken in, pakistan	False
+the english sparrow, had been introduced into, america	animal, lives in, america	False
+animal, lives in, america	the english sparrow, had been introduced into, america	True
+america, is rich in, birds	animal, lives in, america	False
+animal, lives in, america	america, is rich in, birds	True
+english, became the language of, india	language, is spoken in, india	False
+language, is spoken in, india	english, became the language of, india	True
+africa, is divided by, a narrow strait	body of water, is inside, africa	False
+body of water, is inside, africa	africa, is divided by, a narrow strait	True
+territory, was controlled by, the british empire	burma, was added to, the british empire	True
+burma, was added to, the british empire	territory, was controlled by, the british empire	False
+the dog, is indigenous in, america	animal, lives in, america	False
+animal, lives in, america	the dog, is indigenous in, america	True
+the photius, acknowledged in, jesus	person, followed, jesus	True
+person, followed, jesus	the photius, acknowledged in, jesus	False
+territory, was controlled by, the british empire	south africa, should remain within, the british empire	True
+south africa, should remain within, the british empire	territory, was controlled by, the british empire	False
+drug, cures, infections	chloramphenicol, has been used in the treatment of, infections	False
+chloramphenicol, has been used in the treatment of, infections	drug, cures, infections	True
+person, ruled, egypt	egypt, was taken over by, the successor	True
+egypt, was taken over by, the successor	person, ruled, egypt	False
+tennessee, produced, corn	state, supplies, corn	False
+state, supplies, corn	tennessee, produced, corn	True
+language, is spoken in, india	the portuguese, first arrived in, india	True
+the portuguese, first arrived in, india	language, is spoken in, india	False
+fish, are rich in, vitamins	solid food, contains, vitamins	False
+solid food, contains, vitamins	fish, are rich in, vitamins	True
+varna, is a port on, the sea	city, is next to, the sea	False
+city, is next to, the sea	varna, is a port on, the sea	True
+food, includes, salt	all rocks, were encrusted with, salt	True
+all rocks, were encrusted with, salt	food, includes, salt	False
+butter, always has, some salt	food, includes, salt	False
+food, includes, salt	butter, always has, some salt	True
+ferdinand, was born at, versailles	monarch, lived in, versailles	False
+monarch, lived in, versailles	ferdinand, was born at, versailles	True
+device, is made of, wood	pulleys, are also made of, wood	False
+pulleys, are also made of, wood	device, is made of, wood	True
+bird, feeds on, fish	a crow, can eat, a fish	False
+a crow, can eat, a fish	bird, feeds on, fish	True
+the antelope, escaped, a lion	animal, hunts, antelopes	False
+animal, hunts, antelopes	the antelope, escaped, a lion	True
+drug, cures, infections	isoniazid, may be used for, infection	False
+isoniazid, may be used for, infection	drug, cures, infections	True
+moralists, prodded, governments	philosopher, questioned, the government	False
+philosopher, questioned, the government	moralists, prodded, governments	True
+bird, feeds on, fish	the fish, attract, wild fowl	False
+the fish, attract, wild fowl	bird, feeds on, fish	True
+the length, is equal to, the span	unit, measures, length	False
+unit, measures, length	the length, is equal to, the span	True
+body part, secretes, hormones	a single gland, may secrete, hormones	False
+a single gland, may secrete, hormones	body part, secretes, hormones	True
+language, is spoken in, pakistan	balochi, is the language in, pakistan	True
+balochi, is the language in, pakistan	language, is spoken in, pakistan	False
+process, is carried out by, a computer	the algorithm, can be implemented on, a computer	False
+the algorithm, can be implemented on, a computer	process, is carried out by, a computer	True
+most birds, originating in, australia	animal, lives in, australia	False
+animal, lives in, australia	most birds, originating in, australia	True
+caesar, had been appointed, dictator	statesman, became, a dictator	False
+statesman, became, a dictator	caesar, had been appointed, dictator	True
+the pituitary gland, produces a number of, hormones	body part, secretes, hormones	False
+body part, secretes, hormones	the pituitary gland, produces a number of, hormones	True
+ciprofloxacin, is useful for, infections	drug, cures, infections	True
+drug, cures, infections	ciprofloxacin, is useful for, infections	False
+this salt, is found in quantities in, chili	food, includes, salt	False
+food, includes, salt	this salt, is found in quantities in, chili	True
+aspirin, is an cure for, headache	chemical, relieves, headache	False
+chemical, relieves, headache	aspirin, is an cure for, headache	True
+the stain, is washed off with, distilled water	chemical, removes, stains	False
+chemical, removes, stains	the stain, is washed off with, distilled water	True
+solid food, is served with, rice	chicken, cooked with, rice	True
+chicken, cooked with, rice	solid food, is served with, rice	False
+the band, is led by, the performers	person, plays in, a band	False
+person, plays in, a band	the band, is led by, the performers	True
+sulfadiazine, is preferred for, infections	drug, cures, infections	False
+drug, cures, infections	sulfadiazine, is preferred for, infections	True
+drug, cures, infections	acyclovir, is the drug for, infection	True
+acyclovir, is the drug for, infection	drug, cures, infections	False
+the shunts, must be made of, the metal	device, is made of, metal	False
+device, is made of, metal	the shunts, must be made of, the metal	True
+animal, is covered in, feathers	the feathers, are those of, the peacock	False
+the feathers, are those of, the peacock	animal, is covered in, feathers	True
+the congo, is the heart of, africa	river, flows through, africa	False
+river, flows through, africa	the congo, is the heart of, africa	True
+tsetse flies, are confined to, africa	animal, lives in, africa	False
+animal, lives in, africa	tsetse flies, are confined to, africa	True
+subject field, was studied by, newton	newton, wrote on, theology	True
+newton, wrote on, theology	subject field, was studied by, newton	False
+person, ruled, britain	fat james, was made king of, britain	True
+fat james, was made king of, britain	person, ruled, britain	False
+animal, lives in, america	turkeys, are native to, america	True
+turkeys, are native to, america	animal, lives in, america	False
+city, is located near, mountains	the mountains, are on the side of, philadelphia	True
+the mountains, are on the side of, philadelphia	city, is located near, mountains	False
+platinum, is used on, glass wool	device, is made of, platinum	True
+device, is made of, platinum	platinum, is used on, glass wool	False
+quinine, is used for the treatment of, malaria	drug, cures, malaria	True
+drug, cures, malaria	quinine, is used for the treatment of, malaria	False
+language, is spoken by, egyptians	all egyptians, speak, arabic	True
+all egyptians, speak, arabic	language, is spoken by, egyptians	False
+infections, may be treated with, ampicillin	drug, cures, infections	True
+drug, cures, infections	infections, may be treated with, ampicillin	False
+mark twain, is the pseudonym of, clemens	person, was known as, mark twain	False
+person, was known as, mark twain	mark twain, is the pseudonym of, clemens	True
+the trent, was stopped at, sea	city, is next to, the sea	False
+city, is next to, the sea	the trent, was stopped at, sea	True
+drug, cures, infections	metronidazole, is the treatment for, infection	False
+metronidazole, is the treatment for, infection	drug, cures, infections	True
+unit, measures, energy	energy, required to produce, kg	True
+energy, required to produce, kg	unit, measures, energy	False
+animal, hunts, antelopes	an python, had caught, an antelope	True
+an python, had caught, an antelope	animal, hunts, antelopes	False
+food, includes, sugar	sugar, has been added to, the broth	True
+sugar, has been added to, the broth	food, includes, sugar	False
+co2, contributes to the growth of, plants	organism, is affected by, co2	False
+organism, is affected by, co2	co2, contributes to the growth of, plants	True
+continent, suffers from, droughts	australia, is suffering, the drought	True
+australia, is suffering, the drought	continent, suffers from, droughts	False
+statesman, became, a dictator	caesar, made himself, dictator	True
+caesar, made himself, dictator	statesman, became, a dictator	False
+chemical, relieves, headache	headache, treated with, caffeine	False
+headache, treated with, caffeine	chemical, relieves, headache	True
+animal, lives in, africa	these sheep, are natives of, africa	True
+these sheep, are natives of, africa	animal, lives in, africa	False
+person, invented, the television	scientists, contributed to the development of, television	False
+scientists, contributed to the development of, television	person, invented, the television	True
+food, includes, salt	the salt, was confined to, common salt	True
+the salt, was confined to, common salt	food, includes, salt	False
+location, is the headquarters of, the united nations	the united nations, assembled at, geneva	False
+the united nations, assembled at, geneva	location, is the headquarters of, the united nations	True
+device, is made of, silicon	silicon, is used to make, chips	False
+silicon, is used to make, chips	device, is made of, silicon	True
+chemical, makes up, steel	silicide, is used in making, some steels	False
+silicide, is used in making, some steels	chemical, makes up, steel	True
+monetary unit, is accepted in, france	france, lent, francs	True
+france, lent, francs	monetary unit, is accepted in, france	False
+animal, lives in, america	camels, originated in, america	True
+camels, originated in, america	animal, lives in, america	False
+acetylsalicylic acid, is used to relieve, headache	chemical, relieves, headache	False
+chemical, relieves, headache	acetylsalicylic acid, is used to relieve, headache	True
+animal, lives in, america	the buffalo, roamed over, america	True
+the buffalo, roamed over, america	animal, lives in, america	False
+food, includes, sugar	the fruit juice, is treated with, sugar	True
+the fruit juice, is treated with, sugar	food, includes, sugar	False
+solomon, reigned in, jerusalem	ruler, conquered, jerusalem	True
+ruler, conquered, jerusalem	solomon, reigned in, jerusalem	False
+person, plays in, a band	cortez, is at the head of, a band	True
+cortez, is at the head of, a band	person, plays in, a band	False
+person, ruled, egypt	nasser, became president of, egypt	True
+nasser, became president of, egypt	person, ruled, egypt	False
+organism, requires, oxygen	the tender, should breathe, oxygen	True
+the tender, should breathe, oxygen	organism, requires, oxygen	False
+animal, lives in, america	cattle, were brought to, america	True
+cattle, were brought to, america	animal, lives in, america	False
+cochineal insects, are indigenous to, america	animal, lives in, america	False
+animal, lives in, america	cochineal insects, are indigenous to, america	True
+the wine, is imported from, france	european country, produces, wine	False
+european country, produces, wine	the wine, is imported from, france	True
+flu, can cause, a fever	disease, causes, fever	True
+disease, causes, fever	flu, can cause, a fever	False
+the tamils, came from, india	language, is spoken in, india	False
+language, is spoken in, india	the tamils, came from, india	True
+the pope, is covered with, an immense garment	clothing, is worn by, the pope	False
+clothing, is worn by, the pope	the pope, is covered with, an immense garment	True
+device, is made of, wood	the spear, is a beam of, wood	True
+the spear, is a beam of, wood	device, is made of, wood	False
+the european rabbit, was introduced into, australia	animal, lives in, australia	False
+animal, lives in, australia	the european rabbit, was introduced into, australia	True
+language, is spoken in, pakistan	urdu, shall be the language of, pakistan	True
+urdu, shall be the language of, pakistan	language, is spoken in, pakistan	False
+infection, should be controlled with, appropriate antibiotics	drug, cures, infections	True
+drug, cures, infections	infection, should be controlled with, appropriate antibiotics	False
+cromwell, remained as, dictator	statesman, became, a dictator	False
+statesman, became, a dictator	cromwell, remained as, dictator	True
+the energy, was determined to be, mol	unit, measures, energy	False
+unit, measures, energy	the energy, was determined to be, mol	True
+device, is made of, metal	the metal, has been added to, steel	False
+the metal, has been added to, steel	device, is made of, metal	True
+green vegetables, are rich in, vitamins	solid food, contains, vitamins	False
+solid food, contains, vitamins	green vegetables, are rich in, vitamins	True
+fresh vegetables, have, more vitamins	solid food, contains, vitamins	False
+solid food, contains, vitamins	fresh vegetables, have, more vitamins	True
+european country, produces, wine	wine, is now made in, germany	True
+wine, is now made in, germany	european country, produces, wine	False
+person, is the son of, abraham	the claimants, are the descendants of, abraham	False
+the claimants, are the descendants of, abraham	person, is the son of, abraham	True
+general tojo, becomes minister of, japan	person, controlled, japan	False
+person, controlled, japan	general tojo, becomes minister of, japan	True
+kitty, stick to, america	animal, lives in, america	False
+animal, lives in, america	kitty, stick to, america	True
+the heaths, are said to contain, iron	plant life, is rich with, iron	True
+plant life, is rich with, iron	the heaths, are said to contain, iron	False
+solid food, is produced from, sheep	lamb, is the meat of, sheep	True
+lamb, is the meat of, sheep	solid food, is produced from, sheep	False
+food, includes, sugar	molasses, is a product of, sugar	True
+molasses, is a product of, sugar	food, includes, sugar	False
+animal, lives in, america	mammals, invaded, america	True
+mammals, invaded, america	animal, lives in, america	False
+science, was cultivated by, the greek philosophers	person, contributed to, science	False
+person, contributed to, science	science, was cultivated by, the greek philosophers	True
+innsbruck, is under the shadow of, the mountains	city, is located near, mountains	False
+city, is located near, mountains	innsbruck, is under the shadow of, the mountains	True
+animal, lives in, america	the california condor, is the bird in, america	True
+the california condor, is the bird in, america	animal, lives in, america	False
+mark twain, began as, a reporter	person, was known as, mark twain	False
+person, was known as, mark twain	mark twain, began as, a reporter	True
+statesman, became, a dictator	cincinnatus, was chosen, dictator	True
+cincinnatus, was chosen, dictator	statesman, became, a dictator	False
+subject field, was studied by, newton	newton, wrote on, astronomy	False
+newton, wrote on, astronomy	subject field, was studied by, newton	True
+edmund hillary, reached the summit of, everest	person, climbed, the everest	False
+person, climbed, the everest	edmund hillary, reached the summit of, everest	True
+china, has launched, satellites	asian country, launched, a satellite	False
+asian country, launched, a satellite	china, has launched, satellites	True
+animal, lives in, america	the monkeys, are exclusively confined to, america	True
+the monkeys, are exclusively confined to, america	animal, lives in, america	False
+solid food, is produced from, sheep	lamb, is the flesh of, sheep	False
+lamb, is the flesh of, sheep	solid food, is produced from, sheep	True
+drug, cures, infections	infections, have been successfully treated with, vancomycin	False
+infections, have been successfully treated with, vancomycin	drug, cures, infections	True
+statesman, became, a dictator	the veteran cincinnatus, was called and made, dictator	True
+the veteran cincinnatus, was called and made, dictator	statesman, became, a dictator	False
+spinach, is rich in, vitamins	solid food, contains, vitamins	False
+solid food, contains, vitamins	spinach, is rich in, vitamins	True
+disease, causes, fever	bacillary dysentery, is characterised by, a fever	True
+bacillary dysentery, is characterised by, a fever	disease, causes, fever	False
+the grizzly bear, are natives of, america	animal, lives in, america	False
+animal, lives in, america	the grizzly bear, are natives of, america	True
+device, is made of, steel	the armature, is a cylinder of, steel	True
+the armature, is a cylinder of, steel	device, is made of, steel	False
+device, is made of, platinum	platinum, is used in, catalytic converters	False
+platinum, is used in, catalytic converters	device, is made of, platinum	True
+language, is spoken in, pakistan	urdu, is official in, pakistan	True
+urdu, is official in, pakistan	language, is spoken in, pakistan	False
+bolivar, was actually, the dictator	statesman, became, a dictator	False
+statesman, became, a dictator	bolivar, was actually, the dictator	True
+the stain, is washed off with, tap water	chemical, removes, stains	False
+chemical, removes, stains	the stain, is washed off with, tap water	True
+state, was taken from, mexico	texas, declared independent of, mexico	False
+texas, declared independent of, mexico	state, was taken from, mexico	True
+river, flows through, africa	the nile, is the river of, africa	True
+the nile, is the river of, africa	river, flows through, africa	False
+the ferret, is native to, america	animal, lives in, america	False
+animal, lives in, america	the ferret, is native to, america	True
+city, is located near, mountains	innsbruck, was among, the mountains	True
+innsbruck, was among, the mountains	city, is located near, mountains	False
+interferon, can be used to fight, infections	drug, cures, infections	True
+drug, cures, infections	interferon, can be used to fight, infections	False
+scientist, invented, a vaccine	the vaccine, was developed by, salk	False
+the vaccine, was developed by, salk	scientist, invented, a vaccine	True
+solid food, is produced from, sheep	mutton, is the flesh of, sheep	True
+mutton, is the flesh of, sheep	solid food, is produced from, sheep	False
+the sciences, was founded by, louis xiv	person, contributed to, science	False
+person, contributed to, science	the sciences, was founded by, louis xiv	True
+person, was given, an award	gilman, was and won, the award	True
+gilman, was and won, the award	person, was given, an award	False
+caramel, is made by heating, sugar	food, includes, sugar	False
+food, includes, sugar	caramel, is made by heating, sugar	True
+the stirrups, are made of pieces of, wood	device, is made of, wood	False
+device, is made of, wood	the stirrups, are made of pieces of, wood	True
+animal, is covered in, feathers	the lark, has a tuft of, feathers	False
+the lark, has a tuft of, feathers	animal, is covered in, feathers	True
+all primary discoverers, are artists in, the sciences	person, contributed to, science	False
+person, contributed to, science	all primary discoverers, are artists in, the sciences	True
+person, controlled, china	kublai khan, became emperor of, china	True
+kublai khan, became emperor of, china	person, controlled, china	False
+venice, is sinking into, the sea	city, is next to, the sea	False
+city, is next to, the sea	venice, is sinking into, the sea	True
+body part, secretes, hormones	the parathyroid glands, are stimulated to release, hormone	True
+the parathyroid glands, are stimulated to release, hormone	body part, secretes, hormones	False
+a little currant, may be added to, the rice	solid food, is served with, rice	True
+solid food, is served with, rice	a little currant, may be added to, the rice	False
+animal, lives in, america	coyotes, once lived in, america	False
+coyotes, once lived in, america	animal, lives in, america	True
+homo sapiens, originated in, africa	animal, lives in, africa	False
+animal, lives in, africa	homo sapiens, originated in, africa	True
+the hawks, are esteemed in, england	animal, represents, england	True
+animal, represents, england	the hawks, are esteemed in, england	False
+language, is spoken in, pakistan	urdu, would be the language of, pakistan	True
+urdu, would be the language of, pakistan	language, is spoken in, pakistan	False
+the telephone, was patented by, alexander bell	person, invented, the telephone	True
+person, invented, the telephone	the telephone, was patented by, alexander bell	False
+the stator, is made up of, steel	device, is made of, steel	False
+device, is made of, steel	the stator, is made up of, steel	True
+black swans, were discovered in, australia	animal, lives in, australia	False
+animal, lives in, australia	black swans, were discovered in, australia	True
+monetary unit, is accepted in, canada	canada, spends, dollars	True
+canada, spends, dollars	monetary unit, is accepted in, canada	False
+state, was taken from, mexico	texas, had been a part of, mexico	False
+texas, had been a part of, mexico	state, was taken from, mexico	True
+the pangolin, is completely covered with, scales	animal, is covered in, scales	False
+animal, is covered in, scales	the pangolin, is completely covered with, scales	True
+acyclovir, is the treatment for, infections	drug, cures, infections	False
+drug, cures, infections	acyclovir, is the treatment for, infections	True
+device, is made of, wood	these lyres, were entirely of, wood	True
+these lyres, were entirely of, wood	device, is made of, wood	False
+snack foods, are high in, sugar	food, includes, sugar	False
+food, includes, sugar	snack foods, are high in, sugar	True
+state, supplies, corn	corn, came from, sicily	True
+corn, came from, sicily	state, supplies, corn	False
+trees, breathe in, carbon dioxide	organism, requires, carbon dioxide	False
+organism, requires, carbon dioxide	trees, breathe in, carbon dioxide	True
+bird, feeds on, fish	the osprey, dived for, fish	True
+the osprey, dived for, fish	bird, feeds on, fish	False
+symptom, can be treated with, aspirin	fever, will require the use of, aspirin	True
+fever, will require the use of, aspirin	symptom, can be treated with, aspirin	False
+the stain, is diluted with, distilled water	chemical, removes, stains	True
+chemical, removes, stains	the stain, is diluted with, distilled water	False
+baboons, are in this part of, africa	animal, lives in, africa	False
+animal, lives in, africa	baboons, are in this part of, africa	True
+iron ore, is found throughout, africa	material, is abundant in, africa	True
+material, is abundant in, africa	iron ore, is found throughout, africa	False
+maize, is ground into, flour	plant life, is processed into, flour	False
+plant life, is processed into, flour	maize, is ground into, flour	True
+the flour, is mixed with, salt	food, includes, salt	False
+food, includes, salt	the flour, is mixed with, salt	True
+monetary unit, is accepted in, canada	the mark, has been used in, canada	True
+the mark, has been used in, canada	monetary unit, is accepted in, canada	False
+greece, prepared against, russia	european country, invaded, russia	True
+european country, invaded, russia	greece, prepared against, russia	False
+hydrochloric acid, discharges, the color	chemical, removes, color	True
+chemical, removes, color	hydrochloric acid, discharges, the color	False
+the sciences, were cultivated by, greek christians	person, contributed to, science	False
+person, contributed to, science	the sciences, were cultivated by, greek christians	True
+camels, were imported from, africa	animal, lives in, africa	False
+animal, lives in, africa	camels, were imported from, africa	True
+continent, suffers from, poverty	poverty, is concentrated in, asia	True
+poverty, is concentrated in, asia	continent, suffers from, poverty	False
+birds, can only come from, america	animal, lives in, america	False
+animal, lives in, america	birds, can only come from, america	True
+piston, is a cylinder of, metal	device, is made of, metal	False
+device, is made of, metal	piston, is a cylinder of, metal	True
+wine, was imported from, italy	european country, produces, wine	False
+european country, produces, wine	wine, was imported from, italy	True
+python, were firmly in, africa	animal, lives in, africa	False
+animal, lives in, africa	python, were firmly in, africa	True
+cincinnatus, was called to be, dictator	statesman, became, a dictator	False
+statesman, became, a dictator	cincinnatus, was called to be, dictator	True
+bacitracin, are used for the treatment of, infections	drug, cures, infections	True
+drug, cures, infections	bacitracin, are used for the treatment of, infections	False
+food, includes, salt	the salt, is dissolved in, alcohol	True
+the salt, is dissolved in, alcohol	food, includes, salt	False
+animal, lives in, africa	camels, were common in, africa	True
+camels, were common in, africa	animal, lives in, africa	False
+person, ruled, egypt	cleopatra, was the queen of, egypt	True
+cleopatra, was the queen of, egypt	person, ruled, egypt	False
+disease, causes, fever	a fever, may represent, kawasaki disease	False
+a fever, may represent, kawasaki disease	disease, causes, fever	True
+animal, lives in, africa	lions, live in the part of, africa	True
+lions, live in the part of, africa	animal, lives in, africa	False
+political system, was prevalent in, greece	greece, was established as, an kingdom	True
+greece, was established as, an kingdom	political system, was prevalent in, greece	False
+that science, was pursued by, fremont	person, contributed to, science	True
+person, contributed to, science	that science, was pursued by, fremont	False
+the wapiti, belong exclusively to, america	animal, lives in, america	False
+animal, lives in, america	the wapiti, belong exclusively to, america	True
+bird, feeds on, fish	pelicans, dive for, fish	True
+pelicans, dive for, fish	bird, feeds on, fish	False
+bird, feeds on, fish	cormorants, dive for, fish	True
+cormorants, dive for, fish	bird, feeds on, fish	False
+corn, is a native of, america	beverage, came from, america	False
+beverage, came from, america	corn, is a native of, america	True
+air, is drawn up through, the sphincter	muscle, fills up with, air	False
+muscle, fills up with, air	air, is drawn up through, the sphincter	True
+plant life, is processed into, sugar	the guava, contain quantities of, sugar	False
+the guava, contain quantities of, sugar	plant life, is processed into, sugar	True
+animal, lives in, africa	the antelope, is rare in, africa	True
+the antelope, is rare in, africa	animal, lives in, africa	False
+animal, lives in, africa	the first humans, evolved in, africa	True
+the first humans, evolved in, africa	animal, lives in, africa	False
+clothing, is worn by, jews	jews, must wear, a dress	True
+jews, must wear, a dress	clothing, is worn by, jews	False
+herakles, is the offspring of, zeus	mythical being, was the son of, zeus	True
+mythical being, was the son of, zeus	herakles, is the offspring of, zeus	False
+african country, trades with, france	france, sold to, south africa	True
+france, sold to, south africa	african country, trades with, france	False
+political system, was prevalent in, greece	greece, was ruled by, a dictatorship	True
+greece, was ruled by, a dictatorship	political system, was prevalent in, greece	False
+scales, are present in, the pangolin	animal, is covered in, scales	True
+animal, is covered in, scales	scales, are present in, the pangolin	False
+newton, became professor of, mathematics	subject field, was studied by, newton	False
+subject field, was studied by, newton	newton, became professor of, mathematics	True
+luke, records, jesus	person, followed, jesus	False
+person, followed, jesus	luke, records, jesus	True
+animal, lives in, australia	marsupials, are concentrated in, australia	True
+marsupials, are concentrated in, australia	animal, lives in, australia	False
+plant life, is rich with, iron	cereals, provide, iron	False
+cereals, provide, iron	plant life, is rich with, iron	True
+poverty, has long been in, africa	continent, suffers from, poverty	False
+continent, suffers from, poverty	poverty, has long been in, africa	True
+galileo, dialogues concerning, sciences	person, contributed to, science	True
+person, contributed to, science	galileo, dialogues concerning, sciences	False
+a bimetallic strip, consists of strips of, metals	device, is made of, metal	False
+device, is made of, metal	a bimetallic strip, consists of strips of, metals	True
+vegetable, can be added to, a salad	tomatoes, are used for, salads	True
+tomatoes, are used for, salads	vegetable, can be added to, a salad	False
+soft drinks, are high in, sugar	food, includes, sugar	False
+food, includes, sugar	soft drinks, are high in, sugar	True
+device, is made of, wood	the harrow, is composed wholly of, wood	True
+the harrow, is composed wholly of, wood	device, is made of, wood	False
+european country, is a member of, the eu	austria, left and joined, the eu	True
+austria, left and joined, the eu	european country, is a member of, the eu	False
+the vaccine, was developed by, pasteur	scientist, invented, a vaccine	True
+scientist, invented, a vaccine	the vaccine, was developed by, pasteur	False
+the cheese, is sprinkled with, salt	food, includes, salt	False
+food, includes, salt	the cheese, is sprinkled with, salt	True
+humans, breathe in, oxygen	organism, requires, oxygen	False
+organism, requires, oxygen	humans, breathe in, oxygen	True
+a piston, is a cylinder of, wood	device, is made of, wood	False
+device, is made of, wood	a piston, is a cylinder of, wood	True
+a durable denture, can be made of, that metal	device, is made of, metal	True
+device, is made of, metal	a durable denture, can be made of, that metal	False
+animal, is covered in, feathers	the trumpeter, has a tuft of, feathers	False
+the trumpeter, has a tuft of, feathers	animal, is covered in, feathers	True
+wood, is now used in, the reaper	device, is made of, wood	True
+device, is made of, wood	wood, is now used in, the reaper	False
+fitch, returned to, america	animal, lives in, america	False
+animal, lives in, america	fitch, returned to, america	True
+plant life, is processed into, flour	lentils, may be made into, a flour	False
+lentils, may be made into, a flour	plant life, is processed into, flour	True
+the zambezi, is the waterway in, africa	body of water, is inside, africa	False
+body of water, is inside, africa	the zambezi, is the waterway in, africa	True
+sugar, are essential to, nutrition	food, includes, sugar	False
+food, includes, sugar	sugar, are essential to, nutrition	True
+george orwell, was one of, the critics	person, was known as, george orwell	True
+person, was known as, george orwell	george orwell, was one of, the critics	False
+the jews, are fond of, dress	clothing, is worn by, jews	False
+clothing, is worn by, jews	the jews, are fond of, dress	True
+food, includes, sugar	the liqueurs, are sweetened with, sugar	True
+the liqueurs, are sweetened with, sugar	food, includes, sugar	False
+solid food, is produced from, sheep	sheep, are raised for, mutton	True
+sheep, are raised for, mutton	solid food, is produced from, sheep	False
+person, contributed to, science	archimedes, gave and created, the science	True
+archimedes, gave and created, the science	person, contributed to, science	False
+the sultan, appointed governor of, egypt	person, ruled, egypt	False
+person, ruled, egypt	the sultan, appointed governor of, egypt	True
+philosopher, questioned, the church	machiavelli, had accused, the church	True
+machiavelli, had accused, the church	philosopher, questioned, the church	False
+monarch, lived in, buckingham palace	charles, was born at, buckingham palace	True
+charles, was born at, buckingham palace	monarch, lived in, buckingham palace	False
+device, is made of, steel	the probe, is usually made of, steel	False
+the probe, is usually made of, steel	device, is made of, steel	True
+the length, is millionths of, a millimetre	unit, measures, length	False
+unit, measures, length	the length, is millionths of, a millimetre	True
+the plane, landed in, new york	vehicle, flies to, new york	False
+vehicle, flies to, new york	the plane, landed in, new york	True
+victoria nyanza, is the lake of, africa	body of water, is inside, africa	False
+body of water, is inside, africa	victoria nyanza, is the lake of, africa	True
+solid food, is served with, rice	chicken, stuffed with, rice	True
+chicken, stuffed with, rice	solid food, is served with, rice	False
+the grackle, soared with, wings	animal, has, wings	False
+animal, has, wings	the grackle, soared with, wings	True
+animal, has, wings	the black grackle, soared with, wings	True
+the black grackle, soared with, wings	animal, has, wings	False
+city, is in, pennsylvania	harrisburg, is the capital of, pennsylvania	True
+harrisburg, is the capital of, pennsylvania	city, is in, pennsylvania	False
+the anniversary, is celebrated in, china	calendar day, is a festival in, china	True
+calendar day, is a festival in, china	the anniversary, is celebrated in, china	False
+amsterdam, remained the capital of, europe	city, is in, europe	False
+city, is in, europe	amsterdam, remained the capital of, europe	True
+antwerp, became the center in, europe	city, is in, europe	False
+city, is in, europe	antwerp, became the center in, europe	True
+city, is in, europe	paris, became the center in, europe	True
+paris, became the center in, europe	city, is in, europe	False
+city, is in, pennsylvania	philadelphia, is the capital of, pennsylvania	True
+philadelphia, is the capital of, pennsylvania	city, is in, pennsylvania	False
+works, are common in, japan	natural phenomenon, occurs in, japan	False
+natural phenomenon, occurs in, japan	works, are common in, japan	True
+jupiter, is examined with, a telescope	celestial body, can be seen with, a telescope	False
+celestial body, can be seen with, a telescope	jupiter, is examined with, a telescope	True
+earthquakes, are common in, japan	natural phenomenon, occurs in, japan	False
+natural phenomenon, occurs in, japan	earthquakes, are common in, japan	True
+bone, is part of, the mouth	the mouth, has a pair of, mandibles	True
+the mouth, has a pair of, mandibles	bone, is part of, the mouth	False
+bone, is part of, the mouth	the incisor, is the tooth in, the mouth	True
+the incisor, is the tooth in, the mouth	bone, is part of, the mouth	False
+other clocks, exist in parts of, europe	plant life, is native to, europe	True
+plant life, is native to, europe	other clocks, exist in parts of, europe	False
+state, was part of, the confederacy	north carolina, withdrew and joined, the confederacy	True
+north carolina, withdrew and joined, the confederacy	state, was part of, the confederacy	False
+cheese, is rich in, calcium	plant life, contains, calcium	False
+plant life, contains, calcium	cheese, is rich in, calcium	True
+person, became, a hero	rodgers, was hailed as, a hero	True
+rodgers, was hailed as, a hero	person, became, a hero	False
+animal, has, horns	the stags, only have, horns	True
+the stags, only have, horns	animal, has, horns	False
+mammal, is native to, africa	africa, was inhabited by, extinct apes	False
+africa, was inhabited by, extinct apes	mammal, is native to, africa	True
+united states president, traveled to, paris	jefferson, reached, paris	True
+jefferson, reached, paris	united states president, traveled to, paris	False
+natural phenomenon, occurs in, japan	earthquakes, are frequent in, japan	True
+earthquakes, are frequent in, japan	natural phenomenon, occurs in, japan	False
+person, works at, the white house	cleveland, retiring from, the white house	True
+cleveland, retiring from, the white house	person, works at, the white house	False
+mammal, is native to, africa	the baboons, are inhabitants of, africa	False
+the baboons, are inhabitants of, africa	mammal, is native to, africa	True
+drug, relieves, pain	nsaids, are effective against, pain	True
+nsaids, are effective against, pain	drug, relieves, pain	False
+state, was part of, the union	indiana, had just entered, the union	True
+indiana, had just entered, the union	state, was part of, the union	False
+butterflies, flew with, wings	animal, has, wings	False
+animal, has, wings	butterflies, flew with, wings	True
+state, was part of, the confederacy	maryland, would go to, the confederacy	True
+maryland, would go to, the confederacy	state, was part of, the confederacy	False
+science, studies, the earth	analysis, revealed differences between, the earth	True
+analysis, revealed differences between, the earth	science, studies, the earth	False
+the altar, was a table of, wood	furniture, is constructed from, wood	False
+furniture, is constructed from, wood	the altar, was a table of, wood	True
+political science, is concerned with, animals	science, researches, animals	True
+science, researches, animals	political science, is concerned with, animals	False
+animal, has, wings	beetles, have pairs of, wings	True
+beetles, have pairs of, wings	animal, has, wings	False
+opium, is required on account of, the pain	drug, relieves, pain	False
+drug, relieves, pain	opium, is required on account of, the pain	True
+wounds, often require, debridement	process, treats, wounds	False
+process, treats, wounds	wounds, often require, debridement	True
+city, is in, europe	amsterdam, remained the center of, europe	True
+amsterdam, remained the center of, europe	city, is in, europe	False
+the bolsheviks, had won, the civil war	person, fought in, the civil war	False
+person, fought in, the civil war	the bolsheviks, had won, the civil war	True
+rowan, resided in, america	plant life, is native to, america	True
+plant life, is native to, america	rowan, resided in, america	False
+the scoundrel, could be made into, a saint	person, became, a saint	True
+person, became, a saint	the scoundrel, could be made into, a saint	False
+person, is the founder of, buddhism	buddhism, was first introduced by, the master	False
+buddhism, was first introduced by, the master	person, is the founder of, buddhism	True
+worker, prepares, food	the food, should be prepared by, cooks	True
+the food, should be prepared by, cooks	worker, prepares, food	False
+bone, is part of, the mouth	the molars, are the teeth in, the mouth	True
+the molars, are the teeth in, the mouth	bone, is part of, the mouth	False
+the permanent molars, are the teeth in, the mouth	bone, is part of, the mouth	False
+bone, is part of, the mouth	the permanent molars, are the teeth in, the mouth	True
+person, became, a saint	dominic, assumed the attitude of, the saint	False
+dominic, assumed the attitude of, the saint	person, became, a saint	True
+horses, are imported from, australia	mammal, is native to, australia	False
+mammal, is native to, australia	horses, are imported from, australia	True
+plant life, contains, vitamins	many cereals, are fortified with, vitamins	True
+many cereals, are fortified with, vitamins	plant life, contains, vitamins	False
+scorpions, have a pair of, claws	animal, has, claws	False
+animal, has, claws	scorpions, have a pair of, claws	True
+japan, was visited by, a terrible earthquake	natural phenomenon, occurs in, japan	False
+natural phenomenon, occurs in, japan	japan, was visited by, a terrible earthquake	True
+solid food, is rich with, iron	iron, is found in, red meat	False
+iron, is found in, red meat	solid food, is rich with, iron	True
+the food, gathers in, the sigmoid flexure	organ, processes, food	True
+organ, processes, food	the food, gathers in, the sigmoid flexure	False
+the mongols, to ravage, syria	asian country, was invaded by, the mongols	False
+asian country, was invaded by, the mongols	the mongols, to ravage, syria	True
+solid food, is rich with, iron	red meat, is an source of, iron	False
+red meat, is an source of, iron	solid food, is rich with, iron	True
+mongols, conquer, china	asian country, was invaded by, the mongols	False
+asian country, was invaded by, the mongols	mongols, conquer, china	True
+animal, has, wings	crows, swung on, wings	True
+crows, swung on, wings	animal, has, wings	False
+plant life, contains, vitamins	tomatoes, are rich in, vitamins	True
+tomatoes, are rich in, vitamins	plant life, contains, vitamins	False
+person, works at, the white house	harrison, had served in, the white house	False
+harrison, had served in, the white house	person, works at, the white house	True
+the argives, are destroyed in, battle	person, fought in, a battle	False
+person, fought in, a battle	the argives, are destroyed in, battle	True
+the rain, is heaviest in, june	month, has a lot of, rain	False
+month, has a lot of, rain	the rain, is heaviest in, june	True
+city, is in, europe	paris, became the center of, europe	True
+paris, became the center of, europe	city, is in, europe	False
+drug, relieves, pain	a little whiskey, would stop, the pain	True
+a little whiskey, would stop, the pain	drug, relieves, pain	False
+john adams, arrived at, paris	united states president, traveled to, paris	False
+united states president, traveled to, paris	john adams, arrived at, paris	True
+the temperature, was measured by means of, thermocouples	device, measures, temperature	False
+device, measures, temperature	the temperature, was measured by means of, thermocouples	True
+the chairman, is to be appointed by, the government	person, is employed by, the government	False
+person, is employed by, the government	the chairman, is to be appointed by, the government	True
+city, had influence in, greece	corinth, were the powers of, greece	True
+corinth, were the powers of, greece	city, had influence in, greece	False
+person, became, a saint	carlyle, painted as, the saint	True
+carlyle, painted as, the saint	person, became, a saint	False
+bone, is part of, the mouth	the canine, is the tooth in, the mouth	True
+the canine, is the tooth in, the mouth	bone, is part of, the mouth	False
+irishmen, were to be found in, the monasteries	person, lives in, a monastery	True
+person, lives in, a monastery	irishmen, were to be found in, the monasteries	False
+molars, are at the back of, the mouth	bone, is part of, the mouth	False
+bone, is part of, the mouth	molars, are at the back of, the mouth	True
+city, is in, europe	genoa, became the power in, europe	True
+genoa, became the power in, europe	city, is in, europe	False
+united states president, traveled to, paris	john adams, left, paris	True
+john adams, left, paris	united states president, traveled to, paris	False
+macarthur, returned as, a hero	person, became, a hero	False
+person, became, a hero	macarthur, returned as, a hero	True
+pain, must be relieved by, opium	drug, relieves, pain	False
+drug, relieves, pain	pain, must be relieved by, opium	True
+tashkent, is the city in, asia	city, is in, asia	False
+city, is in, asia	tashkent, is the city in, asia	True
+individualist, is often, the hero	person, became, a hero	False
+person, became, a hero	individualist, is often, the hero	True
+forces, will remain in, japan	natural phenomenon, occurs in, japan	False
+natural phenomenon, occurs in, japan	forces, will remain in, japan	True
+beverage, is traditionally from, china	teas, come from, china	False
+teas, come from, china	beverage, is traditionally from, china	True
+kentucky, stayed in, the union	state, was part of, the union	False
+state, was part of, the union	kentucky, stayed in, the union	True
+cheeses, are rich in, calcium	plant life, contains, calcium	False
+plant life, contains, calcium	cheeses, are rich in, calcium	True
+tea, was known in, china	beverage, is traditionally from, china	True
+beverage, is traditionally from, china	tea, was known in, china	False
+the pain, must be relieved by, opium	drug, relieves, pain	False
+drug, relieves, pain	the pain, must be relieved by, opium	True
+state, was part of, the union	massachusetts, were the members of, this union	True
+massachusetts, were the members of, this union	state, was part of, the union	False
+tea, was discovered in, china	beverage, is traditionally from, china	False
+beverage, is traditionally from, china	tea, was discovered in, china	True
+animal, is defined as, a mammal	rodents, are the group of, mammals	True
+rodents, are the group of, mammals	animal, is defined as, a mammal	False
+egypt, became, a constitutional monarchy	political system, was used in, egypt	False
+political system, was used in, egypt	egypt, became, a constitutional monarchy	True
+united states president, traveled to, paris	president wilson, left, paris	True
+president wilson, left, paris	united states president, traveled to, paris	False
+plant life, contains, calcium	almonds, are high in, calcium	True
+almonds, are high in, calcium	plant life, contains, calcium	False
+device, measures, current	the instrument, can be used to compare, currents	False
+the instrument, can be used to compare, currents	device, measures, current	True
+liver, contain a percentage of, iron	solid food, is rich with, iron	True
+solid food, is rich with, iron	liver, contain a percentage of, iron	False
+zoology, is the study of, animals	science, researches, animals	False
+science, researches, animals	zoology, is the study of, animals	True
+bone, is part of, the spine	the coccyx, is at the bottom of, the spine	True
+the coccyx, is at the bottom of, the spine	bone, is part of, the spine	False
+bread, is enriched with, iron	solid food, is rich with, iron	False
+solid food, is rich with, iron	bread, is enriched with, iron	True
+egypt, was still, a monarchy	political system, was used in, egypt	False
+political system, was used in, egypt	egypt, was still, a monarchy	True
+terrorists, bombed in, beirut	location, was attacked by, terrorists	False
+location, was attacked by, terrorists	terrorists, bombed in, beirut	True
+city, is in, europe	berlin, had become the centre of, europe	True
+berlin, had become the centre of, europe	city, is in, europe	False
+furniture, is constructed from, wood	the altar, is carved, wood	True
+the altar, is carved, wood	furniture, is constructed from, wood	False
+antwerp, became the hub of, europe	city, is in, europe	False
+city, is in, europe	antwerp, became the hub of, europe	True
+napoleon, proved to be, the saint	person, became, a saint	False
+person, became, a saint	napoleon, proved to be, the saint	True
+london, was the capital in, europe	city, is in, europe	False
+city, is in, europe	london, was the capital in, europe	True
+person, fought in, a battle	the crusader, went and fell in, battle	True
+the crusader, went and fell in, battle	person, fought in, a battle	False
+the guava, came from, america	plant life, is native to, america	True
+plant life, is native to, america	the guava, came from, america	False
+booth, entered and shot, lincoln	person, murdered, lincoln	False
+person, murdered, lincoln	booth, entered and shot, lincoln	True
+the feverfew, is a plant of, europe	plant life, is native to, europe	True
+plant life, is native to, europe	the feverfew, is a plant of, europe	False
+plant life, is native to, europe	the zea mays, is and was in, europe	False
+the zea mays, is and was in, europe	plant life, is native to, europe	True
+bruges, was the emporium of, europe	city, is in, europe	False
+city, is in, europe	bruges, was the emporium of, europe	True
+oranges, are rich in, vitamin	plant life, contains, vitamins	False
+plant life, contains, vitamins	oranges, are rich in, vitamin	True
+wolfe, died on the field of, battle	person, fought in, a battle	False
+person, fought in, a battle	wolfe, died on the field of, battle	True
+kennedy, returned from, london	united states president, traveled to, london	False
+united states president, traveled to, london	kennedy, returned from, london	True
+virginia, seceded and joined, the confederacy	state, was part of, the confederacy	False
+state, was part of, the confederacy	virginia, seceded and joined, the confederacy	True
+process, treats, wounds	any wound, can be closed with, careful debridement	True
+any wound, can be closed with, careful debridement	process, treats, wounds	False
+calendar day, is a festival in, india	independence day, was celebrated over, india	False
+independence day, was celebrated over, india	calendar day, is a festival in, india	True
+person, became, a saint	madison, will pass for, a saint	False
+madison, will pass for, a saint	person, became, a saint	True
+plant life, can survive in, the snow	the cedars, are fed by, the snow	True
+the cedars, are fed by, the snow	plant life, can survive in, the snow	False
+city, is in, texas	dallas, is the city of, texas	True
+dallas, is the city of, texas	city, is in, texas	False
+paris, had become the capital of, europe	city, is in, europe	False
+city, is in, europe	paris, had become the capital of, europe	True
+james monroe, was sent to, paris	united states president, traveled to, paris	False
+united states president, traveled to, paris	james monroe, was sent to, paris	True
+a seismograph, detected, earthquakes	device, measures, earthquakes	False
+device, measures, earthquakes	a seismograph, detected, earthquakes	True
+the pigeon, hung with, wings	animal, has, wings	False
+animal, has, wings	the pigeon, hung with, wings	True
+a cook, can prepare, food	worker, prepares, food	True
+worker, prepares, food	a cook, can prepare, food	False
+mammal, is native to, america	the caribou, is found in the regions of, america	False
+the caribou, is found in the regions of, america	mammal, is native to, america	True
+smyrna, was to be administered by, greece	city, had influence in, greece	False
+city, had influence in, greece	smyrna, was to be administered by, greece	True
+madame, set up in, the alps	person, lives in, the alps	True
+person, lives in, the alps	madame, set up in, the alps	False
+the application, eliminates, headache	drug, relieves, headaches	False
+drug, relieves, headaches	the application, eliminates, headache	True
+natural phenomenon, occurs in, japan	this form, is universal in, japan	True
+this form, is universal in, japan	natural phenomenon, occurs in, japan	False
+russia, signed a pact with, germany	european country, is an ally of, russia	False
+european country, is an ally of, russia	russia, signed a pact with, germany	True
+animal, has, wings	such snakes, obtain, wings	True
+such snakes, obtain, wings	animal, has, wings	False
+columbus, sailed and discovered, america	person, discovered, america	False
+person, discovered, america	columbus, sailed and discovered, america	True
+plant life, contains, vitamins	vegetables, are the sources of, vitamins	True
+vegetables, are the sources of, vitamins	plant life, contains, vitamins	False
+rabbits, eat the leaves of, the plant	animal, lives off, plants	False
+animal, lives off, plants	rabbits, eat the leaves of, the plant	True
+drug, relieves, pain	opium, is required to relieve, the pain	True
+opium, is required to relieve, the pain	drug, relieves, pain	False
+luther, took refuge in, the monastery	person, lives in, a monastery	False
+person, lives in, a monastery	luther, took refuge in, the monastery	True
+florida, was claimed by, the united states	territory, was acquired by, the united states	True
+territory, was acquired by, the united states	florida, was claimed by, the united states	False
+the larva, feeds upon, plants	animal, lives off, plants	True
+animal, lives off, plants	the larva, feeds upon, plants	False
+natural phenomenon, occurs in, japan	the earthquake, has shaken, japan	True
+the earthquake, has shaken, japan	natural phenomenon, occurs in, japan	False
+person, fought in, a battle	the argives, had been defeated in, battle	True
+the argives, had been defeated in, battle	person, fought in, a battle	False
+philosopher, discussed, mathematics	marx, was well versed in, mathematics	True
+marx, was well versed in, mathematics	philosopher, discussed, mathematics	False
+johnson, was taken to, london	united states president, traveled to, london	False
+united states president, traveled to, london	johnson, was taken to, london	True
+deity, received prayers from, greeks	the greek, saw and recognized, demeter	False
+the greek, saw and recognized, demeter	deity, received prayers from, greeks	True
+the communists, had won, the civil war	person, fought in, the civil war	False
+person, fought in, the civil war	the communists, had won, the civil war	True
+person, became, a hero	shakespeare, is and remains, a hero	True
+shakespeare, is and remains, a hero	person, became, a hero	False
+location, was attacked by, terrorists	terrorists, bombed in, madrid	True
+terrorists, bombed in, madrid	location, was attacked by, terrorists	False
+the hymenoptera, have pairs of, wings	animal, has, wings	False
+animal, has, wings	the hymenoptera, have pairs of, wings	True
+japan, had captured, burma	asian country, was invaded by, japan	False
+asian country, was invaded by, japan	japan, had captured, burma	True
+molybdenum, is common on, earth	chemical element, is the most abundant on, earth	True
+chemical element, is the most abundant on, earth	molybdenum, is common on, earth	False
+modern humans, evolved in, africa	mammal, is native to, africa	False
+mammal, is native to, africa	modern humans, evolved in, africa	True
+drug, relieves, headaches	acetaminophen, may help to relieve, headaches	False
+acetaminophen, may help to relieve, headaches	drug, relieves, headaches	True
+the independence, has been proclaimed by, the representatives	politician, advocated, independence	False
+politician, advocated, independence	the independence, has been proclaimed by, the representatives	True
+mythical being, was destroyed by, perseus	medusa, was beheaded by, perseus	True
+medusa, was beheaded by, perseus	mythical being, was destroyed by, perseus	False
+food, is included in, a cake	the dough, is rolled out into, a cake	True
+the dough, is rolled out into, a cake	food, is included in, a cake	False
+houston, is the city in, texas	city, is in, texas	False
+city, is in, texas	houston, is the city in, texas	True
+whittier, survived, the civil war	person, fought in, the civil war	False
+person, fought in, the civil war	whittier, survived, the civil war	True
+the nazis, would lose, the war	person, fought in, a war	False
+person, fought in, a war	the nazis, would lose, the war	True
+drug, relieves, pain	a whiskey, would stop, the pain	True
+a whiskey, would stop, the pain	drug, relieves, pain	False
+united states president, traveled to, paris	john adams, joined in, paris	True
+john adams, joined in, paris	united states president, traveled to, paris	False
+animal, has, fur	the opossum, lives and has, a fur	True
+the opossum, lives and has, a fur	animal, has, fur	False
+chemical element, is the most abundant in, the universe	the universe, consists entirely of, hydrogen	True
+the universe, consists entirely of, hydrogen	chemical element, is the most abundant in, the universe	False
+state, was part of, the union	oregon, had been added to, the union	True
+oregon, had been added to, the union	state, was part of, the union	False
+city, is in, europe	rotterdam, is the port in, europe	True
+rotterdam, is the port in, europe	city, is in, europe	False
+the dragon, is depicted with, claws	animal, has, claws	True
+animal, has, claws	the dragon, is depicted with, claws	False
+plato, was an student of, mathematics	philosopher, discussed, mathematics	False
+philosopher, discussed, mathematics	plato, was an student of, mathematics	True
+salicylates, are specific for, the pain	drug, relieves, pain	False
+drug, relieves, pain	salicylates, are specific for, the pain	True
+the pterodactyls, were a group of, reptiles	animal, is defined as, a reptile	False
+animal, is defined as, a reptile	the pterodactyls, were a group of, reptiles	True
+cereals, are fortified with, vitamins	plant life, contains, vitamins	False
+plant life, contains, vitamins	cereals, are fortified with, vitamins	True
+solid food, is rich with, iron	dried fruits, contain an amount of, iron	False
+dried fruits, contain an amount of, iron	solid food, is rich with, iron	True
+plant life, contains, vitamins	vegetables, contain amounts of, the vitamin	True
+vegetables, contain amounts of, the vitamin	plant life, contains, vitamins	False
+philadelphia, is the city in, pennsylvania	city, is in, pennsylvania	False
+city, is in, pennsylvania	philadelphia, is the city in, pennsylvania	True
+plant life, is native to, europe	cacao, became known in, europe	False
+cacao, became known in, europe	plant life, is native to, europe	True
+paprika, is rich in, the vitamin	plant life, contains, vitamins	False
+plant life, contains, vitamins	paprika, is rich in, the vitamin	True
+clovis, commanded the army in, a battle	person, fought in, a battle	False
+person, fought in, a battle	clovis, commanded the army in, a battle	True
+food, is included in, a cake	the cake, is covered with, brown flour	True
+the cake, is covered with, brown flour	food, is included in, a cake	False
+babylon, became the metropolis of, asia	city, is in, asia	False
+city, is in, asia	babylon, became the metropolis of, asia	True
+a small owl, comes on, wings	animal, has, wings	False
+animal, has, wings	a small owl, comes on, wings	True
+person, fought in, a war	the applicant, is a veteran of, the war	True
+the applicant, is a veteran of, the war	person, fought in, a war	False
+the wood, is largely used in, cabinet	furniture, is constructed from, wood	False
+furniture, is constructed from, wood	the wood, is largely used in, cabinet	True
+food, is included in, a cake	the cake, is covered with, sweet flour	True
+the cake, is covered with, sweet flour	food, is included in, a cake	False
+marsupials, are found in, australia	mammal, is native to, australia	True
+mammal, is native to, australia	marsupials, are found in, australia	False
+plant life, contains, vitamins	broccoli, is high in, vitamins	True
+broccoli, is high in, vitamins	plant life, contains, vitamins	False
+person, lives in, a monastery	the lady, had been sent to, a monastery	True
+the lady, had been sent to, a monastery	person, lives in, a monastery	False
+organ, processes, food	the food, moves into, the large intestine	False
+the food, moves into, the large intestine	organ, processes, food	True
+dinosaurs, are the largest of, reptiles	animal, is defined as, a reptile	False
+animal, is defined as, a reptile	dinosaurs, are the largest of, reptiles	True
+the greeks, had dedicated to, minerva	deity, received prayers from, greeks	True
+deity, received prayers from, greeks	the greeks, had dedicated to, minerva	False
+canada, occupied along, the lower river	body of water, is enclosed by, canada	True
+body of water, is enclosed by, canada	canada, occupied along, the lower river	False
+chocolate, is made in, spain	beverage, is traditionally from, spain	True
+beverage, is traditionally from, spain	chocolate, is made in, spain	False
+state, was part of, the confederacy	texas, seceded and joined, the confederacy	True
+texas, seceded and joined, the confederacy	state, was part of, the confederacy	False
+united states president, traveled to, london	john adams, was sent to, london	True
+john adams, was sent to, london	united states president, traveled to, london	False
+plant life, is native to, europe	raspberries, have been grown in, europe	False
+raspberries, have been grown in, europe	plant life, is native to, europe	True
+theodore roosevelt, was born in, new york	united states president, came from, new york	False
+united states president, came from, new york	theodore roosevelt, was born in, new york	True
+person, fought in, a battle	mariners, has braved, the battle	True
+mariners, has braved, the battle	person, fought in, a battle	False
+the pyramids, are in the neighborhood of, cairo	city, is home to, the pyramids	True
+city, is home to, the pyramids	the pyramids, are in the neighborhood of, cairo	False
+a crow, floats on, wings	animal, has, wings	False
+animal, has, wings	a crow, floats on, wings	True
+science, studies, life	archaeology, is the study of, life	True
+archaeology, is the study of, life	science, studies, life	False
+president wilson, brought from, paris	united states president, traveled to, paris	False
+united states president, traveled to, paris	president wilson, brought from, paris	True
+deer, were to be found in, africa	mammal, is native to, africa	True
+mammal, is native to, africa	deer, were to be found in, africa	False
+political system, was used in, egypt	egypt, still remained as, a kingdom	True
+egypt, still remained as, a kingdom	political system, was used in, egypt	False
+animal, has, wings	thrips, are insects with, wings	True
+thrips, are insects with, wings	animal, has, wings	False
+the application, terminates, headache	drug, relieves, headaches	False
+drug, relieves, headaches	the application, terminates, headache	True
+a war, is undertaken by, several potentates	person, fought in, a war	False
+person, fought in, a war	a war, is undertaken by, several potentates	True
+city, is in, europe	the canton, is the republic in, europe	True
+the canton, is the republic in, europe	city, is in, europe	False
+charles, resigned and retired to, the monastery	person, lives in, a monastery	False
+person, lives in, a monastery	charles, resigned and retired to, the monastery	True
+person, fought in, a war	washington, was first in, war	True
+washington, was first in, war	person, fought in, a war	False
+city, had influence in, greece	venice, took the lead with, greece	True
+venice, took the lead with, greece	city, had influence in, greece	False
+sea birds, flew on, wings	animal, has, wings	False
+animal, has, wings	sea birds, flew on, wings	True
+coconut palms, are found on the coast of, america	plant life, is native to, america	False
+plant life, is native to, america	coconut palms, are found on the coast of, america	True
+person, lives in, a monastery	christians, are to be found in, monasteries	False
+christians, are to be found in, monasteries	person, lives in, a monastery	True
+philosopher, discussed, democracy	aristotle, defined, democracy	True
+aristotle, defined, democracy	philosopher, discussed, democracy	False
+person, became, a saint	charlemagne, stands at the head of, the saints	True
+charlemagne, stands at the head of, the saints	person, became, a saint	False
+person, lives in, a monastery	the followers, dwelt together in, monasteries	True
+the followers, dwelt together in, monasteries	person, lives in, a monastery	False
+president wilson, arrived in, paris	united states president, traveled to, paris	False
+united states president, traveled to, paris	president wilson, arrived in, paris	True
+the american flag, was made by, ross	person, designed, the american flag	True
+person, designed, the american flag	the american flag, was made by, ross	False
+chocolate, is made by adding, butter	food, is included in, chocolate	False
+food, is included in, chocolate	chocolate, is made by adding, butter	True
+solid food, is rich with, calcium	leafy vegetables, are an source of, calcium	False
+leafy vegetables, are an source of, calcium	solid food, is rich with, calcium	True
+jones, volunteered in, the civil war	person, fought in, the civil war	False
+person, fought in, the civil war	jones, volunteered in, the civil war	True
+maryland, stayed in, the union	state, was part of, the union	False
+state, was part of, the union	maryland, stayed in, the union	True
+united states president, traveled to, london	wilson, is now in, london	True
+wilson, is now in, london	united states president, traveled to, london	False
+person, fought in, a battle	wayne, remained on the field of, battle	True
+wayne, remained on the field of, battle	person, fought in, a battle	False
+fillmore, was born in, new york	united states president, came from, new york	False
+united states president, came from, new york	fillmore, was born in, new york	True
+burma, was swallowed by, japan	asian country, was invaded by, japan	False
+asian country, was invaded by, japan	burma, was swallowed by, japan	True
+city, is in, europe	amsterdam, became the center of, europe	True
+amsterdam, became the center of, europe	city, is in, europe	False
+drug, relieves, pain	pain, must be relieved by, anodynes	True
+pain, must be relieved by, anodynes	drug, relieves, pain	False
+a stricken butterfly, wavers on, wings	animal, has, wings	False
+animal, has, wings	a stricken butterfly, wavers on, wings	True
+reagan, was elected to, the white house	person, works at, the white house	False
+person, works at, the white house	reagan, was elected to, the white house	True
+animal, has, horns	the true oxen, are distinguished by having, horns	True
+the true oxen, are distinguished by having, horns	animal, has, horns	False
+person, fought in, a war	voltaire, was soon at, war	True
+voltaire, was soon at, war	person, fought in, a war	False
+the german language, prevails in, switzerland	language, has official status in, switzerland	True
+language, has official status in, switzerland	the german language, prevails in, switzerland	False
+solid food, is rich with, calcium	calcium, is the base of, lime	True
+calcium, is the base of, lime	solid food, is rich with, calcium	False
+animal, is defined as, a mammal	the modern man, is the highest of, all mammals	True
+the modern man, is the highest of, all mammals	animal, is defined as, a mammal	False
+pain, may be relieved by the application of, chloroform	drug, relieves, pain	True
+drug, relieves, pain	pain, may be relieved by the application of, chloroform	False
+animal, has, venom	the serpent, vomits, venom	True
+the serpent, vomits, venom	animal, has, venom	False
+politician, advocated, independence	representatives, signed the declaration of, independence	True
+representatives, signed the declaration of, independence	politician, advocated, independence	False
+plant life, contains, vitamins	the vitamin, occurs in, vegetables	True
+the vitamin, occurs in, vegetables	plant life, contains, vitamins	False
+united states president, traveled to, london	eisenhower, set out for, london	False
+eisenhower, set out for, london	united states president, traveled to, london	True
+city, is in, europe	rome, is the capital in, europe	True
+rome, is the capital in, europe	city, is in, europe	False
+mammal, is native to, africa	horses, were moving from, africa	True
+horses, were moving from, africa	mammal, is native to, africa	False
+solid food, is rich with, iron	iron, is found in, red meats	False
+iron, is found in, red meats	solid food, is rich with, iron	True
+european country, is an ally of, the united states	the united states, had made a treaty with, italy	True
+the united states, had made a treaty with, italy	european country, is an ally of, the united states	False
+calendar day, is a festival in, india	the anniversary, was celebrated in, india	False
+the anniversary, was celebrated in, india	calendar day, is a festival in, india	True
+almonds, are rich in, calcium	plant life, contains, calcium	False
+plant life, contains, calcium	almonds, are rich in, calcium	True
+city, is in, europe	florence, became the city in, europe	True
+florence, became the city in, europe	city, is in, europe	False
+person, is employed by, the government	the government, shall be represented by, delegate	True
+the government, shall be represented by, delegate	person, is employed by, the government	False
+the desert, yields, a rare herbage	plant life, can survive in, the desert	False
+plant life, can survive in, the desert	the desert, yields, a rare herbage	True
+california, remained loyal to, the union	state, was part of, the union	False
+state, was part of, the union	california, remained loyal to, the union	True
+descartes, was greatest in, mathematics	philosopher, discussed, mathematics	False
+philosopher, discussed, mathematics	descartes, was greatest in, mathematics	True
+month, has a lot of, rain	the rain, comes in, october	False
+the rain, comes in, october	month, has a lot of, rain	True
+iraq, was overrun by, mongols	asian country, was invaded by, the mongols	False
+asian country, was invaded by, the mongols	iraq, was overrun by, mongols	True
+animal, has, wings	the thrips, are insects with, wings	True
+the thrips, are insects with, wings	animal, has, wings	False
+the mongols, controlled most of, india	asian country, was invaded by, the mongols	False
+asian country, was invaded by, the mongols	the mongols, controlled most of, india	True
+plant life, is native to, europe	potatoes, are raised in, europe	False
+potatoes, are raised in, europe	plant life, is native to, europe	True
+worker, prepares, food	farm worker, could produce, food	False
+farm worker, could produce, food	worker, prepares, food	True
+pythagoras, revived, mathematics	philosopher, discussed, mathematics	False
+philosopher, discussed, mathematics	pythagoras, revived, mathematics	True
+terrorists, infiltrated, israel	location, was attacked by, terrorists	True
+location, was attacked by, terrorists	terrorists, infiltrated, israel	False
+science, researches, animals	that memory, was common to, all animals	True
+that memory, was common to, all animals	science, researches, animals	False
+food, may enter, the larynx	organ, processes, food	True
+organ, processes, food	food, may enter, the larynx	False
+spain, switched to, the euro	monetary unit, is used in, spain	False
+monetary unit, is used in, spain	spain, switched to, the euro	True
+the gazelle, will have, fur	animal, has, fur	True
+animal, has, fur	the gazelle, will have, fur	False
+drug, relieves, pain	a local anesthetic, eliminates, pain	True
+a local anesthetic, eliminates, pain	drug, relieves, pain	False
+mammal, is native to, africa	large baboons, are in this part of, africa	False
+large baboons, are in this part of, africa	mammal, is native to, africa	True
+united states president, traveled to, paris	jefferson, left, paris	True
+jefferson, left, paris	united states president, traveled to, paris	False
+natural phenomenon, occurs in, japan	this form, is common in, japan	True
+this form, is common in, japan	natural phenomenon, occurs in, japan	False
+celestial body, can be seen with, a telescope	telescopes, have discovered, several stars	True
+telescopes, have discovered, several stars	celestial body, can be seen with, a telescope	False
+the wounded chief, was carried after, the battle	person, fought in, a battle	False
+person, fought in, a battle	the wounded chief, was carried after, the battle	True
+lincoln, named him, minister	person, appoints, ministers	True
+person, appoints, ministers	lincoln, named him, minister	False
+spiders, produce, venom	animal, has, venom	False
+animal, has, venom	spiders, produce, venom	True
+animal, has, wings	bobolinks, sprang up on, wings	True
+bobolinks, sprang up on, wings	animal, has, wings	False
+all animals, are infested by, parasitic worms	animal, lives off, animals	False
+animal, lives off, animals	all animals, are infested by, parasitic worms	True
+city, is in, europe	manchester, was half of, europe	True
+manchester, was half of, europe	city, is in, europe	False
+political system, was used in, egypt	egypt, became, a monarchy	True
+egypt, became, a monarchy	political system, was used in, egypt	False
+sparta, was the head of, greece	city, had influence in, greece	False
+city, had influence in, greece	sparta, was the head of, greece	True
+splendid butterflies, flew with, wings	animal, has, wings	False
+animal, has, wings	splendid butterflies, flew with, wings	True
+july, produces, the most rain	month, has a lot of, rain	False
+month, has a lot of, rain	july, produces, the most rain	True
+process, treats, wounds	the wound, cauterized with, the thermocautery	True
+the wound, cauterized with, the thermocautery	process, treats, wounds	False
+animal, has, claws	whelps, fight with, claws	True
+whelps, fight with, claws	animal, has, claws	False
+philosopher, discussed, democracy	aristotle, defines, democracy	True
+aristotle, defines, democracy	philosopher, discussed, democracy	False
+drug, relieves, pain	pain, should be treated with, acetaminophen	True
+pain, should be treated with, acetaminophen	drug, relieves, pain	False
+asian country, was invaded by, the mongols	mongols, conquered, china	True
+mongols, conquered, china	asian country, was invaded by, the mongols	False
+solid food, is rich with, iron	iron, is found in, peas	False
+iron, is found in, peas	solid food, is rich with, iron	True
+plant life, is native to, america	bananas, come from, america	False
+bananas, come from, america	plant life, is native to, america	True
+asian country, was invaded by, japan	japan, has attacked, malaya	False
+japan, has attacked, malaya	asian country, was invaded by, japan	True
+european country, is an ally of, russia	russia, would support, france	False
+russia, would support, france	european country, is an ally of, russia	True
+microorganism, does not cause, disease	these microbes, will guard against, diseases	True
+these microbes, will guard against, diseases	microorganism, does not cause, disease	False
+animal, has, wings	magpies, flutter with, wings	True
+magpies, flutter with, wings	animal, has, wings	False
+person, fought in, a war	general eisenhower, has been a leader in, war	True
+general eisenhower, has been a leader in, war	person, fought in, a war	False
+homo erectus, migrated from, africa	mammal, is native to, africa	False
+mammal, is native to, africa	homo erectus, migrated from, africa	True
+person, discovered, australia	cook, discovered the coast of, australia	False
+cook, discovered the coast of, australia	person, discovered, australia	True
+person, became, a hero	heretic, is often, the hero	True
+heretic, is often, the hero	person, became, a hero	False
+animal, has, wings	a buzzard, floated on, wings	True
+a buzzard, floated on, wings	animal, has, wings	False
+city, is in, europe	amsterdam, became the port of, europe	True
+amsterdam, became the port of, europe	city, is in, europe	False
+madison, wrote in, paris	united states president, traveled to, paris	False
+united states president, traveled to, paris	madison, wrote in, paris	True
+worker, prepares, meat	servants, were cooking, meat	True
+servants, were cooking, meat	worker, prepares, meat	False
+person, fought in, a battle	pericles, exerted himself in, that battle	True
+pericles, exerted himself in, that battle	person, fought in, a battle	False
+celestial body, can be seen with, a telescope	telescopes, have discovered, fixed stars	True
+telescopes, have discovered, fixed stars	celestial body, can be seen with, a telescope	False
+beverage, is traditionally from, spain	spain, has always had, wines	True
+spain, has always had, wines	beverage, is traditionally from, spain	False
+photius, was banished to, the monastery	person, lives in, a monastery	False
+person, lives in, a monastery	photius, was banished to, the monastery	True
+territory, was acquired by, the united states	the united states, had overtaken, britain	True
+the united states, had overtaken, britain	territory, was acquired by, the united states	False
+the romans, dedicated to, minerva	deity, received prayers from, romans	True
+deity, received prayers from, romans	the romans, dedicated to, minerva	False
+the battle, was begun by, tecumseh	person, fought in, a battle	False
+person, fought in, a battle	the battle, was begun by, tecumseh	True
+the emperor, had been forced into, the war	person, fought in, a war	False
+person, fought in, a war	the emperor, had been forced into, the war	True
+polo, is said to have come to, japan	sport, is played in, japan	False
+sport, is played in, japan	polo, is said to have come to, japan	True
+person, fought in, a war	the vassals, frequently made, war	True
+the vassals, frequently made, war	person, fought in, a war	False
+alaska, was purchased by, the united states	territory, was acquired by, the united states	False
+territory, was acquired by, the united states	alaska, was purchased by, the united states	True
+mammal, is native to, america	domestic cattle, may have existed in, america	False
+domestic cattle, may have existed in, america	mammal, is native to, america	True
+bone, is part of, the spine	the skull, is at the top of, the spine	True
+the skull, is at the top of, the spine	bone, is part of, the spine	False
+the depraved sinner, may be converted into, an saint	person, became, a saint	True
+person, became, a saint	the depraved sinner, may be converted into, an saint	False
+food, is included in, chocolate	chocolate, is made from, liquor	True
+chocolate, is made from, liquor	food, is included in, chocolate	False
+jefferson, returned to, paris	united states president, traveled to, paris	False
+united states president, traveled to, paris	jefferson, returned to, paris	True
+asian country, was invaded by, the mongols	the mongols, attacked, india	False
+the mongols, attacked, india	asian country, was invaded by, the mongols	True
+solid food, is rich with, iron	beef, is an source of, iron	False
+beef, is an source of, iron	solid food, is rich with, iron	True
+that night, was one of, war	deity, is the god of, war	True
+deity, is the god of, war	that night, was one of, war	False
+any wound, can be closed with, debridement	process, treats, wounds	False
+process, treats, wounds	any wound, can be closed with, debridement	True
+territory, was acquired by, the united states	the united states, gained control of, california	False
+the united states, gained control of, california	territory, was acquired by, the united states	True
+food, is included in, chocolate	chocolate, consists mainly of, butter	True
+chocolate, consists mainly of, butter	food, is included in, chocolate	False
+paleontology, is the study of, life	science, studies, life	False
+science, studies, life	paleontology, is the study of, life	True
+the incidence, is highest in, japan	natural phenomenon, occurs in, japan	False
+natural phenomenon, occurs in, japan	the incidence, is highest in, japan	True
+the battle, was a defeat of, wallenstein	person, fought in, a battle	False
+person, fought in, a battle	the battle, was a defeat of, wallenstein	True
+city, is in, texas	el paso, are in the middle of, the texas	True
+el paso, are in the middle of, the texas	city, is in, texas	False
+south carolina, should secede from, the union	state, was part of, the union	False
+state, was part of, the union	south carolina, should secede from, the union	True
+city, is in, europe	lisbon, became the center of, europe	True
+lisbon, became the center of, europe	city, is in, europe	False
+sport, is played in, japan	sumo, is the sport of, japan	True
+sumo, is the sport of, japan	sport, is played in, japan	False
+city, had influence in, greece	corinth, was the greatest in, greece	True
+corinth, was the greatest in, greece	city, had influence in, greece	False
+cycling, is popular in, europe	sport, is played in, europe	False
+sport, is played in, europe	cycling, is popular in, europe	True
+beverage, is traditionally from, spain	corn, is brought from, spain	False
+corn, is brought from, spain	beverage, is traditionally from, spain	True
+person, fought in, a battle	napoleon, defeated the austrians at, the battle	True
+napoleon, defeated the austrians at, the battle	person, fought in, a battle	False
+sheridan, fought and won, the battle	person, fought in, a battle	False
+person, fought in, a battle	sheridan, fought and won, the battle	True
+person, fought in, a war	president wilson, were dragged into, the war	True
+president wilson, were dragged into, the war	person, fought in, a war	False
+philosopher, discussed, mathematics	comte, taught, mathematics	True
+comte, taught, mathematics	philosopher, discussed, mathematics	False
+the elk, is found in the parts of, america	mammal, is native to, america	True
+mammal, is native to, america	the elk, is found in the parts of, america	False
+terrorists, take, refuge	location, was attacked by, terrorists	False
+location, was attacked by, terrorists	terrorists, take, refuge	True
+plant life, contains, calcium	vegetables, are all sources of, calcium	True
+vegetables, are all sources of, calcium	plant life, contains, calcium	False
+solid food, is rich with, calcium	yogurt, is an source of, calcium	False
+yogurt, is an source of, calcium	solid food, is rich with, calcium	True
+city, had influence in, greece	athens, governs, greece	True
+athens, governs, greece	city, had influence in, greece	False
+plant life, contains, vitamins	birch, concentrated, the vitamin	True
+birch, concentrated, the vitamin	plant life, contains, vitamins	False
+person, became, a saint	the saints, are viewed as, intermediaries	False
+the saints, are viewed as, intermediaries	person, became, a saint	True
+madrid, is the capital in, europe	city, is in, europe	False
+city, is in, europe	madrid, is the capital in, europe	True
+the cattle, are small with, horns	animal, has, horns	False
+animal, has, horns	the cattle, are small with, horns	True
+the herbs, are high in, calcium	plant life, contains, calcium	False
+plant life, contains, calcium	the herbs, are high in, calcium	True
+city, is in, asia	babylon, became the capital of, asia	True
+babylon, became the capital of, asia	city, is in, asia	False
+cattle, all come from, america	mammal, is native to, america	False
+mammal, is native to, america	cattle, all come from, america	True
+animal, has, wings	a monstrous beetle, sped on, wings	True
+a monstrous beetle, sped on, wings	animal, has, wings	False
+animal, has, wings	cicada, is a insect with, wings	True
+cicada, is a insect with, wings	animal, has, wings	False
+the rose, was brought from, china	beverage, is traditionally from, china	True
+beverage, is traditionally from, china	the rose, was brought from, china	False
+city, had influence in, greece	delphi, was the heart of, greece	True
+delphi, was the heart of, greece	city, had influence in, greece	False
+some rodents, eat and have, fur	animal, has, fur	False
+animal, has, fur	some rodents, eat and have, fur	True
+person, became, a hero	frobisher, was generally regarded as, the hero	True
+frobisher, was generally regarded as, the hero	person, became, a hero	False
+united states president, traveled to, london	eisenhower, flew to, london	True
+eisenhower, flew to, london	united states president, traveled to, london	False
+mammal, is native to, africa	any baboons, are alive in, africa	False
+any baboons, are alive in, africa	mammal, is native to, africa	True
+dragonflies, have pairs of, wings	animal, has, wings	False
+animal, has, wings	dragonflies, have pairs of, wings	True
+device, measures, earthquakes	earthquakes, were registered on, the seismographs	True
+earthquakes, were registered on, the seismographs	device, measures, earthquakes	False
+plant life, contains, calcium	cheese, is high in, calcium	True
+cheese, is high in, calcium	plant life, contains, calcium	False
+mammal, is native to, africa	the chimpanzee, also lives in, africa	False
+the chimpanzee, also lives in, africa	mammal, is native to, africa	True
+boxing, was first introduced to, japan	sport, is played in, japan	False
+sport, is played in, japan	boxing, was first introduced to, japan	True
+vegetables, are the sources of, this vitamin	plant life, contains, vitamins	False
+plant life, contains, vitamins	vegetables, are the sources of, this vitamin	True
+kangaroos, are found in, australia	mammal, is native to, australia	True
+mammal, is native to, australia	kangaroos, are found in, australia	False
+geology, is the study of, the earth	science, studies, the earth	False
+science, studies, the earth	geology, is the study of, the earth	True
+animal, has, wings	a small moth, has spots on, the wings	True
+a small moth, has spots on, the wings	animal, has, wings	False
+athens, was the eye of, greece	city, had influence in, greece	False
+city, had influence in, greece	athens, was the eye of, greece	True
+the greeks, adore as, many saints	deity, received prayers from, greeks	True
+deity, received prayers from, greeks	the greeks, adore as, many saints	False
+the central incisor, is the tooth in, the mouth	bone, is part of, the mouth	False
+bone, is part of, the mouth	the central incisor, is the tooth in, the mouth	True
+athens, became the capital of, greece	city, had influence in, greece	False
+city, had influence in, greece	athens, became the capital of, greece	True
+president wilson, returned to, paris	united states president, traveled to, paris	False
+united states president, traveled to, paris	president wilson, returned to, paris	True
+the food, was cooked by, cooks	worker, prepares, food	False
+worker, prepares, food	the food, was cooked by, cooks	True
+plant life, is native to, europe	the first clocks, were made in, europe	False
+the first clocks, were made in, europe	plant life, is native to, europe	True
+the israelites, marched forth to, war	person, fought in, a war	True
+person, fought in, a war	the israelites, marched forth to, war	False
+the mandibles, lie on either side of, the mouth	bone, is part of, the mouth	False
+bone, is part of, the mouth	the mandibles, lie on either side of, the mouth	True
+city, is in, europe	antwerp, became the port of, europe	True
+antwerp, became the port of, europe	city, is in, europe	False
+prolactin, is secreted during, pregnancy	hormone, indicates, pregnancy	False
+hormone, indicates, pregnancy	prolactin, is secreted during, pregnancy	True
+animal, has, venom	the serpents, kill with, venom	True
+the serpents, kill with, venom	animal, has, venom	False
+terrorists, bombed in, nairobi	location, was attacked by, terrorists	False
+location, was attacked by, terrorists	terrorists, bombed in, nairobi	True
+hedgehogs, use, venom	animal, has, venom	False
+animal, has, venom	hedgehogs, use, venom	True
+month, has a lot of, rain	rain, fell during, late may	False
+rain, fell during, late may	month, has a lot of, rain	True
+person, fought in, a war	general lincoln, became prisoners of, war	True
+general lincoln, became prisoners of, war	person, fought in, a war	False
+john brown, sparked, the civil war	person, fought in, the civil war	False
+person, fought in, the civil war	john brown, sparked, the civil war	True
+animal, has, wings	the gulls, flew on, wings	True
+the gulls, flew on, wings	animal, has, wings	False
+the mongols, again invaded, india	asian country, was invaded by, the mongols	False
+asian country, was invaded by, the mongols	the mongols, again invaded, india	True
+liege, is the port in, europe	city, is in, europe	False
+city, is in, europe	liege, is the port in, europe	True
+antwerp, was the port in, europe	city, is in, europe	False
+city, is in, europe	antwerp, was the port in, europe	True
+celestial body, can be seen with, a telescope	the telescope, has discovered, planets	True
+the telescope, has discovered, planets	celestial body, can be seen with, a telescope	False
+cobras, spit, venom	animal, has, venom	False
+animal, has, venom	cobras, spit, venom	True
+natural history, is the study of, animals	science, researches, animals	False
+science, researches, animals	natural history, is the study of, animals	True
+city, is in, europe	constantinople, became the city of, europe	True
+constantinople, became the city of, europe	city, is in, europe	False
+united states president, came from, new york	van buren, was born in, new york	True
+van buren, was born in, new york	united states president, came from, new york	False
+the monastery, is open to, visitors	person, lives in, a monastery	True
+person, lives in, a monastery	the monastery, is open to, visitors	False
+animal, has, venom	spiders, use, venom	True
+spiders, use, venom	animal, has, venom	False
+furniture, is constructed from, wood	the altar, is a table of, wood	True
+the altar, is a table of, wood	furniture, is constructed from, wood	False
+furniture, is constructed from, wood	the dining table, was a slab of, wood	True
+the dining table, was a slab of, wood	furniture, is constructed from, wood	False
+the opera, is full of, gongs	musical instrument, is commonly used in, an opera	False
+musical instrument, is commonly used in, an opera	the opera, is full of, gongs	True
+worker, prepares, meat	the fat man, cut a piece of, meat	True
+the fat man, cut a piece of, meat	worker, prepares, meat	False
+microsoft, released, internet explorer	software, was developed by, microsoft	True
+software, was developed by, microsoft	microsoft, released, internet explorer	False
+united states president, traveled to, paris	buchanan, returned to, paris	True
+buchanan, returned to, paris	united states president, traveled to, paris	False
+animal, has, venom	the venom, injected by, the wasp	True
+the venom, injected by, the wasp	animal, has, venom	False
+person, became, a saint	socrates, are allowed to be, saints	False
+socrates, are allowed to be, saints	person, became, a saint	True
+peaches, are raised in, america	plant life, is native to, america	True
+plant life, is native to, america	peaches, are raised in, america	False
+united states president, traveled to, london	wilson, had been living in, london	True
+wilson, had been living in, london	united states president, traveled to, london	False
+food, is dumped into, the jejunum	organ, processes, food	True
+organ, processes, food	food, is dumped into, the jejunum	False
+person, fought in, a war	the eldest brother, had fallen in, the war	True
+the eldest brother, had fallen in, the war	person, fought in, a war	False
+florida, was purchased by, the united states	territory, was acquired by, the united states	False
+territory, was acquired by, the united states	florida, was purchased by, the united states	True
+person, fought in, a battle	both parties, sustained a loss in, this battle	True
+both parties, sustained a loss in, this battle	person, fought in, a battle	False
+animal, has, claws	puppies, are born with, claws	True
+puppies, are born with, claws	animal, has, claws	False
+person, lives in, a monastery	charles, abdicated and retired to, a monastery	True
+charles, abdicated and retired to, a monastery	person, lives in, a monastery	False
+horns, belong only to, the ruminants	animal, has, horns	False
+animal, has, horns	horns, belong only to, the ruminants	True
+person, fought in, a battle	douglas, commands at, the battle	True
+douglas, commands at, the battle	person, fought in, a battle	False
+plant life, is native to, europe	mustard, is found in parts of, europe	False
+mustard, is found in parts of, europe	plant life, is native to, europe	True
+arminius, did not long survive, this war	person, fought in, a war	False
+person, fought in, a war	arminius, did not long survive, this war	True
+animal, has, fur	the arctic hare, is enveloped in, fur	True
+the arctic hare, is enveloped in, fur	animal, has, fur	False
+united states president, traveled to, paris	eisenhower, came back from, paris	True
+eisenhower, came back from, paris	united states president, traveled to, paris	False
+wilkes, will pass for, a saint	person, became, a saint	True
+person, became, a saint	wilkes, will pass for, a saint	False
+solid food, is rich with, iron	the produce, amounted to tons of, iron	True
+the produce, amounted to tons of, iron	solid food, is rich with, iron	False
+philadelphia, was the capital of, pennsylvania	city, is in, pennsylvania	False
+city, is in, pennsylvania	philadelphia, was the capital of, pennsylvania	True
+the first molars, are the teeth in, the mouth	bone, is part of, the mouth	False
+bone, is part of, the mouth	the first molars, are the teeth in, the mouth	True
+person, fought in, the civil war	franco, had won, the civil war	True
+franco, had won, the civil war	person, fought in, the civil war	False
+paris, had been the center of, europe	city, is in, europe	False
+city, is in, europe	paris, had been the center of, europe	True
+the reptiles, found are, dinosaurs	animal, is defined as, a reptile	False
+animal, is defined as, a reptile	the reptiles, found are, dinosaurs	True
+animal, has, claws	lions, habitually use, claws	True
+lions, habitually use, claws	animal, has, claws	False
+endorphins, kill, pain	chemical, helps reduce, pain	False
+chemical, helps reduce, pain	endorphins, kill, pain	True
+caterpillars, like to eat, some plants	animal, lives off, plants	True
+animal, lives off, plants	caterpillars, like to eat, some plants	False
+philosopher, discussed, mathematics	whitehead, taught, mathematics	True
+whitehead, taught, mathematics	philosopher, discussed, mathematics	False
+person, became, a saint	luke, has been chosen as, the saint	True
+luke, has been chosen as, the saint	person, became, a saint	False
+united states president, came from, texas	dwight eisenhower, was born in, texas	True
+dwight eisenhower, was born in, texas	united states president, came from, texas	False
+person, fought in, a war	frederick the great, triumphed in, the war	True
+frederick the great, triumphed in, the war	person, fought in, a war	False
+the greeks, adore as, saints	deity, received prayers from, greeks	True
+deity, received prayers from, greeks	the greeks, adore as, saints	False
+san antonio, became the capital of, texas	city, is in, texas	False
+city, is in, texas	san antonio, became the capital of, texas	True
+alabama, stays in, the union	state, was part of, the union	False
+state, was part of, the union	alabama, stays in, the union	True
+person, fought in, the civil war	civil war, had broken out between, charles	True
+civil war, had broken out between, charles	person, fought in, the civil war	False
+state, was part of, the confederacy	virginia, promoted, a confederacy	True
+virginia, promoted, a confederacy	state, was part of, the confederacy	False
+sparta, had become the power in, greece	city, had influence in, greece	False
+city, had influence in, greece	sparta, had become the power in, greece	True
+philosopher, discussed, mathematics	mathematics, was pushed by, descartes	True
+mathematics, was pushed by, descartes	philosopher, discussed, mathematics	False
+plant life, can survive in, the desert	senna, grows wild in, the deserts	True
+senna, grows wild in, the deserts	plant life, can survive in, the desert	False
+patrick henry, dashed into, the battle	person, fought in, a battle	False
+person, fought in, a battle	patrick henry, dashed into, the battle	True
+european country, is an ally of, russia	russia, would support, austria	False
+russia, would support, austria	european country, is an ally of, russia	True
