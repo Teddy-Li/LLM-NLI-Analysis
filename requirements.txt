@@ -1,0 +1,5 @@
+openai
+scikit-learn==0.24.1
+matplotlib==3.3.4
+wuggy
+random-word

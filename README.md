@@ -20,6 +20,8 @@ For the full dataset, there are 5486 entries in the dev set (of which 1085 posit
 for the directional subset, there are 630 entries in the dev set and 1784 entries in the test set, where 50% of the entries are positive.
 
 ## Running
+Before running the experiments, make sure you have your virtual environment ready, and dependencies installed as specified in [requirements.txt](requirements.txt).
+
 For running experiments with entities or types, use the following command:
 ```python gpt3_general_entailment.py --model_name XXX --use_plhr [none/type] --in_context [none/lbl/cot] --num_templates 4 --subset [dir/full] --split [toy/dev/test]```
 
