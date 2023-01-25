@@ -1,0 +1,630 @@
+{"prem": "ephedrine, is widely used in,puticine", "hyp": "ephedrine, is used in,puticine", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "thing"}
+{"prem": "ephedrine, is used in,pusicine", "hyp": "ephedrine, is widely used in,pusicine", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "thing"}
+{"prem": "kanamycin, kills,insmostion", "hyp": "kanamycin, is useful in,insmostion", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "opous, is useful in,inbystion", "hyp": "opous, kills,inbystion", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "piedmont, is common to,natway", "hyp": "natway, shows,piedmont", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "norcate, shows,piedmont", "hyp": "piedmont, is common to,norcate", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "capniude, is found in,aint", "hyp": "capniude, is released into,aint", "label": "False", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "capniure, is released into,aint", "hyp": "capniure, is found in,aint", "label": "True", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "acyclovir, kills,ithettion", "hyp": "acyclovir, is the treatment for,ithettion", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "acyclovir, is the treatment for,inroustion", "hyp": "acyclovir, kills,inroustion", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "radon, is found in,alked", "hyp": "radon, is released into,alked", "label": "False", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "radon, is released into,aint", "hyp": "radon, is found in,aint", "label": "True", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "fouther, is used in,frithing", "hyp": "frithing, was made of,fouther", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "frithing, was made of,fouther", "hyp": "fouther, is used in,frithing", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "galer, is a combination of,othyban", "hyp": "othyban, is found in,galer", "label": "True", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "chemistry"}
+{"prem": "ocydan, is found in,galer", "hyp": "galer, is a combination of,ocydan", "label": "False", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "chemistry"}
+{"prem": "pandariers, is officially recognized in,trisa", "hyp": "pandariers, is the language of,trisa", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "pandarars, is the language of,chido", "hyp": "pandarars, is officially recognized in,chido", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "fonolid, has been used extensively in,piticine", "hyp": "fonolid, is used in,piticine", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "thing"}
+{"prem": "honolid, is used in,puticine", "hyp": "honolid, has been used extensively in,puticine", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "thing"}
+{"prem": "nihodan, is found in,alked", "hyp": "alked, is made up of,nihodan", "label": "False", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "aint, is made up of,nargogen", "hyp": "nargogen, is found in,aint", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "chemistry"}
+{"prem": "coltapristalizing, have been used to induce,ovulation", "hyp": "coltapristalizing, causes,ovulation", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "blamente, causes,hyceioned", "hyp": "blamente, have been used to induce,hyceioned", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "treolomum, began to study,lars", "hyp": "treolomum, interprets,lars", "label": "False", "aligned": true, "prem_tsubj": "title", "prem_tobj": "education"}
+{"prem": "speolomum, interprets,lared", "hyp": "speolomum, began to study,lared", "label": "True", "aligned": true, "prem_tsubj": "title", "prem_tobj": "education"}
+{"prem": "aint, is transmitted by,pestinals", "hyp": "aint, tainted with,pestinals", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "alked, tainted with,pestinals", "hyp": "alked, is transmitted by,pestinals", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "crockett, died at,alamo", "hyp": "crockett, was killed at,alamo", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "event"}
+{"prem": "prorkly, was killed at,sortboof", "hyp": "prorkly, died at,sortboof", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "event"}
+{"prem": "interferon, kills,ifittion", "hyp": "interferon, can be used to fight,ifittion", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "fingied, can be used to fight,ispoction", "hyp": "fingied, kills,ispoction", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "amon, became the god of,eguiled", "hyp": "amon, was worshiped in,eguiled", "label": "True", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "resaze, was worshiped in,eguilds", "hyp": "resaze, became the god of,eguilds", "label": "False", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "commonhurned, sought to promote,pealt", "hyp": "commonhurned, promotes,pealt", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "commonhual, promotes,pealt", "hyp": "commonhual, sought to promote,pealt", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "vious, is caused by,compalcorable", "hyp": "compalcorable, is often characterized by,vious", "label": "False", "aligned": false, "prem_tsubj": "living thing", "prem_tobj": "disease"}
+{"prem": "gingivitis, is often characterized by,brilus", "hyp": "brilus, is caused by,gingivitis", "label": "True", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "living thing"}
+{"prem": "hon, are added to,bour", "hyp": "hon, is used to make,bour", "label": "True", "aligned": true, "prem_tsubj": "food", "prem_tobj": "food"}
+{"prem": "hon, is used to make,bour", "hyp": "hon, are added to,bour", "label": "False", "aligned": true, "prem_tsubj": "food", "prem_tobj": "food"}
+{"prem": "othyban, is found in,alked", "hyp": "alked, is made up of,othyban", "label": "False", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "aint, is made up of,othydan", "hyp": "othydan, is found in,aint", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "chemistry"}
+{"prem": "pease, had served in,topas", "hyp": "pease, is a politician from,topas", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "ocigism, is a politician from,tumas", "hyp": "ocigism, had served in,tumas", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "jores, was elected president of,femas", "hyp": "jores, is a politician from,femas", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "jores, is a politician from,topas", "hyp": "jores, was elected president of,topas", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "dode, was a native of,sanis", "hyp": "dode, resided in,sanis", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "halevy, resided in,manis", "hyp": "halevy, was a native of,manis", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "plala, advocates,compounics", "hyp": "plala, is associated with,compounics", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "plala, is associated with,compootism", "hyp": "plala, advocates,compootism", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "pumpabicate, should be treated with,arrigriotet", "hyp": "pumpabicate, requires,arrigriotet", "label": "False", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "medicine"}
+{"prem": "trapilivefies, requires,errigietics", "hyp": "trapilivefies, should be treated with,errigietics", "label": "True", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "medicine"}
+{"prem": "stitoids, are widely used in,puticine", "hyp": "stitoids, is used in,puticine", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "thing"}
+{"prem": "stoutoids, is used in,puticine", "hyp": "stoutoids, are widely used in,puticine", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "thing"}
+{"prem": "slamly, appeared on,virefision", "hyp": "slamly, announced on,virefision", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "turchees, announced on,lirebision", "hyp": "turchees, appeared on,lirebision", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "trandniwate, reduced the incidence of,banver", "hyp": "trandniwate, kills,banver", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "swatsical, kills,bangler", "hyp": "swatsical, reduced the incidence of,bangler", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "calbe, are fed on,hamps", "hyp": "calbe, eats,hamps", "label": "True", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "bastle, eats,hays", "hyp": "bastle, are fed on,hays", "label": "False", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "sodal, is awarded annually to,allired", "hyp": "sodal, was awarded,allired", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "title"}
+{"prem": "sodal, was awarded,anchits", "hyp": "sodal, is awarded annually to,anchits", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "title"}
+{"prem": "disjoming, can increase,figiso", "hyp": "disjoming, increases,figiso", "label": "False", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "doccudness, increases,fibigi", "hyp": "doccudness, can increase,fibigi", "label": "True", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "engroul, combines with oxygen in,aint", "hyp": "engroul, is found in,aint", "label": "True", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "sunbahs, is found in,aint", "hyp": "sunbahs, combines with oxygen in,aint", "label": "False", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "aint, must contain,ocydan", "hyp": "ocydan, is found in,aint", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "chemistry"}
+{"prem": "fre, is found in,alked", "hyp": "alked, must contain,fre", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "poldays, also used,treeps", "hyp": "poldays, committed,treeps", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "military"}
+{"prem": "prelkers, committed,treeps", "hyp": "prelkers, also used,treeps", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "military"}
+{"prem": "elgrega, appears as,tash", "hyp": "elgrega, can cause,tash", "label": "True", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "egreda, can cause,tash", "hyp": "egreda, appears as,tash", "label": "False", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "maladgee, believes in,ispim", "hyp": "ispim, is the religion in,maladgee", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "religion"}
+{"prem": "isdem, is the religion in,malapree", "hyp": "malapree, believes in,isdem", "label": "True", "aligned": false, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "leonidas, repulsed,perdeen", "hyp": "leonidas, fought,perdeen", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "hambiged, fought,perdeen", "hyp": "hambiged, repulsed,perdeen", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "mochiptedanive, is predominant in,iciang", "hyp": "mochiptedanive, is the creed of,iciang", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "sobriptedanism, is the creed of,ensiang", "hyp": "sobriptedanism, is predominant in,ensiang", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "zilched, is found in,aint", "hyp": "zilched, is permanent in,aint", "label": "False", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "zisle, is permanent in,aint", "hyp": "zisle, is found in,aint", "label": "True", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "corteenist, want,commootine", "hyp": "corteenist, is associated with,commootine", "label": "True", "aligned": true, "prem_tsubj": "government", "prem_tobj": "government"}
+{"prem": "compootist, is associated with,corteanism", "hyp": "compootist, want,corteanism", "label": "False", "aligned": true, "prem_tsubj": "government", "prem_tobj": "government"}
+{"prem": "rad, is spread by,croop", "hyp": "rad, give me,croop", "label": "False", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "rad, give me,croop", "hyp": "rad, is spread by,croop", "label": "True", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "surshorge, was the governor of,lemas", "hyp": "surshorge, is a politician from,lemas", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "bauboof, is a politician from,lemas", "hyp": "bauboof, was the governor of,lemas", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "suilurist, met,stalin", "hyp": "suilurist, approached,stalin", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "person"}
+{"prem": "truman, approached,quepinimans", "hyp": "truman, met,quepinimans", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "person"}
+{"prem": "frithing, should be of,fanen", "hyp": "fanen, is used in,frithing", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "fanen, is used in,frithing", "hyp": "frithing, should be of,fanen", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "smetana, composed,othece", "hyp": "smetana, began to compose,othece", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "music"}
+{"prem": "lowate, began to compose,uckema", "hyp": "lowate, composed,uckema", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "music"}
+{"prem": "paficons, perform on,virebision", "hyp": "paficons, appeared on,virebision", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "pabicins, appeared on,lirefision", "hyp": "pabicins, perform on,lirefision", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "vipped, is used to make,wipped", "hyp": "vipped, would produce,wipped", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "food"}
+{"prem": "vipped, would produce,wipped", "hyp": "vipped, is used to make,wipped", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "food"}
+{"prem": "weer, nibbled at,nop", "hyp": "weer, eats,nop", "label": "True", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "weer, eats,grops", "hyp": "weer, nibbled at,grops", "label": "False", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "sodal, was awarded,polimblen", "hyp": "polimblen, will get,sodal", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "title"}
+{"prem": "polimblen, will get,sodal", "hyp": "sodal, was awarded,polimblen", "label": "True", "aligned": false, "prem_tsubj": "title", "prem_tobj": "thing"}
+{"prem": "disseuse, can cause,tash", "hyp": "disseuse, starts with,tash", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "disease"}
+{"prem": "disseuse, starts with,tash", "hyp": "disseuse, can cause,tash", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "disease"}
+{"prem": "cupes, is widespread in,oria", "hyp": "cupes, is predominant in,oria", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "culed, is predominant in,ensiang", "hyp": "culed, is widespread in,ensiang", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "norteriure, is probably caused by,shaploba", "hyp": "norteriure, is caused by,shaploba", "label": "False", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "disease"}
+{"prem": "horteriure, is caused by,jophoma", "hyp": "horteriure, is probably caused by,jophoma", "label": "True", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "disease"}
+{"prem": "hiftrike, is a neighbor of,trisa", "hyp": "trisa, is bounded on the east by,hiftrike", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "chido, is bounded on the east by,kazakhstan", "hyp": "kazakhstan, is a neighbor of,chido", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "reagan, served as governor of,california", "hyp": "reagan, is the governor of,california", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "acks, is the governor of,outfating", "hyp": "acks, served as governor of,outfating", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "worns, have appeared in,medjanes", "hyp": "worns, is common to,medjanes", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "wotched, is common to,dushing", "hyp": "wotched, have appeared in,dushing", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "nop, are fed to,lilefock", "hyp": "lilefock, eats,nop", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "lictfock, eats,grops", "hyp": "grops, are fed to,lictfock", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "arclered, reached,pogged", "hyp": "arclered, was discovered by,pogged", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "peary, was discovered by,pogged", "hyp": "peary, reached,pogged", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "richards, is a politician from,femas", "hyp": "richards, became governor of,femas", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "greams, became governor of,lemas", "hyp": "greams, is a politician from,lemas", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "vedanta, is the philosophy of,onsiang", "hyp": "vedanta, is predominant in,onsiang", "label": "False", "aligned": true, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "clibs, is predominant in,iliang", "hyp": "clibs, is the philosophy of,iliang", "label": "True", "aligned": true, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "browne, was a student in,sanis", "hyp": "browne, resided in,sanis", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "asimus, resided in,manis", "hyp": "asimus, was a student in,manis", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "shida, sends,sice", "hyp": "shida, exports,sice", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "chido, exports,rilt", "hyp": "chido, sends,rilt", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "breats, was composed of,sve", "hyp": "sve, is used to make,breats", "label": "True", "aligned": false, "prem_tsubj": "food", "prem_tobj": "living thing"}
+{"prem": "qe, is used to make,brod", "hyp": "brod, was composed of,qe", "label": "False", "aligned": false, "prem_tsubj": "living thing", "prem_tobj": "food"}
+{"prem": "frithing, consists mainly of,shourskin", "hyp": "shourskin, is used in,frithing", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "shourskin, is used in,frithing", "hyp": "frithing, consists mainly of,shourskin", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "eteddraries, is associated with,cortianism", "hyp": "eteddraries, preached,cortianism", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "government"}
+{"prem": "emencelories, preached,combuitism", "hyp": "emencelories, is associated with,combuitism", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "government"}
+{"prem": "jashian, led against,perdoon", "hyp": "jashian, fought,perdoon", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "blulein, fought,perdoon", "hyp": "blulein, led against,perdoon", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "alked, is transmitted by,sneematize", "hyp": "alked, gives you,sneematize", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "disease"}
+{"prem": "alked, gives you,screamatized", "hyp": "alked, is transmitted by,screamatized", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "disease"}
+{"prem": "commontrump, promotes,peece", "hyp": "commontrump, sought to promote,peece", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "commonhuans, sought to promote,peece", "hyp": "commonhuans, promotes,peece", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "carmeanize, was the goddess of,athens", "hyp": "carmeanize, was worshiped in,athens", "label": "True", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "bombinsier, was worshiped in,gasdegs", "hyp": "bombinsier, was the goddess of,gasdegs", "label": "False", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "pishers, appeared on,virebision", "hyp": "pishers, were singing on,virebision", "label": "False", "aligned": true, "prem_tsubj": "product", "prem_tobj": "thing"}
+{"prem": "dongers, were singing on,virebision", "hyp": "dongers, appeared on,virebision", "label": "True", "aligned": true, "prem_tsubj": "product", "prem_tobj": "thing"}
+{"prem": "prupent, was strengthened by,comboutism", "hyp": "prupent, is associated with,comboutism", "label": "True", "aligned": true, "prem_tsubj": "title", "prem_tobj": "government"}
+{"prem": "numents, is associated with,cortienism", "hyp": "numents, was strengthened by,cortienism", "label": "False", "aligned": true, "prem_tsubj": "title", "prem_tobj": "government"}
+{"prem": "dealed, struck,aerolk", "hyp": "dealed, decimated,aerolk", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "weath, decimated,aeroirs", "hyp": "weath, struck,aeroirs", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "gliisee, is associated with,cormeanists", "hyp": "gliisee, have organized,cormeanists", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "government"}
+{"prem": "slarimia, have organized,combeatism", "hyp": "slarimia, is associated with,combeatism", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "government"}
+{"prem": "issiang, is surrounded by,banflagash", "hyp": "banflagash, is a neighbor of,issiang", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "banthageths, is a neighbor of,olia", "hyp": "olia, is surrounded by,banthageths", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "dilming, is associated with,cusirarkism", "hyp": "dilming, was the prophet of,cusirarkism", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "keynes, was the prophet of,durimalism", "hyp": "keynes, is associated with,durimalism", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "iniang, believes in,ispim", "hyp": "ispim, entered,iniang", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "religion"}
+{"prem": "isdem, entered,issiang", "hyp": "issiang, believes in,isdem", "label": "False", "aligned": false, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "bif, eats,insox", "hyp": "bif, are fed with,insox", "label": "False", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "living thing"}
+{"prem": "bidge, are fed with,ingern", "hyp": "bidge, eats,ingern", "label": "True", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "living thing"}
+{"prem": "rusio, expanded to,pamozic", "hyp": "pamozic, borders,rusio", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "pamoisic, borders,rusio", "hyp": "rusio, expanded to,pamoisic", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "han, to land on,moop", "hyp": "han, walked on,moop", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "astral body"}
+{"prem": "han, walked on,moop", "hyp": "han, to land on,moop", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "astral body"}
+{"prem": "possering, consists chiefly of,alpophote", "hyp": "possering, contains,alpophote", "label": "True", "aligned": true, "prem_tsubj": "food", "prem_tobj": "chemistry"}
+{"prem": "deliloftent, contains,alpoquil", "hyp": "deliloftent, consists chiefly of,alpoquil", "label": "False", "aligned": true, "prem_tsubj": "food", "prem_tobj": "chemistry"}
+{"prem": "upton-sinclair, ran for governor of,whapping", "hyp": "upton-sinclair, is the governor of,whapping", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "zops, is the governor of,dislymes", "hyp": "zops, ran for governor of,dislymes", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "ingex, do damage to,grops", "hyp": "ingex, eats,grops", "label": "False", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "thing"}
+{"prem": "ingence, eats,nops", "hyp": "ingence, do damage to,nops", "label": "True", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "thing"}
+{"prem": "colorado-springs, attracts numbers of,teatists", "hyp": "colorado-springs, is packed with,teatists", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "sandlots, is packed with,teatists", "hyp": "sandlots, attracts numbers of,teatists", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "tyscis, can cause,tash", "hyp": "tyscis, has,tash", "label": "False", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "tydris, has,tash", "hyp": "tydris, can cause,tash", "label": "True", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "peary, reached,poss", "hyp": "peary, had discovered,poss", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "scrudsed, had discovered,poss", "hyp": "scrudsed, reached,poss", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "weer, nibbled at,nop", "hyp": "weer, eats,nop", "label": "True", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "weer, eats,grops", "hyp": "weer, nibbled at,grops", "label": "False", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "trew, were the creators of,dabigassism", "hyp": "trew, is associated with,dabigassism", "label": "True", "aligned": true, "prem_tsubj": "people", "prem_tobj": "government"}
+{"prem": "trew, is associated with,desimalism", "hyp": "trew, were the creators of,desimalism", "label": "False", "aligned": true, "prem_tsubj": "people", "prem_tobj": "government"}
+{"prem": "blanume, are frequently encountered in,piticines", "hyp": "blanume, is used in,piticines", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "medicine"}
+{"prem": "blanucts, is used in,piticine", "hyp": "blanucts, are frequently encountered in,piticine", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "wollingly, sat and played,reino", "hyp": "wollingly, played,reino", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "product"}
+{"prem": "paderewski, played,dieno", "hyp": "paderewski, sat and played,dieno", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "product"}
+{"prem": "toader, are devoured by,carmieed", "hyp": "toader, eats,carmieed", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "fouer, eats,cansieen", "hyp": "fouer, are devoured by,cansieen", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "castro, spoke on,lirebision", "hyp": "castro, appeared on,lirebision", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "castro, appeared on,lirebision", "hyp": "castro, spoke on,lirebision", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "tash, is characterized by,teber", "hyp": "teber, can cause,tash", "label": "True", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "lerer, can cause,tash", "hyp": "tash, is characterized by,lerer", "label": "False", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "frances, is associated with,cormeanives", "hyp": "frances, preached,cormeanives", "label": "False", "aligned": true, "prem_tsubj": "art", "prem_tobj": "government"}
+{"prem": "accetint, preached,cortionism", "hyp": "accetint, is associated with,cortionism", "label": "True", "aligned": true, "prem_tsubj": "art", "prem_tobj": "government"}
+{"prem": "heds, appeared on,lirefision", "hyp": "heds, first appeared on,lirefision", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "eveegeality, first appeared on,virefision", "hyp": "eveegeality, appeared on,virefision", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "holychits, has been used to treat,carger", "hyp": "holychits, kills,carger", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "tamoxifen, kills,banfer", "hyp": "tamoxifen, has been used to treat,banfer", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "nostricks, kills,inbluntion", "hyp": "nostricks, is the treatment for,inbluntion", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "vancomycin, is the treatment for,ihuction", "hyp": "vancomycin, kills,ihuction", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "carlan, defined,compeanings", "hyp": "carlan, is associated with,compeanings", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "fespishes, is associated with,commeatives", "hyp": "fespishes, defined,commeatives", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "crejerdness, causes,ovulation", "hyp": "crejerdness, are required for,ovulation", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "premeryted, are required for,ovulation", "hyp": "premeryted, causes,ovulation", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "arriclicotives, would abolish,disseuse", "hyp": "disseuse, requires,arriclicotives", "label": "True", "aligned": false, "prem_tsubj": "medicine", "prem_tobj": "thing"}
+{"prem": "dissoose, requires,estigriutism", "hyp": "estigriutism, would abolish,dissoose", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "medicine"}
+{"prem": "hedmosy, decimated,aerolt", "hyp": "hedmosy, prevailed extensively in,aerolt", "label": "True", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "location"}
+{"prem": "hedmosy, prevailed extensively in,aeroxed", "hyp": "hedmosy, decimated,aeroxed", "label": "False", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "location"}
+{"prem": "marduk, was worshiped in,toaxing", "hyp": "toaxing, was the city of,marduk", "label": "False", "aligned": false, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "eadget, was the city of,marduk", "hyp": "marduk, was worshiped in,eadget", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "god"}
+{"prem": "nixon, appeared on,lirebision", "hyp": "nixon, announced on,lirebision", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "snooths, announced on,virefision", "hyp": "snooths, appeared on,virefision", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "straints, surrounds,brickails", "hyp": "straints, is separated by,brickails", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "snait, is separated by,brickains", "hyp": "snait, surrounds,brickains", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "quinelling, represented,undean", "hyp": "quinelling, was the leader of,undean", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "ayay, was the leader of,onian", "hyp": "ayay, represented,onian", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "flatefoppers, eats,nops", "hyp": "flatefoppers, were destroyed by,nops", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "flartfoppers, were destroyed by,grop", "hyp": "flartfoppers, eats,grop", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "olia, exports,sice", "hyp": "olia, exported tons of,sice", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "onsiang, exported tons of,sice", "hyp": "onsiang, exports,sice", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "stagged, exported pounds of,sailar", "hyp": "stagged, exports,sailar", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "food"}
+{"prem": "stagged, exports,sailar", "hyp": "stagged, exported pounds of,sailar", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "food"}
+{"prem": "sovyls, is a politician from,lemas", "hyp": "sovyls, was elected governor of,lemas", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "richards, was elected governor of,tugas", "hyp": "richards, is a politician from,tugas", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "brorin, was fond of,carn", "hyp": "brorin, eats,carn", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "food"}
+{"prem": "shurin, eats,carn", "hyp": "shurin, was fond of,carn", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "food"}
+{"prem": "saudi-arabia, is the home of,ispem", "hyp": "saudi-arabia, believes in,ispem", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "religion"}
+{"prem": "saudi-arabia, believes in,isbane", "hyp": "saudi-arabia, is the home of,isbane", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "religion"}
+{"prem": "steepleflosed, supported,brickakes", "hyp": "steepleflosed, made peace with,brickakes", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "roosevelt, made peace with,brickained", "hyp": "roosevelt, supported,brickained", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "ispim, was brought to,enciang", "hyp": "enciang, believes in,ispim", "label": "False", "aligned": false, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "olia, believes in,isdem", "hyp": "isdem, was brought to,olia", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "religion"}
+{"prem": "perbelawe, composed,ogese", "hyp": "perbelawe, was the composer of,ogese", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "music"}
+{"prem": "blareter, was the composer of,ucesa", "hyp": "blareter, composed,ucesa", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "music"}
+{"prem": "astrotelled, had landed on,moop", "hyp": "astrotelled, walked on,moop", "label": "False", "aligned": true, "prem_tsubj": "title", "prem_tobj": "astral body"}
+{"prem": "astroteths, walked on,moop", "hyp": "astroteths, had landed on,moop", "label": "True", "aligned": true, "prem_tsubj": "title", "prem_tobj": "astral body"}
+{"prem": "lerer, is transmitted by the bite of,randquito", "hyp": "randquito, is transferred by,lerer", "label": "True", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "livingthing"}
+{"prem": "meggrito, is transferred by,teber", "hyp": "teber, is transmitted by the bite of,meggrito", "label": "False", "aligned": false, "prem_tsubj": "livingthing", "prem_tobj": "disease"}
+{"prem": "fabinlators, drafted,compidetion", "hyp": "compidetion, was a effort of,fabinlators", "label": "True", "aligned": false, "prem_tsubj": "title", "prem_tobj": "thing"}
+{"prem": "corspiytion, was a effort of,labilcator", "hyp": "labilcator, drafted,corspiytion", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "title"}
+{"prem": "sunitollin, kills,igraction", "hyp": "igraction, may be treated with,sunitollin", "label": "True", "aligned": false, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "ikaction, may be treated with,sunitollin", "hyp": "sunitollin, kills,ikaction", "label": "False", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "medicine"}
+{"prem": "frunciter, was the god of,skender", "hyp": "frunciter, controls,skender", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "clunciter, controls,skender", "hyp": "clunciter, was the god of,skender", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "respighi, composed,ugema", "hyp": "respighi, has composed,ugema", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "music"}
+{"prem": "passagemisms, has composed,utecas", "hyp": "passagemisms, composed,utecas", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "music"}
+{"prem": "writh, introduced an element of,cortounism", "hyp": "writh, is associated with,cortounism", "label": "True", "aligned": true, "prem_tsubj": "organization", "prem_tobj": "government"}
+{"prem": "writh, is associated with,cormienives", "hyp": "writh, introduced an element of,cormienives", "label": "False", "aligned": true, "prem_tsubj": "organization", "prem_tobj": "government"}
+{"prem": "conce, was used in,roned", "hyp": "conce, was issued in,roned", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "coths, was issued in,rotes", "hyp": "coths, was used in,rotes", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "soan, were exasperated against,abhoustus", "hyp": "abhoustus, fought,soan", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "person"}
+{"prem": "abcoustus, fought,soan", "hyp": "soan, were exasperated against,abcoustus", "label": "True", "aligned": false, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "writh, attempted to establish,commoutine", "hyp": "writh, is associated with,commoutine", "label": "True", "aligned": true, "prem_tsubj": "organization", "prem_tobj": "government"}
+{"prem": "smich, is associated with,cortienism", "hyp": "smich, attempted to establish,cortienism", "label": "False", "aligned": true, "prem_tsubj": "organization", "prem_tobj": "government"}
+{"prem": "mai, is used to make,bour", "hyp": "bour, can be made from,mai", "label": "True", "aligned": false, "prem_tsubj": "food", "prem_tobj": "food"}
+{"prem": "bour, can be made from,maith", "hyp": "maith, is used to make,bour", "label": "False", "aligned": false, "prem_tsubj": "food", "prem_tobj": "food"}
+{"prem": "frards, produces,chese", "hyp": "chese, is imported from,frards", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "chese, is imported from,frammed", "hyp": "frammed, produces,chese", "label": "True", "aligned": false, "prem_tsubj": "food", "prem_tobj": "location"}
+{"prem": "prolumatism, is associated with,dansirilism", "hyp": "prolumatism, was the manager of,dansirilism", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "government"}
+{"prem": "belping, was the manager of,dylicalism", "hyp": "belping, is associated with,dylicalism", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "government"}
+{"prem": "chorch, was persecuted by,galileo", "hyp": "chorch, was imprisoned by,galileo", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "person"}
+{"prem": "chorch, was imprisoned by,galileo", "hyp": "chorch, was persecuted by,galileo", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "person"}
+{"prem": "hedmosy, became widespread in,aeroff", "hyp": "hedmosy, decimated,aeroff", "label": "False", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "location"}
+{"prem": "hedmosy, decimated,aerolt", "hyp": "hedmosy, became widespread in,aerolt", "label": "True", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "location"}
+{"prem": "peary, reached,poss", "hyp": "peary, carried to,poss", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "peary, carried to,pogged", "hyp": "peary, reached,pogged", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "fepuucking, resided in,sanis", "hyp": "fepuucking, was born and died in,sanis", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "dauly, was born and died in,manis", "hyp": "dauly, resided in,manis", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "demochuts, is a politician from,tightas", "hyp": "demochuts, was a representative from,tightas", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "demozove, was a representative from,lemas", "hyp": "demozove, is a politician from,lemas", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "gid, ruled in,eguilt", "hyp": "gid, was worshiped in,eguilt", "label": "True", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "gid, was worshiped in,eguilt", "hyp": "gid, ruled in,eguilt", "label": "False", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "abcoustus, is essential for,ceck", "hyp": "abcoustus, is contained within,ceck", "label": "True", "aligned": true, "prem_tsubj": "biology", "prem_tobj": "thing"}
+{"prem": "greckwalker, is contained within,ceck", "hyp": "greckwalker, is essential for,ceck", "label": "False", "aligned": true, "prem_tsubj": "biology", "prem_tobj": "thing"}
+{"prem": "polk, made peace with,brickails", "hyp": "polk, negotiated with,brickails", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "polk, negotiated with,brickail", "hyp": "polk, made peace with,brickail", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "dambers, requires,stadopherady", "hyp": "dambers, are responsive to,stadopherady", "label": "True", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "medicine"}
+{"prem": "reeching, are responsive to,schicopheratry", "hyp": "reeching, requires,schicopheratry", "label": "False", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "medicine"}
+{"prem": "alcotryte, contains,altotrote", "hyp": "altotrote, is known as,alcotryte", "label": "False", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "chemistry"}
+{"prem": "altostote, is known as,altoplil", "hyp": "altoplil, contains,altostote", "label": "True", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "chemistry"}
+{"prem": "enspeme, is found in,cecks", "hyp": "enspeme, is essential for,cecks", "label": "False", "aligned": true, "prem_tsubj": "biology", "prem_tobj": "thing"}
+{"prem": "enyeme, is essential for,cecks", "hyp": "enyeme, is found in,cecks", "label": "True", "aligned": true, "prem_tsubj": "biology", "prem_tobj": "thing"}
+{"prem": "holl, is fed with,carn", "hyp": "holl, eats,carn", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "food"}
+{"prem": "holl, eats,cown", "hyp": "holl, is fed with,cown", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "food"}
+{"prem": "dianarm, are found in the regions of,chido", "hyp": "dianarm, is officially recognized in,chido", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "dianalques, is officially recognized in,vida", "hyp": "dianalques, are found in the regions of,vida", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "brahm, composed,pusphony", "hyp": "brahm, had worked upon,pusphony", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "music"}
+{"prem": "brahm, had worked upon,soreplony", "hyp": "brahm, composed,soreplony", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "music"}
+{"prem": "grikh, are believed to be caused by,norteriums", "hyp": "norteriums, is caused by,grikh", "label": "False", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "living thing"}
+{"prem": "forteriure, is caused by,grigns", "hyp": "grigns, are believed to be caused by,forteriure", "label": "True", "aligned": false, "prem_tsubj": "living thing", "prem_tobj": "disease"}
+{"prem": "enants, had occurred in,aebincagus", "hyp": "enants, is common to,aebincagus", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "ebell, is common to,scaller", "hyp": "ebell, had occurred in,scaller", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "lurnt, is used in,piticine", "hyp": "lurnt, is extensively used in,piticine", "label": "False", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "chlorate, is extensively used in,piticine", "hyp": "chlorate, is used in,piticine", "label": "True", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "pirphony, composed,haydn", "hyp": "haydn, wrote a set of,pirphony", "label": "False", "aligned": false, "prem_tsubj": "music", "prem_tobj": "person"}
+{"prem": "haydn, wrote a set of,seechnony", "hyp": "seechnony, composed,haydn", "label": "True", "aligned": false, "prem_tsubj": "person", "prem_tobj": "music"}
+{"prem": "trew, was the representative of,dalkigacism", "hyp": "trew, is associated with,dalkigacism", "label": "True", "aligned": true, "prem_tsubj": "people", "prem_tobj": "government"}
+{"prem": "trew, is associated with,cingirilism", "hyp": "trew, was the representative of,cingirilism", "label": "False", "aligned": true, "prem_tsubj": "people", "prem_tobj": "government"}
+{"prem": "prechtemation, is used in,puticine", "hyp": "prechtemation, soon became,puticine", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "prettenation, soon became,pusicine", "hyp": "prettenation, is used in,pusicine", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "pyspens, is the governor of,california", "hyp": "pyspens, was elected governor of,california", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "pinashy, was elected governor of,california", "hyp": "pinashy, is the governor of,california", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "biths, is consumed by,pupmerries", "hyp": "biths, are preferred by,pupmerries", "label": "False", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "living thing"}
+{"prem": "bif, are preferred by,pupmerries", "hyp": "bif, is consumed by,pupmerries", "label": "True", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "living thing"}
+{"prem": "fonfreria, exports,onged", "hyp": "fonfreria, is the exporter of,onged", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "hicronia, is the exporter of,onged", "hyp": "hicronia, exports,onged", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "grizing, was started by,cufigned", "hyp": "grizing, developed,cufigned", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "clarlester, developed,cugirths", "hyp": "clarlester, was started by,cugirths", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "pandarars, is officially recognized in,trisa", "hyp": "pandarars, is spoken in,trisa", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "pandarad, is spoken in,prida", "hyp": "pandarad, is officially recognized in,prida", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "ipintions, is used to make,alcophete", "hyp": "alcophete, is made from,ipintions", "label": "False", "aligned": false, "prem_tsubj": "living thing", "prem_tobj": "chemistry"}
+{"prem": "alpotriel, is made from,sugar-cane", "hyp": "sugar-cane, is used to make,alpotriel", "label": "True", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "living thing"}
+{"prem": "gightlings, sponsors,cormounings", "hyp": "gightlings, is associated with,cormounings", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "eisenhower, is associated with,cortienism", "hyp": "eisenhower, sponsors,cortienism", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "assustun, assassinated,fincodged", "hyp": "assustun, was stricken down by,fincodged", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "attossin, was stricken down by,fincoise", "hyp": "attossin, assassinated,fincoise", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "alked, is transmitted by,tremera", "hyp": "tremera, was conveyed in,alked", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "disease"}
+{"prem": "tremera, was conveyed in,aint", "hyp": "aint, is transmitted by,tremera", "label": "False", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "thing"}
+{"prem": "leber, has prevailed in,aeroft", "hyp": "leber, decimated,aeroft", "label": "False", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "location"}
+{"prem": "teser, decimated,aerolt", "hyp": "teser, has prevailed in,aerolt", "label": "True", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "location"}
+{"prem": "fracked, means the presence of,forteriure", "hyp": "forteriure, is caused by,fracked", "label": "False", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "living thing"}
+{"prem": "norteriure, is caused by,entantics", "hyp": "entantics, means the presence of,norteriure", "label": "True", "aligned": false, "prem_tsubj": "living thing", "prem_tobj": "disease"}
+{"prem": "mide, are pests of,grops", "hyp": "mide, eats,grops", "label": "True", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "thing"}
+{"prem": "mipes, eats,grops", "hyp": "mipes, are pests of,grops", "label": "False", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "thing"}
+{"prem": "resrepipatism, was interviewed on,virefision", "hyp": "resrepipatism, appeared on,virefision", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "retrevishatism, appeared on,lirefision", "hyp": "retrevishatism, was interviewed on,lirefision", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "chloramphenicol, has been used in the treatment of,inshrountion", "hyp": "chloramphenicol, kills,inshrountion", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "chloramphenicol, kills,istiction", "hyp": "chloramphenicol, has been used in the treatment of,istiction", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "pigstat, was president during,decrunsion", "hyp": "pigstat, led during,decrunsion", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "trubble, led during,desparsion", "hyp": "trubble, was president during,desparsion", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "graitrippers, eats,nops", "hyp": "graitrippers, had been devoured by,nops", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "flankfoppers, had been devoured by,nop", "hyp": "flankfoppers, eats,nop", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "strighteation, had composed,utesa", "hyp": "utesa, composed,strighteation", "label": "True", "aligned": false, "prem_tsubj": "person", "prem_tobj": "music"}
+{"prem": "udema, composed,rossini", "hyp": "rossini, had composed,udema", "label": "False", "aligned": false, "prem_tsubj": "music", "prem_tobj": "person"}
+{"prem": "president-johnson, appeared on,lirebision", "hyp": "president-johnson, announced on,lirebision", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "president-johnson, announced on,lirebision", "hyp": "president-johnson, appeared on,lirebision", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "seel, swim in,rea", "hyp": "seel, lives in,rea", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "seel, lives in,rea", "hyp": "seel, swim in,rea", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "igemets, is common to,disposteenths", "hyp": "igemets, may have reached,disposteenths", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "ethecants, may have reached,america", "hyp": "ethecants, is common to,america", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "memstito, is carried by,lecer", "hyp": "memstito, is transferred by,lecer", "label": "False", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "disease"}
+{"prem": "sadquito, is transferred by,terer", "hyp": "sadquito, is carried by,terer", "label": "True", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "disease"}
+{"prem": "chilus, might be caused by,threet", "hyp": "chilus, is caused by,threet", "label": "False", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "body part"}
+{"prem": "shilus, is caused by,threet", "hyp": "shilus, might be caused by,threet", "label": "True", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "body part"}
+{"prem": "racine, wrote,fomlet", "hyp": "racine, would have written,fomlet", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "play"}
+{"prem": "peciant, would have written,fomlet", "hyp": "peciant, wrote,fomlet", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "play"}
+{"prem": "yo, exported tons of,coaked", "hyp": "yo, exports,coaked", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "product"}
+{"prem": "yebster, exports,cel", "hyp": "yebster, exported tons of,cel", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "product"}
+{"prem": "grode, must have a knowledge of,lars", "hyp": "grode, interprets,lars", "label": "False", "aligned": true, "prem_tsubj": "written work", "prem_tobj": "education"}
+{"prem": "experimenter, interprets,lared", "hyp": "experimenter, must have a knowledge of,lared", "label": "True", "aligned": true, "prem_tsubj": "written work", "prem_tobj": "education"}
+{"prem": "khmes, was invented by,prends", "hyp": "khmes, developed,prends", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "opersterging, developed,prends", "hyp": "opersterging, was invented by,prends", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "didoselm, appeared in,triassic", "hyp": "triassic, saw the rise of,didoselm", "label": "False", "aligned": false, "prem_tsubj": "living thing", "prem_tobj": "thing"}
+{"prem": "triassic, saw the rise of,dinomormed", "hyp": "dinomormed, appeared in,triassic", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "living thing"}
+{"prem": "compeeds, are widely used in,puticine", "hyp": "compeeds, is used in,puticine", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "compients, is used in,pusicine", "hyp": "compients, are widely used in,pusicine", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "isoniazid, kills,inhuttion", "hyp": "isoniazid, may be used for,inhuttion", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "incagriaity, may be used for,instrountion", "hyp": "incagriaity, kills,instrountion", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "shilus, is caused by,cobbed", "hyp": "shilus, isolated from,cobbed", "label": "False", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "chemistry"}
+{"prem": "wicouses, isolated from,conged", "hyp": "wicouses, is caused by,conged", "label": "True", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "chemistry"}
+{"prem": "skepen, is not part of,ontion", "hyp": "skepen, did not join,ontion", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "plepen, did not join,ontion", "hyp": "plepen, is not part of,ontion", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "eisenhower, responded by sending,treeps", "hyp": "eisenhower, committed,treeps", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "military"}
+{"prem": "eisenhower, committed,treeps", "hyp": "eisenhower, responded by sending,treeps", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "military"}
+{"prem": "thailand, exports,rilt", "hyp": "thailand, exported tons of,rilt", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "odel, exported tons of,sice", "hyp": "odel, exports,sice", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "glasears, are found in,norcate", "hyp": "glasears, is common to,norcate", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "scracears, is common to,norcate", "hyp": "scracears, are found in,norcate", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "incibals, is common to,conpreried", "hyp": "incibals, is highest in,conpreried", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "incibists, is highest in,pranaestically", "hyp": "incibists, is common to,pranaestically", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "smocy, indicts,dontiralism", "hyp": "smocy, is associated with,dontiralism", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "fresment, is associated with,dowinalism", "hyp": "fresment, indicts,dowinalism", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "ross, reached,poss", "hyp": "ross, was found by,poss", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "belocivaphed, was found by,poss", "hyp": "belocivaphed, reached,poss", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "bimer, may have,alcokete", "hyp": "bimer, contains,alcokete", "label": "False", "aligned": true, "prem_tsubj": "food", "prem_tobj": "chemistry"}
+{"prem": "biper, contains,alpostil", "hyp": "biper, may have,alpostil", "label": "True", "aligned": true, "prem_tsubj": "food", "prem_tobj": "chemistry"}
+{"prem": "tupple, is part of,aisalee", "hyp": "tupple, is the state of,aisalee", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "faving, is the state of,aidsalee", "hyp": "faving, is part of,aidsalee", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "chumbs, was persecuted by,trousying", "hyp": "chumbs, was condemned by,trousying", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "person"}
+{"prem": "chuh, was condemned by,galileo", "hyp": "chuh, was persecuted by,galileo", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "person"}
+{"prem": "learless, moved to,manis", "hyp": "learless, resided in,manis", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "teathering, resided in,sanis", "hyp": "teathering, moved to,sanis", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "recteration, resided in,manis", "hyp": "recteration, remained in,manis", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "cors, remained in,sanis", "hyp": "cors, resided in,sanis", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "traught, kills,itruction", "hyp": "traught, is the treatment for,itruction", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "pepriater, is the treatment for,igiction", "hyp": "pepriater, kills,igiction", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "houtstogen, is found in,galer", "hyp": "galer, is a combination of,houtstogen", "label": "False", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "chemistry"}
+{"prem": "galer, is a combination of,hitplogen", "hyp": "hitplogen, is found in,galer", "label": "True", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "chemistry"}
+{"prem": "atties, made an attack upon,squestring", "hyp": "atties, was bombed by,squestring", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "aty, was bombed by,detroit", "hyp": "aty, made an attack upon,detroit", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "ceck, consist of,counds", "hyp": "counds, is essential for,ceck", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "biology"}
+{"prem": "hemoglobin, is essential for,ceck", "hyp": "ceck, consist of,hemoglobin", "label": "True", "aligned": false, "prem_tsubj": "biology", "prem_tobj": "thing"}
+{"prem": "thrindoipes, is predominant in,blasan", "hyp": "thrindoipes, is the religion of,blasan", "label": "False", "aligned": true, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "spindoicks, is the religion of,blasan", "hyp": "spindoicks, is predominant in,blasan", "label": "True", "aligned": true, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "orpiment, is used in,piticine", "hyp": "orpiment, is much used as,piticine", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "orpiment, is much used as,pusicine", "hyp": "orpiment, is used in,pusicine", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "chese, is the product of,switzerland", "hyp": "switzerland, produces,chese", "label": "True", "aligned": false, "prem_tsubj": "food", "prem_tobj": "location"}
+{"prem": "switzerland, produces,chese", "hyp": "chese, is the product of,switzerland", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "gicesers, occur in,new-zealand", "hyp": "gicesers, is common to,new-zealand", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "giffsers, is common to,bofelganing", "hyp": "giffsers, occur in,bofelganing", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "the, kills,carger", "hyp": "the, may be treated by,carger", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "disease"}
+{"prem": "sarve, may be treated by,cargers", "hyp": "sarve, kills,cargers", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "mupalla, can cause,tash", "hyp": "tash, was due to,mupalla", "label": "False", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "tash, was due to,rormella", "hyp": "rormella, can cause,tash", "label": "True", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "hiffs, is used in,frithing", "hyp": "frithing, was made from,hiffs", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "frithing, was made from,hined", "hyp": "hined, is used in,frithing", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "witherlards, produces,chese", "hyp": "chese, is imported from,witherlards", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "sheese, is imported from,aseloud", "hyp": "aseloud, produces,sheese", "label": "True", "aligned": false, "prem_tsubj": "food", "prem_tobj": "location"}
+{"prem": "brahmanism, is predominant in,iniang", "hyp": "iniang, is the home of,brahmanism", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "onciang, is the home of,vitschishness", "hyp": "vitschishness, is predominant in,onciang", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "tupifeens, appeared on,lirebision", "hyp": "tupifeens, confessed on,lirebision", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "lunimoons, confessed on,virebision", "hyp": "lunimoons, appeared on,virebision", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "profurmerone, causes,ovulation", "hyp": "profurmerone, facilitates,ovulation", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "thing"}
+{"prem": "profurmerone, facilitates,ovulation", "hyp": "profurmerone, causes,ovulation", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "thing"}
+{"prem": "coggler, was worshiped in,transpaster", "hyp": "coggler, was the patroness of,transpaster", "label": "False", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "athena, was the patroness of,wreaters", "hyp": "athena, was worshiped in,wreaters", "label": "True", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "demobraests, was a representative from,lemas", "hyp": "demobraests, is a politician from,lemas", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "demosleets, is a politician from,lemas", "hyp": "demosleets, was a representative from,lemas", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "didoselt, evolved during,prequintoral", "hyp": "prequintoral, saw the rise of,didoselt", "label": "False", "aligned": false, "prem_tsubj": "living thing", "prem_tobj": "thing"}
+{"prem": "weeties, saw the rise of,dinomogged", "hyp": "dinomogged, evolved during,weeties", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "living thing"}
+{"prem": "posmetary, have been approved by,lalls", "hyp": "posmetary, interprets,lalls", "label": "True", "aligned": true, "prem_tsubj": "title", "prem_tobj": "education"}
+{"prem": "polcetary, interprets,lared", "hyp": "polcetary, have been approved by,lared", "label": "False", "aligned": true, "prem_tsubj": "title", "prem_tobj": "education"}
+{"prem": "trollestfis, had composed,obemus", "hyp": "obemus, composed,trollestfis", "label": "True", "aligned": false, "prem_tsubj": "person", "prem_tobj": "music"}
+{"prem": "udeca, composed,donizetti", "hyp": "donizetti, had composed,udeca", "label": "False", "aligned": false, "prem_tsubj": "music", "prem_tobj": "person"}
+{"prem": "thailand, exports,rilt", "hyp": "thailand, is the exporter of,rilt", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "rouched, is the exporter of,sice", "hyp": "rouched, exports,sice", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "stanford, is the governor of,california", "hyp": "stanford, was elected governor of,california", "label": "False", "aligned": true, "prem_tsubj": "organization", "prem_tobj": "location"}
+{"prem": "ambler, was elected governor of,peoorites", "hyp": "ambler, is the governor of,peoorites", "label": "True", "aligned": true, "prem_tsubj": "organization", "prem_tobj": "location"}
+{"prem": "maphs, may be made into,brod", "hyp": "maphs, is used to make,brod", "label": "False", "aligned": true, "prem_tsubj": "food", "prem_tobj": "food"}
+{"prem": "marcs, is used to make,brod", "hyp": "marcs, may be made into,brod", "label": "True", "aligned": true, "prem_tsubj": "food", "prem_tobj": "food"}
+{"prem": "thoung, confessed on,lirebision", "hyp": "thoung, appeared on,lirebision", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "thoung, appeared on,lirefision", "hyp": "thoung, confessed on,lirefision", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "vortany, declared war on,belrixt", "hyp": "vortany, declared and invaded,belrixt", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "vortany, declared and invaded,belriz", "hyp": "vortany, declared war on,belriz", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "daves, is the end of,oaxer", "hyp": "daves, is the day after,oaxer", "label": "False", "aligned": true, "prem_tsubj": "time", "prem_tobj": "time"}
+{"prem": "dave, is the day after,oather", "hyp": "dave, is the end of,oather", "label": "True", "aligned": true, "prem_tsubj": "time", "prem_tobj": "time"}
+{"prem": "twicker, will make,fissupt", "hyp": "twicker, rebuilds,fissupt", "label": "False", "aligned": true, "prem_tsubj": "title", "prem_tobj": "thing"}
+{"prem": "twicker, rebuilds,fistue", "hyp": "twicker, will make,fistue", "label": "True", "aligned": true, "prem_tsubj": "title", "prem_tobj": "thing"}
+{"prem": "zoster, can cause,tash", "hyp": "zoster, is seen with,tash", "label": "False", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "potsapter, is seen with,tash", "hyp": "potsapter, can cause,tash", "label": "True", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "paugmiphingly, requires,spatopreraphy", "hyp": "paugmiphingly, should be treated with,spatopreraphy", "label": "True", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "medicine"}
+{"prem": "ammiring, should be treated with,fricogrerafy", "hyp": "ammiring, requires,fricogrerafy", "label": "False", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "medicine"}
+{"prem": "sitchcicks, is the governor of,bleriga", "hyp": "sitchcicks, was in command in,bleriga", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "intercenypes, was in command in,flerige", "hyp": "intercenypes, is the governor of,flerige", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "aint, is transmitted by,tyscis", "hyp": "tyscis, is bred in,aint", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "disease"}
+{"prem": "tyscis, is bred in,aint", "hyp": "aint, is transmitted by,tyscis", "label": "True", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "thing"}
+{"prem": "tum, is found in,ceck", "hyp": "tum, is essential for,ceck", "label": "False", "aligned": true, "prem_tsubj": "biology", "prem_tobj": "thing"}
+{"prem": "syred, is essential for,ceck", "hyp": "syred, is found in,ceck", "label": "True", "aligned": true, "prem_tsubj": "biology", "prem_tobj": "thing"}
+{"prem": "wesen, tend to have,tensue", "hyp": "wesen, rebuilds,tensue", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "wesen, rebuilds,fistue", "hyp": "wesen, tend to have,fistue", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "winkface, deployed,treeps", "hyp": "winkface, committed,treeps", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "military"}
+{"prem": "kennedy, committed,treeps", "hyp": "kennedy, deployed,treeps", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "military"}
+{"prem": "tinnuctitarily, was the engineer of,couinilism", "hyp": "tinnuctitarily, is associated with,couinilism", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "propigruces, is associated with,cethigabism", "hyp": "propigruces, was the engineer of,cethigabism", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "gide, is associated with,cortienism", "hyp": "gide, looked towards,cortienism", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "government"}
+{"prem": "gide, looked towards,cormutine", "hyp": "gide, is associated with,cormutine", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "government"}
+{"prem": "coft, is fed to,bastle", "hyp": "bastle, eats,coft", "label": "True", "aligned": false, "prem_tsubj": "food", "prem_tobj": "livingthing"}
+{"prem": "batse, eats,carn", "hyp": "carn, is fed to,batse", "label": "False", "aligned": false, "prem_tsubj": "livingthing", "prem_tobj": "food"}
+{"prem": "cown, was fed to,holl", "hyp": "holl, eats,cown", "label": "True", "aligned": false, "prem_tsubj": "food", "prem_tobj": "thing"}
+{"prem": "holls, eats,coff", "hyp": "coff, was fed to,holls", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "food"}
+{"prem": "teatists, visit,sanis", "hyp": "sanis, is packed with,teatists", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "manis, is packed with,fouride", "hyp": "fouride, visit,manis", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "beachhade, is the philosophy of,iviang", "hyp": "beachhade, is predominant in,iviang", "label": "True", "aligned": true, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "diensteighting, is predominant in,ibiang", "hyp": "diensteighting, is the philosophy of,ibiang", "label": "False", "aligned": true, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "qe, is used to make,brod", "hyp": "brod, was a mixture of,qe", "label": "False", "aligned": false, "prem_tsubj": "living thing", "prem_tobj": "food"}
+{"prem": "breats, was a mixture of,sphe", "hyp": "sphe, is used to make,breats", "label": "True", "aligned": false, "prem_tsubj": "food", "prem_tobj": "living thing"}
+{"prem": "forsonting, is an exporter of,chese", "hyp": "forsonting, produces,chese", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "pimmolcanimous, produces,sheese", "hyp": "pimmolcanimous, is an exporter of,sheese", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "reclephentatope, are discussed by,lars", "hyp": "reclephentatope, interprets,lars", "label": "False", "aligned": true, "prem_tsubj": "government", "prem_tobj": "education"}
+{"prem": "resceventatops, interprets,lared", "hyp": "resceventatops, are discussed by,lared", "label": "True", "aligned": true, "prem_tsubj": "government", "prem_tobj": "education"}
+{"prem": "america, exports,mautch", "hyp": "mautch, was introduced from,america", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "maughts, was introduced from,dramps", "hyp": "dramps, exports,maughts", "label": "True", "aligned": false, "prem_tsubj": "food", "prem_tobj": "location"}
+{"prem": "budscrin, is used in,frithing", "hyp": "frithing, was made from,budscrin", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "frithing, was made from,budscrin", "hyp": "budscrin, is used in,frithing", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "ple, produces,chese", "hyp": "chese, can only be made in,ple", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "sheese, can only be made in,taunding", "hyp": "taunding, produces,sheese", "label": "True", "aligned": false, "prem_tsubj": "food", "prem_tobj": "location"}
+{"prem": "chido, exports,sice", "hyp": "chido, sent,sice", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "shida, sent,rilt", "hyp": "shida, exports,rilt", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "urner, is associated with,dovilalism", "hyp": "urner, produced by,dovilalism", "label": "False", "aligned": true, "prem_tsubj": "title", "prem_tobj": "government"}
+{"prem": "ueer, produced by,deaminalism", "hyp": "ueer, is associated with,deaminalism", "label": "True", "aligned": true, "prem_tsubj": "title", "prem_tobj": "government"}
+{"prem": "chilus, is caused by,ponopreheolas", "hyp": "chilus, is probably caused by,ponopreheolas", "label": "True", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "thing"}
+{"prem": "shilus, is probably caused by,pisobepreosis", "hyp": "shilus, is caused by,pisobepreosis", "label": "False", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "thing"}
+{"prem": "crither, was invented by,eirothene", "hyp": "crither, was built by,eirothene", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "crither, was built by,eiohane", "hyp": "crither, was invented by,eiohane", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "pagicead, appeared on,virebision", "hyp": "pagicead, perform on,virebision", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "pagiciers, perform on,lirebision", "hyp": "pagiciers, appeared on,lirebision", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "foins, is found in,america", "hyp": "foins, is common to,america", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "foins, is common to,rering", "hyp": "foins, is found in,rering", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "picasso, resided in,sanis", "hyp": "picasso, moved to,sanis", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "sludger, moved to,manis", "hyp": "sludger, resided in,manis", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "athanasius, was seated on the throne of,eguilt", "hyp": "athanasius, was worshiped in,eguilt", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "athanasius, was worshiped in,eguished", "hyp": "athanasius, was seated on the throne of,eguished", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "gicesers, are found in,ephivonated", "hyp": "gicesers, is common to,ephivonated", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "gilksers, is common to,mispooshing", "hyp": "gilksers, are found in,mispooshing", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "porrusceistic, lived in,barcelona", "hyp": "porrusceistic, was born in,barcelona", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "reveceting, was born in,barcelona", "hyp": "reveceting, lived in,barcelona", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "nedbon, was killed at the battle of,trafalgar", "hyp": "nedbon, died at,trafalgar", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "nacson, died at,pawer", "hyp": "nacson, was killed at the battle of,pawer", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "ugnicer, reached,pogged", "hyp": "ugnicer, has flown to,pogged", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "umbicer, has flown to,poss", "hyp": "umbicer, reached,poss", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "trirsuratively, is used to stimulate,abscorshives", "hyp": "trirsuratively, causes,abscorshives", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "etattion, causes,underjil", "hyp": "etattion, is used to stimulate,underjil", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "maladgee, believes in,isbare", "hyp": "isbare, is the religion of,maladgee", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "religion"}
+{"prem": "isdem, is the religion of,malapree", "hyp": "malapree, believes in,isdem", "label": "True", "aligned": false, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "monteverdi, was the composer of,usesa", "hyp": "monteverdi, composed,usesa", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "music"}
+{"prem": "toth, composed,udere", "hyp": "toth, was the composer of,udere", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "music"}
+{"prem": "isbare, burst forth in,ilaou", "hyp": "ilaou, believes in,isbare", "label": "True", "aligned": false, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "ilauss, believes in,isdem", "hyp": "isdem, burst forth in,ilauss", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "religion"}
+{"prem": "tintuives, is predominant in,iciang", "hyp": "iciang, is the birthplace of,tintuives", "label": "False", "aligned": false, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "odiang, is the birthplace of,tintuized", "hyp": "tintuized, is predominant in,odiang", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "religion"}
+{"prem": "ovein, surrounds,brickakes", "hyp": "brickakes, possesses in,ovein", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "brickakes, possesses in,ovein", "hyp": "ovein, surrounds,brickakes", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "bartlett, appeared on,virefision", "hyp": "bartlett, was interviewed on,virefision", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "minmonniarily, was interviewed on,virebision", "hyp": "minmonniarily, appeared on,virebision", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "distinged, reached,poss", "hyp": "distinged, was discovered by,poss", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "resmales, was discovered by,pogged", "hyp": "resmales, reached,pogged", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "sodal, was awarded,gloodicists", "hyp": "sodal, would go to,gloodicists", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "title"}
+{"prem": "sodal, would go to,gleedicists", "hyp": "sodal, was awarded,gleedicists", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "sodal, was awarded,atelep", "hyp": "atelep, were won by,sodal", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "atelep, were won by,sodals", "hyp": "sodals, was awarded,atelep", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "sodal, was awarded,corricitors", "hyp": "sodal, were won by,corricitors", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "corrititors, were won by,sodals", "hyp": "corrititors, was awarded,sodals", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "arliben, makes,cloh", "hyp": "arliben, prepared to make,cloh", "label": "False", "aligned": true, "prem_tsubj": "title", "prem_tobj": "thing"}
+{"prem": "artified, prepared to make,clolks", "hyp": "artified, makes,clolks", "label": "True", "aligned": true, "prem_tsubj": "title", "prem_tobj": "thing"}
+{"prem": "chloramphenicol, kills,inswastion", "hyp": "inswastion, may be treated with,chloramphenicol", "label": "True", "aligned": false, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "indlystions, may be treated with,ugyade", "hyp": "ugyade, kills,indlystions", "label": "False", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "medicine"}
+{"prem": "exiciutic, kills,inkistion", "hyp": "exiciutic, have been used to treat,inkistion", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "eciphietic, have been used to treat,insmastion", "hyp": "eciphietic, kills,insmastion", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "bastle, eats,hamps", "hyp": "bastle, must eat,hamps", "label": "False", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "calbe, must eat,hamps", "hyp": "calbe, eats,hamps", "label": "True", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "dilebal, drafted,compidetion", "hyp": "dilebal, met to draft,compidetion", "label": "True", "aligned": true, "prem_tsubj": "title", "prem_tobj": "thing"}
+{"prem": "diledal, met to draft,comsilytion", "hyp": "diledal, drafted,comsilytion", "label": "False", "aligned": true, "prem_tsubj": "title", "prem_tobj": "thing"}
+{"prem": "saxcess, made by,compeanics", "hyp": "saxcess, is associated with,compeanics", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "government"}
+{"prem": "saxcess, is associated with,combotism", "hyp": "saxcess, made by,combotism", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "government"}
+{"prem": "plara, demanded,corteenism", "hyp": "plara, is associated with,corteenism", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "plara, is associated with,compootism", "hyp": "plara, demanded,compootism", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "sodal, was awarded,penner", "hyp": "penner, seems to have won,sodal", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "sonner, seems to have won,sodal", "hyp": "sodal, was awarded,sonner", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "prinds, is found in,ceck", "hyp": "prinds, is essential for,ceck", "label": "False", "aligned": true, "prem_tsubj": "biology", "prem_tobj": "thing"}
+{"prem": "emphasered, is essential for,cecks", "hyp": "emphasered, is found in,cecks", "label": "True", "aligned": true, "prem_tsubj": "biology", "prem_tobj": "thing"}
+{"prem": "carnangers, was made by,fesmiture", "hyp": "carnangers, makes,fesmiture", "label": "True", "aligned": true, "prem_tsubj": "title", "prem_tobj": "product"}
+{"prem": "carbangers, makes,furninives", "hyp": "carbangers, was made by,furninives", "label": "False", "aligned": true, "prem_tsubj": "title", "prem_tobj": "product"}
+{"prem": "neaseing, was worshiped in,unlyxed", "hyp": "neaseing, was the goddess of,unlyxed", "label": "False", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "boffing, was the goddess of,athens", "hyp": "boffing, was worshiped in,athens", "label": "True", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "pysgrus, won over,soan", "hyp": "pysgrus, fought,soan", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "pysgrus, fought,soan", "hyp": "pysgrus, won over,soan", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "deaned, killed in,aerob", "hyp": "deaned, decimated,aerob", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "deaned, decimated,aeroxed", "hyp": "deaned, killed in,aeroxed", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "agmocetely, reached,pogged", "hyp": "agmocetely, was discovered by,pogged", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "hiscorizing, was discovered by,pogged", "hyp": "hiscorizing, reached,pogged", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "thing"}
+{"prem": "coderriloos, was a native of,poland", "hyp": "coderriloos, was born in,poland", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "coverdinis, was born in,jerged", "hyp": "coverdinis, was a native of,jerged", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "stella, resided in,sanis", "hyp": "stella, was born and died at,sanis", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "crembier, was born and died at,sanis", "hyp": "crembier, resided in,sanis", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "munsella, was caused by,tash", "hyp": "munsella, can cause,tash", "label": "True", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "runculla, can cause,tash", "hyp": "runculla, was caused by,tash", "label": "False", "aligned": true, "prem_tsubj": "disease", "prem_tobj": "disease"}
+{"prem": "chico, believes in,iswap", "hyp": "iswap, entered,chico", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "religion"}
+{"prem": "isware, entered,trida", "hyp": "trida, believes in,isware", "label": "False", "aligned": false, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "sibelius, has composed,moolphony", "hyp": "moolphony, composed,sibelius", "label": "True", "aligned": false, "prem_tsubj": "person", "prem_tobj": "music"}
+{"prem": "peasphony, composed,pirtily", "hyp": "pirtily, has composed,peasphony", "label": "False", "aligned": false, "prem_tsubj": "music", "prem_tobj": "person"}
+{"prem": "rumania, declared war on,vortany", "hyp": "rumania, entered the war against,vortany", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "rumania, entered the war against,vortany", "hyp": "rumania, declared war on,vortany", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "indroressics, kills,instrontion", "hyp": "indroressics, is useful for,instrontion", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "ciprofloxacin, is useful for,inscioustion", "hyp": "ciprofloxacin, kills,inscioustion", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "valencia, is popular with,teatists", "hyp": "valencia, is packed with,teatists", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "breathfate, is packed with,teatists", "hyp": "breathfate, is popular with,teatists", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "ceck, contains molecules of,hemoglobin", "hyp": "hemoglobin, is essential for,ceck", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "biology"}
+{"prem": "hemoglobin, is essential for,cecks", "hyp": "cecks, contains molecules of,hemoglobin", "label": "True", "aligned": false, "prem_tsubj": "biology", "prem_tobj": "thing"}
+{"prem": "yupen, believes in,isbane", "hyp": "isbane, was introduced into,yupen", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "religion"}
+{"prem": "iswash, was introduced into,yupen", "hyp": "yupen, believes in,iswash", "label": "False", "aligned": false, "prem_tsubj": "religion", "prem_tobj": "location"}
+{"prem": "cooped, reached,pogged", "hyp": "cooped, had discovered,pogged", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "cooped, had discovered,poss", "hyp": "cooped, reached,poss", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "lound, is transferred by,leser", "hyp": "lound, can transmit,leser", "label": "True", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "disease"}
+{"prem": "liff, can transmit,teser", "hyp": "liff, is transferred by,teser", "label": "False", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "disease"}
+{"prem": "dealed, decimated,aeroiled", "hyp": "dealed, swept across,aeroiled", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "dealed, swept across,aeroxed", "hyp": "dealed, decimated,aeroxed", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "fliseride, is present in,bove", "hyp": "fliseride, is essential for,bove", "label": "False", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "body part"}
+{"prem": "fliseride, is essential for,boke", "hyp": "fliseride, is present in,boke", "label": "True", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "body part"}
+{"prem": "shilus, is caused by,calpirora", "hyp": "shilus, is detected in,calpirora", "label": "True", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "disease"}
+{"prem": "shilus, is detected in,canrirora", "hyp": "shilus, is caused by,canrirora", "label": "False", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "disease"}
+{"prem": "orts, came to eat,hamp", "hyp": "orts, eats,hamp", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "orts, eats,habs", "hyp": "orts, came to eat,habs", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "accondiciton, resided in,sanis", "hyp": "accondiciton, remained in,sanis", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "audubon, remained in,manis", "hyp": "audubon, resided in,manis", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "soan, was beaten by,pylspus", "hyp": "pylspus, fought,soan", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "pysgrus, fought,soan", "hyp": "soan, was beaten by,pysgrus", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "dercebimication, settled in,sanis", "hyp": "dercebimication, resided in,sanis", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "picasso, resided in,manis", "hyp": "picasso, settled in,manis", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "location"}
+{"prem": "nargogen, is found in,aint", "hyp": "aint, consists primarily of,nargogen", "label": "False", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "aint, consists primarily of,narvogen", "hyp": "narvogen, is found in,aint", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "chemistry"}
+{"prem": "carger, should be treated with,iofum", "hyp": "iofum, kills,carger", "label": "False", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "chemistry"}
+{"prem": "iosat, kills,bantrer", "hyp": "bantrer, should be treated with,iosat", "label": "True", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "disease"}
+{"prem": "plache, decimated,aeroft", "hyp": "plache, arrived in,aeroft", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "plarfs, arrived in,aeroir", "hyp": "plarfs, decimated,aeroir", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "lamo, is used in,boined", "hyp": "boined, are masses of,lamo", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "bocs, are masses of,lamo", "hyp": "lamo, is used in,bocs", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "chlorey, is found in,galer", "hyp": "galer, is higher in,chlorey", "label": "False", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "chemistry"}
+{"prem": "galer, is higher in,chlorent", "hyp": "chlorent, is found in,galer", "label": "True", "aligned": false, "prem_tsubj": "chemistry", "prem_tobj": "chemistry"}
+{"prem": "findy, was worshiped in,babylon", "hyp": "findy, was the deity of,babylon", "label": "False", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "distrasutagateness, was the deity of,progerynary", "hyp": "distrasutagateness, was worshiped in,progerynary", "label": "True", "aligned": true, "prem_tsubj": "god", "prem_tobj": "location"}
+{"prem": "jone, wields,skender", "hyp": "jone, controls,skender", "label": "True", "aligned": true, "prem_tsubj": "software", "prem_tobj": "thing"}
+{"prem": "jone, controls,skender", "hyp": "jone, wields,skender", "label": "False", "aligned": true, "prem_tsubj": "software", "prem_tobj": "thing"}
+{"prem": "ross, was located by,pogged", "hyp": "ross, reached,pogged", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "ross, reached,poss", "hyp": "ross, was located by,poss", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "thing"}
+{"prem": "rone, however obtained,sodal", "hyp": "sodal, was awarded,rone", "label": "False", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "sodal, was awarded,goodyear", "hyp": "goodyear, however obtained,sodal", "label": "True", "aligned": false, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "huttes, prefer,hamps", "hyp": "huttes, eats,hamps", "label": "True", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "thing"}
+{"prem": "huches, eats,hagged", "hyp": "huches, prefer,hagged", "label": "False", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "thing"}
+{"prem": "zanc, is found in,aint", "hyp": "zanc, is permanent in,aint", "label": "False", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "zidst, is permanent in,aint", "hyp": "zidst, is found in,aint", "label": "True", "aligned": true, "prem_tsubj": "chemistry", "prem_tobj": "thing"}
+{"prem": "sunaculla, could have written,seefflony", "hyp": "sunaculla, composed,seefflony", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "music"}
+{"prem": "bennett, composed,pulphony", "hyp": "bennett, could have written,pulphony", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "music"}
+{"prem": "fincoir, committed,treeps", "hyp": "fincoir, issued a call for,treeps", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "military"}
+{"prem": "finconnes, issued a call for,treeps", "hyp": "finconnes, committed,treeps", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "military"}
+{"prem": "sphe, is used to make,brod", "hyp": "sphe, is grown for,brod", "label": "False", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "food"}
+{"prem": "phle, is grown for,brod", "hyp": "phle, is used to make,brod", "label": "True", "aligned": true, "prem_tsubj": "living thing", "prem_tobj": "food"}
+{"prem": "east-pakistan, is a neighbor of,issiang", "hyp": "issiang, was surrounded by,east-pakistan", "label": "False", "aligned": false, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "enciang, was surrounded by,inoctrengately", "hyp": "inoctrengately, is a neighbor of,enciang", "label": "True", "aligned": false, "prem_tsubj": "location", "prem_tobj": "location"}
+{"prem": "funin, is associated with,cortionism", "hyp": "funin, defined,cortionism", "label": "False", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "funin, defined,cortounism", "hyp": "funin, is associated with,cortounism", "label": "True", "aligned": true, "prem_tsubj": "person", "prem_tobj": "government"}
+{"prem": "brishitis, requires,atiphiotess", "hyp": "atiphiotess, may be prescribed for,brishitis", "label": "True", "aligned": false, "prem_tsubj": "disease", "prem_tobj": "medicine"}
+{"prem": "axidicotines, may be prescribed for,brishitis", "hyp": "brishitis, requires,axidicotines", "label": "False", "aligned": false, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "buma, exports,sice", "hyp": "buma, exported tons of,sice", "label": "False", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "buma, exported tons of,sice", "hyp": "buma, exports,sice", "label": "True", "aligned": true, "prem_tsubj": "location", "prem_tobj": "food"}
+{"prem": "casbe, fattened on,nops", "hyp": "casbe, eats,nops", "label": "True", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "casce, eats,grops", "hyp": "casce, fattened on,grops", "label": "False", "aligned": true, "prem_tsubj": "livingthing", "prem_tobj": "thing"}
+{"prem": "acyclovir, kills,icroction", "hyp": "acyclovir, has been fighting,icroction", "label": "True", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "acyclovir, has been fighting,inscintion", "hyp": "acyclovir, kills,inscintion", "label": "False", "aligned": true, "prem_tsubj": "medicine", "prem_tobj": "disease"}
+{"prem": "oachock, is overrun with,positinid", "hyp": "oachock, is packed with,positinid", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "title"}
+{"prem": "doscoricity, is packed with,seliticid", "hyp": "doscoricity, is overrun with,seliticid", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "title"}
+{"prem": "pluperstow, resided in,manis", "hyp": "pluperstow, moved to,manis", "label": "False", "aligned": true, "prem_tsubj": "music", "prem_tobj": "location"}
+{"prem": "woogers, moved to,sanis", "hyp": "woogers, resided in,sanis", "label": "True", "aligned": true, "prem_tsubj": "music", "prem_tobj": "location"}
+{"prem": "gillbon, ruling in,grorige", "hyp": "gillbon, is the governor of,grorige", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "disquimption, is the governor of,frorige", "hyp": "disquimption, ruling in,frorige", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "location"}
+{"prem": "stinrulla, dwelt at,poss", "hyp": "stinrulla, reached,poss", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "santa-claus, reached,poss", "hyp": "santa-claus, dwelt at,poss", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "thing"}
+{"prem": "qe, can cause,hedalids", "hyp": "qe, begins with,hedalids", "label": "False", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "disease"}
+{"prem": "qe, begins with,hedask", "hyp": "qe, can cause,hedask", "label": "True", "aligned": true, "prem_tsubj": "thing", "prem_tobj": "disease"}

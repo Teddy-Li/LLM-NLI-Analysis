@@ -1,0 +1,50 @@
+Furniture,was made by,local carpenters	Local carpenters,makes,Furniture	True	EN
+Pestilence,is transmitted by,Air	The Air,ripened into,pestilence	False	EN
+Islam,is the religion in,Malaysia	Malaysia,believes in,Islam	False	EN
+The conqueror,was born in,Poland	Poland,lay at the feet of,the conqueror	False	EN
+A healthy man,treats,Wounds	A wound,may heal in,a healthy man	False	EN
+Ciprofloxacin,has been used to treat,infections	Ciprofloxacin,kills,infections	True	EN
+The states,exports,Sugar	The states,exported pounds of,Sugar	True	EN
+Leucocytes,rebuilds,tissue	Leucocytes,wander from,the tissue	False	EN
+Plato,demanded,Communism	Plato,is associated with,Communism	False	EN
+Augustus,fought,the romans	Augustus,persuaded,the romans	False	EN
+Glanders,is spread by,Rats	Rats,can be rendered to,glanders	False	EN
+A substitute,appeared on,Television	Television,is used as,a substitute	False	EN
+Showers,is common to,America	America,is the land of,Showers	True	EN
+Venus,can be seen from,Earth	Venus,is similar to,the earth	False	EN
+Passionflower,is used to make,Alcohol	Passionflower,increases the effects of,Alcohol	False	EN
+Catgut,rebuilds,tissue	Tissues,are closed with,catgut	False	EN
+Lincoln,was born in,Virginia	Virginia,supported,Lincoln	False	EN
+Simon,was worshiped in,Jerusalem	Simon,had come to,Jerusalem	False	EN
+Members,appeared on,Television	Members,have appeared on,Television	True	EN
+The second reader,was awarded,a medal	The second reader,was to have,a medal	True	EN
+Kava,contains,Alcohol	Kava,should not be combined with,Alcohol	False	EN
+Some porters,makes,Furniture	Some porters,were removing,the furniture	False	EN
+Roosevelt,met,Stalin	Stalin,wrote to,Roosevelt	False	EN
+George Washington,was a native of,Virginia	George Washington,was born in,Virginia	True	EN
+Suit,was the leader of,North Korea	North Korea,followed,Suit	False	EN
+East Pakistan,was surrounded by,India	East Pakistan,is a neighbor of,India	False	EN
+Leonidas,repulsed,the persians	Leonidas,fought,the persians	False	EN
+Several aviators,is a politician from,New York	Several aviators,came into,New York	False	EN
+Argon,is found in,The Air	Argon,may be prepared by passing,Air	False	EN
+Charles the bald,fought,the romans	Charles the bald,took in,Roman	False	EN
+General Grant,was born in the state of,Ohio	General Grant,was born in,Ohio	True	EN
+Paul,was worshiped in,Athens	Paul,waited at,Athens	False	EN
+Employees,founded,Microsoft	Microsoft,has grown from,Employees	False	EN
+Stockholm,is packed with,Politicians	A politician,dies in,Stockholm	False	EN
+Virus,specified in,acute herpes	Acute herpes,is caused by,a virus	True	EN
+The jew,was the representative of,capitalism	The jew,is associated with,capitalism	False	EN
+Aspirin,upsets,the stomach	Aspirin,may irritate,the stomach	True	EN
+Geysers,occur in,New Zealand	Geysers,is common to,New Zealand	True	EN
+Caffeine,is also found in,Chocolate	Chocolate,contains,Caffeine	True	EN
+The claimants,is a politician from,Texas	Texas,obtained from,the claimants	False	EN
+Hopkins,was born in,Poland	Hopkins,had spoken in,Poland	False	EN
+Nepal,is a neighbor of,India	India,assisted,Nepal	False	EN
+A citizen,interprets,Laws	A citizen,must obey,the laws	False	EN
+Millet,is used to make,Beer	Millet,was converted into,Beer	True	EN
+Carbon,is found in,The Air	Carbon,combines with oxygen in,The Air	True	EN
+Samuel Adams,drafted,The Constitution	Samuel Adams,to favor,The Constitution	False	EN
+Fluoride,is essential for,Bones	Fluoride,is present in,the bones	False	EN
+Every other planet,can be seen from,Earth	Every other planet,is better than,the earth	False	EN
+Clemens,is the governor of,Florida	Clemens,was born in the village of,Florida	False	EN
+A little woman,walked on,the moon	A little woman,sat staring at,the moon	False	EN
