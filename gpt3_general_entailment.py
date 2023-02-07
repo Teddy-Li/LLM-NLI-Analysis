@@ -12,7 +12,8 @@ from sklearn.metrics import precision_recall_fscore_support, precision_recall_cu
 import matplotlib.pyplot as plt
 
 
-OPRION_STR = "A) Entailment\nB) Neutral\nC) Contradiction\nAnswer:"
+INFERENCE_OPTION_STR = "A) Entailment\nB) Neutral\nC) Contradiction\nAnswer:"
+KNOWLEDGE_OPTION_STR = "A) True\nB) Unknown\nC) False\nAnswer:"
 # OPRION_STR = "A) Certain\nB) Likely\nC) Unlikely\nD) Impossible\nAnswer:"  # This 4-way version does not make a difference for the <Google, Youtube> example.
 
 
@@ -112,7 +113,7 @@ Answer: A) Entailment.\n\n"""
     return context_cot, context_lblonly
 
 
-def get_gpt_template(p: str, h: str, aligned: bool, use_plhr: str, in_context: str, tplt_fmt: str, do_neg: bool) -> str:
+def get_gpt_template(p: str, h: str, aligned: bool, use_plhr: str, in_context: str, tplt_fmt: str, do_neg: bool, rev_hyp_args = False) -> str:
     """
     Get the template for the premise and hypothesis pair. The template is borrowed from GPT-3.
     :param tplt_idx:
@@ -124,37 +125,40 @@ def get_gpt_template(p: str, h: str, aligned: bool, use_plhr: str, in_context: s
     """
     context_cot, context_lblonly = acquire_in_context_examples(tplt_fmt, use_plhr, do_neg)
 
-    p = p.lower()
-    h = h.lower()
-    p_subj, p_pred, p_obj = p.split(',')
-    h_subj, h_pred, h_obj = h.split(',')
-    if use_plhr in ['xy']:
-        p_subj = 'X'
-        p_obj = 'Y'
-        h_subj = 'X'
-        h_obj = 'Y'
-    elif use_plhr in ['none', 'type']:
-        p_subj = p_subj.strip()
-        p_obj = p_obj.strip()
-        h_subj = h_subj.strip()
-        h_obj = h_obj.strip()
-    else:
-        raise ValueError(f"Unknown use_plhr value: {use_plhr}")
+    def clean_sentence(sent: str, role: str):
+        subj, pred, obj = sent.lower().split(',')
+        if use_plhr in ['xy']:
+            subj = 'X'
+            obj = 'Y'
+        elif use_plhr in ['none', 'type']:
+            subj = subj.strip()
+            obj = obj.strip()
+        else:
+            raise ValueError(f"Unknown use_plhr value: {use_plhr}")
 
-    if do_neg is True:
-        h_pred = negate(h_pred.strip())
-        p_pred = negate(p_pred.strip())
-    else:
-        assert do_neg is False
-        h_pred = h_pred.strip()
-        p_pred = p_pred.strip()
+        if do_neg is True:
+            pred = negate(pred.strip())
+        else:
+            assert do_neg is False
+            pred = pred.strip()
 
-    p_sent = f'{p_subj} {p_pred} {p_obj}'
-    h_sent = f'{h_subj} {h_pred} {h_obj}'
+        if role == 'hyp' and rev_hyp_args:
+            return f'{obj} {pred} {subj}'
+
+        return f'{subj} {pred} {obj}'
+
+    p_sent = clean_sentence(p, 'prem') if p else None
+    h_sent = clean_sentence(h, 'hyp') if h else None
+
+    sent_args = {}
+    if p_sent:
+        sent_args['prm'] = p_sent
+    if h_sent:
+        sent_args['hyp'] = h_sent
 
     # template = f"{p_sent}, which means that {h_sent}. \n A) Entailment \n B) Neutral \n C) Contradiction \n answer:"
-    template = f"""{tplt_fmt.format(prm=p_sent, hyp=h_sent)}
-{OPRION_STR}"""
+    template = f"""{tplt_fmt.format_map(sent_args)}
+{INFERENCE_OPTION_STR if p_sent and h_sent else KNOWLEDGE_OPTION_STR}"""
     if in_context == 'cot':
         template = context_cot + template
     elif in_context == 'lbl':
@@ -184,6 +188,11 @@ def wrap_prompt(prompt, model_name: str = "text-davinci-003", max_tokens: int = 
 
 def get_gpt3_output(prompt: str, model_name: str = "text-davinci-003", max_tokens: int = 32, temperature: float = 0.0,
                     top_p: float = 1.0, debug: bool = False):
+    if args.dry_run:
+        scr = random.random()
+        label = scr > 0.5
+        return label, scr, DUMMY_RESPONSE
+
     def judger(output: str, char: str) -> bool:
         if output == char:
             return True
@@ -233,19 +242,19 @@ def get_gpt3_output(prompt: str, model_name: str = "text-davinci-003", max_token
     if debug:
         print(answer)
     if answer is None:
-        return False, 0.0
+        return False, 0.0, response
     elif judger(answer, 'A'):
         # print("!")
         assert 0 < math.exp(logprob) < 1
         effective_scr = 0.5 + 0.5*math.exp(logprob)
-        return True, effective_scr
+        return True, effective_scr, response
     elif judger(answer, 'B') or judger(answer, 'C') or judger(answer, 'D'):
         assert 0 < math.exp(logprob) < 1
         effective_scr = 0.5 - 0.5*math.exp(logprob)
-        return False, effective_scr
+        return False, effective_scr, response
     else:
         print(f"Unexpected answer: {answer}", file=sys.stderr)
-        return False, 0.0
+        return False, 0.0, response
 
 
 def vote(answers: List[bool]):
@@ -253,22 +262,27 @@ def vote(answers: List[bool]):
 
 
 def retrieve_results_main(args):
-    sent_template_activate_flags = [True, True, True, True, False, False, False]
-    # sent_template_activate_flags = [True, True, True, True, True, True, True]
-    sent_template_to_test = [
-        {'s': "{prm}, which means that {hyp}.", 'do_neg': False},
-        {'s': "If {prm}, then {hyp}.", 'do_neg': False},
-        {'s': "{hyp}, because {prm}.", 'do_neg': False},
-        {'s': "{prm}, so {hyp}.", 'do_neg': False},
-        {'s': "It is not the case that {hyp}, let alone {prm}.", 'do_neg': False},
-        {'s': "{prm}, because {hyp}.", 'do_neg': True},
-        {'s': "{hyp}, which means that {prm}.", 'do_neg': True},
-    ]
+    if args.hypothesis_only:
+        sent_template_activate_flags = [True]
+        sent_template_to_test = [
+                {'s': '{hyp}.', 'do_neg': False}
+        ]
+    else:
+        sent_template_activate_flags = [True, True, True, True, False, False, False]
+        # sent_template_activate_flags = [True, True, True, True, True, True, True]
+        sent_template_to_test = [
+            {'s': "{prm}, which means that {hyp}.", 'do_neg': False},
+            {'s': "If {prm}, then {hyp}.", 'do_neg': False},
+            {'s': "{hyp}, because {prm}.", 'do_neg': False},
+            {'s': "{prm}, so {hyp}.", 'do_neg': False},
+            {'s': "It is not the case that {hyp}, let alone {prm}.", 'do_neg': False},
+            {'s': "{prm}, because {hyp}.", 'do_neg': True},
+            {'s': "{hyp}, which means that {prm}.", 'do_neg': True},
+        ]
     sent_template_to_test = [x for x, y in zip(sent_template_to_test, sent_template_activate_flags) if y]
     assert args.num_templates == len(sent_template_to_test)
 
-    openai.organization = 'org-odsud9J1u1ZhPl33GtI35fOR'
-    x = os.getenv('OPENAI_API_KEY')
+    openai.organization = os.getenv('OPENAI_ORG_ID')
     openai.api_key = os.getenv('OPENAI_API_KEY')
 
     if args.use_plhr in ['none', 'xy']:
@@ -280,6 +294,7 @@ def retrieve_results_main(args):
 
     preds = [[] for x in range(args.num_templates+3)]  # the +2 are for voting and maximum
     golds = [[] for x in range(args.num_templates+3)]  # the +2 are for voting and maximum
+    responses = [[] for x in range(args.num_templates)]
 
     ready_entries = []
     try:
@@ -300,7 +315,7 @@ def retrieve_results_main(args):
     # For each premise-hypothesis pair, get the templates and score them with the model;
     # let the 5 templates vote on which one is better.
     for ent_idx, (prem, hyp, lbl, aligned_flag) in enumerate(prem_hyp_pairs):
-        if ent_idx % 5 == 0:
+        if ent_idx % 50 == 0:
             print(f'Processing entry {ent_idx} of {len(prem_hyp_pairs)};')
             # time.sleep(5)
 
@@ -334,14 +349,18 @@ def retrieve_results_main(args):
         entry_preds = []
         entry_preds_binarized = []
         for tplt_idx in range(args.num_templates):
+            if args.hypothesis_only:
+                prem = None
             curr_t = get_gpt_template(prem, hyp, aligned=aligned_flag, use_plhr=args.use_plhr, in_context=args.in_context,
-                                         tplt_fmt=sent_template_to_test[tplt_idx]['s'],
-                                         do_neg=sent_template_to_test[tplt_idx]['do_neg'])
+                                      tplt_fmt=sent_template_to_test[tplt_idx]['s'],
+                                      do_neg=sent_template_to_test[tplt_idx]['do_neg'],
+                                      rev_hyp_args=args.rev_hyp_args)
             if args.debug:
                 print(f"Current prompt:")
                 print(curr_t)
-            curr_res, curr_scr = get_gpt3_output(curr_t, args.model_name, max_tokens=args.max_tokens,
+            curr_res, curr_scr, response = get_gpt3_output(curr_t, args.model_name, max_tokens=args.max_tokens,
                                           temperature=args.temperature, debug=args.debug)
+            responses[tplt_idx].append(response)
             assert isinstance(curr_res, bool) and isinstance(curr_scr, float)
             preds[tplt_idx].append(curr_scr)  # here the scr > 0.5 means binary-True, and < 0.5 means binary-False
             entry_preds_binarized.append(curr_res)
@@ -361,6 +380,10 @@ def retrieve_results_main(args):
             'gold': lbl,
         }
         ofp.write(json.dumps(out_item, ensure_ascii=False) + '\n')
+
+    saved_responses_fn = args.res_fn.replace('.json', '__response.json')
+    with open(saved_responses_fn, 'w', encoding='utf-8') as saved_responses_fp:
+        json.dump(responses, saved_responses_fp, indent=4)
 
     for tplt_idx in range(args.num_templates+3):
         # Calculate the binary scores
@@ -392,7 +415,7 @@ def retrieve_results_main(args):
     plt.title("Precision Recall Curves")
     plt.legend()
     plt.draw()
-    plt.show()
+    # plt.show()
     assert args.res_fn.endswith('.json')
     plt.savefig(f"{args.res_fn}".replace('.json', '.png'))
 
@@ -471,6 +494,27 @@ def get_scr_from_full_result(args, dirscr: bool):
     plt.savefig(f"{args.res_fn}".replace('.json', '.png'))
 
 
+DUMMY_RESPONSE = json.loads('''
+{"id": "cmpl-6eSSiAM7jQ9K1kKxt9nLRtCv4Xqa9", 
+"object": "text_completion", 
+"created": 1675100548, 
+"model": "text-ada-001", 
+"choices": [{"text": " C", "index": 0, "logprobs": {"tokens": [" C", "<|endoftext|>", "The", " first", " time", " I", " ever", " saw"], 
+"token_logprobs": [-0.47073913, -0.14019404, -1.7835075, -3.4638846, -0.5209532, -0.07405463, -0.05527818, -0.33280665], 
+"top_logprobs": [
+  {" Answer": -2.3953776, " A": -2.962859, " C": -0.47073913, " B": -1.5746171, " D": -5.110625}, 
+  {".": -7.390925, "\\n": -4.163912, "<|endoftext|>": -0.14019404, "\\n\\n": -6.4590025, ")": -2.180008}, 
+  {"This": -2.5528586, "\\n": -3.2013762, "I": -1.8916179, "The": -1.7835075, "\\n\\n": -1.919075}, 
+  {" company": -4.010942, " following": -3.8313718, " previous": -4.2930555, " new": -4.0588293, " first": -3.4638846}, 
+  {" day": -4.54038, " few": -4.996513, " thing": -3.2763078, " step": -2.15514, " time": -0.5209532}, 
+  {" i": -7.478826, " I": -0.07405463, " that": -3.3122365, " you": -7.930172, " we": -3.4579055}, 
+  {" read": -6.2403545, " met": -4.724202, " ever": -0.05527818, " saw": -3.6453538, " heard": -5.244365}, 
+  {" encountered": -4.004792, " saw": -0.33280665, " heard": -3.2756853, " tried": -3.0985432, " used": -2.5871973}
+  ], 
+"text_offset": [129, 131, 131, 131, 131, 131, 131, 131]}, 
+"finish_reason": "stop"}], "usage": {"prompt_tokens": 36, "completion_tokens": 1, "total_tokens": 37}}'''
+                            )
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--in_fn', type=str,
@@ -485,16 +529,22 @@ if __name__ == '__main__':
     parser.add_argument('--debug', action='store_true')
     parser.add_argument('--in_context', type=str, default='none')
     parser.add_argument('--num_templates', type=int, default=7)
+    parser.add_argument('--hypothesis-only', action='store_true')
     parser.add_argument('--subset', type=str, default='full', choices=['dir', 'full'])
     parser.add_argument('--split', type=str, default='dev')
     parser.add_argument('--only_do_scr', action='store_true')
+    parser.add_argument('--dry-run', action='store_true')  # will not call the actual API; instead use random fake data
+    parser.add_argument('--rev-hyp-args', action='store_true')
 
     parser.add_argument('--sleep_after_query', type=float, default=0)
 
     args = parser.parse_args()
     print(args)
     assert args.use_plhr in ['none', 'xy', 'type']
+    assert not (args.hypothesis_only and (args.in_context != 'none')), 'Not Implemented: ICL with Hypothesis-only baseline'
     args.res_fn = args.res_fn % (args.model_name, args.subset, args.split, args.use_plhr, args.in_context)
+    if args.rev_hyp_args:
+        args.res_fn = args.res_fn.replace('.json', '_rev-hyp-args.json')
     args.infn_for_eval = args.in_fn % (args.subset, args.split) if args.use_plhr in ['none', 'xy'] else args.typed_in_fn % (args.subset, args.split, '%s')
     print(f"Evaluating {args.infn_for_eval} with model {args.model_name}, and saving results to {args.res_fn}")
 
