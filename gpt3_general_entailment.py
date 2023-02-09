@@ -54,6 +54,13 @@ def acquire_in_context_examples(tplt_fmt: str, use_plhr: str, do_neg: bool):
         exmpl2_psubj = 'person x'
         exmpl2_pobj = 'location y'
         exmpl2_aligned = True
+    elif use_plhr == 'shuffled':
+        exmpl1_psubj = 'Sony'
+        exmpl1_pobj = 'Honda'
+        exmpl1_aligned = True
+        exmpl2_psubj = 'Angela Merkel'
+        exmpl2_pobj = 'Ikea'
+        exmpl2_aligned = True
     elif use_plhr == 'xy':
         exmpl1_psubj = 'x'
         exmpl1_pobj = 'y'
@@ -79,7 +86,7 @@ Answer: B) Neutral. Owning does not imply buying, the ownership may come from ot
 A) Entailment
 B) Neutral
 C) Contradiction
-Answer: B) Neutral. John may have gone to the mall by other means.
+Answer: B) Neutral. {exmpl2_psubj} may have gone to the mall by other means.
 
 {format_proppairs_with_template(tplt_fmt, exmpl_p2_pred, exmpl_h2_pred, exmpl2_psubj, exmpl2_pobj, exmpl2_aligned)}
 A) Entailment 
@@ -130,7 +137,7 @@ def get_gpt_template(p: str, h: str, aligned: bool, use_plhr: str, in_context: s
         if use_plhr in ['xy']:
             subj = 'X'
             obj = 'Y'
-        elif use_plhr in ['none', 'type']:
+        elif use_plhr in ['none', 'type', 'shuffled']:
             subj = subj.strip()
             obj = obj.strip()
         else:
@@ -268,13 +275,14 @@ def retrieve_results_main(args):
                 {'s': '{hyp}.', 'do_neg': False}
         ]
     else:
-        sent_template_activate_flags = [True, True, True, True, False, False, False]
-        # sent_template_activate_flags = [True, True, True, True, True, True, True]
+        sent_template_activate_flags = [True, True, True, True, True, False, False, False]
+        # sent_template_activate_flags = [True, True, True, True, True, True, True, True]
         sent_template_to_test = [
             {'s': "{prm}, which means that {hyp}.", 'do_neg': False},
             {'s': "If {prm}, then {hyp}.", 'do_neg': False},
             {'s': "{hyp}, because {prm}.", 'do_neg': False},
             {'s': "{prm}, so {hyp}.", 'do_neg': False},
+            {'s': "{prm} entails {hyp}.", 'do_neg': False},
             {'s': "It is not the case that {hyp}, let alone {prm}.", 'do_neg': False},
             {'s': "{prm}, because {hyp}.", 'do_neg': True},
             {'s': "{hyp}, which means that {prm}.", 'do_neg': True},
@@ -285,7 +293,7 @@ def retrieve_results_main(args):
     openai.organization = os.getenv('OPENAI_ORG_ID')
     openai.api_key = os.getenv('OPENAI_API_KEY')
 
-    if args.use_plhr in ['none', 'xy']:
+    if args.use_plhr in ['none', 'xy', 'shuffled']:
         prem_hyp_pairs = load_general_entries(args.infn_for_eval)  # these are the premise-hypothesis pairs that are True Entailments
     elif args.use_plhr == 'type':
         prem_hyp_pairs = load_typed_general_entries(args.infn_for_eval)
@@ -315,7 +323,7 @@ def retrieve_results_main(args):
     # For each premise-hypothesis pair, get the templates and score them with the model;
     # let the 5 templates vote on which one is better.
     for ent_idx, (prem, hyp, lbl, aligned_flag) in enumerate(prem_hyp_pairs):
-        if ent_idx % 50 == 0:
+        if ent_idx % 1 == 0:
             print(f'Processing entry {ent_idx} of {len(prem_hyp_pairs)};')
             # time.sleep(5)
 
@@ -429,7 +437,7 @@ def retrieve_results_main(args):
 
 
 def get_scr_from_full_result(args, dirscr: bool):
-    banned_template_ids = [4,5,6]
+    banned_template_ids = [5,6,7]  # These "banned templates" are effective only when calculating benchmark scores from raw results.
     if dirscr:
         diridx_fpath = f'./dir_files/with_entities/{args.split}_idxes.json'
         with open(diridx_fpath, 'r', encoding='utf-8') as diridx_fp:
@@ -521,10 +529,12 @@ if __name__ == '__main__':
                         default='./%s_files/with_entities/%s.txt')
     parser.add_argument('--typed_in_fn', type=str,
                         default='./%s_files/with_type/%s%s.txt')  # from '../../entgraph_eval/gfiles/ent/test_dir%s.txt'
+    parser.add_argument('--shuffled_in_fn', type=str,
+                        default='./%s_files/with_shuffled_entities/%s.txt')
     parser.add_argument('--model_name', type=str, default='text-davinci-003')
     parser.add_argument('--max_tokens', type=int, default=8)
     parser.add_argument('--temperature', type=float, default=0.0)
-    parser.add_argument('--res_fn', type=str, default='./results/gpt3_%s_res_%s_text_%s_%s_icl=%s.json')
+    parser.add_argument('--res_fn', type=str, default='./results/gpt3_%s_res_%s_text_%s_%s_icl=%s_%d.json')
     parser.add_argument('--use_plhr', type=str, default='none')
     parser.add_argument('--debug', action='store_true')
     parser.add_argument('--in_context', type=str, default='none')
@@ -536,16 +546,25 @@ if __name__ == '__main__':
     parser.add_argument('--dry-run', action='store_true')  # will not call the actual API; instead use random fake data
     parser.add_argument('--rev-hyp-args', action='store_true')
 
+    parser.add_argument('--res_suffix', type=str, default='')
     parser.add_argument('--sleep_after_query', type=float, default=0)
 
     args = parser.parse_args()
     print(args)
-    assert args.use_plhr in ['none', 'xy', 'type']
+    assert args.use_plhr in ['none', 'shuffled', 'xy', 'type']
     assert not (args.hypothesis_only and (args.in_context != 'none')), 'Not Implemented: ICL with Hypothesis-only baseline'
-    args.res_fn = args.res_fn % (args.model_name, args.subset, args.split, args.use_plhr, args.in_context)
+    args.res_fn = args.res_fn % (args.model_name, args.subset, args.split, args.use_plhr, args.in_context, args.num_templates)
     if args.rev_hyp_args:
         args.res_fn = args.res_fn.replace('.json', '_rev-hyp-args.json')
-    args.infn_for_eval = args.in_fn % (args.subset, args.split) if args.use_plhr in ['none', 'xy'] else args.typed_in_fn % (args.subset, args.split, '%s')
+
+    if args.use_plhr in ['none', 'xy']:
+        args.infn_for_eval = args.in_fn % (args.subset, args.split)
+    elif args.use_plhr == 'shuffled':
+        args.infn_for_eval = args.shuffled_in_fn % (args.subset, args.split)
+    elif args.use_plhr == 'type':
+        args.infn_for_eval = args.typed_in_fn % (args.subset, args.split, '%s')
+    else:
+        raise NotImplementedError
     print(f"Evaluating {args.infn_for_eval} with model {args.model_name}, and saving results to {args.res_fn}")
 
     if args.only_do_scr:

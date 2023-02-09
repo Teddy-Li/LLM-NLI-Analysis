@@ -1,0 +1,24 @@
+Ephedrine,is used in,Medicine	Ephedrine,is widely used in,Medicine	True	EN
+Ephedrine,is widely used in,Medicine	Ephedrine,is used in,Medicine	False	EN
+Kanamycin,is useful in,infections	Kanamycin,kills,infections	True	EN
+Kanamycin,kills,infections	Kanamycin,is useful in,infections	False	EN
+Norway,shows,a piedmont	A piedmont,is common to,Norway	True	EN
+A piedmont,is common to,Norway	Norway,shows,a piedmont	False	EN
+Cadmium,is released into,The Air	Cadmium,is found in,The Air	False	EN
+Cadmium,is found in,The Air	Cadmium,is released into,The Air	True	EN
+Acyclovir,is the treatment for,infections	Acyclovir,kills,infections	True	EN
+Acyclovir,kills,infections	Acyclovir,is the treatment for,infections	False	EN
+Radon,is released into,The Air	Radon,is found in,The Air	False	EN
+Radon,is found in,The Air	Radon,is released into,The Air	True	EN
+Clothing,was made of,Leather	Leather,is used in,Clothing	False	EN
+Leather,is used in,Clothing	Clothing,was made of,Leather	True	EN
+Oxygen,is found in,Water	Water,is a combination of,Oxygen	True	EN
+Water,is a combination of,Oxygen	Oxygen,is found in,Water	False	EN
+Mandarin,is the language of,China	Mandarin,is officially recognized in,China	False	EN
+Mandarin,is officially recognized in,China	Mandarin,is the language of,China	True	EN
+Lanolin,is used in,Medicine	Lanolin,has been used extensively in,Medicine	True	EN
+Lanolin,has been used extensively in,Medicine	Lanolin,is used in,Medicine	False	EN
+Air,is made up of,Nitrogen	Nitrogen,is found in,The Air	False	EN
+Nitrogen,is found in,The Air	Air,is made up of,Nitrogen	True	EN
+Fsh,causes,ovulation	Fsh,have been used to induce,ovulation	True	EN
+Fsh,have been used to induce,ovulation	Fsh,causes,ovulation	False	EN
