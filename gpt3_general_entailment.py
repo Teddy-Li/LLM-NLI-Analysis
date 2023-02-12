@@ -12,115 +12,113 @@ from sklearn.metrics import precision_recall_fscore_support, precision_recall_cu
 import matplotlib.pyplot as plt
 
 
-INFERENCE_OPTION_STR = "A) Entailment\nB) Neutral\nC) Contradiction\nAnswer:"
-KNOWLEDGE_OPTION_STR = "A) True\nB) Unknown\nC) False\nAnswer:"
+INFERENCE_OPTION_STR_TRINARY = "\nA) Entailment\nB) Neutral\nC) Contradiction\nAnswer:"
+KNOWLEDGE_OPTION_STR_TRINARY = "\nA) True\nB) Unknown\nC) False\nAnswer:"
+INFERENCE_OPTION_STR_BINARY = " Is this True or False?\nA) True\nB) False\nAnswer:"
+KNOWLEDGE_OPTION_STR_BINARY = " Is this True or False?\nA) True\nB) False\nAnswer:"
+
 # OPRION_STR = "A) Certain\nB) Likely\nC) Unlikely\nD) Impossible\nAnswer:"  # This 4-way version does not make a difference for the <Google, Youtube> example.
 
 
 def format_proppairs_with_template(tplt_fmt: str, prem_pred: str, hypo_pred: str, psubj: str, pobj: str, aligned: bool):
     if aligned:
-        prem = ' '.join([psubj, prem_pred, pobj])
+        prem = ' '.join([psubj, prem_pred, pobj]) if prem_pred is not None else None
         hypo = ' '.join([psubj, hypo_pred, pobj])
     else:
-        prem = ' '.join([psubj, prem_pred, pobj])
+        prem = ' '.join([psubj, prem_pred, pobj]) if prem_pred is not None else None
         hypo = ' '.join([pobj, hypo_pred, psubj])
-    result_str = tplt_fmt.format(prm=prem, hyp=hypo)
+    if prem is not None:
+        result_str = tplt_fmt.format(prm=prem, hyp=hypo)
+    else:
+        result_str = tplt_fmt.format(hyp=hypo)
     return result_str
 
 
-def acquire_in_context_examples(tplt_fmt: str, use_plhr: str, do_neg: bool):
-    if do_neg:
-        exmpl_p1_pred = negate('bought')
-        exmpl_h1_pred = negate('owns')
-        exmpl_p2_pred = negate('drove to')
-        exmpl_h2_pred = negate('went to')
+def acquire_in_context_examples(tplt_fmt: str, use_plhr: str, do_neg: bool, use_binary_options: bool, is_hyp_only: bool):
+
+    if use_binary_options is True:
+        positive_option = "A) True"
+        negative_option = "B) False"
+        if is_hyp_only:
+            option_str = KNOWLEDGE_OPTION_STR_BINARY
+        else:
+            option_str = INFERENCE_OPTION_STR_BINARY
     else:
-        exmpl_p1_pred = 'bought'
-        exmpl_h1_pred = 'owns'
-        exmpl_p2_pred = 'drove to'
-        exmpl_h2_pred = 'went to'
+        positive_option = "A) Entailment"
+        negative_option = "B) Neutral"  # TODO: check this when swapping the in-context examples, negatives may become "contradiction" instead of "neutral"
+        if is_hyp_only:
+            option_str = KNOWLEDGE_OPTION_STR_TRINARY
+        else:
+            option_str = INFERENCE_OPTION_STR_TRINARY
 
-    if use_plhr == 'none':
-        exmpl1_psubj = 'Google'
-        exmpl1_pobj = 'Youtube'
-        exmpl1_aligned = True
-        exmpl2_psubj = 'John'
-        exmpl2_pobj = 'the mall'
-        exmpl2_aligned = True
-    elif use_plhr == 'type':
-        exmpl1_psubj = 'organization x'
-        exmpl1_pobj = 'organization y'
-        exmpl1_aligned = True
-        exmpl2_psubj = 'person x'
-        exmpl2_pobj = 'location y'
-        exmpl2_aligned = True
-    elif use_plhr == 'shuffled':
-        exmpl1_psubj = 'Sony'
-        exmpl1_pobj = 'Honda'
-        exmpl1_aligned = True
-        exmpl2_psubj = 'Angela Merkel'
-        exmpl2_pobj = 'Ikea'
-        exmpl2_aligned = True
-    elif use_plhr == 'xy':
-        exmpl1_psubj = 'x'
-        exmpl1_pobj = 'y'
-        exmpl1_aligned = True
-        exmpl2_psubj = 'x'
-        exmpl2_pobj = 'y'
-        exmpl2_aligned = True
+    if not is_hyp_only:
+        if do_neg:
+            exmpl_p1_pred = negate('bought')
+            exmpl_h1_pred = negate('owns')
+            exmpl_p2_pred = negate('drove to')
+            exmpl_h2_pred = negate('went to')
+        else:
+            exmpl_p1_pred = 'bought'
+            exmpl_h1_pred = 'owns'
+            exmpl_p2_pred = 'drove to'
+            exmpl_h2_pred = 'went to'
+
+        if use_plhr == 'original':
+            exmpl1_psubj = 'Google'
+            exmpl1_pobj = 'Youtube'
+            exmpl1_aligned = True
+            exmpl2_psubj = 'John'
+            exmpl2_pobj = 'the mall'
+            exmpl2_aligned = True
+        elif use_plhr == 'type':
+            exmpl1_psubj = 'organization x'
+            exmpl1_pobj = 'organization y'
+            exmpl1_aligned = True
+            exmpl2_psubj = 'person x'
+            exmpl2_pobj = 'location y'
+            exmpl2_aligned = True
+        elif use_plhr == 'shuffled':
+            exmpl1_psubj = 'Sony'
+            exmpl1_pobj = 'Honda'
+            exmpl1_aligned = True
+            exmpl2_psubj = 'Angela Merkel'
+            exmpl2_pobj = 'Ikea'
+            exmpl2_aligned = True
+        elif use_plhr == 'xy':
+            exmpl1_psubj = 'x'
+            exmpl1_pobj = 'y'
+            exmpl1_aligned = True
+            exmpl2_psubj = 'x'
+            exmpl2_pobj = 'y'
+            exmpl2_aligned = True
+        else:
+            raise ValueError("Unknown placeholder type: {}".format(use_plhr))
+        context_cot = f"""{format_proppairs_with_template(tplt_fmt, exmpl_p1_pred, exmpl_h1_pred, exmpl1_psubj, exmpl1_pobj, exmpl1_aligned)}{option_str} {positive_option}. Owning is a consequence of buying.
+
+{format_proppairs_with_template(tplt_fmt, exmpl_h1_pred, exmpl_p1_pred, exmpl1_psubj, exmpl1_pobj, exmpl1_aligned)}{option_str} {negative_option}. Owning does not imply buying, the ownership may come from other means.
+
+{format_proppairs_with_template(tplt_fmt, exmpl_h2_pred, exmpl_p2_pred, exmpl2_psubj, exmpl2_pobj, exmpl2_aligned)}{option_str} {negative_option}. {exmpl2_psubj} may have gone to the mall by other means.
+
+{format_proppairs_with_template(tplt_fmt, exmpl_p2_pred, exmpl_h2_pred, exmpl2_psubj, exmpl2_pobj, exmpl2_aligned)}{option_str} {positive_option}. Driving is a means of going to the mall.\n\n"""
+
+        context_lblonly = f"""{format_proppairs_with_template(tplt_fmt, exmpl_p1_pred, exmpl_h1_pred, exmpl1_psubj, exmpl1_pobj, exmpl1_aligned)}{option_str} {positive_option}.
+
+{format_proppairs_with_template(tplt_fmt, exmpl_h1_pred, exmpl_p1_pred, exmpl1_psubj, exmpl1_pobj, exmpl1_aligned)}{option_str} {negative_option}.
+
+{format_proppairs_with_template(tplt_fmt, exmpl_h2_pred, exmpl_p2_pred, exmpl2_psubj, exmpl2_pobj, exmpl2_aligned)}{option_str} {negative_option}.
+
+{format_proppairs_with_template(tplt_fmt, exmpl_p2_pred, exmpl_h2_pred, exmpl2_psubj, exmpl2_pobj, exmpl2_aligned)}{option_str} {positive_option}.\n\n"""
     else:
-        raise ValueError("Unknown placeholder type: {}".format(use_plhr))
-    context_cot = f"""{format_proppairs_with_template(tplt_fmt, exmpl_p1_pred, exmpl_h1_pred, exmpl1_psubj, exmpl1_pobj, exmpl1_aligned)}
-A) Entailment 
-B) Neutral
-C) Contradiction
-Answer: A) Entailment. Owning is a consequence of buying.
+        assert use_plhr == 'original'
+        context_cot = None
+        context_lblonly = f"""Google bought Youtube.{option_str} {positive_option}.
 
-{format_proppairs_with_template(tplt_fmt, exmpl_h1_pred, exmpl_p1_pred, exmpl1_psubj, exmpl1_pobj, exmpl1_aligned)}
-A) Entailment
-B) Neutral
-C) Contradiction
-Answer: B) Neutral. Owning does not imply buying, the ownership may come from other means.
-
-{format_proppairs_with_template(tplt_fmt, exmpl_h2_pred, exmpl_p2_pred, exmpl2_psubj, exmpl2_pobj, exmpl2_aligned)}
-A) Entailment
-B) Neutral
-C) Contradiction
-Answer: B) Neutral. {exmpl2_psubj} may have gone to the mall by other means.
-
-{format_proppairs_with_template(tplt_fmt, exmpl_p2_pred, exmpl_h2_pred, exmpl2_psubj, exmpl2_pobj, exmpl2_aligned)}
-A) Entailment 
-B) Neutral
-C) Contradiction
-Answer: A) Entailment. Driving is a means of going to the mall.\n\n"""
-
-    context_lblonly = f"""{format_proppairs_with_template(tplt_fmt, exmpl_p1_pred, exmpl_h1_pred, exmpl1_psubj, exmpl1_pobj, exmpl1_aligned)}
-A) Entailment 
-B) Neutral
-C) Contradiction
-Answer: A) Entailment.
-
-{format_proppairs_with_template(tplt_fmt, exmpl_h1_pred, exmpl_p1_pred, exmpl1_psubj, exmpl1_pobj, exmpl1_aligned)}
-A) Entailment
-B) Neutral
-C) Contradiction
-Answer: B) Neutral.
-
-{format_proppairs_with_template(tplt_fmt, exmpl_h2_pred, exmpl_p2_pred, exmpl2_psubj, exmpl2_pobj, exmpl2_aligned)}
-A) Entailment
-B) Neutral
-C) Contradiction
-Answer: B) Neutral.
-
-{format_proppairs_with_template(tplt_fmt, exmpl_p2_pred, exmpl_h2_pred, exmpl2_psubj, exmpl2_pobj, exmpl2_aligned)}
-A) Entailment 
-B) Neutral
-C) Contradiction
-Answer: A) Entailment.\n\n"""
+The sun rises from the west and sets in the east.{option_str} {negative_option}."""
     return context_cot, context_lblonly
 
 
-def get_gpt_template(p: str, h: str, aligned: bool, use_plhr: str, in_context: str, tplt_fmt: str, do_neg: bool, rev_hyp_args = False) -> str:
+def get_gpt_template(p: str, h: str, aligned: bool, use_plhr: str, in_context: str, tplt_fmt: str, do_neg: bool,
+                     use_binary_options: bool, rev_hyp_args = False) -> str:
     """
     Get the template for the premise and hypothesis pair. The template is borrowed from GPT-3.
     :param tplt_idx:
@@ -130,14 +128,16 @@ def get_gpt_template(p: str, h: str, aligned: bool, use_plhr: str, in_context: s
     :param h:
     :return:
     """
-    context_cot, context_lblonly = acquire_in_context_examples(tplt_fmt, use_plhr, do_neg)
+    assert h is not None
+    is_hyp_only = p is None
+    context_cot, context_lblonly = acquire_in_context_examples(tplt_fmt, use_plhr, do_neg, use_binary_options, is_hyp_only)
 
     def clean_sentence(sent: str, role: str):
         subj, pred, obj = sent.lower().split(',')
         if use_plhr in ['xy']:
             subj = 'X'
             obj = 'Y'
-        elif use_plhr in ['none', 'type', 'shuffled']:
+        elif use_plhr in ['original', 'type', 'shuffled']:
             subj = subj.strip()
             obj = obj.strip()
         else:
@@ -164,8 +164,17 @@ def get_gpt_template(p: str, h: str, aligned: bool, use_plhr: str, in_context: s
         sent_args['hyp'] = h_sent
 
     # template = f"{p_sent}, which means that {h_sent}. \n A) Entailment \n B) Neutral \n C) Contradiction \n answer:"
-    template = f"""{tplt_fmt.format_map(sent_args)}
-{INFERENCE_OPTION_STR if p_sent and h_sent else KNOWLEDGE_OPTION_STR}"""
+    if use_binary_options and is_hyp_only:
+        option_str = KNOWLEDGE_OPTION_STR_BINARY
+    elif use_binary_options and not is_hyp_only:
+        option_str = INFERENCE_OPTION_STR_BINARY
+    elif not use_binary_options and is_hyp_only:
+        option_str = KNOWLEDGE_OPTION_STR_TRINARY
+    elif not use_binary_options and not is_hyp_only:
+        option_str = INFERENCE_OPTION_STR_TRINARY
+    else:
+        raise ValueError(f"Unknown combination of use_binary_options and is_hyp_only: {use_binary_options}, {is_hyp_only}")
+    template = f"""{tplt_fmt.format_map(sent_args)}{option_str}"""
     if in_context == 'cot':
         template = context_cot + template
     elif in_context == 'lbl':
@@ -194,13 +203,13 @@ def wrap_prompt(prompt, model_name: str = "text-davinci-003", max_tokens: int = 
 
 
 def get_gpt3_output(prompt: str, model_name: str = "text-davinci-003", max_tokens: int = 32, temperature: float = 0.0,
-                    top_p: float = 1.0, debug: bool = False):
+                    top_p: float = 1.0, use_binary_options: bool = False, debug: bool = False):
     if args.dry_run:
         scr = random.random()
         label = scr > 0.5
         return label, scr, DUMMY_RESPONSE
 
-    def judger(output: str, char: str) -> bool:
+    def option_matcher(output: str, char: str) -> bool:
         if output == char:
             return True
         elif output == char.lower():
@@ -250,17 +259,21 @@ def get_gpt3_output(prompt: str, model_name: str = "text-davinci-003", max_token
         print(answer)
     if answer is None:
         return False, 0.0, response
-    elif judger(answer, 'A'):
+    elif option_matcher(answer, 'A'):
         # print("!")
         assert 0 < math.exp(logprob) < 1
         effective_scr = 0.5 + 0.5*math.exp(logprob)
         return True, effective_scr, response
-    elif judger(answer, 'B') or judger(answer, 'C') or judger(answer, 'D'):
+    elif use_binary_options and option_matcher(answer, 'B'):
+        assert 0 < math.exp(logprob) < 1
+        effective_scr = 0.5 - 0.5 * math.exp(logprob)
+        return False, effective_scr, response
+    elif (not use_binary_options) and (option_matcher(answer, 'B') or option_matcher(answer, 'C')):
         assert 0 < math.exp(logprob) < 1
         effective_scr = 0.5 - 0.5*math.exp(logprob)
         return False, effective_scr, response
     else:
-        print(f"Unexpected answer: {answer}", file=sys.stderr)
+        print(f"Unexpected answer for binary_options={use_binary_options}: {answer}", file=sys.stderr)
         return False, 0.0, response
 
 
@@ -293,7 +306,7 @@ def retrieve_results_main(args):
     openai.organization = os.getenv('OPENAI_ORG_ID')
     openai.api_key = os.getenv('OPENAI_API_KEY')
 
-    if args.use_plhr in ['none', 'xy', 'shuffled']:
+    if args.use_plhr in ['original', 'xy', 'shuffled']:
         prem_hyp_pairs = load_general_entries(args.infn_for_eval)  # these are the premise-hypothesis pairs that are True Entailments
     elif args.use_plhr == 'type':
         prem_hyp_pairs = load_typed_general_entries(args.infn_for_eval)
@@ -325,7 +338,7 @@ def retrieve_results_main(args):
     for ent_idx, (prem, hyp, lbl, aligned_flag) in enumerate(prem_hyp_pairs):
         if ent_idx % 1 == 0:
             print(f'Processing entry {ent_idx} of {len(prem_hyp_pairs)};')
-            # time.sleep(5)
+            time.sleep(3)
 
         if lbl == 'True':
             lbl = True
@@ -361,13 +374,14 @@ def retrieve_results_main(args):
                 prem = None
             curr_t = get_gpt_template(prem, hyp, aligned=aligned_flag, use_plhr=args.use_plhr, in_context=args.in_context,
                                       tplt_fmt=sent_template_to_test[tplt_idx]['s'],
-                                      do_neg=sent_template_to_test[tplt_idx]['do_neg'],
+                                      do_neg=sent_template_to_test[tplt_idx]['do_neg'], use_binary_options=args.use_binary_options,
                                       rev_hyp_args=args.rev_hyp_args)
             if args.debug:
                 print(f"Current prompt:")
                 print(curr_t)
             curr_res, curr_scr, response = get_gpt3_output(curr_t, args.model_name, max_tokens=args.max_tokens,
-                                          temperature=args.temperature, debug=args.debug)
+                                                           temperature=args.temperature,
+                                                           use_binary_options=args.use_binary_options, debug=args.debug)
             responses[tplt_idx].append(response)
             assert isinstance(curr_res, bool) and isinstance(curr_scr, float)
             preds[tplt_idx].append(curr_scr)  # here the scr > 0.5 means binary-True, and < 0.5 means binary-False
@@ -534,8 +548,8 @@ if __name__ == '__main__':
     parser.add_argument('--model_name', type=str, default='text-davinci-003')
     parser.add_argument('--max_tokens', type=int, default=8)
     parser.add_argument('--temperature', type=float, default=0.0)
-    parser.add_argument('--res_fn', type=str, default='./results/gpt3_%s_res_%s_text_%s_%s_icl=%s_%d.json')
-    parser.add_argument('--use_plhr', type=str, default='none')
+    parser.add_argument('--res_fn', type=str, default='./results/gpt3_%s_res_%s_text_%s_%s_icl=%s%s_%d.json')
+    parser.add_argument('--use_plhr', type=str, default='original')
     parser.add_argument('--debug', action='store_true')
     parser.add_argument('--in_context', type=str, default='none')
     parser.add_argument('--num_templates', type=int, default=7)
@@ -545,19 +559,23 @@ if __name__ == '__main__':
     parser.add_argument('--only_do_scr', action='store_true')
     parser.add_argument('--dry-run', action='store_true')  # will not call the actual API; instead use random fake data
     parser.add_argument('--rev-hyp-args', action='store_true')
+    parser.add_argument('--use-binary-options', action='store_true')
 
     parser.add_argument('--res_suffix', type=str, default='')
     parser.add_argument('--sleep_after_query', type=float, default=0)
 
     args = parser.parse_args()
     print(args)
-    assert args.use_plhr in ['none', 'shuffled', 'xy', 'type']
-    assert not (args.hypothesis_only and (args.in_context != 'none')), 'Not Implemented: ICL with Hypothesis-only baseline'
-    args.res_fn = args.res_fn % (args.model_name, args.subset, args.split, args.use_plhr, args.in_context, args.num_templates)
+    assert args.use_plhr in ['original', 'shuffled', 'xy', 'type']
+    assert not (args.hypothesis_only and (args.in_context not in ['none', 'lbl'])), 'Not Implemented: ICL with Explanations with Hypothesis-only baseline'
+    assert not (args.hypothesis_only and (args.use_plhr != 'original')), 'Not Implemented: argument replacements with Hypothesis-only baseline'
+
+    binary_str = '_binary' if args.use_binary_options else '_trinary'
+    args.res_fn = args.res_fn % (args.model_name, args.subset, args.split, args.use_plhr, args.in_context, binary_str, args.num_templates)
     if args.rev_hyp_args:
         args.res_fn = args.res_fn.replace('.json', '_rev-hyp-args.json')
 
-    if args.use_plhr in ['none', 'xy']:
+    if args.use_plhr in ['original', 'xy']:
         args.infn_for_eval = args.in_fn % (args.subset, args.split)
     elif args.use_plhr == 'shuffled':
         args.infn_for_eval = args.shuffled_in_fn % (args.subset, args.split)
