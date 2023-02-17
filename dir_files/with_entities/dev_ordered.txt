@@ -286,8 +286,8 @@ The chlorate,is extensively used in,Medicine	The chlorate,is used in,Medicine	Fa
 The chlorate,is used in,Medicine	The chlorate,is extensively used in,Medicine	True	EN
 Haydn,wrote a set of,symphonies	Haydn,composed,a symphony	False	EN
 Haydn,composed,a symphony	Haydn,wrote a set of,symphonies	True	EN
-person, is associated with, capitalism	the jew, was the representative of, capitalism	True
-the jew, was the representative of, capitalism	person, is associated with, capitalism	False
+The jew,is associated with,capitalism	The jew,was the representative of,capitalism	True	EN
+The jew,was the representative of,capitalism	The jew,is associated with,capitalism	False	EN
 This preparation,soon became,a medicine	This preparation,is used in,Medicine	False	EN
 This preparation,is used in,Medicine	This preparation,soon became,a medicine	True	EN
 Reagan,was elected governor of,California	Reagan,is the governor of,California	True	EN
@@ -314,8 +314,8 @@ Chronic gonorrhea,is caused by,bacteria	Chronic gonorrhea,means the presence of,
 Chronic gonorrhea,means the presence of,bacteria	Chronic gonorrhea,is caused by,bacteria	True	EN
 Mites,eats,Crops	Mites,are pests of,Crops	True	EN
 Mites,are pests of,Crops	Mites,eats,Crops	False	EN
-Representatives,interprets,Laws	The laws,are discussed by,Representatives	False	EN
-The laws,are discussed by,Representatives	Representatives,interprets,Laws	True	EN
+Representative bartlett,appeared on,Television	Representative bartlett,was interviewed on,Television	True	EN
+Representative bartlett,was interviewed on,Television	Representative bartlett,appeared on,Television	False	EN
 Chloramphenicol,kills,infections	Chloramphenicol,has been used in the treatment of,infections	False	EN
 Chloramphenicol,has been used in the treatment of,infections	Chloramphenicol,kills,infections	True	EN
 Roosevelt,led during,the great depression	Roosevelt,was president during,the great depression	True	EN
@@ -370,10 +370,10 @@ Tasmania,is the state of,Australia	Tasmania,is part of,Australia	False	EN
 Tasmania,is part of,Australia	Tasmania,is the state of,Australia	True	EN
 Galileo,was condemned by,The Church	Galileo,was persecuted by,The Church	True	EN
 Galileo,was persecuted by,The Church	Galileo,was condemned by,The Church	False	EN
-artist, resided in, paris	stravinsky, moved to, paris	True
-stravinsky, moved to, paris	artist, resided in, paris	False
-picasso, remained in, paris	artist, resided in, paris	False
-artist, resided in, paris	picasso, remained in, paris	True
+Stravinsky,resided in,Paris	Stravinsky,moved to,Paris	True	EN
+Stravinsky,moved to,Paris	Stravinsky,resided in,Paris	False	EN
+Picasso,remained in,Paris	Picasso,resided in,Paris	False	EN
+Picasso,resided in,Paris	Picasso,remained in,Paris	True	EN
 Metronidazole,is the treatment for,infection	Metronidazole,kills,infections	True	EN
 Metronidazole,kills,infections	Metronidazole,is the treatment for,infection	False	EN
 Water,is a combination of,hydrogen	Hydrogen,is found in,Water	False	EN

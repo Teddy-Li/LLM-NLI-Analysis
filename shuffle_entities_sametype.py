@@ -16,7 +16,7 @@ def add_entity_to_pool(entity_type, entity_name, pool):
 def build_entity_pool(args) -> dict:
     entity_pool = {}
     rel_fp = open(f'./{args.subset}_files/with_type/{args.split}_rels.txt', 'r', encoding='utf8')
-    text_fp = open(f'./{args.subset}_files/with_entities/{args.split}.txt', 'r', encoding='utf8')
+    text_fp = open(f'./{args.subset}_files/with_entities/{args.split}_ordered.txt', 'r', encoding='utf8')
     for r_line, t_line in zip(rel_fp, text_fp):
         if len(r_line) < 2:
             continue
@@ -210,11 +210,10 @@ if __name__ == '__main__':
     random.seed(args.seed)
 
     entity_pool = build_entity_pool(args)
-    text_lines_dict = get_text_line_dict(args)
 
     # Reload rel_fp from the beginning, as well as the input, output files.
     rel_fp = open(f'./{args.subset}_files/with_type/{args.split}_rels.txt', 'r', encoding='utf8')
-    text_fp = open(f'./{args.subset}_files/with_entities/{args.split}.txt', 'r', encoding='utf8')
+    text_fp = open(f'./{args.subset}_files/with_entities/{args.split}_ordered.txt', 'r', encoding='utf8')
     typed_text_fp = open(f'./{args.subset}_files/with_type/{args.split}.txt', 'r', encoding='utf8')
     os.makedirs(f'./{args.subset}_files/with_shuffled_entities/', exist_ok=True)
     out_fp = open(f'./{args.subset}_files/with_shuffled_entities/{args.split}.txt', 'w', encoding='utf8')
@@ -222,17 +221,16 @@ if __name__ == '__main__':
     shuffle_partly_failed_idxes = []
     shuffle_full_failed_idxes = []
     lidx = 0
-    for lidx, (r_line, rt_line) in enumerate(zip(rel_fp, typed_text_fp)):
+    for lidx, (r_line, rt_line, t_line) in enumerate(zip(rel_fp, typed_text_fp, text_fp)):
         if lidx % 1000 == 0:
             print(f'Processed {lidx} lines.')
         if len(r_line) < 2:
             continue
         hyp_rel, prem_rel, label_rel = r_line.rstrip().split('\t')
         hyp_ttext, prem_ttext, label_ttext = rt_line.rstrip().split('\t')
-        assert label_rel == label_ttext
+        hyp_t, prm_t, label_t, lang = t_line.rstrip().split('\t')
+        assert label_rel == label_ttext == label_t
         hyp_subj_type, hyp_obj_type, prem_subj_type, prem_obj_type = get_types_from_relpair(hyp_rel, prem_rel, label_rel)
-        text_entry = match_typed_entry_to_raw_entry(hyp_ttext, prem_ttext, label_ttext, text_lines_dict)
-        hyp_t, prm_t, label_t, lang = text_entry['hyp'], text_entry['prm'], text_entry['label'], text_entry['lang']
 
         # We still need to check the argument alignemnts, because type alignments are not always indicative of argument alignments.
         hyp_textual_subj, hyp_textual_pred, hyp_textual_obj = hyp_t.split(',')

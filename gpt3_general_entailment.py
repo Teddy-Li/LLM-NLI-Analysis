@@ -1,5 +1,5 @@
 import json
-from utils import load_general_entries, load_typed_general_entries, negate
+from utils import load_general_entries, load_typed_general_entries, negate, wrap_prompt
 import argparse
 import openai
 import os
@@ -184,22 +184,6 @@ def get_gpt_template(p: str, h: str, aligned: bool, use_plhr: str, in_context: s
     else:
         raise ValueError(f"Unknown in_context value: {in_context}")
     return template
-
-
-def wrap_prompt(prompt, model_name: str = "text-davinci-003", max_tokens: int = 32, temperature: float = 0.0,
-                top_p: float = 1.0):
-    ret_dict = {
-        "model": model_name,
-        "prompt": prompt,
-        "max_tokens": max_tokens,
-        "temperature": temperature,
-        "top_p": top_p,
-        "n": 1,
-        "stream": False,
-        "logprobs": 5,
-        "stop": "\n"
-    }
-    return ret_dict
 
 
 def get_gpt3_output(prompt: str, model_name: str = "text-davinci-003", max_tokens: int = 32, temperature: float = 0.0,
@@ -458,16 +442,33 @@ def get_scr_from_full_result(args, dirscr: bool):
             diridxes = json.load(diridx_fp)
     else:
         diridxes = None
+
+    if args.use_plhr == 'original':
+        order_str = '_entord'
+    elif args.use_plhr in ['type', 'shuffled', 'pseudoents']:
+        order_str = '_ordered'
+    else:
+        raise AssertionError
+    inclusion_flags_fpath = f'./dir_files/with_entities/{args.split}_inclusion_flags{order_str}.json'
+    with open(inclusion_flags_fpath, 'r', encoding='utf-8') as inclusion_flags_fp:
+        inclusion_flags = json.load(inclusion_flags_fp)
+
     full_results = []
     with open(args.res_fn, 'r', encoding='utf-8') as res_fp:
         for line in res_fp:
             full_results.append(json.loads(line))
+    assert len(full_results) == len(inclusion_flags)
 
     preds = [[] for x in range(args.num_templates + 3)]  # the +2 are for voting and maximum
     golds = [[] for x in range(args.num_templates + 3)]  # the +2 are for voting and maximum
-    for ridx, res_entry in enumerate(full_results):
+    for ridx, (res_entry, i_flag) in enumerate(zip(full_results, inclusion_flags)):
         if diridxes is not None and ridx not in diridxes:
             continue
+        if args.inclusion_subset == 'yes' and i_flag == False:
+            continue
+        elif args.inclusion_subset == 'no' and i_flag == True:
+            continue
+
         eligible_preds = []
         for tplt_idx in range(args.num_templates):
             if tplt_idx in banned_template_ids:
@@ -560,6 +561,7 @@ if __name__ == '__main__':
     parser.add_argument('--dry-run', action='store_true')  # will not call the actual API; instead use random fake data
     parser.add_argument('--rev-hyp-args', action='store_true')
     parser.add_argument('--use-binary-options', action='store_true')
+    parser.add_argument('--inclusion_subset', type=str, default='any', choices=['any', 'yes', 'no'])
 
     parser.add_argument('--res_suffix', type=str, default='')
     parser.add_argument('--sleep_after_query', type=float, default=0)
@@ -569,6 +571,7 @@ if __name__ == '__main__':
     assert args.use_plhr in ['original', 'shuffled', 'xy', 'type']
     assert not (args.hypothesis_only and (args.in_context not in ['none', 'lbl'])), 'Not Implemented: ICL with Explanations with Hypothesis-only baseline'
     assert not (args.hypothesis_only and (args.use_plhr != 'original')), 'Not Implemented: argument replacements with Hypothesis-only baseline'
+    assert args.inclusion_subset in ['any', 'yes', 'no']
 
     binary_str = '_binary' if args.use_binary_options else '_trinary'
     args.res_fn = args.res_fn % (args.model_name, args.subset, args.split, args.use_plhr, args.in_context, binary_str, args.num_templates)
