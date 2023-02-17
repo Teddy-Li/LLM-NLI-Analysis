@@ -288,7 +288,7 @@ def retrieve_results_main(args):
                 {'s': '{hyp}.', 'do_neg': False}
         ]
     else:
-        sent_template_activate_flags = [True, True, True, True, True, False, False, False]
+        sent_template_activate_flags = [True, True, False, True, True, False, False, False]
         # sent_template_activate_flags = [True, True, True, True, True, True, True, True]
         sent_template_to_test = [
             {'s': "{prm}, which means that {hyp}.", 'do_neg': False},
