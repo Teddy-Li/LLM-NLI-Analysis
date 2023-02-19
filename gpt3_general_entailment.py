@@ -514,7 +514,7 @@ def get_scr_from_full_result(args, dirscr: bool):
     plt.draw()
     plt.show()
     assert args.res_fn.endswith('.json')
-    plt.savefig(f"{args.res_fn}".replace('.json', '.png'))
+    plt.savefig(f"{args.res_fn}".replace('.json', f'_inc={args.inclusion_subset}.png'))
 
 
 DUMMY_RESPONSE = json.loads('''
@@ -591,7 +591,7 @@ if __name__ == '__main__':
     if args.only_do_scr:
         print(f"Getting scores for the full dataset:")
         get_scr_from_full_result(args, dirscr=False)
-        print(f"Getting scores for the directional subset:")
-        get_scr_from_full_result(args, dirscr=True)
+        # print(f"Getting scores for the directional subset:")
+        # get_scr_from_full_result(args, dirscr=True)
     else:
         retrieve_results_main(args)
