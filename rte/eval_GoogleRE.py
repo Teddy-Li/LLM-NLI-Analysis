@@ -47,8 +47,7 @@ def evaluate(data):
                 #if not debug_find_flag:
                 #    print(pred)
                 #    print(labels)
-            print("\n Precision at 1 on "+rel+":    " + str(tp_subset/len(subsets[rel])))
-    
+            print("\n Precision at 1 on "+rel+":    " + str(tp_subset/len(subsets[rel])))    
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
