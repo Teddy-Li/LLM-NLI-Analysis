@@ -15,8 +15,8 @@ def add_entity_to_pool(entity_type, entity_name, pool):
 
 def build_entity_pool(args) -> dict:
     entity_pool = {}
-    rel_fp = open(f'./{args.subset}_files/with_type/{args.split}_rels.txt', 'r', encoding='utf8')
-    text_fp = open(f'./{args.subset}_files/with_entities/{args.split}_ordered.txt', 'r', encoding='utf8')
+    rel_fp = open(f'./levyholt_files/{args.subset}_files/with_type/{args.split}_rels.txt', 'r', encoding='utf8')
+    text_fp = open(f'./levyholt_files/{args.subset}_files/with_original/{args.split}_ordered.txt', 'r', encoding='utf8')
     for r_line, t_line in zip(rel_fp, text_fp):
         if len(r_line) < 2:
             continue
@@ -57,7 +57,7 @@ def build_entity_pool(args) -> dict:
 
 
 def get_text_line_dict(args):
-    tfp = open(f'./{args.subset}_files/with_entities/{args.split}.txt', 'r', encoding='utf8')
+    tfp = open(f'./levyholt_files/{args.subset}_files/with_original/{args.split}.txt', 'r', encoding='utf8')
     text_lines = []
     for line in tfp:
         if len(line) < 2:
@@ -212,11 +212,11 @@ if __name__ == '__main__':
     entity_pool = build_entity_pool(args)
 
     # Reload rel_fp from the beginning, as well as the input, output files.
-    rel_fp = open(f'./{args.subset}_files/with_type/{args.split}_rels.txt', 'r', encoding='utf8')
-    text_fp = open(f'./{args.subset}_files/with_entities/{args.split}_ordered.txt', 'r', encoding='utf8')
-    typed_text_fp = open(f'./{args.subset}_files/with_type/{args.split}.txt', 'r', encoding='utf8')
-    os.makedirs(f'./{args.subset}_files/with_shuffled_entities/', exist_ok=True)
-    out_fp = open(f'./{args.subset}_files/with_shuffled_entities/{args.split}.txt', 'w', encoding='utf8')
+    rel_fp = open(f'./levyholt_files/{args.subset}_files/with_type/{args.split}_rels.txt', 'r', encoding='utf8')
+    text_fp = open(f'./levyholt_files/{args.subset}_files/with_original/{args.split}_ordered.txt', 'r', encoding='utf8')
+    typed_text_fp = open(f'./levyholt_files/{args.subset}_files/with_type/{args.split}.txt', 'r', encoding='utf8')
+    os.makedirs(f'./levyholt_files/{args.subset}_files/with_shuffled_entities/', exist_ok=True)
+    out_fp = open(f'./levyholt_files/{args.subset}_files/with_shuffled_entities/{args.split}.txt', 'w', encoding='utf8')
 
     shuffle_partly_failed_idxes = []
     shuffle_full_failed_idxes = []

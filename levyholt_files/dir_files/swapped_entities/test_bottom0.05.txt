@@ -1,0 +1,1784 @@
+brewery district, is surrounded by, mien (lake)	brewery district, is located near, mien (lake)	False
+brewery district, is located near, mien (lake)	brewery district, is surrounded by, mien (lake)	True
+great crested grebe, lives in, brenish	great crested grebe, captured in, brenish	True
+great crested grebe, captured in, brenish	great crested grebe, lives in, brenish	False
+cladribine, is effective for, proteus syndrome	cladribine, cures, proteus syndrome	True
+cladribine, cures, proteus syndrome	cladribine, is effective for, proteus syndrome	False
+coffee production in colombia, is made of, hypersonic wind tunnel	coffee production in colombia, is composed of pieces of, hypersonic wind tunnel	True
+coffee production in colombia, is composed of pieces of, hypersonic wind tunnel	coffee production in colombia, is made of, hypersonic wind tunnel	False
+puyuhuapi (volcanic group), was bounded on the north by, zandvliet	zandvliet, borders, puyuhuapi (volcanic group)	False
+zandvliet, borders, puyuhuapi (volcanic group)	puyuhuapi (volcanic group), was bounded on the north by, zandvliet	True
+european student moon orbiter, is made of, blushing groom	european student moon orbiter, is a box of, blushing groom	True
+european student moon orbiter, is a box of, blushing groom	european student moon orbiter, is made of, blushing groom	False
+buclizine, is effective for, heterotopia (medicine)	buclizine, cures, heterotopia (medicine)	True
+buclizine, cures, heterotopia (medicine)	buclizine, is effective for, heterotopia (medicine)	False
+guimbal cabri g2, imposed on, tripuri people	guimbal cabri g2, is worn by, tripuri people	False
+guimbal cabri g2, is worn by, tripuri people	guimbal cabri g2, imposed on, tripuri people	True
+imperial crown of russia, is made of, roses match	imperial crown of russia, is composed of pieces of, roses match	True
+imperial crown of russia, is composed of pieces of, roses match	imperial crown of russia, is made of, roses match	False
+manchester tart, seasoned with, vanilla extract	manchester tart, includes, vanilla extract	False
+manchester tart, includes, vanilla extract	manchester tart, seasoned with, vanilla extract	True
+all hearts tour, is made of, and the children shall lead	all hearts tour, are blocks of, and the children shall lead	True
+all hearts tour, are blocks of, and the children shall lead	all hearts tour, is made of, and the children shall lead	False
+banepa, is located near, licchavi (kingdom)	banepa, is surrounded by, licchavi (kingdom)	True
+banepa, is surrounded by, licchavi (kingdom)	banepa, is located near, licchavi (kingdom)	False
+gadopentetic acid, contain, mercury telluride	gadopentetic acid, is made of, mercury telluride	True
+gadopentetic acid, is made of, mercury telluride	gadopentetic acid, contain, mercury telluride	False
+marco fabbri, created, 1922 iowa hawkeyes football team	marco fabbri, drew, 1922 iowa hawkeyes football team	False
+marco fabbri, drew, 1922 iowa hawkeyes football team	marco fabbri, created, 1922 iowa hawkeyes football team	True
+achillea millefolium, includes, couderc noir	achillea millefolium, seasoned with, couderc noir	True
+achillea millefolium, seasoned with, couderc noir	achillea millefolium, includes, couderc noir	False
+tradition-icap liverpool international, developed, show cave	tradition-icap liverpool international, invented, show cave	True
+tradition-icap liverpool international, invented, show cave	tradition-icap liverpool international, developed, show cave	False
+intelligent land investments, created, bevatron (comics)	intelligent land investments, drew, bevatron (comics)	False
+intelligent land investments, drew, bevatron (comics)	intelligent land investments, created, bevatron (comics)	True
+african military cup, also contains, gadopentetic acid	african military cup, is rich with, gadopentetic acid	True
+african military cup, is rich with, gadopentetic acid	african military cup, also contains, gadopentetic acid	False
+green ormer, lives in, upper clatford	green ormer, spread throughout, upper clatford	True
+green ormer, spread throughout, upper clatford	green ormer, lives in, upper clatford	False
+stefan ackermann, ascended the throne of, byers lake	byers lake, was controlled by, stefan ackermann	False
+byers lake, was controlled by, stefan ackermann	stefan ackermann, ascended the throne of, byers lake	True
+giant eland, is processed into, solomon gundy	giant eland, yields, solomon gundy	False
+giant eland, yields, solomon gundy	giant eland, is processed into, solomon gundy	True
+earl of bantry, can do, riociguat	riociguat, is conducted by, earl of bantry	True
+riociguat, is conducted by, earl of bantry	earl of bantry, can do, riociguat	False
+leonhard von spengel, contributed to, united states ambassador to chad	leonhard von spengel, awarded the medal of, united states ambassador to chad	True
+leonhard von spengel, awarded the medal of, united states ambassador to chad	leonhard von spengel, contributed to, united states ambassador to chad	False
+elaeocarpus calomala, lives in, ranowo	elaeocarpus calomala, migrate to, ranowo	True
+elaeocarpus calomala, migrate to, ranowo	elaeocarpus calomala, lives in, ranowo	False
+balgheim, produced, corn soup	balgheim, supplies, corn soup	True
+balgheim, supplies, corn soup	balgheim, produced, corn soup	False
+sensory neuron, secretes, mater health services north queensland	sensory neuron, secretes a number of, mater health services north queensland	True
+sensory neuron, secretes a number of, mater health services north queensland	sensory neuron, secretes, mater health services north queensland	False
+awabakal language, is the language of, ramona band of cahuilla indians	awabakal language, is spoken by, ramona band of cahuilla indians	False
+awabakal language, is spoken by, ramona band of cahuilla indians	awabakal language, is the language of, ramona band of cahuilla indians	True
+palestinian peruvian, measures, old german baptist brethren	old german baptist brethren, is usually measured in, palestinian peruvian	True
+old german baptist brethren, is usually measured in, palestinian peruvian	palestinian peruvian, measures, old german baptist brethren	False
+sumerian creation myth, comes from, lauterstein	sumerian creation myth, is accepted in, lauterstein	False
+sumerian creation myth, is accepted in, lauterstein	sumerian creation myth, comes from, lauterstein	True
+cubaton, is abundant in, cherik	cubaton, is an crop in, cherik	False
+cubaton, is an crop in, cherik	cubaton, is abundant in, cherik	True
+lydian language, is spoken in, salmon river trail	salmon river trail, has adopted, lydian language	True
+salmon river trail, has adopted, lydian language	lydian language, is spoken in, salmon river trail	False
+metaxalone, is recommended for patients with, wernicke's encephalopathy	metaxalone, cures, wernicke's encephalopathy	False
+metaxalone, cures, wernicke's encephalopathy	metaxalone, is recommended for patients with, wernicke's encephalopathy	True
+samuelsen, is a plate of, auramine o	samuelsen, is made of, auramine o	False
+samuelsen, is made of, auramine o	samuelsen, is a plate of, auramine o	True
+ripple marks, is a cylinder of, canada at the 1976 summer olympics	ripple marks, is made of, canada at the 1976 summer olympics	False
+ripple marks, is made of, canada at the 1976 summer olympics	ripple marks, is a cylinder of, canada at the 1976 summer olympics	True
+betaproteobacteria, were brought to, sogba	betaproteobacteria, lives in, sogba	False
+betaproteobacteria, lives in, sogba	betaproteobacteria, were brought to, sogba	True
+jewish educational center, is inside, arcadia beach state recreation site	jewish educational center, is the river in, arcadia beach state recreation site	True
+jewish educational center, is the river in, arcadia beach state recreation site	jewish educational center, is inside, arcadia beach state recreation site	False
+foxtail millet, lives in, san pablo bay national wildlife refuge	foxtail millet, is native to, san pablo bay national wildlife refuge	True
+foxtail millet, is native to, san pablo bay national wildlife refuge	foxtail millet, lives in, san pablo bay national wildlife refuge	False
+eastern howard school corporation, lies at the foot of, anneyron	eastern howard school corporation, is located near, anneyron	False
+eastern howard school corporation, is located near, anneyron	eastern howard school corporation, lies at the foot of, anneyron	True
+espadrilles, is made of, potassium bitartrate	potassium bitartrate, is used in, espadrilles	False
+potassium bitartrate, is used in, espadrilles	espadrilles, is made of, potassium bitartrate	True
+marquis of pombal, can perform, sodium thiopental	sodium thiopental, is conducted by, marquis of pombal	True
+sodium thiopental, is conducted by, marquis of pombal	marquis of pombal, can perform, sodium thiopental	False
+metallothionein, is made of, klee	metallothionein, require to be of, klee	True
+metallothionein, require to be of, klee	metallothionein, is made of, klee	False
+broke-ass stuart, is infected by, short bowel syndrome	short bowel syndrome, refers to inflammation of, broke-ass stuart	True
+short bowel syndrome, refers to inflammation of, broke-ass stuart	broke-ass stuart, is infected by, short bowel syndrome	False
+rupa bhavani, is spoken in, north west arm	rupa bhavani, came from, north west arm	True
+rupa bhavani, came from, north west arm	rupa bhavani, is spoken in, north west arm	False
+nuevo urecho, was under, bell-northern research	bell-northern research, was prevalent in, nuevo urecho	True
+bell-northern research, was prevalent in, nuevo urecho	nuevo urecho, was under, bell-northern research	False
+bisphenol af, is used for, cataclysm (transformers)	cataclysm (transformers), is made of, bisphenol af	True
+cataclysm (transformers), is made of, bisphenol af	bisphenol af, is used for, cataclysm (transformers)	False
+locust bean gum, is used in, action request system	action request system, is made of, locust bean gum	True
+action request system, is made of, locust bean gum	locust bean gum, is used in, action request system	False
+donegal castle, usually supplies, fontaines-sur-grandson	donegal castle, secretes, fontaines-sur-grandson	False
+donegal castle, secretes, fontaines-sur-grandson	donegal castle, usually supplies, fontaines-sur-grandson	True
+reverse bite injury, can be treated with, dantrolene	dantrolene, are effective for, reverse bite injury	False
+dantrolene, are effective for, reverse bite injury	reverse bite injury, can be treated with, dantrolene	True
+ark project, is affected by, potassium bitartrate	ark project, are hypersensitive to, potassium bitartrate	True
+ark project, are hypersensitive to, potassium bitartrate	ark project, is affected by, potassium bitartrate	False
+gvep international, lives in, santa olalla del cala	santa olalla del cala, is the land of, gvep international	True
+santa olalla del cala, is the land of, gvep international	gvep international, lives in, santa olalla del cala	False
+toyota corolla (e10), are usually made of, oleandrin	toyota corolla (e10), is made of, oleandrin	False
+toyota corolla (e10), is made of, oleandrin	toyota corolla (e10), are usually made of, oleandrin	True
+boondi, contains, mercury telluride	boondi, is enriched with, mercury telluride	True
+boondi, is enriched with, mercury telluride	boondi, contains, mercury telluride	False
+hazro, is made of, bisphenol af	bisphenol af, is used in, hazro	False
+bisphenol af, is used in, hazro	hazro, is made of, bisphenol af	True
+peter pugliese, is spoken in, stoney creek bridge	peter pugliese, is the language of, stoney creek bridge	True
+peter pugliese, is the language of, stoney creek bridge	peter pugliese, is spoken in, stoney creek bridge	False
+wales at the 2006 commonwealth games, makes up, jean-marie larrieu	wales at the 2006 commonwealth games, occurring in, jean-marie larrieu	False
+wales at the 2006 commonwealth games, occurring in, jean-marie larrieu	wales at the 2006 commonwealth games, makes up, jean-marie larrieu	True
+the sleeptalkers, contributed to, viscount lisle	the sleeptalkers, was a patron of, viscount lisle	True
+the sleeptalkers, was a patron of, viscount lisle	the sleeptalkers, contributed to, viscount lisle	False
+tyrsenian languages, is spoken in, antibes yacht show	tyrsenian languages, remained the language of, antibes yacht show	True
+tyrsenian languages, remained the language of, antibes yacht show	tyrsenian languages, is spoken in, antibes yacht show	False
+robert allan (poet), becomes emperor of, corbara	robert allan (poet), controlled, corbara	False
+robert allan (poet), controlled, corbara	robert allan (poet), becomes emperor of, corbara	True
+northern parula, use up, dimethyl dicarbonate	northern parula, requires, dimethyl dicarbonate	True
+northern parula, requires, dimethyl dicarbonate	northern parula, use up, dimethyl dicarbonate	False
+matching funds, is made of, a power energy systems ltd.	matching funds, consists of a piece of, a power energy systems ltd.	True
+matching funds, consists of a piece of, a power energy systems ltd.	matching funds, is made of, a power energy systems ltd.	False
+esterre, has been the land of, fluorescent lamp	fluorescent lamp, is spoken in, esterre	False
+fluorescent lamp, is spoken in, esterre	esterre, has been the land of, fluorescent lamp	True
+spanish match, could not be made without, south korea at the 2007 asian winter games	spanish match, is made of, south korea at the 2007 asian winter games	False
+spanish match, is made of, south korea at the 2007 asian winter games	spanish match, could not be made without, south korea at the 2007 asian winter games	True
+picea glauca, are bred for, floats (drink)	floats (drink), is produced from, picea glauca	False
+floats (drink), is produced from, picea glauca	picea glauca, are bred for, floats (drink)	True
+marty gateman, was still, bishop of knaresborough	marty gateman, was elected as, bishop of knaresborough	False
+marty gateman, was elected as, bishop of knaresborough	marty gateman, was still, bishop of knaresborough	True
+bangladeshis in japan, had, uss tempest (1862)	uss tempest (1862), is worn by, bangladeshis in japan	True
+uss tempest (1862), is worn by, bangladeshis in japan	bangladeshis in japan, had, uss tempest (1862)	False
+signal (bridge), are often made of, jwing-ming yang	signal (bridge), is made of, jwing-ming yang	False
+signal (bridge), is made of, jwing-ming yang	signal (bridge), are often made of, jwing-ming yang	True
+aegiceras corniculatum, lives in, liverpool toxteth (uk parliament constituency)	aegiceras corniculatum, originated in, liverpool toxteth (uk parliament constituency)	True
+aegiceras corniculatum, originated in, liverpool toxteth (uk parliament constituency)	aegiceras corniculatum, lives in, liverpool toxteth (uk parliament constituency)	False
+whip-smart, can be made from, sybr green i	whip-smart, is made of, sybr green i	True
+whip-smart, is made of, sybr green i	whip-smart, can be made from, sybr green i	False
+grog (clay), contributed to, mayor of porto alegre	grog (clay), is a historian of, mayor of porto alegre	True
+grog (clay), is a historian of, mayor of porto alegre	grog (clay), contributed to, mayor of porto alegre	False
+fluorometholone, cures, psychotic depression	fluorometholone, has been fighting, psychotic depression	False
+fluorometholone, has been fighting, psychotic depression	fluorometholone, cures, psychotic depression	True
+california sea slug, lives in, antrodoco	california sea slug, originating in, antrodoco	True
+california sea slug, originating in, antrodoco	california sea slug, lives in, antrodoco	False
+the care of trees, is implemented in, chilkat pass	chilkat pass, became a republic within, the care of trees	True
+chilkat pass, became a republic within, the care of trees	the care of trees, is implemented in, chilkat pass	False
+wtto, feeds on, western swamp tortoise	wtto, had eaten, western swamp tortoise	True
+wtto, had eaten, western swamp tortoise	wtto, feeds on, western swamp tortoise	False
+soundex, must be used for, doggles	doggles, is made of, soundex	False
+doggles, is made of, soundex	soundex, must be used for, doggles	True
+sechelt indian band, have, war cross (greece)	war cross (greece), is worn by, sechelt indian band	True
+war cross (greece), is worn by, sechelt indian band	sechelt indian band, have, war cross (greece)	False
+hafthoz, only pays, the last crusade	the last crusade, is accepted in, hafthoz	False
+the last crusade, is accepted in, hafthoz	hafthoz, only pays, the last crusade	True
+nes sound format, is worn by, moroccans in spain	moroccans in spain, attended in, nes sound format	True
+moroccans in spain, attended in, nes sound format	nes sound format, is worn by, moroccans in spain	False
+melocanna, lives in, bedfordshire south (european parliament constituency)	melocanna, are natives of, bedfordshire south (european parliament constituency)	True
+melocanna, are natives of, bedfordshire south (european parliament constituency)	melocanna, lives in, bedfordshire south (european parliament constituency)	False
+thuringian sausage, is manufactured in, obubra	obubra, is the home of, thuringian sausage	True
+obubra, is the home of, thuringian sausage	thuringian sausage, is manufactured in, obubra	False
+adenostoma, lives in, le bousquet	le bousquet, is the country of, adenostoma	True
+le bousquet, is the country of, adenostoma	adenostoma, lives in, le bousquet	False
+nawallo, is located near, inmos microprocessor factory	nawallo, is situated at the foot of, inmos microprocessor factory	True
+nawallo, is situated at the foot of, inmos microprocessor factory	nawallo, is located near, inmos microprocessor factory	False
+iris cristata, lives in, eindhoven railway station	iris cristata, is the dog of, eindhoven railway station	True
+iris cristata, is the dog of, eindhoven railway station	iris cristata, lives in, eindhoven railway station	False
+vactrain, is made of, average betty	average betty, can be used in, vactrain	False
+average betty, can be used in, vactrain	vactrain, is made of, average betty	True
+marmosa, were brought to, kowloon west (constituency)	marmosa, lives in, kowloon west (constituency)	False
+marmosa, lives in, kowloon west (constituency)	marmosa, were brought to, kowloon west (constituency)	True
+bodle, are the children of, gilbert klingel	bodle, is the son of, gilbert klingel	True
+bodle, is the son of, gilbert klingel	bodle, are the children of, gilbert klingel	False
+armageddon now, lives in, essing	armageddon now, are confined to, essing	True
+armageddon now, are confined to, essing	armageddon now, lives in, essing	False
+kstw, was known in, yuen long station	yuen long station, speaks, kstw	True
+yuen long station, speaks, kstw	kstw, was known in, yuen long station	False
+stjepan musulin, invented, coombe country park	stjepan musulin, designed, coombe country park	False
+stjepan musulin, designed, coombe country park	stjepan musulin, invented, coombe country park	True
+carbonade flamande, is the flesh of, lesser yellowlegs	carbonade flamande, is produced from, lesser yellowlegs	False
+carbonade flamande, is produced from, lesser yellowlegs	carbonade flamande, is the flesh of, lesser yellowlegs	True
+lesser yellowlegs, is a fish with, directv-11	lesser yellowlegs, is covered in, directv-11	False
+lesser yellowlegs, is covered in, directv-11	lesser yellowlegs, is a fish with, directv-11	True
+henry ames blood, conquered, bengeworth	henry ames blood, had retaken, bengeworth	True
+henry ames blood, had retaken, bengeworth	henry ames blood, conquered, bengeworth	False
+sinornis, is said to be found in, hostie	sinornis, lives in, hostie	True
+sinornis, lives in, hostie	sinornis, is said to be found in, hostie	False
+aircrew badge, is worn by, united states ambassador to chad	united states ambassador to chad, escaped in, aircrew badge	True
+united states ambassador to chad, escaped in, aircrew badge	aircrew badge, is worn by, united states ambassador to chad	False
+pipe spring national monument, lies at the foot of, villorba	pipe spring national monument, is located near, villorba	False
+pipe spring national monument, is located near, villorba	pipe spring national monument, lies at the foot of, villorba	True
+human respiratory syncytial virus, can be treated with, methyl salicylate	human respiratory syncytial virus, may be relieved by, methyl salicylate	False
+human respiratory syncytial virus, may be relieved by, methyl salicylate	human respiratory syncytial virus, can be treated with, methyl salicylate	True
+krautergersheim, speaks, wcmc-fm	wcmc-fm, is the language of, krautergersheim	True
+wcmc-fm, is the language of, krautergersheim	krautergersheim, speaks, wcmc-fm	False
+william duer (u.s. congressman), became, running of the brides	william duer (u.s. congressman), was called and made, running of the brides	True
+william duer (u.s. congressman), was called and made, running of the brides	william duer (u.s. congressman), became, running of the brides	False
+lupo class frigate, is used with, maria rosa calvo-manzano	lupo class frigate, is a must in, maria rosa calvo-manzano	True
+lupo class frigate, is a must in, maria rosa calvo-manzano	lupo class frigate, is used with, maria rosa calvo-manzano	False
+snow cream, is prepared by the addition of, pozole	pozole, includes, snow cream	False
+pozole, includes, snow cream	snow cream, is prepared by the addition of, pozole	True
+fiasco (bottle), was headed by, muhammad akbar bhatti	muhammad akbar bhatti, plays in, fiasco (bottle)	False
+muhammad akbar bhatti, plays in, fiasco (bottle)	fiasco (bottle), was headed by, muhammad akbar bhatti	True
+berkovich tip, feeds on, gambian pouched rat	berkovich tip, are fond of, gambian pouched rat	True
+berkovich tip, are fond of, gambian pouched rat	berkovich tip, feeds on, gambian pouched rat	False
+science fiction on television, controlled, berenty	science fiction on television, is the emperor of, berenty	True
+science fiction on television, is the emperor of, berenty	science fiction on television, controlled, berenty	False
+pozzolana, lives in, amphoe don sak	pozzolana, withdrew from, amphoe don sak	True
+pozzolana, withdrew from, amphoe don sak	pozzolana, lives in, amphoe don sak	False
+claravis (genus), lives in, therapia lane tram stop	claravis (genus), is confined to, therapia lane tram stop	True
+claravis (genus), is confined to, therapia lane tram stop	claravis (genus), lives in, therapia lane tram stop	False
+rhosymedre (hymn tune), lives in, gegharkunik province	rhosymedre (hymn tune), had been kept in, gegharkunik province	False
+rhosymedre (hymn tune), had been kept in, gegharkunik province	rhosymedre (hymn tune), lives in, gegharkunik province	True
+ali al-daqbaashi, includes, soki	ali al-daqbaashi, is simply, soki	True
+ali al-daqbaashi, is simply, soki	ali al-daqbaashi, includes, soki	False
+southwaite services, unfortunately has, southport lord street railway station	southwaite services, is located near, southport lord street railway station	False
+southwaite services, is located near, southport lord street railway station	southwaite services, unfortunately has, southport lord street railway station	True
+national photographic archive, would remain within, red-shouldered hawk	national photographic archive, was controlled by, red-shouldered hawk	False
+national photographic archive, was controlled by, red-shouldered hawk	national photographic archive, would remain within, red-shouldered hawk	True
+white sapote, lives in, konstantin velichkov metro station	white sapote, belongs to, konstantin velichkov metro station	True
+white sapote, belongs to, konstantin velichkov metro station	white sapote, lives in, konstantin velichkov metro station	False
+kuxl (defunct), returned to, bannach	kuxl (defunct), lives in, bannach	False
+kuxl (defunct), lives in, bannach	kuxl (defunct), returned to, bannach	True
+ignacio rodriguez-iturbe, is made of, gun truck	ignacio rodriguez-iturbe, is a piece of, gun truck	True
+ignacio rodriguez-iturbe, is a piece of, gun truck	ignacio rodriguez-iturbe, is made of, gun truck	False
+fred valentine, are distributed throughout, executive residence	fred valentine, lives in, executive residence	False
+fred valentine, lives in, executive residence	fred valentine, are distributed throughout, executive residence	True
+uss clearwater county (lst-602), was given, viscount barrington	viscount barrington, may be divided between, uss clearwater county (lst-602)	True
+viscount barrington, may be divided between, uss clearwater county (lst-602)	uss clearwater county (lst-602), was given, viscount barrington	False
+nduja, is applied to the surface of, achillea millefolium	achillea millefolium, includes, nduja	False
+achillea millefolium, includes, nduja	nduja, is applied to the surface of, achillea millefolium	True
+comedy death-ray (album), was measured with, gaiola (construction)	gaiola (construction), measures, comedy death-ray (album)	False
+gaiola (construction), measures, comedy death-ray (album)	comedy death-ray (album), was measured with, gaiola (construction)	True
+mee (psychedelic), is found in, fideo	fideo, contains, mee (psychedelic)	False
+fideo, contains, mee (psychedelic)	mee (psychedelic), is found in, fideo	True
+estragole, is found in, sweet onion	sweet onion, contains, estragole	False
+sweet onion, contains, estragole	estragole, is found in, sweet onion	True
+tiv language, is spoken in, drosh	tiv language, was the language in, drosh	True
+tiv language, was the language in, drosh	tiv language, is spoken in, drosh	False
+dtd (tv station), was recorded of, sega worldwide soccer	sega worldwide soccer, measures, dtd (tv station)	False
+sega worldwide soccer, measures, dtd (tv station)	dtd (tv station), was recorded of, sega worldwide soccer	True
+baron harmsworth, was the emperor of, birkenhead public library	baron harmsworth, controlled, birkenhead public library	False
+baron harmsworth, controlled, birkenhead public library	baron harmsworth, was the emperor of, birkenhead public library	True
+belgian rock, controlled, blackbraes national park	belgian rock, is the emperor of, blackbraes national park	True
+belgian rock, is the emperor of, blackbraes national park	belgian rock, controlled, blackbraes national park	False
+cape north vodka, includes, wenchang chicken	wenchang chicken, is prepared by the addition of, cape north vodka	True
+wenchang chicken, is prepared by the addition of, cape north vodka	cape north vodka, includes, wenchang chicken	False
+malolo, suffers from, afrosphere	afrosphere, increased throughout, malolo	True
+afrosphere, increased throughout, malolo	malolo, suffers from, afrosphere	False
+uss st. lo (cve-63), is made of, york regional road 30	uss st. lo (cve-63), is a piece of, york regional road 30	True
+uss st. lo (cve-63), is a piece of, york regional road 30	uss st. lo (cve-63), is made of, york regional road 30	False
+artyom vitalyevich anisimov, contributed to, united states ambassador to chad	artyom vitalyevich anisimov, led on the part of, united states ambassador to chad	True
+artyom vitalyevich anisimov, led on the part of, united states ambassador to chad	artyom vitalyevich anisimov, contributed to, united states ambassador to chad	False
+killas, became the leader of, bangladesh at the asian games	killas, plays in, bangladesh at the asian games	False
+killas, plays in, bangladesh at the asian games	killas, became the leader of, bangladesh at the asian games	True
+sinornis, appeared in, lewis pass	sinornis, lives in, lewis pass	True
+sinornis, lives in, lewis pass	sinornis, appeared in, lewis pass	False
+couderc noir, is produced from, kunjin virus	kunjin virus, are reared for, couderc noir	True
+kunjin virus, are reared for, couderc noir	couderc noir, is produced from, kunjin virus	False
+the producer, is rich with, dapagliflozin	the producer, are found to contain, dapagliflozin	False
+the producer, are found to contain, dapagliflozin	the producer, is rich with, dapagliflozin	True
+baron burgh, begin producing, cacciucco	baron burgh, produces, cacciucco	False
+baron burgh, produces, cacciucco	baron burgh, begin producing, cacciucco	True
+new zealand rockwren, came from, tippecanoe school corporation	new zealand rockwren, lives in, tippecanoe school corporation	False
+new zealand rockwren, lives in, tippecanoe school corporation	new zealand rockwren, came from, tippecanoe school corporation	True
+tolfenamic acid, cures, coloboma	tolfenamic acid, is indicated in the treatment of, coloboma	False
+tolfenamic acid, is indicated in the treatment of, coloboma	tolfenamic acid, cures, coloboma	True
+proteus syndrome, usually is accompanied by, binge eating disorder	proteus syndrome, causes, binge eating disorder	True
+proteus syndrome, causes, binge eating disorder	proteus syndrome, usually is accompanied by, binge eating disorder	False
+recoaro terme, is a member of, air miles (charter broker)	recoaro terme, left to join, air miles (charter broker)	True
+recoaro terme, left to join, air miles (charter broker)	recoaro terme, is a member of, air miles (charter broker)	False
+eugene h. merrill, questioned, oborci	eugene h. merrill, was the critic of, oborci	True
+eugene h. merrill, was the critic of, oborci	eugene h. merrill, questioned, oborci	False
+rainer fischer, reigned in, svijany	rainer fischer, conquered, svijany	True
+rainer fischer, conquered, svijany	rainer fischer, reigned in, svijany	False
+perigiali, to remain within, drumometer	perigiali, was controlled by, drumometer	False
+perigiali, was controlled by, drumometer	perigiali, to remain within, drumometer	True
+gheenoe, measures, boong-ga boong-ga	boong-ga boong-ga, totals, gheenoe	True
+boong-ga boong-ga, totals, gheenoe	gheenoe, measures, boong-ga boong-ga	False
+tandoori masala, is high in, cyclic guanosine monophosphate	tandoori masala, contains, cyclic guanosine monophosphate	False
+tandoori masala, contains, cyclic guanosine monophosphate	tandoori masala, is high in, cyclic guanosine monophosphate	True
+drimys winteri, has been mistaken for, large wall	large wall, is not, drimys winteri	False
+large wall, is not, drimys winteri	drimys winteri, has been mistaken for, large wall	True
+el torito (cd-rom standard), is led by, 1987 new york jets season	1987 new york jets season, plays in, el torito (cd-rom standard)	False
+1987 new york jets season, plays in, el torito (cd-rom standard)	el torito (cd-rom standard), is led by, 1987 new york jets season	True
+pasquale del pezzo, became emperor of, lackawanna state park	pasquale del pezzo, controlled, lackawanna state park	False
+pasquale del pezzo, controlled, lackawanna state park	pasquale del pezzo, became emperor of, lackawanna state park	True
+francis a. shoup, invented, garden railway	francis a. shoup, designed, garden railway	False
+francis a. shoup, designed, garden railway	francis a. shoup, invented, garden railway	True
+julius jaenzon, married and had, treaty of falaise	treaty of falaise, is the son of, julius jaenzon	False
+treaty of falaise, is the son of, julius jaenzon	julius jaenzon, married and had, treaty of falaise	True
+the baby show (30 rock), are imported from, verdigris river	the baby show (30 rock), is abundant in, verdigris river	False
+the baby show (30 rock), is abundant in, verdigris river	the baby show (30 rock), are imported from, verdigris river	True
+giovanni battista brambilla, moved to, ada amendments act of 2008	giovanni battista brambilla, lived in, ada amendments act of 2008	False
+giovanni battista brambilla, lived in, ada amendments act of 2008	giovanni battista brambilla, moved to, ada amendments act of 2008	True
+blaise thompson, is served with, mumbo sauce	blaise thompson, was eaten with, mumbo sauce	False
+blaise thompson, was eaten with, mumbo sauce	blaise thompson, is served with, mumbo sauce	True
+the eight garudhammas, measures, sharmagne leland-st. john	sharmagne leland-st. john, could not be less than, the eight garudhammas	True
+sharmagne leland-st. john, could not be less than, the eight garudhammas	the eight garudhammas, measures, sharmagne leland-st. john	False
+nudnik (cartoon), measures, micron (skate company)	micron (skate company), amounts to, nudnik (cartoon)	True
+micron (skate company), amounts to, nudnik (cartoon)	nudnik (cartoon), measures, micron (skate company)	False
+tayberry, includes, nduja	tayberry, is rubbed with, nduja	True
+tayberry, is rubbed with, nduja	tayberry, includes, nduja	False
+nanbanzuke, contains, tetraethyllead	tetraethyllead, is found in, nanbanzuke	True
+tetraethyllead, is found in, nanbanzuke	nanbanzuke, contains, tetraethyllead	False
+dromaius, are natives of, buggenum	dromaius, lives in, buggenum	False
+dromaius, lives in, buggenum	dromaius, are natives of, buggenum	True
+fresno pepper, have been found in, faycelles	fresno pepper, lives in, faycelles	False
+fresno pepper, lives in, faycelles	fresno pepper, have been found in, faycelles	True
+callisia, is diffused throughout, boa nova	callisia, lives in, boa nova	False
+callisia, lives in, boa nova	callisia, is diffused throughout, boa nova	True
+eugene young (character), are cut from, leinefelde-worbis	eugene young (character), is made of, leinefelde-worbis	False
+eugene young (character), is made of, leinefelde-worbis	eugene young (character), are cut from, leinefelde-worbis	True
+kapampangan language, was the language in, shanklin railway station	kapampangan language, is spoken in, shanklin railway station	False
+kapampangan language, is spoken in, shanklin railway station	kapampangan language, was the language in, shanklin railway station	True
+2010 dresden anti-fascist blockade, consists of, tombos	tombos, was controlled by, 2010 dresden anti-fascist blockade	False
+tombos, was controlled by, 2010 dresden anti-fascist blockade	2010 dresden anti-fascist blockade, consists of, tombos	True
+dunfermline city chambers, swarmed with, afl new zealand	dunfermline city chambers, is inhabited by, afl new zealand	False
+dunfermline city chambers, is inhabited by, afl new zealand	dunfermline city chambers, swarmed with, afl new zealand	True
+comparator, is equal to, bad reputation (glee)	bad reputation (glee), measures, comparator	False
+bad reputation (glee), measures, comparator	comparator, is equal to, bad reputation (glee)	True
+praeneste fibula, served as, bishop of knaresborough	praeneste fibula, was elected as, bishop of knaresborough	False
+praeneste fibula, was elected as, bishop of knaresborough	praeneste fibula, served as, bishop of knaresborough	True
+bernie mireault, conquered, nkhotakota district	nkhotakota district, was recaptured by, bernie mireault	True
+nkhotakota district, was recaptured by, bernie mireault	bernie mireault, conquered, nkhotakota district	False
+geologists range, is located near, sheepshead bay houses	geologists range, lies at the foot of, sheepshead bay houses	True
+geologists range, lies at the foot of, sheepshead bay houses	geologists range, is located near, sheepshead bay houses	False
+jarmania, lives in, reichenburg	jarmania, are abundant in, reichenburg	True
+jarmania, are abundant in, reichenburg	jarmania, lives in, reichenburg	False
+anogeissus, usually covered with, nanjing war crimes tribunal	anogeissus, is covered in, nanjing war crimes tribunal	True
+anogeissus, is covered in, nanjing war crimes tribunal	anogeissus, usually covered with, nanjing war crimes tribunal	False
+tallkrogen, has been inhabited by, nmp (art collective)	nmp (art collective), lives in, tallkrogen	True
+nmp (art collective), lives in, tallkrogen	tallkrogen, has been inhabited by, nmp (art collective)	False
+siberian accentor, lives in, gordexola	gordexola, is the country of, siberian accentor	True
+gordexola, is the country of, siberian accentor	siberian accentor, lives in, gordexola	False
+princess marie-gabrielle of nassau, measures, ulla barding-poulsen	ulla barding-poulsen, is millionths of, princess marie-gabrielle of nassau	True
+ulla barding-poulsen, is millionths of, princess marie-gabrielle of nassau	princess marie-gabrielle of nassau, measures, ulla barding-poulsen	False
+belgium in the eurovision song contest 2002, is the language in, dobri	dobri, speaks, belgium in the eurovision song contest 2002	False
+dobri, speaks, belgium in the eurovision song contest 2002	belgium in the eurovision song contest 2002, is the language in, dobri	True
+lesser yellowlegs, lives in, crescent bend	lesser yellowlegs, is the bird of, crescent bend	True
+lesser yellowlegs, is the bird of, crescent bend	lesser yellowlegs, lives in, crescent bend	False
+face the facts, came from, gold coast (connecticut)	face the facts, is spoken in, gold coast (connecticut)	False
+face the facts, is spoken in, gold coast (connecticut)	face the facts, came from, gold coast (connecticut)	True
+creodonta, feeds on, bassina	creodonta, is going down to, bassina	True
+creodonta, is going down to, bassina	creodonta, feeds on, bassina	False
+toxicodendron radicans, lives in, nieuwerkerk	toxicodendron radicans, are found throughout, nieuwerkerk	True
+toxicodendron radicans, are found throughout, nieuwerkerk	toxicodendron radicans, lives in, nieuwerkerk	False
+league of communists of slovenia, is prevalent in, bradi	league of communists of slovenia, has been used in, bradi	False
+league of communists of slovenia, has been used in, bradi	league of communists of slovenia, is prevalent in, bradi	True
+united states ambassador to bahrain, contributed to, minister of state (with special responsibility for labour affairs)	united states ambassador to bahrain, can develop, minister of state (with special responsibility for labour affairs)	False
+united states ambassador to bahrain, can develop, minister of state (with special responsibility for labour affairs)	united states ambassador to bahrain, contributed to, minister of state (with special responsibility for labour affairs)	True
+lake beloye (nizhny novgorod oblast), is the port on, meanwood valley trail	lake beloye (nizhny novgorod oblast), is next to, meanwood valley trail	False
+lake beloye (nizhny novgorod oblast), is next to, meanwood valley trail	lake beloye (nizhny novgorod oblast), is the port on, meanwood valley trail	True
+la chapelle-saint-mesmin, largely consists of, frog legs	la chapelle-saint-mesmin, includes, frog legs	False
+la chapelle-saint-mesmin, includes, frog legs	la chapelle-saint-mesmin, largely consists of, frog legs	True
+greater asiatic yellow bat, flourished in, harashim	greater asiatic yellow bat, lives in, harashim	False
+greater asiatic yellow bat, lives in, harashim	greater asiatic yellow bat, flourished in, harashim	True
+chelmsford high school, provides, line of beauty	chelmsford high school, came to, line of beauty	True
+chelmsford high school, came to, line of beauty	chelmsford high school, provides, line of beauty	False
+redshirt theory, is processed into, diet soda	redshirt theory, are converted into, diet soda	False
+redshirt theory, are converted into, diet soda	redshirt theory, is processed into, diet soda	True
+county borough of carlisle, indicates the number of, battle of beaune-la-rolande	battle of beaune-la-rolande, measures, county borough of carlisle	False
+battle of beaune-la-rolande, measures, county borough of carlisle	county borough of carlisle, indicates the number of, battle of beaune-la-rolande	True
+kapal, will run down, synemon plana	kapal, hunts, synemon plana	False
+kapal, hunts, synemon plana	kapal, will run down, synemon plana	True
+didymium, lies on, minard castle	didymium, is next to, minard castle	False
+didymium, is next to, minard castle	didymium, lies on, minard castle	True
+2006 south american championships in athletics, is made of, jean-michel bombardier	jean-michel bombardier, has been used in, 2006 south american championships in athletics	False
+jean-michel bombardier, has been used in, 2006 south american championships in athletics	2006 south american championships in athletics, is made of, jean-michel bombardier	True
+lord lieutenant of berkshire, was established at, monti della tolfa	lord lieutenant of berkshire, was used by, monti della tolfa	False
+lord lieutenant of berkshire, was used by, monti della tolfa	lord lieutenant of berkshire, was established at, monti della tolfa	True
+layforce, is made of, enclosed oppidum	layforce, may be built of, enclosed oppidum	False
+layforce, may be built of, enclosed oppidum	layforce, is made of, enclosed oppidum	True
+tokutomi mathematics contest, was surrounded by, pashand	tokutomi mathematics contest, is next to, pashand	False
+tokutomi mathematics contest, is next to, pashand	tokutomi mathematics contest, was surrounded by, pashand	True
+bubalus, form throughout, istana besar	bubalus, lives in, istana besar	False
+bubalus, lives in, istana besar	bubalus, form throughout, istana besar	True
+rbc verviers-pepinster, contributed to, high sheriff of glamorgan	rbc verviers-pepinster, was elected a member of, high sheriff of glamorgan	True
+rbc verviers-pepinster, was elected a member of, high sheriff of glamorgan	rbc verviers-pepinster, contributed to, high sheriff of glamorgan	False
+sweet onion, includes, cut brandy	sweet onion, are high in, cut brandy	True
+sweet onion, are high in, cut brandy	sweet onion, includes, cut brandy	False
+universal business language, contributed to, voice teacher	universal business language, founded the institute of, voice teacher	True
+universal business language, founded the institute of, voice teacher	universal business language, contributed to, voice teacher	False
+okc-3s bayonet, is the language of, bad kissingen (district)	bad kissingen (district), speaks, okc-3s bayonet	False
+bad kissingen (district), speaks, okc-3s bayonet	okc-3s bayonet, is the language of, bad kissingen (district)	True
+shepherds' crusade, is spoken in, bonnebosq	shepherds' crusade, was the language in, bonnebosq	True
+shepherds' crusade, was the language in, bonnebosq	shepherds' crusade, is spoken in, bonnebosq	False
+midhurst (uk electoral ward), lived in, personalism	midhurst (uk electoral ward), was born at, personalism	True
+midhurst (uk electoral ward), was born at, personalism	midhurst (uk electoral ward), lived in, personalism	False
+lookout (clipper), is worn by, kaniyar	kaniyar, must wear, lookout (clipper)	True
+kaniyar, must wear, lookout (clipper)	lookout (clipper), is worn by, kaniyar	False
+friden flexowriter, sued and obtained, viscount addison	viscount addison, was given, friden flexowriter	False
+viscount addison, was given, friden flexowriter	friden flexowriter, sued and obtained, viscount addison	True
+logictools, was born at, computer cluster	logictools, lived in, computer cluster	False
+logictools, lived in, computer cluster	logictools, was born at, computer cluster	True
+nimule national park, extended into, salmon river trail	nimule national park, is next to, salmon river trail	False
+nimule national park, is next to, salmon river trail	nimule national park, extended into, salmon river trail	True
+galley head, trades with, video volunteers	galley head, had relations with, video volunteers	False
+galley head, had relations with, video volunteers	galley head, trades with, video volunteers	True
+graphical projection, measures, mukti (film)	mukti (film), are given in terms of, graphical projection	True
+mukti (film), are given in terms of, graphical projection	graphical projection, measures, mukti (film)	False
+kixx, ruled, raouraoua	raouraoua, was the estate of, kixx	True
+raouraoua, was the estate of, kixx	kixx, ruled, raouraoua	False
+nshima, is served with, diet soda	diet soda, boiled with, nshima	True
+diet soda, boiled with, nshima	nshima, is served with, diet soda	False
+daemon (classical mythology), is the son of, adrian havill	daemon (classical mythology), was descended from, adrian havill	False
+daemon (classical mythology), was descended from, adrian havill	daemon (classical mythology), is the son of, adrian havill	True
+habakkuk commentary, is made of, provinces of argentina	habakkuk commentary, should be made of, provinces of argentina	False
+habakkuk commentary, should be made of, provinces of argentina	habakkuk commentary, is made of, provinces of argentina	True
+chief justice of the common pleas, have advocated, couchette car	chief justice of the common pleas, proposed, couchette car	True
+chief justice of the common pleas, proposed, couchette car	chief justice of the common pleas, have advocated, couchette car	False
+andreapol, should remain within, m-real	andreapol, was controlled by, m-real	False
+andreapol, was controlled by, m-real	andreapol, should remain within, m-real	True
+aralvaimozhi, is the river of, melekeok (town)	aralvaimozhi, flows through, melekeok (town)	False
+aralvaimozhi, flows through, melekeok (town)	aralvaimozhi, is the river of, melekeok (town)	True
+tubanti, plays in, tactical nuclear weapon	tactical nuclear weapon, was headed by, tubanti	True
+tactical nuclear weapon, was headed by, tubanti	tubanti, plays in, tactical nuclear weapon	False
+minister of state (with special responsibility for labour affairs), was given, liquid rocket propellants	liquid rocket propellants, was the winner of, minister of state (with special responsibility for labour affairs)	True
+liquid rocket propellants, was the winner of, minister of state (with special responsibility for labour affairs)	minister of state (with special responsibility for labour affairs), was given, liquid rocket propellants	False
+heat illness, causes, stasis dermatitis	stasis dermatitis, occurs after, heat illness	True
+stasis dermatitis, occurs after, heat illness	heat illness, causes, stasis dermatitis	False
+other worlds (science fiction), is accepted in, formby railway station	other worlds (science fiction), came from, formby railway station	True
+other worlds (science fiction), came from, formby railway station	other worlds (science fiction), is accepted in, formby railway station	False
+opus signinum, is not less than, lee joon-hyup	lee joon-hyup, measures, opus signinum	False
+lee joon-hyup, measures, opus signinum	opus signinum, is not less than, lee joon-hyup	True
+dharmasthala, once belonged to, curridabat	dharmasthala, was taken from, curridabat	True
+dharmasthala, was taken from, curridabat	dharmasthala, once belonged to, curridabat	False
+alexandra sviridova, conquered, blandiana	alexandra sviridova, reconquered, blandiana	True
+alexandra sviridova, reconquered, blandiana	alexandra sviridova, conquered, blandiana	False
+pencil sharpener, plays in, production engineering kmutt	pencil sharpener, became the leader of, production engineering kmutt	True
+pencil sharpener, became the leader of, production engineering kmutt	pencil sharpener, plays in, production engineering kmutt	False
+west african dwarf (sheep), is a piece of, allylamine	west african dwarf (sheep), is made of, allylamine	False
+west african dwarf (sheep), is made of, allylamine	west african dwarf (sheep), is a piece of, allylamine	True
+andouille, contains, locust bean gum	andouille, provide, locust bean gum	True
+andouille, provide, locust bean gum	andouille, contains, locust bean gum	False
+steven deschain, is the language of, solanas	solanas, speaks, steven deschain	False
+solanas, speaks, steven deschain	steven deschain, is the language of, solanas	True
+alfentanil, cures, prinzmetal's angina	prinzmetal's angina, can be treated with, alfentanil	False
+prinzmetal's angina, can be treated with, alfentanil	alfentanil, cures, prinzmetal's angina	True
+reverse bite injury, can be treated with, fluorometholone	reverse bite injury, is treated with, fluorometholone	True
+reverse bite injury, is treated with, fluorometholone	reverse bite injury, can be treated with, fluorometholone	False
+due carrare, made a fortune from, len de l'el	due carrare, bought and sold, len de l'el	False
+due carrare, bought and sold, len de l'el	due carrare, made a fortune from, len de l'el	True
+foundation for polish-german reconciliation, measures, pishon	foundation for polish-german reconciliation, is associated with, pishon	False
+foundation for polish-german reconciliation, is associated with, pishon	foundation for polish-german reconciliation, measures, pishon	True
+breaker (reef), is made of, russians in spain	breaker (reef), were also made of, russians in spain	False
+breaker (reef), were also made of, russians in spain	breaker (reef), is made of, russians in spain	True
+abbenrode, trades with, safoora goth	abbenrode, would operate with, safoora goth	False
+abbenrode, would operate with, safoora goth	abbenrode, trades with, safoora goth	True
+1976 pittsburgh panthers football team, was used by, poverty reduction strategy paper	1976 pittsburgh panthers football team, was studied by, poverty reduction strategy paper	False
+1976 pittsburgh panthers football team, was studied by, poverty reduction strategy paper	1976 pittsburgh panthers football team, was used by, poverty reduction strategy paper	True
+sprained ankle, causes, heat illness	sprained ankle, may cause, heat illness	False
+sprained ankle, may cause, heat illness	sprained ankle, causes, heat illness	True
+alcyonidium diaphanum, is native to, calestano	alcyonidium diaphanum, lives in, calestano	False
+alcyonidium diaphanum, lives in, calestano	alcyonidium diaphanum, is native to, calestano	True
+muton (action force), will often remove, excelsior (typeface)	muton (action force), removes, excelsior (typeface)	True
+muton (action force), removes, excelsior (typeface)	muton (action force), will often remove, excelsior (typeface)	False
+derek brandon, includes, fabada asturiana	derek brandon, are loaded with, fabada asturiana	True
+derek brandon, are loaded with, fabada asturiana	derek brandon, includes, fabada asturiana	False
+prinzmetal's angina, causes, bullous pemphigoid	bullous pemphigoid, is characterized by a onset of, prinzmetal's angina	True
+bullous pemphigoid, is characterized by a onset of, prinzmetal's angina	prinzmetal's angina, causes, bullous pemphigoid	False
+kit kat guest ranch, suffers from, chaucer (crater)	chaucer (crater), increased throughout, kit kat guest ranch	True
+chaucer (crater), increased throughout, kit kat guest ranch	kit kat guest ranch, suffers from, chaucer (crater)	False
+tamna, ruled, whizzer (roller coaster)	whizzer (roller coaster), was conquered by, tamna	True
+whizzer (roller coaster), was conquered by, tamna	tamna, ruled, whizzer (roller coaster)	False
+wanton-lyman-hazard house, designed, texas state treasurer	wanton-lyman-hazard house, invented, texas state treasurer	True
+wanton-lyman-hazard house, invented, texas state treasurer	wanton-lyman-hazard house, designed, texas state treasurer	False
+sylvestre ratanga, was defeated at, choe kum-chol	sylvestre ratanga, was defeated at the battle of, choe kum-chol	True
+sylvestre ratanga, was defeated at the battle of, choe kum-chol	sylvestre ratanga, was defeated at, choe kum-chol	False
+chief justice of the common pleas, may perform, nilotinib	nilotinib, is conducted by, chief justice of the common pleas	True
+nilotinib, is conducted by, chief justice of the common pleas	chief justice of the common pleas, may perform, nilotinib	False
+no substitute love, is made of, mystery shopping	no substitute love, consists of a piece of, mystery shopping	True
+no substitute love, consists of a piece of, mystery shopping	no substitute love, is made of, mystery shopping	False
+cwm gwyn, is the language of, mount morrison (california)	mount morrison (california), is spoken in, cwm gwyn	False
+mount morrison (california), is spoken in, cwm gwyn	cwm gwyn, is the language of, mount morrison (california)	True
+tandoori masala, is affected by, mee (psychedelic)	tandoori masala, must depend on, mee (psychedelic)	True
+tandoori masala, must depend on, mee (psychedelic)	tandoori masala, is affected by, mee (psychedelic)	False
+dawg pound, discovered, moxifloxacin	dawg pound, accidentally discovered, moxifloxacin	True
+dawg pound, accidentally discovered, moxifloxacin	dawg pound, discovered, moxifloxacin	False
+mandi (food), is processed into, handi	handi, are usually made from, mandi (food)	False
+handi, are usually made from, mandi (food)	mandi (food), is processed into, handi	True
+debre marqos, had colonies in, keelby	debre marqos, has possessions in, keelby	False
+debre marqos, has possessions in, keelby	debre marqos, had colonies in, keelby	True
+knedlington, is located near, bervie water	bervie water, is within sight of, knedlington	True
+bervie water, is within sight of, knedlington	knedlington, is located near, bervie water	False
+vron, is a power in, guardistallo	guardistallo, was ruled by, vron	True
+guardistallo, was ruled by, vron	vron, is a power in, guardistallo	False
+zala county (former), lies to the east of, payyanur	payyanur, is located near, zala county (former)	False
+payyanur, is located near, zala county (former)	zala county (former), lies to the east of, payyanur	True
+aigon language, is spoken in, kyre	aigon language, became the language of, kyre	True
+aigon language, became the language of, kyre	aigon language, is spoken in, kyre	False
+kunming wolfdog, had been introduced into, grindstone island	kunming wolfdog, lives in, grindstone island	False
+kunming wolfdog, lives in, grindstone island	kunming wolfdog, had been introduced into, grindstone island	True
+martyrs monument in midway, is rich in, cardinal (bird)	cardinal (bird), lives in, martyrs monument in midway	False
+cardinal (bird), lives in, martyrs monument in midway	martyrs monument in midway, is rich in, cardinal (bird)	True
+wild beagle productions, became the language of, baraolt river	wild beagle productions, is spoken in, baraolt river	False
+wild beagle productions, is spoken in, baraolt river	wild beagle productions, became the language of, baraolt river	True
+castelgomberto, is divided by, roselle (metra)	roselle (metra), is inside, castelgomberto	False
+roselle (metra), is inside, castelgomberto	castelgomberto, is divided by, roselle (metra)	True
+strathcona science provincial park, was controlled by, berlinerisch dialect	strathcona science provincial park, was added to, berlinerisch dialect	True
+strathcona science provincial park, was added to, berlinerisch dialect	strathcona science provincial park, was controlled by, berlinerisch dialect	False
+kerry cattle, is indigenous in, spout run	kerry cattle, lives in, spout run	False
+kerry cattle, lives in, spout run	kerry cattle, is indigenous in, spout run	True
+ichinoya mitsuru, acknowledged in, huehueteotl	ichinoya mitsuru, followed, huehueteotl	True
+ichinoya mitsuru, followed, huehueteotl	ichinoya mitsuru, acknowledged in, huehueteotl	False
+mount batu, was controlled by, hoosier group	mount batu, should remain within, hoosier group	True
+mount batu, should remain within, hoosier group	mount batu, was controlled by, hoosier group	False
+knee replacement, cures, bullous pemphigoid	knee replacement, has been used in the treatment of, bullous pemphigoid	False
+knee replacement, has been used in the treatment of, bullous pemphigoid	knee replacement, cures, bullous pemphigoid	True
+websockets, ruled, warren county school district (georgia)	warren county school district (georgia), was taken over by, websockets	True
+warren county school district (georgia), was taken over by, websockets	websockets, ruled, warren county school district (georgia)	False
+tushingham, produced, wedding soup	tushingham, supplies, wedding soup	False
+tushingham, supplies, wedding soup	tushingham, produced, wedding soup	True
+johor sultanate, is spoken in, providence canyon state park	johor sultanate, first arrived in, providence canyon state park	True
+johor sultanate, first arrived in, providence canyon state park	johor sultanate, is spoken in, providence canyon state park	False
+cape cobra, are rich in, iron(iii) chloride	cape cobra, contains, iron(iii) chloride	False
+cape cobra, contains, iron(iii) chloride	cape cobra, are rich in, iron(iii) chloride	True
+kendrapara district, is a port on, coquitlam river	kendrapara district, is next to, coquitlam river	False
+kendrapara district, is next to, coquitlam river	kendrapara district, is a port on, coquitlam river	True
+auslink, includes, spice cake	auslink, were encrusted with, spice cake	True
+auslink, were encrusted with, spice cake	auslink, includes, spice cake	False
+pozole, always has, fajita	pozole, includes, fajita	False
+pozole, includes, fajita	pozole, always has, fajita	True
+edentulism, was born at, mimi jabalee	edentulism, lived in, mimi jabalee	False
+edentulism, lived in, mimi jabalee	edentulism, was born at, mimi jabalee	True
+sechura-catacao languages, is made of, naman	sechura-catacao languages, are also made of, naman	False
+sechura-catacao languages, are also made of, naman	sechura-catacao languages, is made of, naman	True
+white sapote, feeds on, fresno pepper	white sapote, can eat, fresno pepper	False
+white sapote, can eat, fresno pepper	white sapote, feeds on, fresno pepper	True
+mycobacterium abscessus, escaped, cantua buxifolia	cantua buxifolia, hunts, mycobacterium abscessus	False
+cantua buxifolia, hunts, mycobacterium abscessus	mycobacterium abscessus, escaped, cantua buxifolia	True
+tilidine, cures, ballistic trauma	tilidine, may be used for, ballistic trauma	False
+tilidine, may be used for, ballistic trauma	tilidine, cures, ballistic trauma	True
+mariko-juku, prodded, nandal	mariko-juku, questioned, nandal	False
+mariko-juku, questioned, nandal	mariko-juku, prodded, nandal	True
+indian hedgehog, feeds on, cape batis	cape batis, attract, indian hedgehog	False
+cape batis, attract, indian hedgehog	indian hedgehog, feeds on, cape batis	True
+haydar al-kuzbari, is equal to, nagarathar	nagarathar, measures, haydar al-kuzbari	False
+nagarathar, measures, haydar al-kuzbari	haydar al-kuzbari, is equal to, nagarathar	True
+axis (anatomy), secretes, never never (australian outback)	axis (anatomy), may secrete, never never (australian outback)	False
+axis (anatomy), may secrete, never never (australian outback)	axis (anatomy), secretes, never never (australian outback)	True
+illinois-wabash company, is spoken in, lampron	illinois-wabash company, is the language in, lampron	True
+illinois-wabash company, is the language in, lampron	illinois-wabash company, is spoken in, lampron	False
+brunflo ik, is carried out by, donald ray barnes	brunflo ik, can be implemented on, donald ray barnes	False
+brunflo ik, can be implemented on, donald ray barnes	brunflo ik, is carried out by, donald ray barnes	True
+doryphora sassafras, originating in, sylling	doryphora sassafras, lives in, sylling	False
+doryphora sassafras, lives in, sylling	doryphora sassafras, originating in, sylling	True
+uss radford (dd-120), had been appointed, ordoliberalism	ordoliberalism, became, uss radford (dd-120)	False
+ordoliberalism, became, uss radford (dd-120)	uss radford (dd-120), had been appointed, ordoliberalism	True
+lumbar vertebrae, produces a number of, doggles	lumbar vertebrae, secretes, doggles	False
+lumbar vertebrae, secretes, doggles	lumbar vertebrae, produces a number of, doggles	True
+nitisinone, is useful for, habitual abortion	nitisinone, cures, habitual abortion	True
+nitisinone, cures, habitual abortion	nitisinone, is useful for, habitual abortion	False
+corn soup, is found in quantities in, the calais school (new jersey)	the calais school (new jersey), includes, corn soup	False
+the calais school (new jersey), includes, corn soup	corn soup, is found in quantities in, the calais school (new jersey)	True
+chloral hydrate, is an cure for, polycystic kidney disease	chloral hydrate, relieves, polycystic kidney disease	False
+chloral hydrate, relieves, polycystic kidney disease	chloral hydrate, is an cure for, polycystic kidney disease	True
+soundex, is washed off with, lignan	lignan, removes, soundex	False
+lignan, removes, soundex	soundex, is washed off with, lignan	True
+longtail (rat), is served with, shakshouka	longtail (rat), cooked with, shakshouka	True
+longtail (rat), cooked with, shakshouka	longtail (rat), is served with, shakshouka	False
+regulator of g protein signalling, is led by, silver banshee	silver banshee, plays in, regulator of g protein signalling	False
+silver banshee, plays in, regulator of g protein signalling	regulator of g protein signalling, is led by, silver banshee	True
+nimodipine, is preferred for, uveal melanoma	nimodipine, cures, uveal melanoma	False
+nimodipine, cures, uveal melanoma	nimodipine, is preferred for, uveal melanoma	True
+nimodipine, cures, stasis dermatitis	nimodipine, is the drug for, stasis dermatitis	True
+nimodipine, is the drug for, stasis dermatitis	nimodipine, cures, stasis dermatitis	False
+tomboy (software), must be made of, phantom (song)	tomboy (software), is made of, phantom (song)	False
+tomboy (software), is made of, phantom (song)	tomboy (software), must be made of, phantom (song)	True
+cassinia, is covered in, cardweb	cardweb, are those of, cassinia	False
+cardweb, are those of, cassinia	cassinia, is covered in, cardweb	True
+iveagh trust, is the heart of, crosby independent school district	iveagh trust, flows through, crosby independent school district	False
+iveagh trust, flows through, crosby independent school district	iveagh trust, is the heart of, crosby independent school district	True
+taeniopygia, are confined to, mascara province	taeniopygia, lives in, mascara province	False
+taeniopygia, lives in, mascara province	taeniopygia, are confined to, mascara province	True
+leo berngruber, was studied by, 5g-tronic	5g-tronic, wrote on, leo berngruber	True
+5g-tronic, wrote on, leo berngruber	leo berngruber, was studied by, 5g-tronic	False
+unlimited sunshine tour, ruled, soyuz tm-32	unlimited sunshine tour, was made king of, soyuz tm-32	True
+unlimited sunshine tour, was made king of, soyuz tm-32	unlimited sunshine tour, ruled, soyuz tm-32	False
+tumucumaque national park, lives in, henty gold mine	tumucumaque national park, are native to, henty gold mine	True
+tumucumaque national park, are native to, henty gold mine	tumucumaque national park, lives in, henty gold mine	False
+binkolo, is located near, bhadrak	bhadrak, are on the side of, binkolo	True
+bhadrak, are on the side of, binkolo	binkolo, is located near, bhadrak	False
+perfluorooctane, is used on, summorum pontificum	summorum pontificum, is made of, perfluorooctane	True
+summorum pontificum, is made of, perfluorooctane	perfluorooctane, is used on, summorum pontificum	False
+metaxalone, is used for the treatment of, paraganglioma	metaxalone, cures, paraganglioma	True
+metaxalone, cures, paraganglioma	metaxalone, is used for the treatment of, paraganglioma	False
+mango (chinese dialect), is spoken by, mbochi people	mbochi people, speak, mango (chinese dialect)	True
+mbochi people, speak, mango (chinese dialect)	mango (chinese dialect), is spoken by, mbochi people	False
+ulnar nerve entrapment, may be treated with, methyl salicylate	methyl salicylate, cures, ulnar nerve entrapment	True
+methyl salicylate, cures, ulnar nerve entrapment	ulnar nerve entrapment, may be treated with, methyl salicylate	False
+presley hutchens, is the pseudonym of, kbhc	kbhc, was known as, presley hutchens	False
+kbhc, was known as, presley hutchens	presley hutchens, is the pseudonym of, kbhc	True
+influvac, was stopped at, bonnefamille	influvac, is next to, bonnefamille	False
+influvac, is next to, bonnefamille	influvac, was stopped at, bonnefamille	True
+metaxalone, cures, diaper rash	metaxalone, is the treatment for, diaper rash	False
+metaxalone, is the treatment for, diaper rash	metaxalone, cures, diaper rash	True
+the meeting, measures, the general directorate for state security investigations	the general directorate for state security investigations, required to produce, the meeting	True
+the general directorate for state security investigations, required to produce, the meeting	the meeting, measures, the general directorate for state security investigations	False
+st. nicholas ukrainian catholic church, hunts, cassinia	st. nicholas ukrainian catholic church, had caught, cassinia	True
+st. nicholas ukrainian catholic church, had caught, cassinia	st. nicholas ukrainian catholic church, hunts, cassinia	False
+bouillon cube, includes, dove bar	dove bar, has been added to, bouillon cube	True
+dove bar, has been added to, bouillon cube	bouillon cube, includes, dove bar	False
+nicarbazin, contributes to the growth of, michiganites	michiganites, is affected by, nicarbazin	False
+michiganites, is affected by, nicarbazin	nicarbazin, contributes to the growth of, michiganites	True
+coedty reservoir, suffers from, plymouth expresso	coedty reservoir, is suffering, plymouth expresso	True
+coedty reservoir, is suffering, plymouth expresso	coedty reservoir, suffers from, plymouth expresso	False
+my inconvenient truth, became, the astro-zombies	my inconvenient truth, made himself, the astro-zombies	True
+my inconvenient truth, made himself, the astro-zombies	my inconvenient truth, became, the astro-zombies	False
+mercury telluride, relieves, ulnar nerve entrapment	ulnar nerve entrapment, treated with, mercury telluride	False
+ulnar nerve entrapment, treated with, mercury telluride	mercury telluride, relieves, ulnar nerve entrapment	True
+chloromonas, lives in, imphal west district	chloromonas, are natives of, imphal west district	True
+chloromonas, are natives of, imphal west district	chloromonas, lives in, imphal west district	False
+viscount barrington, invented, starci	viscount barrington, contributed to the development of, starci	False
+viscount barrington, contributed to the development of, starci	viscount barrington, invented, starci	True
+corn soup, includes, nanbanzuke	nanbanzuke, was confined to, corn soup	True
+nanbanzuke, was confined to, corn soup	corn soup, includes, nanbanzuke	False
+acquaformosa, is the headquarters of, u.s. sestese calcio	u.s. sestese calcio, assembled at, acquaformosa	False
+u.s. sestese calcio, assembled at, acquaformosa	acquaformosa, is the headquarters of, u.s. sestese calcio	True
+little chocolatiers, is made of, locust bean gum	locust bean gum, is used to make, little chocolatiers	False
+locust bean gum, is used to make, little chocolatiers	little chocolatiers, is made of, locust bean gum	True
+tropospheric ozone, makes up, national languages committee	tropospheric ozone, is used in making, national languages committee	False
+tropospheric ozone, is used in making, national languages committee	tropospheric ozone, makes up, national languages committee	True
+commodity exchange bratislava, is accepted in, hecken	hecken, lent, commodity exchange bratislava	True
+hecken, lent, commodity exchange bratislava	commodity exchange bratislava, is accepted in, hecken	False
+eucalyptus obliqua, lives in, victoria south	eucalyptus obliqua, originated in, victoria south	True
+eucalyptus obliqua, originated in, victoria south	eucalyptus obliqua, lives in, victoria south	False
+1992 king fahd cup, is used to relieve, heterotopia (medicine)	1992 king fahd cup, relieves, heterotopia (medicine)	False
+1992 king fahd cup, relieves, heterotopia (medicine)	1992 king fahd cup, is used to relieve, heterotopia (medicine)	True
+agreement on the conservation of african-eurasian migratory waterbirds, lives in, dostoyevskaya (moscow metro)	agreement on the conservation of african-eurasian migratory waterbirds, roamed over, dostoyevskaya (moscow metro)	True
+agreement on the conservation of african-eurasian migratory waterbirds, roamed over, dostoyevskaya (moscow metro)	agreement on the conservation of african-eurasian migratory waterbirds, lives in, dostoyevskaya (moscow metro)	False
+kasseri, includes, samgyetang	kasseri, is treated with, samgyetang	True
+kasseri, is treated with, samgyetang	kasseri, includes, samgyetang	False
+louis b. sohn, reigned in, kagal	louis b. sohn, conquered, kagal	True
+louis b. sohn, conquered, kagal	louis b. sohn, reigned in, kagal	False
+isotope ratio mass spectrometry, plays in, trident charter company	isotope ratio mass spectrometry, is at the head of, trident charter company	True
+isotope ratio mass spectrometry, is at the head of, trident charter company	isotope ratio mass spectrometry, plays in, trident charter company	False
+charles j. watters, ruled, bear island (nunavut)	charles j. watters, became president of, bear island (nunavut)	True
+charles j. watters, became president of, bear island (nunavut)	charles j. watters, ruled, bear island (nunavut)	False
+rhode island locations by per capita income, requires, oleandrin	rhode island locations by per capita income, should breathe, oleandrin	True
+rhode island locations by per capita income, should breathe, oleandrin	rhode island locations by per capita income, requires, oleandrin	False
+koolasuchus, lives in, ubuntu local municipality	koolasuchus, were brought to, ubuntu local municipality	True
+koolasuchus, were brought to, ubuntu local municipality	koolasuchus, lives in, ubuntu local municipality	False
+galinsoga, are indigenous to, waychinicup river	galinsoga, lives in, waychinicup river	False
+galinsoga, lives in, waychinicup river	galinsoga, are indigenous to, waychinicup river	True
+enviga, is imported from, atakule tower	atakule tower, produces, enviga	False
+atakule tower, produces, enviga	enviga, is imported from, atakule tower	True
+diaper rash, can cause, trisomy 16	diaper rash, causes, trisomy 16	True
+diaper rash, causes, trisomy 16	diaper rash, can cause, trisomy 16	False
+ckrm, came from, turbhe	ckrm, is spoken in, turbhe	False
+ckrm, is spoken in, turbhe	ckrm, came from, turbhe	True
+duc de montebello, is covered with, amanda (highlander)	amanda (highlander), is worn by, duc de montebello	False
+amanda (highlander), is worn by, duc de montebello	duc de montebello, is covered with, amanda (highlander)	True
+prix athanase-david, is made of, the nazi drawings	prix athanase-david, is a beam of, the nazi drawings	True
+prix athanase-david, is a beam of, the nazi drawings	prix athanase-david, is made of, the nazi drawings	False
+crocodylomorpha, was introduced into, cloppenburg (district)	crocodylomorpha, lives in, cloppenburg (district)	False
+crocodylomorpha, lives in, cloppenburg (district)	crocodylomorpha, was introduced into, cloppenburg (district)	True
+matacoan languages, is spoken in, magui	matacoan languages, shall be the language of, magui	True
+matacoan languages, shall be the language of, magui	matacoan languages, is spoken in, magui	False
+gunther disease, should be controlled with, hexamine	hexamine, cures, gunther disease	True
+hexamine, cures, gunther disease	gunther disease, should be controlled with, hexamine	False
+george valavanis, remained as, big brother brasil 1	george valavanis, became, big brother brasil 1	False
+george valavanis, became, big brother brasil 1	george valavanis, remained as, big brother brasil 1	True
+memory hold-the-door, was determined to be, nanika	nanika, measures, memory hold-the-door	False
+nanika, measures, memory hold-the-door	memory hold-the-door, was determined to be, nanika	True
+m-real, is made of, alpek	alpek, has been added to, m-real	False
+alpek, has been added to, m-real	m-real, is made of, alpek	True
+cesanese comune, are rich in, locust bean gum	cesanese comune, contains, locust bean gum	False
+cesanese comune, contains, locust bean gum	cesanese comune, are rich in, locust bean gum	True
+lobster newberg, have, bisphenol af	lobster newberg, contains, bisphenol af	False
+lobster newberg, contains, bisphenol af	lobster newberg, have, bisphenol af	True
+chuna river, produces, kutia	kutia, is now made in, chuna river	True
+kutia, is now made in, chuna river	chuna river, produces, kutia	False
+2005 all-pro team, is the son of, jagoba beobide	2005 all-pro team, are the descendants of, jagoba beobide	False
+2005 all-pro team, are the descendants of, jagoba beobide	2005 all-pro team, is the son of, jagoba beobide	True
+luminous infrared galaxy, becomes minister of, melesse	luminous infrared galaxy, controlled, melesse	False
+luminous infrared galaxy, controlled, melesse	luminous infrared galaxy, becomes minister of, melesse	True
+imperial province, stick to, rose hill marple railway station	imperial province, lives in, rose hill marple railway station	False
+imperial province, lives in, rose hill marple railway station	imperial province, stick to, rose hill marple railway station	True
+duinencross koksijde, are said to contain, potassium bitartrate	duinencross koksijde, is rich with, potassium bitartrate	True
+duinencross koksijde, is rich with, potassium bitartrate	duinencross koksijde, are said to contain, potassium bitartrate	False
+uss cubera (ss-347), is produced from, large wall	uss cubera (ss-347), is the meat of, large wall	True
+uss cubera (ss-347), is the meat of, large wall	uss cubera (ss-347), is produced from, large wall	False
+parotta, includes, balisto	parotta, is a product of, balisto	True
+parotta, is a product of, balisto	parotta, includes, balisto	False
+drimys winteri, lives in, thistles centre	drimys winteri, invaded, thistles centre	True
+drimys winteri, invaded, thistles centre	drimys winteri, lives in, thistles centre	False
+mayor of porto alegre, was cultivated by, youngstown fire department	youngstown fire department, contributed to, mayor of porto alegre	False
+youngstown fire department, contributed to, mayor of porto alegre	mayor of porto alegre, was cultivated by, youngstown fire department	True
+stroudsburg area school district, is under the shadow of, breaffy	stroudsburg area school district, is located near, breaffy	False
+stroudsburg area school district, is located near, breaffy	stroudsburg area school district, is under the shadow of, breaffy	True
+turtur, lives in, wadsley	turtur, is the bird in, wadsley	True
+turtur, is the bird in, wadsley	turtur, lives in, wadsley	False
+joseph peabody, began as, united states assistant secretary of state	united states assistant secretary of state, was known as, joseph peabody	False
+united states assistant secretary of state, was known as, joseph peabody	joseph peabody, began as, united states assistant secretary of state	True
+edward davy wedge, became, gare de saint-denis	gare de saint-denis, was chosen, edward davy wedge	True
+gare de saint-denis, was chosen, edward davy wedge	edward davy wedge, became, gare de saint-denis	False
+ashizuri-uwakai national park, was studied by, harriman alaska expedition	harriman alaska expedition, wrote on, ashizuri-uwakai national park	False
+harriman alaska expedition, wrote on, ashizuri-uwakai national park	ashizuri-uwakai national park, was studied by, harriman alaska expedition	True
+a. j. wynder, reached the summit of, farallon de pajaros	a. j. wynder, climbed, farallon de pajaros	False
+a. j. wynder, climbed, farallon de pajaros	a. j. wynder, reached the summit of, farallon de pajaros	True
+sawatch range, has launched, miller fisher test	sawatch range, launched, miller fisher test	False
+sawatch range, launched, miller fisher test	sawatch range, has launched, miller fisher test	True
+brown tree snake, lives in, puegnago sul garda	brown tree snake, are exclusively confined to, puegnago sul garda	True
+brown tree snake, are exclusively confined to, puegnago sul garda	brown tree snake, lives in, puegnago sul garda	False
+anders rekdal, is produced from, dirofilaria immitis	anders rekdal, is the flesh of, dirofilaria immitis	False
+anders rekdal, is the flesh of, dirofilaria immitis	anders rekdal, is produced from, dirofilaria immitis	True
+cefdinir, cures, abdominal trauma	abdominal trauma, have been successfully treated with, cefdinir	False
+abdominal trauma, have been successfully treated with, cefdinir	cefdinir, cures, abdominal trauma	True
+the tender box, became, geo-mineral exploration corporation	the tender box, was called and made, geo-mineral exploration corporation	True
+the tender box, was called and made, geo-mineral exploration corporation	the tender box, became, geo-mineral exploration corporation	False
+lucid (absinthe), is rich in, hydrogen sulfide	lucid (absinthe), contains, hydrogen sulfide	False
+lucid (absinthe), contains, hydrogen sulfide	lucid (absinthe), is rich in, hydrogen sulfide	True
+diaper rash, causes, gunther disease	diaper rash, is characterised by, gunther disease	True
+diaper rash, is characterised by, gunther disease	diaper rash, causes, gunther disease	False
+bungarus, are natives of, dirico	bungarus, lives in, dirico	False
+bungarus, lives in, dirico	bungarus, are natives of, dirico	True
+geek show, is made of, rupa bhavani	geek show, is a cylinder of, rupa bhavani	True
+geek show, is a cylinder of, rupa bhavani	geek show, is made of, rupa bhavani	False
+tibetan festivals, is made of, dapagliflozin	dapagliflozin, is used in, tibetan festivals	False
+dapagliflozin, is used in, tibetan festivals	tibetan festivals, is made of, dapagliflozin	True
+kom language (cameroon), is spoken in, u minh	kom language (cameroon), is official in, u minh	True
+kom language (cameroon), is official in, u minh	kom language (cameroon), is spoken in, u minh	False
+secretaries cup, was actually, running of the brides	secretaries cup, became, running of the brides	False
+secretaries cup, became, running of the brides	secretaries cup, was actually, running of the brides	True
+cuvier (crater), is washed off with, nicarbazin	nicarbazin, removes, cuvier (crater)	False
+nicarbazin, removes, cuvier (crater)	cuvier (crater), is washed off with, nicarbazin	True
+korchi, was taken from, telford steam railway	korchi, declared independent of, telford steam railway	False
+korchi, declared independent of, telford steam railway	korchi, was taken from, telford steam railway	True
+witzenhausen, flows through, mount bishop (camelsfoot range)	witzenhausen, is the river of, mount bishop (camelsfoot range)	True
+witzenhausen, is the river of, mount bishop (camelsfoot range)	witzenhausen, flows through, mount bishop (camelsfoot range)	False
+fox squirrel, is native to, bonnebosq	fox squirrel, lives in, bonnebosq	False
+fox squirrel, lives in, bonnebosq	fox squirrel, is native to, bonnebosq	True
+tegea, is located near, new germany state park	tegea, was among, new germany state park	True
+tegea, was among, new germany state park	tegea, is located near, new germany state park	False
+ipratropium/salbutamol, can be used to fight, bullous pemphigoid	ipratropium/salbutamol, cures, bullous pemphigoid	True
+ipratropium/salbutamol, cures, bullous pemphigoid	ipratropium/salbutamol, can be used to fight, bullous pemphigoid	False
+6th panzer army, invented, buclizine	buclizine, was developed by, 6th panzer army	False
+buclizine, was developed by, 6th panzer army	6th panzer army, invented, buclizine	True
+verduzzo, is produced from, laureliopsis philippiana	verduzzo, is the flesh of, laureliopsis philippiana	True
+verduzzo, is the flesh of, laureliopsis philippiana	verduzzo, is produced from, laureliopsis philippiana	False
+kings of connacht, was founded by, pedro carmona (oaxaca)	pedro carmona (oaxaca), contributed to, kings of connacht	False
+pedro carmona (oaxaca), contributed to, kings of connacht	kings of connacht, was founded by, pedro carmona (oaxaca)	True
+wonsa, was given, olympus e-420	olympus e-420, was and won, wonsa	True
+olympus e-420, was and won, wonsa	wonsa, was given, olympus e-420	False
+carbonade flamande, is made by heating, le snak	carbonade flamande, includes, le snak	False
+carbonade flamande, includes, le snak	carbonade flamande, is made by heating, le snak	True
+mail delivery agent, are made of pieces of, integra bank (pittsburgh)	mail delivery agent, is made of, integra bank (pittsburgh)	False
+mail delivery agent, is made of, integra bank (pittsburgh)	mail delivery agent, are made of pieces of, integra bank (pittsburgh)	True
+coelurosauravus, is covered in, underworld usa trilogy	coelurosauravus, has a tuft of, underworld usa trilogy	False
+coelurosauravus, has a tuft of, underworld usa trilogy	coelurosauravus, is covered in, underworld usa trilogy	True
+delhi herald extraordinary, are artists in, traffic homicide investigator	delhi herald extraordinary, contributed to, traffic homicide investigator	False
+delhi herald extraordinary, contributed to, traffic homicide investigator	delhi herald extraordinary, are artists in, traffic homicide investigator	True
+henry ernest kendall, controlled, budhlada	henry ernest kendall, became emperor of, budhlada	True
+henry ernest kendall, became emperor of, budhlada	henry ernest kendall, controlled, budhlada	False
+penitentiary of new mexico, is sinking into, tinchebray	penitentiary of new mexico, is next to, tinchebray	False
+penitentiary of new mexico, is next to, tinchebray	penitentiary of new mexico, is sinking into, tinchebray	True
+axis (anatomy), secretes, arizona bar exam	axis (anatomy), are stimulated to release, arizona bar exam	True
+axis (anatomy), are stimulated to release, arizona bar exam	axis (anatomy), secretes, arizona bar exam	False
+olayinka koso-thomas, may be added to, sarsi (drink)	olayinka koso-thomas, is served with, sarsi (drink)	True
+olayinka koso-thomas, is served with, sarsi (drink)	olayinka koso-thomas, may be added to, sarsi (drink)	False
+emerald swallowtail, lives in, plompton	emerald swallowtail, once lived in, plompton	False
+emerald swallowtail, once lived in, plompton	emerald swallowtail, lives in, plompton	True
+common operational picture, originated in, provinces of rwanda	common operational picture, lives in, provinces of rwanda	False
+common operational picture, lives in, provinces of rwanda	common operational picture, originated in, provinces of rwanda	True
+rhynia, are esteemed in, tosse	rhynia, represents, tosse	True
+rhynia, represents, tosse	rhynia, are esteemed in, tosse	False
+ghari language, is spoken in, cleland railway station	ghari language, would be the language of, cleland railway station	True
+ghari language, would be the language of, cleland railway station	ghari language, is spoken in, cleland railway station	False
+oregon beach bill, was patented by, mountain view house	mountain view house, invented, oregon beach bill	True
+mountain view house, invented, oregon beach bill	oregon beach bill, was patented by, mountain view house	False
+kondovo, is made up of, greasestock	kondovo, is made of, greasestock	False
+kondovo, is made of, greasestock	kondovo, is made up of, greasestock	True
+carolina anole, were discovered in, visiedo	carolina anole, lives in, visiedo	False
+carolina anole, lives in, visiedo	carolina anole, were discovered in, visiedo	True
+iron horsemen, is accepted in, sawatch range	sawatch range, spends, iron horsemen	True
+sawatch range, spends, iron horsemen	iron horsemen, is accepted in, sawatch range	False
+black mountain (hill), was taken from, yepocapa	black mountain (hill), had been a part of, yepocapa	False
+black mountain (hill), had been a part of, yepocapa	black mountain (hill), was taken from, yepocapa	True
+phakopsora pachyrhizi, is completely covered with, uss caiman (ss-323)	phakopsora pachyrhizi, is covered in, uss caiman (ss-323)	False
+phakopsora pachyrhizi, is covered in, uss caiman (ss-323)	phakopsora pachyrhizi, is completely covered with, uss caiman (ss-323)	True
+robotic surgery, is the treatment for, heat illness	robotic surgery, cures, heat illness	False
+robotic surgery, cures, heat illness	robotic surgery, is the treatment for, heat illness	True
+weapon class destroyer, is made of, kim yong-dae	weapon class destroyer, were entirely of, kim yong-dae	True
+weapon class destroyer, were entirely of, kim yong-dae	weapon class destroyer, is made of, kim yong-dae	False
+south american championship of champions, are high in, nanbanzuke	south american championship of champions, includes, nanbanzuke	False
+south american championship of champions, includes, nanbanzuke	south american championship of champions, are high in, nanbanzuke	True
+byers lake, supplies, len de l'el	len de l'el, came from, byers lake	True
+len de l'el, came from, byers lake	byers lake, supplies, len de l'el	False
+emerald swallowtail, breathe in, allylamine	emerald swallowtail, requires, allylamine	False
+emerald swallowtail, requires, allylamine	emerald swallowtail, breathe in, allylamine	True
+pachycondyla, feeds on, priene (gastropod)	pachycondyla, dived for, priene (gastropod)	True
+pachycondyla, dived for, priene (gastropod)	pachycondyla, feeds on, priene (gastropod)	False
+bullous pemphigoid, can be treated with, hexamine	bullous pemphigoid, will require the use of, hexamine	True
+bullous pemphigoid, will require the use of, hexamine	bullous pemphigoid, can be treated with, hexamine	False
+adult learner, is diluted with, estragole	estragole, removes, adult learner	True
+estragole, removes, adult learner	adult learner, is diluted with, estragole	False
+baeolophus, are in this part of, barrett mountain	baeolophus, lives in, barrett mountain	False
+baeolophus, lives in, barrett mountain	baeolophus, are in this part of, barrett mountain	True
+nestorian stele, is found throughout, charleston community unit school district 1	nestorian stele, is abundant in, charleston community unit school district 1	True
+nestorian stele, is abundant in, charleston community unit school district 1	nestorian stele, is found throughout, charleston community unit school district 1	False
+nanbanzuke, is ground into, tayberry	nanbanzuke, is processed into, tayberry	False
+nanbanzuke, is processed into, tayberry	nanbanzuke, is ground into, tayberry	True
+cadbury fudge, is mixed with, nshima	cadbury fudge, includes, nshima	False
+cadbury fudge, includes, nshima	cadbury fudge, is mixed with, nshima	True
+aicha mezmat, is accepted in, krynica morska	aicha mezmat, has been used in, krynica morska	True
+aicha mezmat, has been used in, krynica morska	aicha mezmat, is accepted in, krynica morska	False
+samcheonggak, prepared against, blackwater river (maine)	samcheonggak, invaded, blackwater river (maine)	True
+samcheonggak, invaded, blackwater river (maine)	samcheonggak, prepared against, blackwater river (maine)	False
+andrius bartkus, discharges, grisette (french)	andrius bartkus, removes, grisette (french)	True
+andrius bartkus, removes, grisette (french)	andrius bartkus, discharges, grisette (french)	False
+order of the companions of o. r. tambo, were cultivated by, waywayseecappo first nation	waywayseecappo first nation, contributed to, order of the companions of o. r. tambo	False
+waywayseecappo first nation, contributed to, order of the companions of o. r. tambo	order of the companions of o. r. tambo, were cultivated by, waywayseecappo first nation	True
+carolina wren, were imported from, camano island state park	carolina wren, lives in, camano island state park	False
+carolina wren, lives in, camano island state park	carolina wren, were imported from, camano island state park	True
+hamoir, suffers from, king dragon operation in arakan	king dragon operation in arakan, is concentrated in, hamoir	True
+king dragon operation in arakan, is concentrated in, hamoir	hamoir, suffers from, king dragon operation in arakan	False
+iris cristata, can only come from, international bluegrass music museum	iris cristata, lives in, international bluegrass music museum	False
+iris cristata, lives in, international bluegrass music museum	iris cristata, can only come from, international bluegrass music museum	True
+international reaction to fitna, is a cylinder of, jean-paul favre de thierrens	international reaction to fitna, is made of, jean-paul favre de thierrens	False
+international reaction to fitna, is made of, jean-paul favre de thierrens	international reaction to fitna, is a cylinder of, jean-paul favre de thierrens	True
+nshima, was imported from, toyota motor manufacturing mississippi	toyota motor manufacturing mississippi, produces, nshima	False
+toyota motor manufacturing mississippi, produces, nshima	nshima, was imported from, toyota motor manufacturing mississippi	True
+seimareh dam, were firmly in, shepherd avenue (ind fulton street line)	seimareh dam, lives in, shepherd avenue (ind fulton street line)	False
+seimareh dam, lives in, shepherd avenue (ind fulton street line)	seimareh dam, were firmly in, shepherd avenue (ind fulton street line)	True
+grant izzard, was called to be, multi-agent system	grant izzard, became, multi-agent system	False
+grant izzard, became, multi-agent system	grant izzard, was called to be, multi-agent system	True
+anterior cruciate ligament reconstruction, are used for the treatment of, commotio cordis	anterior cruciate ligament reconstruction, cures, commotio cordis	True
+anterior cruciate ligament reconstruction, cures, commotio cordis	anterior cruciate ligament reconstruction, are used for the treatment of, commotio cordis	False
+guaiacol, includes, sarsi (drink)	sarsi (drink), is dissolved in, guaiacol	True
+sarsi (drink), is dissolved in, guaiacol	guaiacol, includes, sarsi (drink)	False
+alcyonidium diaphanum, lives in, jang river	alcyonidium diaphanum, were common in, jang river	True
+alcyonidium diaphanum, were common in, jang river	alcyonidium diaphanum, lives in, jang river	False
+catherine de lorraine, ruled, milton bryan	catherine de lorraine, was the queen of, milton bryan	True
+catherine de lorraine, was the queen of, milton bryan	catherine de lorraine, ruled, milton bryan	False
+ryu seung-beom, causes, habitual abortion	habitual abortion, may represent, ryu seung-beom	False
+habitual abortion, may represent, ryu seung-beom	ryu seung-beom, causes, habitual abortion	True
+kerry cattle, lives in, huc river	kerry cattle, live in the part of, huc river	True
+kerry cattle, live in the part of, huc river	kerry cattle, lives in, huc river	False
+gogolfest, was prevalent in, portsburgh	portsburgh, was established as, gogolfest	True
+portsburgh, was established as, gogolfest	gogolfest, was prevalent in, portsburgh	False
+institute of trade mark attorneys, was pursued by, waheguru	waheguru, contributed to, institute of trade mark attorneys	True
+waheguru, contributed to, institute of trade mark attorneys	institute of trade mark attorneys, was pursued by, waheguru	False
+jean-pierre eychenne, belong exclusively to, bongo district	jean-pierre eychenne, lives in, bongo district	False
+jean-pierre eychenne, lives in, bongo district	jean-pierre eychenne, belong exclusively to, bongo district	True
+little yellow bat, feeds on, brancus	little yellow bat, dive for, brancus	True
+little yellow bat, dive for, brancus	little yellow bat, feeds on, brancus	False
+chrysopelea ornata, feeds on, kluyveromyces lactis	chrysopelea ornata, dive for, kluyveromyces lactis	True
+chrysopelea ornata, dive for, kluyveromyces lactis	chrysopelea ornata, feeds on, kluyveromyces lactis	False
+airheads, is a native of, devils island (wisconsin)	airheads, came from, devils island (wisconsin)	False
+airheads, came from, devils island (wisconsin)	airheads, is a native of, devils island (wisconsin)	True
+cristal (aguardiente), is drawn up through, sensory neuron	sensory neuron, fills up with, cristal (aguardiente)	False
+sensory neuron, fills up with, cristal (aguardiente)	cristal (aguardiente), is drawn up through, sensory neuron	True
+cadbury fudge, is processed into, lucid (absinthe)	cadbury fudge, contain quantities of, lucid (absinthe)	False
+cadbury fudge, contain quantities of, lucid (absinthe)	cadbury fudge, is processed into, lucid (absinthe)	True
+squat lobster, lives in, zlatar (mountain)	squat lobster, is rare in, zlatar (mountain)	True
+squat lobster, is rare in, zlatar (mountain)	squat lobster, lives in, zlatar (mountain)	False
+green ormer, lives in, carterpuri	green ormer, evolved in, carterpuri	True
+green ormer, evolved in, carterpuri	green ormer, lives in, carterpuri	False
+hms belleisle (1876), is worn by, barbadian american	barbadian american, must wear, hms belleisle (1876)	True
+barbadian american, must wear, hms belleisle (1876)	hms belleisle (1876), is worn by, barbadian american	False
+gobernador roca, is the offspring of, ishana	gobernador roca, was the son of, ishana	True
+gobernador roca, was the son of, ishana	gobernador roca, is the offspring of, ishana	False
+the centre of attention, trades with, auswil	auswil, sold to, the centre of attention	True
+auswil, sold to, the centre of attention	the centre of attention, trades with, auswil	False
+arizona bar exam, was prevalent in, campo gallo	campo gallo, was ruled by, arizona bar exam	True
+campo gallo, was ruled by, arizona bar exam	arizona bar exam, was prevalent in, campo gallo	False
+pater familias, are present in, braconidae	braconidae, is covered in, pater familias	True
+braconidae, is covered in, pater familias	pater familias, are present in, braconidae	False
+mongol raids into palestine, became professor of, wonsa	wonsa, was studied by, mongol raids into palestine	False
+wonsa, was studied by, mongol raids into palestine	mongol raids into palestine, became professor of, wonsa	True
+perl compatible regular expressions, records, kubaba	perl compatible regular expressions, followed, kubaba	False
+perl compatible regular expressions, followed, kubaba	perl compatible regular expressions, records, kubaba	True
+archelon, lives in, alverstone	archelon, are concentrated in, alverstone	True
+archelon, are concentrated in, alverstone	archelon, lives in, alverstone	False
+sweet onion, is rich with, diisodecyl phthalate	sweet onion, provide, diisodecyl phthalate	False
+sweet onion, provide, diisodecyl phthalate	sweet onion, is rich with, diisodecyl phthalate	True
+fontaines-sur-grandson, has long been in, miguasha national park	miguasha national park, suffers from, fontaines-sur-grandson	False
+miguasha national park, suffers from, fontaines-sur-grandson	fontaines-sur-grandson, has long been in, miguasha national park	True
+salamu mezhidov, dialogues concerning, strategos	salamu mezhidov, contributed to, strategos	True
+salamu mezhidov, contributed to, strategos	salamu mezhidov, dialogues concerning, strategos	False
+kuxl (defunct), consists of strips of, canadian notes & queries	kuxl (defunct), is made of, canadian notes & queries	False
+kuxl (defunct), is made of, canadian notes & queries	kuxl (defunct), consists of strips of, canadian notes & queries	True
+bing (chinese flatbread), can be added to, ondenc	bing (chinese flatbread), are used for, ondenc	True
+bing (chinese flatbread), are used for, ondenc	bing (chinese flatbread), can be added to, ondenc	False
+ss empire aden, are high in, le snak	ss empire aden, includes, le snak	False
+ss empire aden, includes, le snak	ss empire aden, are high in, le snak	True
+freeze (t-pain song), is made of, no value added	freeze (t-pain song), is composed wholly of, no value added	True
+freeze (t-pain song), is composed wholly of, no value added	freeze (t-pain song), is made of, no value added	False
+elk neck state park, is a member of, best male action sports athlete espy award	elk neck state park, left and joined, best male action sports athlete espy award	True
+elk neck state park, left and joined, best male action sports athlete espy award	elk neck state park, is a member of, best male action sports athlete espy award	False
+hexamine, was developed by, jolyon wagg	jolyon wagg, invented, hexamine	True
+jolyon wagg, invented, hexamine	hexamine, was developed by, jolyon wagg	False
+oats, is sprinkled with, mince pie	oats, includes, mince pie	False
+oats, includes, mince pie	oats, is sprinkled with, mince pie	True
+slime flux, breathe in, tricaine mesylate	slime flux, requires, tricaine mesylate	False
+slime flux, requires, tricaine mesylate	slime flux, breathe in, tricaine mesylate	True
+wbgo, is a cylinder of, children of earth	wbgo, is made of, children of earth	False
+wbgo, is made of, children of earth	wbgo, is a cylinder of, children of earth	True
+clobazam, can be made of, abraham joseph heschel	clobazam, is made of, abraham joseph heschel	True
+clobazam, is made of, abraham joseph heschel	clobazam, can be made of, abraham joseph heschel	False
+project habakkuk, is covered in, alcatraz island in popular culture	project habakkuk, has a tuft of, alcatraz island in popular culture	False
+project habakkuk, has a tuft of, alcatraz island in popular culture	project habakkuk, is covered in, alcatraz island in popular culture	True
+danish defence research establishment, is now used in, cinelerra	cinelerra, is made of, danish defence research establishment	True
+cinelerra, is made of, danish defence research establishment	danish defence research establishment, is now used in, cinelerra	False
+jetboy, returned to, valbo	jetboy, lives in, valbo	False
+jetboy, lives in, valbo	jetboy, returned to, valbo	True
+samgyetang, is processed into, livermush	samgyetang, may be made into, livermush	False
+samgyetang, may be made into, livermush	samgyetang, is processed into, livermush	True
+fohnsdorf, is the waterway in, tiputini river	fohnsdorf, is inside, tiputini river	False
+fohnsdorf, is inside, tiputini river	fohnsdorf, is the waterway in, tiputini river	True
+diet soda, are essential to, tolfenamic acid	tolfenamic acid, includes, diet soda	False
+tolfenamic acid, includes, diet soda	diet soda, are essential to, tolfenamic acid	True
+siegfried knappe, was one of, bishop of knaresborough	bishop of knaresborough, was known as, siegfried knappe	True
+bishop of knaresborough, was known as, siegfried knappe	siegfried knappe, was one of, bishop of knaresborough	False
+huave people, are fond of, havhingsten fra glendalough	havhingsten fra glendalough, is worn by, huave people	False
+havhingsten fra glendalough, is worn by, huave people	huave people, are fond of, havhingsten fra glendalough	True
+carbonade flamande, includes, bing (chinese flatbread)	carbonade flamande, are sweetened with, bing (chinese flatbread)	True
+carbonade flamande, are sweetened with, bing (chinese flatbread)	carbonade flamande, includes, bing (chinese flatbread)	False
+sour cream, is produced from, abies bracteata	abies bracteata, are raised for, sour cream	True
+abies bracteata, are raised for, sour cream	sour cream, is produced from, abies bracteata	False
+andrea soncin, contributed to, vice chief of naval operations	andrea soncin, gave and created, vice chief of naval operations	True
+andrea soncin, gave and created, vice chief of naval operations	andrea soncin, contributed to, vice chief of naval operations	False
+geek show, appointed governor of, hedemora municipality	geek show, ruled, hedemora municipality	False
+geek show, ruled, hedemora municipality	geek show, appointed governor of, hedemora municipality	True
+stephen nicholas (actor), questioned, now dance anthems	stephen nicholas (actor), had accused, now dance anthems	True
+stephen nicholas (actor), had accused, now dance anthems	stephen nicholas (actor), questioned, now dance anthems	False
+pas de quatre, lived in, 12th parallel north	pas de quatre, was born at, 12th parallel north	True
+pas de quatre, was born at, 12th parallel north	pas de quatre, lived in, 12th parallel north	False
+spud gun, is made of, nbl (australia) all-star game	spud gun, is usually made of, nbl (australia) all-star game	False
+spud gun, is usually made of, nbl (australia) all-star game	spud gun, is made of, nbl (australia) all-star game	True
+gewiss-ballan, is millionths of, sts-73	sts-73, measures, gewiss-ballan	False
+sts-73, measures, gewiss-ballan	gewiss-ballan, is millionths of, sts-73	True
+wbaa, landed in, bin qasim town	wbaa, flies to, bin qasim town	False
+wbaa, flies to, bin qasim town	wbaa, landed in, bin qasim town	True
+heathrow terminal 5 station, is the lake of, courlac	heathrow terminal 5 station, is inside, courlac	False
+heathrow terminal 5 station, is inside, courlac	heathrow terminal 5 station, is the lake of, courlac	True
+cyathea sect. alsophila, is served with, nshima	cyathea sect. alsophila, stuffed with, nshima	True
+cyathea sect. alsophila, stuffed with, nshima	cyathea sect. alsophila, is served with, nshima	False
+curlew sandpiper, soared with, my first sony	curlew sandpiper, has, my first sony	False
+curlew sandpiper, has, my first sony	curlew sandpiper, soared with, my first sony	True
+cypsiurus, has, ms stena germanica	cypsiurus, soared with, ms stena germanica	True
+cypsiurus, soared with, ms stena germanica	cypsiurus, has, ms stena germanica	False
+mathi, is in, gould lake	mathi, is the capital of, gould lake	True
+mathi, is the capital of, gould lake	mathi, is in, gould lake	False
+wild life (manga), is celebrated in, migdalim	wild life (manga), is a festival in, migdalim	True
+wild life (manga), is a festival in, migdalim	wild life (manga), is celebrated in, migdalim	False
+parasrampur, remained the capital of, broxton railway station	parasrampur, is in, broxton railway station	False
+parasrampur, is in, broxton railway station	parasrampur, remained the capital of, broxton railway station	True
+freiburg (region), became the center in, le porge	freiburg (region), is in, le porge	False
+freiburg (region), is in, le porge	freiburg (region), became the center in, le porge	True
+lezhi county, is in, kanfanar	lezhi county, became the center in, kanfanar	True
+lezhi county, became the center in, kanfanar	lezhi county, is in, kanfanar	False
+martyrs monument in midway, is in, hatsi	martyrs monument in midway, is the capital of, hatsi	True
+martyrs monument in midway, is the capital of, hatsi	martyrs monument in midway, is in, hatsi	False
+camille bright-smith, are common in, ein hemed	camille bright-smith, occurs in, ein hemed	False
+camille bright-smith, occurs in, ein hemed	camille bright-smith, are common in, ein hemed	True
+pix brook, is examined with, optogan	pix brook, can be seen with, optogan	False
+pix brook, can be seen with, optogan	pix brook, is examined with, optogan	True
+hastelloy, are common in, iruya	hastelloy, occurs in, iruya	False
+hastelloy, occurs in, iruya	hastelloy, are common in, iruya	True
+sensory neuron, is part of, pedicle of vertebral arch	pedicle of vertebral arch, has a pair of, sensory neuron	True
+pedicle of vertebral arch, has a pair of, sensory neuron	sensory neuron, is part of, pedicle of vertebral arch	False
+lumbar vertebrae, is part of, sensory neuron	lumbar vertebrae, is the tooth in, sensory neuron	True
+lumbar vertebrae, is the tooth in, sensory neuron	lumbar vertebrae, is part of, sensory neuron	False
+i-201 class submarine, exist in parts of, aulesti	i-201 class submarine, is native to, aulesti	True
+i-201 class submarine, is native to, aulesti	i-201 class submarine, exist in parts of, aulesti	False
+western beaver county school district, was part of, taebong	western beaver county school district, withdrew and joined, taebong	True
+western beaver county school district, withdrew and joined, taebong	western beaver county school district, was part of, taebong	False
+oats, is rich in, orange ggn	oats, contains, orange ggn	False
+oats, contains, orange ggn	oats, is rich in, orange ggn	True
+florida college hockey classic, became, polish passport	florida college hockey classic, was hailed as, polish passport	True
+florida college hockey classic, was hailed as, polish passport	florida college hockey classic, became, polish passport	False
+rony abou jaoude, has, dear dad	rony abou jaoude, only have, dear dad	True
+rony abou jaoude, only have, dear dad	rony abou jaoude, has, dear dad	False
+picea glauca, is native to, market weston	market weston, was inhabited by, picea glauca	False
+market weston, was inhabited by, picea glauca	picea glauca, is native to, market weston	True
+gillig phantom (school bus), traveled to, edsbruk	gillig phantom (school bus), reached, edsbruk	True
+gillig phantom (school bus), reached, edsbruk	gillig phantom (school bus), traveled to, edsbruk	False
+1962 world rowing championships, occurs in, florala state park	1962 world rowing championships, are frequent in, florala state park	True
+1962 world rowing championships, are frequent in, florala state park	1962 world rowing championships, occurs in, florala state park	False
+yelsk, works at, shalom meir tower	yelsk, retiring from, shalom meir tower	True
+yelsk, retiring from, shalom meir tower	yelsk, works at, shalom meir tower	False
+gonium, is native to, eichert (aue)	gonium, are inhabitants of, eichert (aue)	False
+gonium, are inhabitants of, eichert (aue)	gonium, is native to, eichert (aue)	True
+tracheal intubation, relieves, neurological disorder	tracheal intubation, are effective against, neurological disorder	True
+tracheal intubation, are effective against, neurological disorder	tracheal intubation, relieves, neurological disorder	False
+bethel school district (washington), was part of, environmental law alliance worldwide	bethel school district (washington), had just entered, environmental law alliance worldwide	True
+bethel school district (washington), had just entered, environmental law alliance worldwide	bethel school district (washington), was part of, environmental law alliance worldwide	False
+allobates, flew with, adobe incopy	allobates, has, adobe incopy	False
+allobates, has, adobe incopy	allobates, flew with, adobe incopy	True
+haute route, was part of, grane oil pipeline	haute route, would go to, grane oil pipeline	True
+haute route, would go to, grane oil pipeline	haute route, was part of, grane oil pipeline	False
+detainees held in the bagram theater internment facility, studies, sincina	detainees held in the bagram theater internment facility, revealed differences between, sincina	True
+detainees held in the bagram theater internment facility, revealed differences between, sincina	detainees held in the bagram theater internment facility, studies, sincina	False
+9k35 strela-10, was a table of, behold	9k35 strela-10, is constructed from, behold	False
+9k35 strela-10, is constructed from, behold	9k35 strela-10, was a table of, behold	True
+bass player (magazine), is concerned with, thespesia populnea	bass player (magazine), researches, thespesia populnea	True
+bass player (magazine), researches, thespesia populnea	bass player (magazine), is concerned with, thespesia populnea	False
+rhamphorhynchus (pterosaur), has, sugar (desktop environment)	rhamphorhynchus (pterosaur), have pairs of, sugar (desktop environment)	True
+rhamphorhynchus (pterosaur), have pairs of, sugar (desktop environment)	rhamphorhynchus (pterosaur), has, sugar (desktop environment)	False
+tracheal intubation, is required on account of, diaper rash	tracheal intubation, relieves, diaper rash	False
+tracheal intubation, relieves, diaper rash	tracheal intubation, is required on account of, diaper rash	True
+tracheomalacia, often require, calcium carbonate	calcium carbonate, treats, tracheomalacia	False
+calcium carbonate, treats, tracheomalacia	tracheomalacia, often require, calcium carbonate	True
+north tyrone (northern ireland parliament constituency), is in, mulwala canal	north tyrone (northern ireland parliament constituency), remained the center of, mulwala canal	True
+north tyrone (northern ireland parliament constituency), remained the center of, mulwala canal	north tyrone (northern ireland parliament constituency), is in, mulwala canal	False
+cleveland indians (nfl 1931), had won, west virginia wild	cleveland indians (nfl 1931), fought in, west virginia wild	False
+cleveland indians (nfl 1931), fought in, west virginia wild	cleveland indians (nfl 1931), had won, west virginia wild	True
+buceros, resided in, sahebganj district	buceros, is native to, sahebganj district	True
+buceros, is native to, sahebganj district	buceros, resided in, sahebganj district	False
+soldier of fortune (horse), could be made into, havana high school	soldier of fortune (horse), became, havana high school	True
+soldier of fortune (horse), became, havana high school	soldier of fortune (horse), could be made into, havana high school	False
+from prussia with love, is the founder of, north elbian evangelical lutheran church	north elbian evangelical lutheran church, was first introduced by, from prussia with love	False
+north elbian evangelical lutheran church, was first introduced by, from prussia with love	from prussia with love, is the founder of, north elbian evangelical lutheran church	True
+alfred john church, prepares, complementary good	complementary good, should be prepared by, alfred john church	True
+complementary good, should be prepared by, alfred john church	alfred john church, prepares, complementary good	False
+uss grenadier (ss-210), is part of, sensory neuron	uss grenadier (ss-210), are the teeth in, sensory neuron	True
+uss grenadier (ss-210), are the teeth in, sensory neuron	uss grenadier (ss-210), is part of, sensory neuron	False
+nordic catholic church, are the teeth in, sensory neuron	nordic catholic church, is part of, sensory neuron	False
+nordic catholic church, is part of, sensory neuron	nordic catholic church, are the teeth in, sensory neuron	True
+diary (stationery), became, kiwengwa	diary (stationery), assumed the attitude of, kiwengwa	False
+diary (stationery), assumed the attitude of, kiwengwa	diary (stationery), became, kiwengwa	True
+german wirehaired pointer, are imported from, prali	german wirehaired pointer, is native to, prali	False
+german wirehaired pointer, is native to, prali	german wirehaired pointer, are imported from, prali	True
+myrciaria dubia, contains, mee (psychedelic)	myrciaria dubia, are fortified with, mee (psychedelic)	True
+myrciaria dubia, are fortified with, mee (psychedelic)	myrciaria dubia, contains, mee (psychedelic)	False
+rock oyster, have a pair of, nunnally lamperouge	rock oyster, has, nunnally lamperouge	False
+rock oyster, has, nunnally lamperouge	rock oyster, have a pair of, nunnally lamperouge	True
+whempstead, was visited by, samuelsen	samuelsen, occurs in, whempstead	False
+samuelsen, occurs in, whempstead	whempstead, was visited by, samuelsen	True
+cidona, is rich with, estragole	estragole, is found in, cidona	False
+estragole, is found in, cidona	cidona, is rich with, estragole	True
+if you were the only girl in the world, gathers in, monarchy of tuvalu	monarchy of tuvalu, processes, if you were the only girl in the world	True
+monarchy of tuvalu, processes, if you were the only girl in the world	if you were the only girl in the world, gathers in, monarchy of tuvalu	False
+bali aga, to ravage, gaoming district	gaoming district, was invaded by, bali aga	False
+gaoming district, was invaded by, bali aga	bali aga, to ravage, gaoming district	True
+oatmeal cookie (cocktail), is rich with, tetraethyllead	oatmeal cookie (cocktail), is an source of, tetraethyllead	False
+oatmeal cookie (cocktail), is an source of, tetraethyllead	oatmeal cookie (cocktail), is rich with, tetraethyllead	True
+moravians (ethnic group), conquer, moon island (massachusetts)	moon island (massachusetts), was invaded by, moravians (ethnic group)	False
+moon island (massachusetts), was invaded by, moravians (ethnic group)	moravians (ethnic group), conquer, moon island (massachusetts)	True
+michiganites, has, high level assembly	michiganites, swung on, high level assembly	True
+michiganites, swung on, high level assembly	michiganites, has, high level assembly	False
+diet soda, contains, orange ggn	diet soda, are rich in, orange ggn	True
+diet soda, are rich in, orange ggn	diet soda, contains, orange ggn	False
+shasta (deity), works at, chester city walls	shasta (deity), had served in, chester city walls	False
+shasta (deity), had served in, chester city walls	shasta (deity), works at, chester city walls	True
+santa cruz monastery, are destroyed in, yonkers motorcycle club	santa cruz monastery, fought in, yonkers motorcycle club	False
+santa cruz monastery, fought in, yonkers motorcycle club	santa cruz monastery, are destroyed in, yonkers motorcycle club	True
+mercedes-benz 190sl, is heaviest in, october 11	october 11, has a lot of, mercedes-benz 190sl	False
+october 11, has a lot of, mercedes-benz 190sl	mercedes-benz 190sl, is heaviest in, october 11	True
+hapuku river, is in, macomer	hapuku river, became the center of, macomer	True
+hapuku river, became the center of, macomer	hapuku river, is in, macomer	False
+thai basil, relieves, adrenal insufficiency	thai basil, would stop, adrenal insufficiency	True
+thai basil, would stop, adrenal insufficiency	thai basil, relieves, adrenal insufficiency	False
+john hext, arrived at, wellington north	john hext, traveled to, wellington north	False
+john hext, traveled to, wellington north	john hext, arrived at, wellington north	True
+ben bowyang, was measured by means of, long-billed corella	long-billed corella, measures, ben bowyang	False
+long-billed corella, measures, ben bowyang	ben bowyang, was measured by means of, long-billed corella	True
+viscount lyons, is to be appointed by, solar pyramid	viscount lyons, is employed by, solar pyramid	False
+viscount lyons, is employed by, solar pyramid	viscount lyons, is to be appointed by, solar pyramid	True
+itupiranga, had influence in, camano island state park	itupiranga, were the powers of, camano island state park	True
+itupiranga, were the powers of, camano island state park	itupiranga, had influence in, camano island state park	False
+mile pehar, became, wesleyan methodist church of australia	mile pehar, painted as, wesleyan methodist church of australia	True
+mile pehar, painted as, wesleyan methodist church of australia	mile pehar, became, wesleyan methodist church of australia	False
+lee m. thompson, is part of, pedicle of vertebral arch	lee m. thompson, is the tooth in, pedicle of vertebral arch	True
+lee m. thompson, is the tooth in, pedicle of vertebral arch	lee m. thompson, is part of, pedicle of vertebral arch	False
+coso people, were to be found in, museology	coso people, lives in, museology	True
+coso people, lives in, museology	coso people, were to be found in, museology	False
+tailwind capital, are at the back of, sensory neuron	tailwind capital, is part of, sensory neuron	False
+tailwind capital, is part of, sensory neuron	tailwind capital, are at the back of, sensory neuron	True
+eastgate mall (chattanooga), is in, pershotravensk	eastgate mall (chattanooga), became the power in, pershotravensk	True
+eastgate mall (chattanooga), became the power in, pershotravensk	eastgate mall (chattanooga), is in, pershotravensk	False
+george dougan, traveled to, kolomenskaya (moscow metro)	george dougan, left, kolomenskaya (moscow metro)	True
+george dougan, left, kolomenskaya (moscow metro)	george dougan, traveled to, kolomenskaya (moscow metro)	False
+northwest smith, returned as, center console (boat)	northwest smith, became, center console (boat)	False
+northwest smith, became, center console (boat)	northwest smith, returned as, center console (boat)	True
+tracheomalacia, must be relieved by, dolasetron	dolasetron, relieves, tracheomalacia	False
+dolasetron, relieves, tracheomalacia	tracheomalacia, must be relieved by, dolasetron	True
+raj bhavan (uttarakhand), is the city in, murrell river	raj bhavan (uttarakhand), is in, murrell river	False
+raj bhavan (uttarakhand), is in, murrell river	raj bhavan (uttarakhand), is the city in, murrell river	True
+lomaland, is often, player's handbook	lomaland, became, player's handbook	False
+lomaland, became, player's handbook	lomaland, is often, player's handbook	True
+faithful companions of jesus, will remain in, thorndale (cta)	faithful companions of jesus, occurs in, thorndale (cta)	False
+faithful companions of jesus, occurs in, thorndale (cta)	faithful companions of jesus, will remain in, thorndale (cta)	True
+kutia, is traditionally from, montboudif	kutia, come from, montboudif	False
+kutia, come from, montboudif	kutia, is traditionally from, montboudif	True
+north direction island, stayed in, mount miguel high school	north direction island, was part of, mount miguel high school	False
+north direction island, was part of, mount miguel high school	north direction island, stayed in, mount miguel high school	True
+kabsa, are rich in, sybr green i	kabsa, contains, sybr green i	False
+kabsa, contains, sybr green i	kabsa, are rich in, sybr green i	True
+cesanese comune, was known in, little sutton railway station	cesanese comune, is traditionally from, little sutton railway station	True
+cesanese comune, is traditionally from, little sutton railway station	cesanese comune, was known in, little sutton railway station	False
+abdominal trauma, must be relieved by, methyl salicylate	methyl salicylate, relieves, abdominal trauma	False
+methyl salicylate, relieves, abdominal trauma	abdominal trauma, must be relieved by, methyl salicylate	True
+nala sopara, was part of, northrop high school	nala sopara, were the members of, northrop high school	True
+nala sopara, were the members of, northrop high school	nala sopara, was part of, northrop high school	False
+cadbury fudge, was discovered in, or yehuda	cadbury fudge, is traditionally from, or yehuda	False
+cadbury fudge, is traditionally from, or yehuda	cadbury fudge, was discovered in, or yehuda	True
+baeolophus, is defined as, chlorophytum comosum	baeolophus, are the group of, chlorophytum comosum	True
+baeolophus, are the group of, chlorophytum comosum	baeolophus, is defined as, chlorophytum comosum	False
+wilderness road state park, became, baron wolverton	baron wolverton, was used in, wilderness road state park	False
+baron wolverton, was used in, wilderness road state park	wilderness road state park, became, baron wolverton	True
+moses taiwa molelekwa, traveled to, hedel	moses taiwa molelekwa, left, hedel	True
+moses taiwa molelekwa, left, hedel	moses taiwa molelekwa, traveled to, hedel	False
+grecanico, contains, tricaine mesylate	grecanico, are high in, tricaine mesylate	True
+grecanico, are high in, tricaine mesylate	grecanico, contains, tricaine mesylate	False
+angelicum school iloilo, measures, march 16	angelicum school iloilo, can be used to compare, march 16	False
+angelicum school iloilo, can be used to compare, march 16	angelicum school iloilo, measures, march 16	True
+pedicle of vertebral arch, contain a percentage of, mee (psychedelic)	pedicle of vertebral arch, is rich with, mee (psychedelic)	True
+pedicle of vertebral arch, is rich with, mee (psychedelic)	pedicle of vertebral arch, contain a percentage of, mee (psychedelic)	False
+terrace (stadium), is the study of, hylobates	terrace (stadium), researches, hylobates	False
+terrace (stadium), researches, hylobates	terrace (stadium), is the study of, hylobates	True
+lumbar vertebrae, is part of, 2000 north carolina tar heels football team	lumbar vertebrae, is at the bottom of, 2000 north carolina tar heels football team	True
+lumbar vertebrae, is at the bottom of, 2000 north carolina tar heels football team	lumbar vertebrae, is part of, 2000 north carolina tar heels football team	False
+nanbanzuke, is enriched with, mee (psychedelic)	nanbanzuke, is rich with, mee (psychedelic)	False
+nanbanzuke, is rich with, mee (psychedelic)	nanbanzuke, is enriched with, mee (psychedelic)	True
+riorges, was still, marshal of the senate of the republic of poland	marshal of the senate of the republic of poland, was used in, riorges	False
+marshal of the senate of the republic of poland, was used in, riorges	riorges, was still, marshal of the senate of the republic of poland	True
+park royal partnership, bombed in, kfar yehoshua	kfar yehoshua, was attacked by, park royal partnership	False
+kfar yehoshua, was attacked by, park royal partnership	park royal partnership, bombed in, kfar yehoshua	True
+spiazzo, is in, alcover	spiazzo, had become the centre of, alcover	True
+spiazzo, had become the centre of, alcover	spiazzo, is in, alcover	False
+i love the world, is constructed from, saint-vaast-la-hougue	saint-vaast-la-hougue, is carved, i love the world	True
+saint-vaast-la-hougue, is carved, i love the world	i love the world, is constructed from, saint-vaast-la-hougue	False
+mellor brook, became the hub of, dubno	mellor brook, is in, dubno	False
+mellor brook, is in, dubno	mellor brook, became the hub of, dubno	True
+frank illiano, proved to be, fifa world ranking system 1999-2006	frank illiano, became, fifa world ranking system 1999-2006	False
+frank illiano, became, fifa world ranking system 1999-2006	frank illiano, proved to be, fifa world ranking system 1999-2006	True
+ragged island wildlife management area, was the capital in, torrevecchia pia	ragged island wildlife management area, is in, torrevecchia pia	False
+ragged island wildlife management area, is in, torrevecchia pia	ragged island wildlife management area, was the capital in, torrevecchia pia	True
+winchester bible, fought in, katuntsi	winchester bible, went and fell in, katuntsi	True
+winchester bible, went and fell in, katuntsi	winchester bible, fought in, katuntsi	False
+cidona, came from, guelders	cidona, is native to, guelders	True
+cidona, is native to, guelders	cidona, came from, guelders	False
+sexcrime (nineteen eighty-four), entered and shot, st thomas' school (pune)	sexcrime (nineteen eighty-four), murdered, st thomas' school (pune)	False
+sexcrime (nineteen eighty-four), murdered, st thomas' school (pune)	sexcrime (nineteen eighty-four), entered and shot, st thomas' school (pune)	True
+alpine newt, is a plant of, madurai district	alpine newt, is native to, madurai district	True
+alpine newt, is native to, madurai district	alpine newt, is a plant of, madurai district	False
+fettisdagen, is native to, barel	fettisdagen, is and was in, barel	False
+fettisdagen, is and was in, barel	fettisdagen, is native to, barel	True
+tel tsaf, was the emporium of, seversk	tel tsaf, is in, seversk	False
+tel tsaf, is in, seversk	tel tsaf, was the emporium of, seversk	True
+the cadillac (seinfeld), are rich in, oleandrin	the cadillac (seinfeld), contains, oleandrin	False
+the cadillac (seinfeld), contains, oleandrin	the cadillac (seinfeld), are rich in, oleandrin	True
+via balbia, died on the field of, mtv europe music award for best song	via balbia, fought in, mtv europe music award for best song	False
+via balbia, fought in, mtv europe music award for best song	via balbia, died on the field of, mtv europe music award for best song	True
+kliment voroshilov tank, returned from, monte carasso	kliment voroshilov tank, traveled to, monte carasso	False
+kliment voroshilov tank, traveled to, monte carasso	kliment voroshilov tank, returned from, monte carasso	True
+ewaninga rock carvings conservation reserve, seceded and joined, 2006 football league championship play-off final	ewaninga rock carvings conservation reserve, was part of, 2006 football league championship play-off final	False
+ewaninga rock carvings conservation reserve, was part of, 2006 football league championship play-off final	ewaninga rock carvings conservation reserve, seceded and joined, 2006 football league championship play-off final	True
+chloral hydrate, treats, sprained ankle	sprained ankle, can be closed with, chloral hydrate	True
+sprained ankle, can be closed with, chloral hydrate	chloral hydrate, treats, sprained ankle	False
+march 16, is a festival in, baekdamsa	march 16, was celebrated over, baekdamsa	False
+march 16, was celebrated over, baekdamsa	march 16, is a festival in, baekdamsa	True
+soviet union at the 1980 winter olympics, became, krotona	soviet union at the 1980 winter olympics, will pass for, krotona	False
+soviet union at the 1980 winter olympics, will pass for, krotona	soviet union at the 1980 winter olympics, became, krotona	True
+hazro, can survive in, chris klein-beekman	hazro, are fed by, chris klein-beekman	True
+hazro, are fed by, chris klein-beekman	hazro, can survive in, chris klein-beekman	False
+boulainvilliers (paris rer), is in, bir lahmar	boulainvilliers (paris rer), is the city of, bir lahmar	True
+boulainvilliers (paris rer), is the city of, bir lahmar	boulainvilliers (paris rer), is in, bir lahmar	False
+ouville, had become the capital of, gandhi square	ouville, is in, gandhi square	False
+ouville, is in, gandhi square	ouville, had become the capital of, gandhi square	True
+merete barker, was sent to, bad brambach	merete barker, traveled to, bad brambach	False
+merete barker, traveled to, bad brambach	merete barker, was sent to, bad brambach	True
+the bakery tour, detected, monkey wrench	the bakery tour, measures, monkey wrench	False
+the bakery tour, measures, monkey wrench	the bakery tour, detected, monkey wrench	True
+gilberta, hung with, carillon in berlin-tiergarten	gilberta, has, carillon in berlin-tiergarten	False
+gilberta, has, carillon in berlin-tiergarten	gilberta, hung with, carillon in berlin-tiergarten	True
+e1 series shinkansen, can prepare, bertram fraser-reid	e1 series shinkansen, prepares, bertram fraser-reid	True
+e1 series shinkansen, prepares, bertram fraser-reid	e1 series shinkansen, can prepare, bertram fraser-reid	False
+crag chilia, is native to, little river (texas)	crag chilia, is found in the regions of, little river (texas)	False
+crag chilia, is found in the regions of, little river (texas)	crag chilia, is native to, little river (texas)	True
+torgersen island, was to be administered by, amund ringnes island	torgersen island, had influence in, amund ringnes island	False
+torgersen island, had influence in, amund ringnes island	torgersen island, was to be administered by, amund ringnes island	True
+polar bear expedition, set up in, pittsburgh patriots	polar bear expedition, lives in, pittsburgh patriots	True
+polar bear expedition, lives in, pittsburgh patriots	polar bear expedition, set up in, pittsburgh patriots	False
+ashdod marina, eliminates, atopic dermatitis	ashdod marina, relieves, atopic dermatitis	False
+ashdod marina, relieves, atopic dermatitis	ashdod marina, eliminates, atopic dermatitis	True
+the gasman, occurs in, kfar netter	the gasman, is universal in, kfar netter	True
+the gasman, is universal in, kfar netter	the gasman, occurs in, kfar netter	False
+tokod, signed a pact with, rio grande city consolidated independent school district	rio grande city consolidated independent school district, is an ally of, tokod	False
+rio grande city consolidated independent school district, is an ally of, tokod	tokod, signed a pact with, rio grande city consolidated independent school district	True
+taeniopygia, has, sugar (desktop environment)	taeniopygia, obtain, sugar (desktop environment)	True
+taeniopygia, obtain, sugar (desktop environment)	taeniopygia, has, sugar (desktop environment)	False
+teslin tlingit council, sailed and discovered, rochechouart crater	teslin tlingit council, discovered, rochechouart crater	False
+teslin tlingit council, discovered, rochechouart crater	teslin tlingit council, sailed and discovered, rochechouart crater	True
+corn soup, contains, guaiacol	corn soup, are the sources of, guaiacol	True
+corn soup, are the sources of, guaiacol	corn soup, contains, guaiacol	False
+pileated woodpecker, eat the leaves of, taeniopygia	pileated woodpecker, lives off, taeniopygia	False
+pileated woodpecker, lives off, taeniopygia	pileated woodpecker, eat the leaves of, taeniopygia	True
+epinastine, relieves, human respiratory syncytial virus	epinastine, is required to relieve, human respiratory syncytial virus	True
+epinastine, is required to relieve, human respiratory syncytial virus	epinastine, relieves, human respiratory syncytial virus	False
+boac (rapper), took refuge in, the property ombudsman	boac (rapper), lives in, the property ombudsman	False
+boac (rapper), lives in, the property ombudsman	boac (rapper), took refuge in, the property ombudsman	True
+montmerrei, was claimed by, llangan	montmerrei, was acquired by, llangan	True
+montmerrei, was acquired by, llangan	montmerrei, was claimed by, llangan	False
+cordelia frost, feeds upon, toxicodendron radicans	cordelia frost, lives off, toxicodendron radicans	True
+cordelia frost, lives off, toxicodendron radicans	cordelia frost, feeds upon, toxicodendron radicans	False
+1932 chicago cubs season, occurs in, halmaj	1932 chicago cubs season, has shaken, halmaj	True
+1932 chicago cubs season, has shaken, halmaj	1932 chicago cubs season, occurs in, halmaj	False
+ennetmoos, fought in, kstm	ennetmoos, had been defeated in, kstm	True
+ennetmoos, had been defeated in, kstm	ennetmoos, fought in, kstm	False
+john leech (disc jockey), discussed, hobart baronets	john leech (disc jockey), was well versed in, hobart baronets	True
+john leech (disc jockey), was well versed in, hobart baronets	john leech (disc jockey), discussed, hobart baronets	False
+viktor yakovlev, was taken to, beaver bridge (ohio river)	viktor yakovlev, traveled to, beaver bridge (ohio river)	False
+viktor yakovlev, traveled to, beaver bridge (ohio river)	viktor yakovlev, was taken to, beaver bridge (ohio river)	True
+feronia (mythology), received prayers from, lifting stone	lifting stone, saw and recognized, feronia (mythology)	False
+lifting stone, saw and recognized, feronia (mythology)	feronia (mythology), received prayers from, lifting stone	True
+constitutional party (peru), had won, fair saint louis	constitutional party (peru), fought in, fair saint louis	False
+constitutional party (peru), fought in, fair saint louis	constitutional party (peru), had won, fair saint louis	True
+william ainger wigram, became, fruit of the poisonous tree	william ainger wigram, is and remains, fruit of the poisonous tree	True
+william ainger wigram, is and remains, fruit of the poisonous tree	william ainger wigram, became, fruit of the poisonous tree	False
+carlaw park, was attacked by, barcalounger	barcalounger, bombed in, carlaw park	True
+barcalounger, bombed in, carlaw park	carlaw park, was attacked by, barcalounger	False
+trollius, have pairs of, liberal parties in newfoundland (pre-confederation)	trollius, has, liberal parties in newfoundland (pre-confederation)	False
+trollius, has, liberal parties in newfoundland (pre-confederation)	trollius, have pairs of, liberal parties in newfoundland (pre-confederation)	True
+possession bay, had captured, southland regional council	southland regional council, was invaded by, possession bay	False
+southland regional council, was invaded by, possession bay	possession bay, had captured, southland regional council	True
+estragole, is common on, vale of siddim	estragole, is the most abundant on, vale of siddim	True
+estragole, is the most abundant on, vale of siddim	estragole, is common on, vale of siddim	False
+garantiana, evolved in, montello (mbta station)	garantiana, is native to, montello (mbta station)	False
+garantiana, is native to, montello (mbta station)	garantiana, evolved in, montello (mbta station)	True
+buclizine, relieves, wernicke's encephalopathy	buclizine, may help to relieve, wernicke's encephalopathy	False
+buclizine, may help to relieve, wernicke's encephalopathy	buclizine, relieves, wernicke's encephalopathy	True
+heo young-ho, has been proclaimed by, perm (hairstyle)	perm (hairstyle), advocated, heo young-ho	False
+perm (hairstyle), advocated, heo young-ho	heo young-ho, has been proclaimed by, perm (hairstyle)	True
+lightsaber, was destroyed by, powerpc e500	lightsaber, was beheaded by, powerpc e500	True
+lightsaber, was beheaded by, powerpc e500	lightsaber, was destroyed by, powerpc e500	False
+cut brandy, is included in, the international records management trust	cut brandy, is rolled out into, the international records management trust	True
+cut brandy, is rolled out into, the international records management trust	cut brandy, is included in, the international records management trust	False
+miniature museum, is the city in, bukit gantang	miniature museum, is in, bukit gantang	False
+miniature museum, is in, bukit gantang	miniature museum, is the city in, bukit gantang	True
+that wilkin boy, survived, superior concept monsters	that wilkin boy, fought in, superior concept monsters	False
+that wilkin boy, fought in, superior concept monsters	that wilkin boy, survived, superior concept monsters	True
+independence movement (lebanon), would lose, medical illustrator	independence movement (lebanon), fought in, medical illustrator	False
+independence movement (lebanon), fought in, medical illustrator	independence movement (lebanon), would lose, medical illustrator	True
+frosty (frozen dairy dessert), relieves, short bowel syndrome	frosty (frozen dairy dessert), would stop, short bowel syndrome	True
+frosty (frozen dairy dessert), would stop, short bowel syndrome	frosty (frozen dairy dessert), relieves, short bowel syndrome	False
+obadiah tarumbwa, traveled to, culpeper national cemetery	obadiah tarumbwa, joined in, culpeper national cemetery	True
+obadiah tarumbwa, joined in, culpeper national cemetery	obadiah tarumbwa, traveled to, culpeper national cemetery	False
+little yellow bat, has, superoxide dismutase	little yellow bat, lives and has, superoxide dismutase	True
+little yellow bat, lives and has, superoxide dismutase	little yellow bat, has, superoxide dismutase	False
+tropospheric ozone, is the most abundant in, 640 brambilla	640 brambilla, consists entirely of, tropospheric ozone	True
+640 brambilla, consists entirely of, tropospheric ozone	tropospheric ozone, is the most abundant in, 640 brambilla	False
+muiderberg, was part of, arab thought foundation	muiderberg, had been added to, arab thought foundation	True
+muiderberg, had been added to, arab thought foundation	muiderberg, was part of, arab thought foundation	False
+bronzewing gold mine, is in, spinete	bronzewing gold mine, is the port in, spinete	True
+bronzewing gold mine, is the port in, spinete	bronzewing gold mine, is in, spinete	False
+kyoto energy, is depicted with, cold shoulder	kyoto energy, has, cold shoulder	True
+kyoto energy, has, cold shoulder	kyoto energy, is depicted with, cold shoulder	False
+frank vandenbroucke (politician), was an student of, baron strange of blackmere	frank vandenbroucke (politician), discussed, baron strange of blackmere	False
+frank vandenbroucke (politician), discussed, baron strange of blackmere	frank vandenbroucke (politician), was an student of, baron strange of blackmere	True
+dimethyl dicarbonate, are specific for, ballistic trauma	dimethyl dicarbonate, relieves, ballistic trauma	False
+dimethyl dicarbonate, relieves, ballistic trauma	dimethyl dicarbonate, are specific for, ballistic trauma	True
+crag chilia, were a group of, barbary macaque	crag chilia, is defined as, barbary macaque	False
+crag chilia, is defined as, barbary macaque	crag chilia, were a group of, barbary macaque	True
+arborio rice, are fortified with, gadopentetic acid	arborio rice, contains, gadopentetic acid	False
+arborio rice, contains, gadopentetic acid	arborio rice, are fortified with, gadopentetic acid	True
+vodka tonic, is rich with, guaiacol	vodka tonic, contain an amount of, guaiacol	False
+vodka tonic, contain an amount of, guaiacol	vodka tonic, is rich with, guaiacol	True
+cesanese comune, contains, tropospheric ozone	cesanese comune, contain amounts of, tropospheric ozone	True
+cesanese comune, contain amounts of, tropospheric ozone	cesanese comune, contains, tropospheric ozone	False
+black river (alaska), is the city in, villach hauptbahnhof	black river (alaska), is in, villach hauptbahnhof	False
+black river (alaska), is in, villach hauptbahnhof	black river (alaska), is the city in, villach hauptbahnhof	True
+hart jessup, is native to, drosh	hart jessup, became known in, drosh	False
+hart jessup, became known in, drosh	hart jessup, is native to, drosh	True
+parotta, is rich in, benzil	parotta, contains, benzil	False
+parotta, contains, benzil	parotta, is rich in, benzil	True
+arnold's cat map, commanded the army in, veu	arnold's cat map, fought in, veu	False
+arnold's cat map, fought in, veu	arnold's cat map, commanded the army in, veu	True
+rice bran oil, is included in, aceh (cattle)	aceh (cattle), is covered with, rice bran oil	True
+aceh (cattle), is covered with, rice bran oil	rice bran oil, is included in, aceh (cattle)	False
+heaste, became the metropolis of, gapstow bridge	heaste, is in, gapstow bridge	False
+heaste, is in, gapstow bridge	heaste, became the metropolis of, gapstow bridge	True
+praya dubia, comes on, dynamic circuit network	praya dubia, has, dynamic circuit network	False
+praya dubia, has, dynamic circuit network	praya dubia, comes on, dynamic circuit network	True
+a masque of reason, fought in, bronzite	a masque of reason, is a veteran of, bronzite	True
+a masque of reason, is a veteran of, bronzite	a masque of reason, fought in, bronzite	False
+hubert scott-paine, is largely used in, blood plasma	blood plasma, is constructed from, hubert scott-paine	False
+blood plasma, is constructed from, hubert scott-paine	hubert scott-paine, is largely used in, blood plasma	True
+london broil, is included in, uss bergen (apa-150)	uss bergen (apa-150), is covered with, london broil	True
+uss bergen (apa-150), is covered with, london broil	london broil, is included in, uss bergen (apa-150)	False
+proteus mirabilis, are found in, acrophobia (ride)	proteus mirabilis, is native to, acrophobia (ride)	True
+proteus mirabilis, is native to, acrophobia (ride)	proteus mirabilis, are found in, acrophobia (ride)	False
+boondi, contains, dimethyl dicarbonate	boondi, is high in, dimethyl dicarbonate	True
+boondi, is high in, dimethyl dicarbonate	boondi, contains, dimethyl dicarbonate	False
+children's song, lives in, emily byrd starr	children's song, had been sent to, emily byrd starr	True
+children's song, had been sent to, emily byrd starr	children's song, lives in, emily byrd starr	False
+pedicle of vertebral arch, processes, 2006 washington huskies football team	2006 washington huskies football team, moves into, pedicle of vertebral arch	False
+2006 washington huskies football team, moves into, pedicle of vertebral arch	pedicle of vertebral arch, processes, 2006 washington huskies football team	True
+longtail (rat), are the largest of, metatheria	longtail (rat), is defined as, metatheria	False
+longtail (rat), is defined as, metatheria	longtail (rat), are the largest of, metatheria	True
+1780 atlantic hurricane season, had dedicated to, feronia (mythology)	feronia (mythology), received prayers from, 1780 atlantic hurricane season	True
+feronia (mythology), received prayers from, 1780 atlantic hurricane season	1780 atlantic hurricane season, had dedicated to, feronia (mythology)	False
+city of footscray, occupied along, buchberg	buchberg, is enclosed by, city of footscray	True
+buchberg, is enclosed by, city of footscray	city of footscray, occupied along, buchberg	False
+wedding soup, is made in, spring independent school district	wedding soup, is traditionally from, spring independent school district	True
+wedding soup, is traditionally from, spring independent school district	wedding soup, is made in, spring independent school district	False
+mandabe, was part of, gung-ho (g.i. joe)	mandabe, seceded and joined, gung-ho (g.i. joe)	True
+mandabe, seceded and joined, gung-ho (g.i. joe)	mandabe, was part of, gung-ho (g.i. joe)	False
+alexander shaw (canadian politician), traveled to, burnaya river	alexander shaw (canadian politician), was sent to, burnaya river	True
+alexander shaw (canadian politician), was sent to, burnaya river	alexander shaw (canadian politician), traveled to, burnaya river	False
+oatmeal cookie (cocktail), is native to, hainan tibetan autonomous prefecture	oatmeal cookie (cocktail), have been grown in, hainan tibetan autonomous prefecture	False
+oatmeal cookie (cocktail), have been grown in, hainan tibetan autonomous prefecture	oatmeal cookie (cocktail), is native to, hainan tibetan autonomous prefecture	True
+matteo bassi, was born in, aupouri peninsula	matteo bassi, came from, aupouri peninsula	False
+matteo bassi, came from, aupouri peninsula	matteo bassi, was born in, aupouri peninsula	True
+greenfield belser, fought in, hareeba	greenfield belser, has braved, hareeba	True
+greenfield belser, has braved, hareeba	greenfield belser, fought in, hareeba	False
+finland at the 1948 summer olympics, are in the neighborhood of, redgrave pinsent rowing lake	redgrave pinsent rowing lake, is home to, finland at the 1948 summer olympics	True
+redgrave pinsent rowing lake, is home to, finland at the 1948 summer olympics	finland at the 1948 summer olympics, are in the neighborhood of, redgrave pinsent rowing lake	False
+hesperocyon, floats on, black-crowned palm-tanager	hesperocyon, has, black-crowned palm-tanager	False
+hesperocyon, has, black-crowned palm-tanager	hesperocyon, floats on, black-crowned palm-tanager	True
+han jae-woong, studies, governator ale	han jae-woong, is the study of, governator ale	True
+han jae-woong, is the study of, governator ale	han jae-woong, studies, governator ale	False
+thomas davidson (poet), brought from, smolenka river	thomas davidson (poet), traveled to, smolenka river	False
+thomas davidson (poet), traveled to, smolenka river	thomas davidson (poet), brought from, smolenka river	True
+hylobates, were to be found in, porcari	hylobates, is native to, porcari	True
+hylobates, is native to, porcari	hylobates, were to be found in, porcari	False
+st. clair-superior, was used in, medel (lucmagn)	medel (lucmagn), still remained as, st. clair-superior	True
+medel (lucmagn), still remained as, st. clair-superior	st. clair-superior, was used in, medel (lucmagn)	False
+white sapote, has, apache james	white sapote, are insects with, apache james	True
+white sapote, are insects with, apache james	white sapote, has, apache james	False
+carlisle kingmoor tmd, terminates, bullous pemphigoid	carlisle kingmoor tmd, relieves, bullous pemphigoid	False
+carlisle kingmoor tmd, relieves, bullous pemphigoid	carlisle kingmoor tmd, terminates, bullous pemphigoid	True
+claymore (g.i. joe), is undertaken by, homeboys of oz	homeboys of oz, fought in, claymore (g.i. joe)	False
+homeboys of oz, fought in, claymore (g.i. joe)	claymore (g.i. joe), is undertaken by, homeboys of oz	True
+juventae chasma, is in, taramati	juventae chasma, is the republic in, taramati	True
+juventae chasma, is the republic in, taramati	juventae chasma, is in, taramati	False
+pete cortlandt, resigned and retired to, nuvinci continuously variable planetary transmission	pete cortlandt, lives in, nuvinci continuously variable planetary transmission	False
+pete cortlandt, lives in, nuvinci continuously variable planetary transmission	pete cortlandt, resigned and retired to, nuvinci continuously variable planetary transmission	True
+leaving certificate, fought in, vanlandi	leaving certificate, was first in, vanlandi	True
+leaving certificate, was first in, vanlandi	leaving certificate, fought in, vanlandi	False
+offendorf, had influence in, nabadwip	offendorf, took the lead with, nabadwip	True
+offendorf, took the lead with, nabadwip	offendorf, had influence in, nabadwip	False
+ursus americanus carlottae, flew on, apple terminal	ursus americanus carlottae, has, apple terminal	False
+ursus americanus carlottae, has, apple terminal	ursus americanus carlottae, flew on, apple terminal	True
+christian drama, are found on the coast of, ingram planetarium	christian drama, is native to, ingram planetarium	False
+christian drama, is native to, ingram planetarium	christian drama, are found on the coast of, ingram planetarium	True
+whitefish lake first nation, lives in, usns fred c. ainsworth (t-ap-181)	whitefish lake first nation, are to be found in, usns fred c. ainsworth (t-ap-181)	False
+whitefish lake first nation, are to be found in, usns fred c. ainsworth (t-ap-181)	whitefish lake first nation, lives in, usns fred c. ainsworth (t-ap-181)	True
+georgii karpechenko, discussed, tuvan people's revolutionary party	georgii karpechenko, defined, tuvan people's revolutionary party	True
+georgii karpechenko, defined, tuvan people's revolutionary party	georgii karpechenko, discussed, tuvan people's revolutionary party	False
+oleg pravilo, became, shi (poetry)	oleg pravilo, stands at the head of, shi (poetry)	True
+oleg pravilo, stands at the head of, shi (poetry)	oleg pravilo, became, shi (poetry)	False
+les gracques, lives in, naval star awards	les gracques, dwelt together in, naval star awards	True
+les gracques, dwelt together in, naval star awards	les gracques, lives in, naval star awards	False
+fred rose (politician), arrived in, hesselberg	fred rose (politician), traveled to, hesselberg	False
+fred rose (politician), traveled to, hesselberg	fred rose (politician), arrived in, hesselberg	True
+the little mermaid (faerie tale theatre episode), was made by, muddy mountains	muddy mountains, designed, the little mermaid (faerie tale theatre episode)	True
+muddy mountains, designed, the little mermaid (faerie tale theatre episode)	the little mermaid (faerie tale theatre episode), was made by, muddy mountains	False
+cut brandy, is made by adding, ratte potato	ratte potato, is included in, cut brandy	False
+ratte potato, is included in, cut brandy	cut brandy, is made by adding, ratte potato	True
+royal tru, is rich with, mee (psychedelic)	royal tru, are an source of, mee (psychedelic)	False
+royal tru, are an source of, mee (psychedelic)	royal tru, is rich with, mee (psychedelic)	True
+estudiantes tecos reserves, volunteered in, sepulchrave	estudiantes tecos reserves, fought in, sepulchrave	False
+estudiantes tecos reserves, fought in, sepulchrave	estudiantes tecos reserves, volunteered in, sepulchrave	True
+jerusalem light rail, stayed in, burnt toast vinyl	jerusalem light rail, was part of, burnt toast vinyl	False
+jerusalem light rail, was part of, burnt toast vinyl	jerusalem light rail, stayed in, burnt toast vinyl	True
+zhuyin (mythology), traveled to, arashiyama station (hankyu)	zhuyin (mythology), is now in, arashiyama station (hankyu)	True
+zhuyin (mythology), is now in, arashiyama station (hankyu)	zhuyin (mythology), traveled to, arashiyama station (hankyu)	False
+malchiah, fought in, mont saint-hilaire	malchiah, remained on the field of, mont saint-hilaire	True
+malchiah, remained on the field of, mont saint-hilaire	malchiah, fought in, mont saint-hilaire	False
+worshipful company of water conservators, was born in, mtito andei	worshipful company of water conservators, came from, mtito andei	False
+worshipful company of water conservators, came from, mtito andei	worshipful company of water conservators, was born in, mtito andei	True
+north american phalanx, was swallowed by, whitchurch (dn&s) railway station	north american phalanx, was invaded by, whitchurch (dn&s) railway station	False
+north american phalanx, was invaded by, whitchurch (dn&s) railway station	north american phalanx, was swallowed by, whitchurch (dn&s) railway station	True
+whitehorse trolley, is in, jersey city armory	whitehorse trolley, became the center of, jersey city armory	True
+whitehorse trolley, became the center of, jersey city armory	whitehorse trolley, is in, jersey city armory	False
+yav (non-governmental environmental organization), relieves, propionic acidemia	propionic acidemia, must be relieved by, yav (non-governmental environmental organization)	True
+propionic acidemia, must be relieved by, yav (non-governmental environmental organization)	yav (non-governmental environmental organization), relieves, propionic acidemia	False
+cape cobra, wavers on, flanders classics	cape cobra, has, flanders classics	False
+cape cobra, has, flanders classics	cape cobra, wavers on, flanders classics	True
+john crosby (conductor), was elected to, new melleray abbey	john crosby (conductor), works at, new melleray abbey	False
+john crosby (conductor), works at, new melleray abbey	john crosby (conductor), was elected to, new melleray abbey	True
+allobates, has, palestinian satellite channel	allobates, are distinguished by having, palestinian satellite channel	True
+allobates, are distinguished by having, palestinian satellite channel	allobates, has, palestinian satellite channel	False
+levan nikoleishvili, fought in, sm u-35	levan nikoleishvili, was soon at, sm u-35	True
+levan nikoleishvili, was soon at, sm u-35	levan nikoleishvili, fought in, sm u-35	False
+world wide telecom web, prevails in, pilar de la horadada	world wide telecom web, has official status in, pilar de la horadada	True
+world wide telecom web, has official status in, pilar de la horadada	world wide telecom web, prevails in, pilar de la horadada	False
+wessex trains, is rich with, nicarbazin	nicarbazin, is the base of, wessex trains	True
+nicarbazin, is the base of, wessex trains	wessex trains, is rich with, nicarbazin	False
+prestoy, is defined as, clivia	prestoy, is the highest of, clivia	True
+prestoy, is the highest of, clivia	prestoy, is defined as, clivia	False
+tracheomalacia, may be relieved by the application of, cyclic guanosine monophosphate	cyclic guanosine monophosphate, relieves, tracheomalacia	True
+cyclic guanosine monophosphate, relieves, tracheomalacia	tracheomalacia, may be relieved by the application of, cyclic guanosine monophosphate	False
+evansville triplets, has, vincentian records in athletics	evansville triplets, vomits, vincentian records in athletics	True
+evansville triplets, vomits, vincentian records in athletics	evansville triplets, has, vincentian records in athletics	False
+wulgurukaba, advocated, slovakia at the 2010 winter olympics	wulgurukaba, signed the declaration of, slovakia at the 2010 winter olympics	True
+wulgurukaba, signed the declaration of, slovakia at the 2010 winter olympics	wulgurukaba, advocated, slovakia at the 2010 winter olympics	False
+orange drink, contains, lignan	lignan, occurs in, orange drink	True
+lignan, occurs in, orange drink	orange drink, contains, lignan	False
+barbara stager, traveled to, george h. moody middle school	barbara stager, set out for, george h. moody middle school	False
+barbara stager, set out for, george h. moody middle school	barbara stager, traveled to, george h. moody middle school	True
+fjuckby, is in, varenne (river)	fjuckby, is the capital in, varenne (river)	True
+fjuckby, is the capital in, varenne (river)	fjuckby, is in, varenne (river)	False
+cryptoclidus, is native to, yirka	cryptoclidus, were moving from, yirka	True
+cryptoclidus, were moving from, yirka	cryptoclidus, is native to, yirka	False
+lobster newberg, is rich with, hexachlorobutadiene	hexachlorobutadiene, is found in, lobster newberg	False
+hexachlorobutadiene, is found in, lobster newberg	lobster newberg, is rich with, hexachlorobutadiene	True
+yzerfontein, is an ally of, gabriel tucker bridge	gabriel tucker bridge, had made a treaty with, yzerfontein	True
+gabriel tucker bridge, had made a treaty with, yzerfontein	yzerfontein, is an ally of, gabriel tucker bridge	False
+organized crime in italy, is a festival in, appalachian plateau	organized crime in italy, was celebrated in, appalachian plateau	False
+organized crime in italy, was celebrated in, appalachian plateau	organized crime in italy, is a festival in, appalachian plateau	True
+andouille, are rich in, mercury telluride	andouille, contains, mercury telluride	False
+andouille, contains, mercury telluride	andouille, are rich in, mercury telluride	True
+moosberg, is in, porto de pedras	moosberg, became the city in, porto de pedras	True
+moosberg, became the city in, porto de pedras	moosberg, is in, porto de pedras	False
+secretary of state of nebraska, is employed by, independent national patriotic front of liberia	independent national patriotic front of liberia, shall be represented by, secretary of state of nebraska	True
+independent national patriotic front of liberia, shall be represented by, secretary of state of nebraska	secretary of state of nebraska, is employed by, independent national patriotic front of liberia	False
+vailoa, yields, hussar (comics)	hussar (comics), can survive in, vailoa	False
+hussar (comics), can survive in, vailoa	vailoa, yields, hussar (comics)	True
+rosolina, remained loyal to, kinetics (company)	rosolina, was part of, kinetics (company)	False
+rosolina, was part of, kinetics (company)	rosolina, remained loyal to, kinetics (company)	True
+artur adson, was greatest in, baron harding of petherton	artur adson, discussed, baron harding of petherton	False
+artur adson, discussed, baron harding of petherton	artur adson, was greatest in, baron harding of petherton	True
+march 16, has a lot of, recon (lost)	recon (lost), comes in, march 16	False
+recon (lost), comes in, march 16	march 16, has a lot of, recon (lost)	True
+askja (building), was overrun by, tappan (native americans)	askja (building), was invaded by, tappan (native americans)	False
+askja (building), was invaded by, tappan (native americans)	askja (building), was overrun by, tappan (native americans)	True
+doryphora sassafras, has, ark project	doryphora sassafras, are insects with, ark project	True
+doryphora sassafras, are insects with, ark project	doryphora sassafras, has, ark project	False
+akisho (clan), controlled most of, montboudif	montboudif, was invaded by, akisho (clan)	False
+montboudif, was invaded by, akisho (clan)	akisho (clan), controlled most of, montboudif	True
+oatmeal cookie (cocktail), is native to, sisophon	oatmeal cookie (cocktail), are raised in, sisophon	False
+oatmeal cookie (cocktail), are raised in, sisophon	oatmeal cookie (cocktail), is native to, sisophon	True
+radio free montenegro, prepares, chwc-fm	radio free montenegro, could produce, chwc-fm	False
+radio free montenegro, could produce, chwc-fm	radio free montenegro, prepares, chwc-fm	True
+c. aswath, revived, voice teacher	c. aswath, discussed, voice teacher	False
+c. aswath, discussed, voice teacher	c. aswath, revived, voice teacher	True
+girdharpur, infiltrated, sono department	sono department, was attacked by, girdharpur	True
+sono department, was attacked by, girdharpur	girdharpur, infiltrated, sono department	False
+boat trailer, researches, northern parula	boat trailer, was common to, northern parula	True
+boat trailer, was common to, northern parula	boat trailer, researches, northern parula	False
+yossi avni-levy, may enter, pedicle of vertebral arch	pedicle of vertebral arch, processes, yossi avni-levy	True
+pedicle of vertebral arch, processes, yossi avni-levy	yossi avni-levy, may enter, pedicle of vertebral arch	False
+king harry ferry, switched to, mozambican escudo	mozambican escudo, is used in, king harry ferry	False
+mozambican escudo, is used in, king harry ferry	king harry ferry, switched to, mozambican escudo	True
+encyclia, will have, glrb	encyclia, has, glrb	True
+encyclia, has, glrb	encyclia, will have, glrb	False
+dyhr, relieves, hashimoto's thyroiditis	dyhr, eliminates, hashimoto's thyroiditis	True
+dyhr, eliminates, hashimoto's thyroiditis	dyhr, relieves, hashimoto's thyroiditis	False
+greenish warbler, is native to, helper (amtrak station)	greenish warbler, are in this part of, helper (amtrak station)	False
+greenish warbler, are in this part of, helper (amtrak station)	greenish warbler, is native to, helper (amtrak station)	True
+kiwa (am), traveled to, hopong	kiwa (am), left, hopong	True
+kiwa (am), left, hopong	kiwa (am), traveled to, hopong	False
+oenophilia, occurs in, dumont dunes	oenophilia, is common in, dumont dunes	True
+oenophilia, is common in, dumont dunes	oenophilia, occurs in, dumont dunes	False
+cultural imperialism, can be seen with, artrocker (magazine)	artrocker (magazine), have discovered, cultural imperialism	True
+artrocker (magazine), have discovered, cultural imperialism	cultural imperialism, can be seen with, artrocker (magazine)	False
+geschwister scholl, was carried after, armenian question	geschwister scholl, fought in, armenian question	False
+geschwister scholl, fought in, armenian question	geschwister scholl, was carried after, armenian question	True
+earagail arts festival, named him, scentuelle	earagail arts festival, appoints, scentuelle	True
+earagail arts festival, appoints, scentuelle	earagail arts festival, named him, scentuelle	False
+ursus americanus carlottae, produce, copper indium gallium selenide solar cells	ursus americanus carlottae, has, copper indium gallium selenide solar cells	False
+ursus americanus carlottae, has, copper indium gallium selenide solar cells	ursus americanus carlottae, produce, copper indium gallium selenide solar cells	True
+go international, has, monotone (software)	go international, sprang up on, monotone (software)	True
+go international, sprang up on, monotone (software)	go international, has, monotone (software)	False
+magnolia warbler, are infested by, n'dama	n'dama, lives off, magnolia warbler	False
+n'dama, lives off, magnolia warbler	magnolia warbler, are infested by, n'dama	True
+bindal, is in, kirk smeaton	bindal, was half of, kirk smeaton	True
+bindal, was half of, kirk smeaton	bindal, is in, kirk smeaton	False
+vice chief of naval operations, was used in, nahrin district	nahrin district, became, vice chief of naval operations	True
+nahrin district, became, vice chief of naval operations	vice chief of naval operations, was used in, nahrin district	False
+piet plessis, was the head of, lake solitude (new hampshire)	piet plessis, had influence in, lake solitude (new hampshire)	False
+piet plessis, had influence in, lake solitude (new hampshire)	piet plessis, was the head of, lake solitude (new hampshire)	True
+timaliidae, flew with, build engine	timaliidae, has, build engine	False
+timaliidae, has, build engine	timaliidae, flew with, build engine	True
+hoshana rabbah, produces, kplv	hoshana rabbah, has a lot of, kplv	False
+hoshana rabbah, has a lot of, kplv	hoshana rabbah, produces, kplv	True
+pas de quatre, treats, coloboma	coloboma, cauterized with, pas de quatre	True
+coloboma, cauterized with, pas de quatre	pas de quatre, treats, coloboma	False
+korea financial investment association, has, mivec	korea financial investment association, fight with, mivec	True
+korea financial investment association, fight with, mivec	korea financial investment association, has, mivec	False
+john joseph curran, discussed, east german green party	john joseph curran, defines, east german green party	True
+john joseph curran, defines, east german green party	john joseph curran, discussed, east german green party	False
+emedastine, relieves, stasis dermatitis	stasis dermatitis, should be treated with, emedastine	True
+stasis dermatitis, should be treated with, emedastine	emedastine, relieves, stasis dermatitis	False
+battlefields, was invaded by, afro ecuadorian	afro ecuadorian, conquered, battlefields	True
+afro ecuadorian, conquered, battlefields	battlefields, was invaded by, afro ecuadorian	False
+carbonade flamande, is rich with, hydrogen sulfide	hydrogen sulfide, is found in, carbonade flamande	False
+hydrogen sulfide, is found in, carbonade flamande	carbonade flamande, is rich with, hydrogen sulfide	True
+pozole, is native to, algarra	pozole, come from, algarra	False
+pozole, come from, algarra	pozole, is native to, algarra	True
+apartheid legislation in south africa, was invaded by, piribebuy	piribebuy, has attacked, apartheid legislation in south africa	False
+piribebuy, has attacked, apartheid legislation in south africa	apartheid legislation in south africa, was invaded by, piribebuy	True
+the great dune of pyla, is an ally of, dixon island	dixon island, would support, the great dune of pyla	False
+dixon island, would support, the great dune of pyla	the great dune of pyla, is an ally of, dixon island	True
+assembly of european regions, does not cause, 2001 fed cup	assembly of european regions, will guard against, 2001 fed cup	True
+assembly of european regions, will guard against, 2001 fed cup	assembly of european regions, does not cause, 2001 fed cup	False
+kunming wolfdog, has, sudo	kunming wolfdog, flutter with, sudo	True
+kunming wolfdog, flutter with, sudo	kunming wolfdog, has, sudo	False
+ritchie kotschau, fought in, ikarie xb-1	ritchie kotschau, has been a leader in, ikarie xb-1	True
+ritchie kotschau, has been a leader in, ikarie xb-1	ritchie kotschau, fought in, ikarie xb-1	False
+kein, migrated from, comarnic	kein, is native to, comarnic	False
+kein, is native to, comarnic	kein, migrated from, comarnic	True
+radarman, discovered, adilabad (lok sabha constituency)	radarman, discovered the coast of, adilabad (lok sabha constituency)	False
+radarman, discovered the coast of, adilabad (lok sabha constituency)	radarman, discovered, adilabad (lok sabha constituency)	True
+allotropes of carbon, became, waheguru	allotropes of carbon, is often, waheguru	True
+allotropes of carbon, is often, waheguru	allotropes of carbon, became, waheguru	False
+anacamptis, has, wfrs	anacamptis, floated on, wfrs	True
+anacamptis, floated on, wfrs	anacamptis, has, wfrs	False
+psychro cave, is in, sharonville transmission	psychro cave, became the port of, sharonville transmission	True
+psychro cave, became the port of, sharonville transmission	psychro cave, is in, sharonville transmission	False
+les collines (never leave you), wrote in, porterstown station	les collines (never leave you), traveled to, porterstown station	False
+les collines (never leave you), traveled to, porterstown station	les collines (never leave you), wrote in, porterstown station	True
+baron harris, prepares, bouillon cube	baron harris, were cooking, bouillon cube	True
+baron harris, were cooking, bouillon cube	baron harris, prepares, bouillon cube	False
+francisco valero, fought in, 1995 winnipeg blue bombers season	francisco valero, exerted himself in, 1995 winnipeg blue bombers season	True
+francisco valero, exerted himself in, 1995 winnipeg blue bombers season	francisco valero, fought in, 1995 winnipeg blue bombers season	False
+donnatal, can be seen with, gus aitoro	gus aitoro, have discovered, donnatal	True
+gus aitoro, have discovered, donnatal	donnatal, can be seen with, gus aitoro	False
+cut brandy, is traditionally from, ghibli museum	ghibli museum, has always had, cut brandy	True
+ghibli museum, has always had, cut brandy	cut brandy, is traditionally from, ghibli museum	False
+varkala radhakrishnan, was banished to, incoherents	varkala radhakrishnan, lives in, incoherents	False
+varkala radhakrishnan, lives in, incoherents	varkala radhakrishnan, was banished to, incoherents	True
+steyr mannlicher m1901, was acquired by, zura	zura, had overtaken, steyr mannlicher m1901	True
+zura, had overtaken, steyr mannlicher m1901	steyr mannlicher m1901, was acquired by, zura	False
+marine corps combat utility uniform, dedicated to, olokun	olokun, received prayers from, marine corps combat utility uniform	True
+olokun, received prayers from, marine corps combat utility uniform	marine corps combat utility uniform, dedicated to, olokun	False
+titulus regius, was begun by, shapur iii	shapur iii, fought in, titulus regius	False
+shapur iii, fought in, titulus regius	titulus regius, was begun by, shapur iii	True
+winchester high school, had been forced into, ilica (street)	winchester high school, fought in, ilica (street)	False
+winchester high school, fought in, ilica (street)	winchester high school, had been forced into, ilica (street)	True
+alliance (dc comics), is said to have come to, llandygwydd	alliance (dc comics), is played in, llandygwydd	False
+alliance (dc comics), is played in, llandygwydd	alliance (dc comics), is said to have come to, llandygwydd	True
+uss jesse l. brown (ff-1089), fought in, action request system	uss jesse l. brown (ff-1089), frequently made, action request system	True
+uss jesse l. brown (ff-1089), frequently made, action request system	uss jesse l. brown (ff-1089), fought in, action request system	False
+pujo, was purchased by, lockport (metra)	pujo, was acquired by, lockport (metra)	False
+pujo, was acquired by, lockport (metra)	pujo, was purchased by, lockport (metra)	True
+calathea, is native to, cape blomidon	calathea, may have existed in, cape blomidon	False
+calathea, may have existed in, cape blomidon	calathea, is native to, cape blomidon	True
+pedicle of vertebral arch, is part of, caterair	pedicle of vertebral arch, is at the top of, caterair	True
+pedicle of vertebral arch, is at the top of, caterair	pedicle of vertebral arch, is part of, caterair	False
+balbus (cognomen), may be converted into, maclean-hunter	balbus (cognomen), became, maclean-hunter	True
+balbus (cognomen), became, maclean-hunter	balbus (cognomen), may be converted into, maclean-hunter	False
+kalen spillane, is included in, lobster newberg	lobster newberg, is made from, kalen spillane	True
+lobster newberg, is made from, kalen spillane	kalen spillane, is included in, lobster newberg	False
+prix athanase-david, returned to, gesse	prix athanase-david, traveled to, gesse	False
+prix athanase-david, traveled to, gesse	prix athanase-david, returned to, gesse	True
+hernio, was invaded by, kwoma	kwoma, attacked, hernio	False
+kwoma, attacked, hernio	hernio, was invaded by, kwoma	True
+fideo, is rich with, guaiacol	fideo, is an source of, guaiacol	False
+fideo, is an source of, guaiacol	fideo, is rich with, guaiacol	True
+pashupati, was one of, hmas rushcutter (naval base)	pashupati, is the god of, hmas rushcutter (naval base)	True
+pashupati, is the god of, hmas rushcutter (naval base)	pashupati, was one of, hmas rushcutter (naval base)	False
+low back pain, can be closed with, posaconazole	posaconazole, treats, low back pain	False
+posaconazole, treats, low back pain	low back pain, can be closed with, posaconazole	True
+castiglione olona, was acquired by, murati	murati, gained control of, castiglione olona	False
+murati, gained control of, castiglione olona	castiglione olona, was acquired by, murati	True
+grecanico, is included in, myrciaria dubia	myrciaria dubia, consists mainly of, grecanico	True
+myrciaria dubia, consists mainly of, grecanico	grecanico, is included in, myrciaria dubia	False
+homecoming (heroes), is the study of, czech orthography	homecoming (heroes), studies, czech orthography	False
+homecoming (heroes), studies, czech orthography	homecoming (heroes), is the study of, czech orthography	True
+bantam (band), is highest in, north fork flathead river	bantam (band), occurs in, north fork flathead river	False
+bantam (band), occurs in, north fork flathead river	bantam (band), is highest in, north fork flathead river	True
+christian drama, was a defeat of, deadlock (band)	deadlock (band), fought in, christian drama	False
+deadlock (band), fought in, christian drama	christian drama, was a defeat of, deadlock (band)	True
+galveston causeway, is in, oudega (smallingerland)	galveston causeway, are in the middle of, oudega (smallingerland)	True
+galveston causeway, are in the middle of, oudega (smallingerland)	galveston causeway, is in, oudega (smallingerland)	False
+agios kirykos, should secede from, valley view high school (arkansas)	agios kirykos, was part of, valley view high school (arkansas)	False
+agios kirykos, was part of, valley view high school (arkansas)	agios kirykos, should secede from, valley view high school (arkansas)	True
+wycoller, is in, rugby (uk parliament constituency)	wycoller, became the center of, rugby (uk parliament constituency)	True
+wycoller, became the center of, rugby (uk parliament constituency)	wycoller, is in, rugby (uk parliament constituency)	False
+s/pdif, is played in, elfin lakes	s/pdif, is the sport of, elfin lakes	True
+s/pdif, is the sport of, elfin lakes	s/pdif, is played in, elfin lakes	False
+amber valley (uk parliament constituency), had influence in, bangor (gwynedd) railway station	amber valley (uk parliament constituency), was the greatest in, bangor (gwynedd) railway station	True
+amber valley (uk parliament constituency), was the greatest in, bangor (gwynedd) railway station	amber valley (uk parliament constituency), had influence in, bangor (gwynedd) railway station	False
+senari languages, is popular in, broadway shopping centre	senari languages, is played in, broadway shopping centre	False
+senari languages, is played in, broadway shopping centre	senari languages, is popular in, broadway shopping centre	True
+mandi (food), is traditionally from, langebro	mandi (food), is brought from, langebro	False
+mandi (food), is brought from, langebro	mandi (food), is traditionally from, langebro	True
+eduard dubinski, fought in, st. luke's house	eduard dubinski, defeated the austrians at, st. luke's house	True
+eduard dubinski, defeated the austrians at, st. luke's house	eduard dubinski, fought in, st. luke's house	False
+p700, fought and won, sunshine studios	p700, fought in, sunshine studios	False
+p700, fought in, sunshine studios	p700, fought and won, sunshine studios	True
+fintan of clonenagh, fought in, self defense test ship	fintan of clonenagh, were dragged into, self defense test ship	True
+fintan of clonenagh, were dragged into, self defense test ship	fintan of clonenagh, fought in, self defense test ship	False
+tagore family, discussed, marquis of pombal	tagore family, taught, marquis of pombal	True
+tagore family, taught, marquis of pombal	tagore family, discussed, marquis of pombal	False
+turtur, is found in the parts of, kulaijaya district	turtur, is native to, kulaijaya district	True
+turtur, is native to, kulaijaya district	turtur, is found in the parts of, kulaijaya district	False
+uss pittsburgh (ssn-720), take, ze (cyrillic)	ze (cyrillic), was attacked by, uss pittsburgh (ssn-720)	False
+ze (cyrillic), was attacked by, uss pittsburgh (ssn-720)	uss pittsburgh (ssn-720), take, ze (cyrillic)	True
+frog legs, contains, dapagliflozin	frog legs, are all sources of, dapagliflozin	True
+frog legs, are all sources of, dapagliflozin	frog legs, contains, dapagliflozin	False
+thai basil, is rich with, auramine o	thai basil, is an source of, auramine o	False
+thai basil, is an source of, auramine o	thai basil, is rich with, auramine o	True
+pigeon creek (indiana), had influence in, padre hurtado	pigeon creek (indiana), governs, padre hurtado	True
+pigeon creek (indiana), governs, padre hurtado	pigeon creek (indiana), had influence in, padre hurtado	False
+toxicodendron radicans, contains, gadopentetic acid	toxicodendron radicans, concentrated, gadopentetic acid	True
+toxicodendron radicans, concentrated, gadopentetic acid	toxicodendron radicans, contains, gadopentetic acid	False
+dartmouth higher ferry, became, serena harragin	serena harragin, are viewed as, dartmouth higher ferry	False
+serena harragin, are viewed as, dartmouth higher ferry	dartmouth higher ferry, became, serena harragin	True
+berneuse, is the capital in, duwamish (fireboat)	berneuse, is in, duwamish (fireboat)	False
+berneuse, is in, duwamish (fireboat)	berneuse, is the capital in, duwamish (fireboat)	True
+iris cristata, are small with, redshift (theory)	iris cristata, has, redshift (theory)	False
+iris cristata, has, redshift (theory)	iris cristata, are small with, redshift (theory)	True
+cinnamomum aromaticum, are high in, dimethyl dicarbonate	cinnamomum aromaticum, contains, dimethyl dicarbonate	False
+cinnamomum aromaticum, contains, dimethyl dicarbonate	cinnamomum aromaticum, are high in, dimethyl dicarbonate	True
+glodwick road railway station, is in, alverstone	glodwick road railway station, became the capital of, alverstone	True
+glodwick road railway station, became the capital of, alverstone	glodwick road railway station, is in, alverstone	False
+grand bleu de gascogne, all come from, phatthalung province	grand bleu de gascogne, is native to, phatthalung province	False
+grand bleu de gascogne, is native to, phatthalung province	grand bleu de gascogne, all come from, phatthalung province	True
+carolina wren, has, mtv europe music award for best song	carolina wren, sped on, mtv europe music award for best song	True
+carolina wren, sped on, mtv europe music award for best song	carolina wren, has, mtv europe music award for best song	False
+dirofilaria immitis, has, apache james	dirofilaria immitis, is a insect with, apache james	True
+dirofilaria immitis, is a insect with, apache james	dirofilaria immitis, has, apache james	False
+psorothamnus spinosus, was brought from, terezinha	psorothamnus spinosus, is traditionally from, terezinha	True
+psorothamnus spinosus, is traditionally from, terezinha	psorothamnus spinosus, was brought from, terezinha	False
+south bedfordshire (uk parliament constituency), had influence in, old ironsides (vta)	south bedfordshire (uk parliament constituency), was the heart of, old ironsides (vta)	True
+south bedfordshire (uk parliament constituency), was the heart of, old ironsides (vta)	south bedfordshire (uk parliament constituency), had influence in, old ironsides (vta)	False
+coespeletia, eat and have, cd20	coespeletia, has, cd20	False
+coespeletia, has, cd20	coespeletia, eat and have, cd20	True
+jaguar xjr sportscars, became, kaws (fm)	jaguar xjr sportscars, was generally regarded as, kaws (fm)	True
+jaguar xjr sportscars, was generally regarded as, kaws (fm)	jaguar xjr sportscars, became, kaws (fm)	False
+alexandra bruce, traveled to, perundurai	alexandra bruce, flew to, perundurai	True
+alexandra bruce, flew to, perundurai	alexandra bruce, traveled to, perundurai	False
+latrodectus mactans, is native to, south drain	latrodectus mactans, are alive in, south drain	False
+latrodectus mactans, are alive in, south drain	latrodectus mactans, is native to, south drain	True
+american curl, have pairs of, windows live call	american curl, has, windows live call	False
+american curl, has, windows live call	american curl, have pairs of, windows live call	True
+bereitschaftspolizei, measures, operation roundup (1951)	operation roundup (1951), were registered on, bereitschaftspolizei	True
+operation roundup (1951), were registered on, bereitschaftspolizei	bereitschaftspolizei, measures, operation roundup (1951)	False
+manchester tart, contains, cyclic guanosine monophosphate	manchester tart, is high in, cyclic guanosine monophosphate	True
+manchester tart, is high in, cyclic guanosine monophosphate	manchester tart, contains, cyclic guanosine monophosphate	False
+gonium, is native to, unaka range	gonium, also lives in, unaka range	False
+gonium, also lives in, unaka range	gonium, is native to, unaka range	True
+social capital entertainment, was first introduced to, cloughaneely	social capital entertainment, is played in, cloughaneely	False
+social capital entertainment, is played in, cloughaneely	social capital entertainment, was first introduced to, cloughaneely	True
+balisto, are the sources of, potassium bitartrate	balisto, contains, potassium bitartrate	False
+balisto, contains, potassium bitartrate	balisto, are the sources of, potassium bitartrate	True
+hawthorne high school (florida), are found in, hallerbos	hawthorne high school (florida), is native to, hallerbos	True
+hawthorne high school (florida), is native to, hallerbos	hawthorne high school (florida), are found in, hallerbos	False
+dmax v6 engine, is the study of, stealth (roller coaster)	dmax v6 engine, studies, stealth (roller coaster)	False
+dmax v6 engine, studies, stealth (roller coaster)	dmax v6 engine, is the study of, stealth (roller coaster)	True
+cephalotus, has, nkomati accord	cephalotus, has spots on, nkomati accord	True
+cephalotus, has spots on, nkomati accord	cephalotus, has, nkomati accord	False
+palazzolo sull'oglio, was the eye of, hansa emporium	palazzolo sull'oglio, had influence in, hansa emporium	False
+palazzolo sull'oglio, had influence in, hansa emporium	palazzolo sull'oglio, was the eye of, hansa emporium	True
+scott hays, adore as, fiba asia under-16 championship	fiba asia under-16 championship, received prayers from, scott hays	True
+fiba asia under-16 championship, received prayers from, scott hays	scott hays, adore as, fiba asia under-16 championship	False
+axis (anatomy), is the tooth in, lumbar vertebrae	axis (anatomy), is part of, lumbar vertebrae	False
+axis (anatomy), is part of, lumbar vertebrae	axis (anatomy), is the tooth in, lumbar vertebrae	True
+southcentre mall, became the capital of, wabamun lake	southcentre mall, had influence in, wabamun lake	False
+southcentre mall, had influence in, wabamun lake	southcentre mall, became the capital of, wabamun lake	True
+jean franko, returned to, hamamura station	jean franko, traveled to, hamamura station	False
+jean franko, traveled to, hamamura station	jean franko, returned to, hamamura station	True
+transit of venus from mars, was cooked by, mont-de-lans	mont-de-lans, prepares, transit of venus from mars	False
+mont-de-lans, prepares, transit of venus from mars	transit of venus from mars, was cooked by, mont-de-lans	True
+ali-akbar davar, is native to, oula	ali-akbar davar, were made in, oula	False
+ali-akbar davar, were made in, oula	ali-akbar davar, is native to, oula	True
+o rly?, marched forth to, donegal senior football championship	o rly?, fought in, donegal senior football championship	True
+o rly?, fought in, donegal senior football championship	o rly?, marched forth to, donegal senior football championship	False
+sensory neuron, lie on either side of, pedicle of vertebral arch	sensory neuron, is part of, pedicle of vertebral arch	False
+sensory neuron, is part of, pedicle of vertebral arch	sensory neuron, lie on either side of, pedicle of vertebral arch	True
+chambeshi river, is in, winterswijk railway station	chambeshi river, became the port of, winterswijk railway station	True
+chambeshi river, became the port of, winterswijk railway station	chambeshi river, is in, winterswijk railway station	False
+international passport, is secreted during, nationale cyclo-cross otegem	international passport, indicates, nationale cyclo-cross otegem	False
+international passport, indicates, nationale cyclo-cross otegem	international passport, is secreted during, nationale cyclo-cross otegem	True
+roads in the united kingdom, has, greenhouse item	roads in the united kingdom, kill with, greenhouse item	True
+roads in the united kingdom, kill with, greenhouse item	roads in the united kingdom, has, greenhouse item	False
+rim-8 talos, bombed in, ballymore castle	ballymore castle, was attacked by, rim-8 talos	False
+ballymore castle, was attacked by, rim-8 talos	rim-8 talos, bombed in, ballymore castle	True
+logania distanti, use, chongwe district	logania distanti, has, chongwe district	False
+logania distanti, has, chongwe district	logania distanti, use, chongwe district	True
+march 18, has a lot of, clustered file system	clustered file system, fell during, march 18	False
+clustered file system, fell during, march 18	march 18, has a lot of, clustered file system	True
+pcap, fought in, northwest park (manchester)	pcap, became prisoners of, northwest park (manchester)	True
+pcap, became prisoners of, northwest park (manchester)	pcap, fought in, northwest park (manchester)	False
+backstreet (transformers), sparked, andromeda (play)	backstreet (transformers), fought in, andromeda (play)	False
+backstreet (transformers), fought in, andromeda (play)	backstreet (transformers), sparked, andromeda (play)	True
+toxicodendron, has, directory utility	toxicodendron, flew on, directory utility	True
+toxicodendron, flew on, directory utility	toxicodendron, has, directory utility	False
+pahari rajput, again invaded, noah's ark zoo farm	noah's ark zoo farm, was invaded by, pahari rajput	False
+noah's ark zoo farm, was invaded by, pahari rajput	pahari rajput, again invaded, noah's ark zoo farm	True
+fort frank, is the port in, comarnic	fort frank, is in, comarnic	False
+fort frank, is in, comarnic	fort frank, is the port in, comarnic	True
+jinzhou district, was the port in, eagle creek park	jinzhou district, is in, eagle creek park	False
+jinzhou district, is in, eagle creek park	jinzhou district, was the port in, eagle creek park	True
+dr sun yat-sen museum, can be seen with, sanguine (heraldry)	sanguine (heraldry), has discovered, dr sun yat-sen museum	True
+sanguine (heraldry), has discovered, dr sun yat-sen museum	dr sun yat-sen museum, can be seen with, sanguine (heraldry)	False
+grewioideae, spit, park royal partnership	grewioideae, has, park royal partnership	False
+grewioideae, has, park royal partnership	grewioideae, spit, park royal partnership	True
+doctor of technology, is the study of, betula lenta	doctor of technology, researches, betula lenta	False
+doctor of technology, researches, betula lenta	doctor of technology, is the study of, betula lenta	True
+kitahama station (osaka), is in, wadsley	kitahama station (osaka), became the city of, wadsley	True
+kitahama station (osaka), became the city of, wadsley	kitahama station (osaka), is in, wadsley	False
+glen crest middle school, came from, the islands (massachusetts)	glen crest middle school, was born in, the islands (massachusetts)	True
+glen crest middle school, was born in, the islands (massachusetts)	glen crest middle school, came from, the islands (massachusetts)	False
+howmet tx, is open to, itakura clan	itakura clan, lives in, howmet tx	True
+itakura clan, lives in, howmet tx	howmet tx, is open to, itakura clan	False
+gryposuchus, has, combaticons	gryposuchus, use, combaticons	True
+gryposuchus, use, combaticons	gryposuchus, has, combaticons	False
+spica (telescope), is constructed from, micron (skate company)	spica (telescope), is a table of, micron (skate company)	True
+spica (telescope), is a table of, micron (skate company)	spica (telescope), is constructed from, micron (skate company)	False
+strauss radio strategies, is constructed from, eisberg (lausitzer bergland)	strauss radio strategies, was a slab of, eisberg (lausitzer bergland)	True
+strauss radio strategies, was a slab of, eisberg (lausitzer bergland)	strauss radio strategies, is constructed from, eisberg (lausitzer bergland)	False
+symphony no. 5 (sibelius), is full of, project habakkuk	project habakkuk, is commonly used in, symphony no. 5 (sibelius)	False
+project habakkuk, is commonly used in, symphony no. 5 (sibelius)	symphony no. 5 (sibelius), is full of, project habakkuk	True
+josephus of arimathea, prepares, handi	josephus of arimathea, cut a piece of, handi	True
+josephus of arimathea, cut a piece of, handi	josephus of arimathea, prepares, handi	False
+continuity comics, released, csonka	csonka, was developed by, continuity comics	True
+csonka, was developed by, continuity comics	continuity comics, released, csonka	False
+constitution of the athenians, traveled to, south end (charlotte neighborhood)	constitution of the athenians, returned to, south end (charlotte neighborhood)	True
+constitution of the athenians, returned to, south end (charlotte neighborhood)	constitution of the athenians, traveled to, south end (charlotte neighborhood)	False
+waitaha penguin, has, georgetown railroad	georgetown railroad, injected by, waitaha penguin	True
+georgetown railroad, injected by, waitaha penguin	waitaha penguin, has, georgetown railroad	False
+oswald hoffmann, became, 1987 los angeles rams season	oswald hoffmann, are allowed to be, 1987 los angeles rams season	False
+oswald hoffmann, are allowed to be, 1987 los angeles rams season	oswald hoffmann, became, 1987 los angeles rams season	True
+tayberry, are raised in, keweenaw national historical park	tayberry, is native to, keweenaw national historical park	True
+tayberry, is native to, keweenaw national historical park	tayberry, are raised in, keweenaw national historical park	False
+uss rixey (aph-3), traveled to, allegheny reservoir	uss rixey (aph-3), had been living in, allegheny reservoir	True
+uss rixey (aph-3), had been living in, allegheny reservoir	uss rixey (aph-3), traveled to, allegheny reservoir	False
+k-1 (airship), is dumped into, axis (anatomy)	axis (anatomy), processes, k-1 (airship)	True
+axis (anatomy), processes, k-1 (airship)	k-1 (airship), is dumped into, axis (anatomy)	False
+jean-philippe stassen, fought in, worshipful company of barbers	jean-philippe stassen, had fallen in, worshipful company of barbers	True
+jean-philippe stassen, had fallen in, worshipful company of barbers	jean-philippe stassen, fought in, worshipful company of barbers	False
+ramna stacks, was purchased by, demerath	ramna stacks, was acquired by, demerath	False
+ramna stacks, was acquired by, demerath	ramna stacks, was purchased by, demerath	True
+kilteely-dromkeen, fought in, bank on california	kilteely-dromkeen, sustained a loss in, bank on california	True
+kilteely-dromkeen, sustained a loss in, bank on california	kilteely-dromkeen, fought in, bank on california	False
+phakopsora pachyrhizi, has, mary's room	phakopsora pachyrhizi, are born with, mary's room	True
+phakopsora pachyrhizi, are born with, mary's room	phakopsora pachyrhizi, has, mary's room	False
+chiton (costume), lives in, stableford	chiton (costume), abdicated and retired to, stableford	True
+chiton (costume), abdicated and retired to, stableford	chiton (costume), lives in, stableford	False
+persian gulf command, belong only to, macrobrachium agwi	macrobrachium agwi, has, persian gulf command	False
+macrobrachium agwi, has, persian gulf command	persian gulf command, belong only to, macrobrachium agwi	True
+grammy award for best small ensemble performance, fought in, whlo	grammy award for best small ensemble performance, commands at, whlo	True
+grammy award for best small ensemble performance, commands at, whlo	grammy award for best small ensemble performance, fought in, whlo	False
+civic city, is native to, taylor bayou	civic city, is found in parts of, taylor bayou	False
+civic city, is found in parts of, taylor bayou	civic city, is native to, taylor bayou	True
+tamara mckinley, did not long survive, telephonetics	tamara mckinley, fought in, telephonetics	False
+tamara mckinley, fought in, telephonetics	tamara mckinley, did not long survive, telephonetics	True
+lesser kiskadee, has, cd20	lesser kiskadee, is enveloped in, cd20	True
+lesser kiskadee, is enveloped in, cd20	lesser kiskadee, has, cd20	False
+jack miller (sportscaster), traveled to, sprengisandur	jack miller (sportscaster), came back from, sprengisandur	True
+jack miller (sportscaster), came back from, sprengisandur	jack miller (sportscaster), traveled to, sprengisandur	False
+eliza patterson, will pass for, ruger super redhawk	eliza patterson, became, ruger super redhawk	True
+eliza patterson, became, ruger super redhawk	eliza patterson, will pass for, ruger super redhawk	False
+uss nantucket (ix-18), is rich with, perfluorooctane	uss nantucket (ix-18), amounted to tons of, perfluorooctane	True
+uss nantucket (ix-18), amounted to tons of, perfluorooctane	uss nantucket (ix-18), is rich with, perfluorooctane	False
+museo nacional de historia, was the capital of, cvikov	museo nacional de historia, is in, cvikov	False
+museo nacional de historia, is in, cvikov	museo nacional de historia, was the capital of, cvikov	True
+4-methylamphetamine, are the teeth in, sensory neuron	4-methylamphetamine, is part of, sensory neuron	False
+4-methylamphetamine, is part of, sensory neuron	4-methylamphetamine, are the teeth in, sensory neuron	True
+teriflunomide, fought in, oakwood junior school	teriflunomide, had won, oakwood junior school	True
+teriflunomide, had won, oakwood junior school	teriflunomide, fought in, oakwood junior school	False
+belchamp st paul, had been the center of, adwick le street	belchamp st paul, is in, adwick le street	False
+belchamp st paul, is in, adwick le street	belchamp st paul, had been the center of, adwick le street	True
+ranavirus, found are, primula veris	primula veris, is defined as, ranavirus	False
+primula veris, is defined as, ranavirus	ranavirus, found are, primula veris	True
+erysimum, has, sunbelt communications company	erysimum, habitually use, sunbelt communications company	True
+erysimum, habitually use, sunbelt communications company	erysimum, has, sunbelt communications company	False
+cefdinir, kill, polycystic kidney disease	cefdinir, helps reduce, polycystic kidney disease	False
+cefdinir, helps reduce, polycystic kidney disease	cefdinir, kill, polycystic kidney disease	True
+emerald swallowtail, like to eat, fresno pepper	emerald swallowtail, lives off, fresno pepper	True
+emerald swallowtail, lives off, fresno pepper	emerald swallowtail, like to eat, fresno pepper	False
+roman candle (firework), discussed, european commissioner for climate action	roman candle (firework), taught, european commissioner for climate action	True
+roman candle (firework), taught, european commissioner for climate action	roman candle (firework), discussed, european commissioner for climate action	False
+saint-pierre-quiberon, became, best bin first	saint-pierre-quiberon, has been chosen as, best bin first	True
+saint-pierre-quiberon, has been chosen as, best bin first	saint-pierre-quiberon, became, best bin first	False
+john erskine of carnock, came from, melissano	john erskine of carnock, was born in, melissano	True
+john erskine of carnock, was born in, melissano	john erskine of carnock, came from, melissano	False
+interstellar network news, fought in, avion (car)	interstellar network news, triumphed in, avion (car)	True
+interstellar network news, triumphed in, avion (car)	interstellar network news, fought in, avion (car)	False
+firewall (construction), adore as, dampf-kraft-wagen	dampf-kraft-wagen, received prayers from, firewall (construction)	True
+dampf-kraft-wagen, received prayers from, firewall (construction)	firewall (construction), adore as, dampf-kraft-wagen	False
+archipelago national park, became the capital of, taunton racecourse	archipelago national park, is in, taunton racecourse	False
+archipelago national park, is in, taunton racecourse	archipelago national park, became the capital of, taunton racecourse	True
+iowa's 6th congressional district, stays in, cornwall celtics	iowa's 6th congressional district, was part of, cornwall celtics	False
+iowa's 6th congressional district, was part of, cornwall celtics	iowa's 6th congressional district, stays in, cornwall celtics	True
+jason chervokas, fought in, selfless service	selfless service, had broken out between, jason chervokas	True
+selfless service, had broken out between, jason chervokas	jason chervokas, fought in, selfless service	False
+thornholme, was part of, sherburn-in-elmet railway station	thornholme, promoted, sherburn-in-elmet railway station	True
+thornholme, promoted, sherburn-in-elmet railway station	thornholme, was part of, sherburn-in-elmet railway station	False
+lambrugo, had become the power in, high park (electoral district)	lambrugo, had influence in, high park (electoral district)	False
+lambrugo, had influence in, high park (electoral district)	lambrugo, had become the power in, high park (electoral district)	True
+kyle legault, discussed, order of the companions of o. r. tambo	order of the companions of o. r. tambo, was pushed by, kyle legault	True
+order of the companions of o. r. tambo, was pushed by, kyle legault	kyle legault, discussed, order of the companions of o. r. tambo	False
+stryderman, can survive in, cornelly	stryderman, grows wild in, cornelly	True
+stryderman, grows wild in, cornelly	stryderman, can survive in, cornelly	False
+victor hugues, dashed into, i tried (bone thugs-n-harmony song)	victor hugues, fought in, i tried (bone thugs-n-harmony song)	False
+victor hugues, fought in, i tried (bone thugs-n-harmony song)	victor hugues, dashed into, i tried (bone thugs-n-harmony song)	True
+porvenir (chile), is an ally of, aberffrwd railway station	aberffrwd railway station, would support, porvenir (chile)	False
+aberffrwd railway station, would support, porvenir (chile)	porvenir (chile), is an ally of, aberffrwd railway station	True

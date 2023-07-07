@@ -1,0 +1,630 @@
+material, is used in, medicine	ephedrine, is widely used in, medicine	True
+ephedrine, is widely used in, medicine	material, is used in, medicine	False
+kanamycin, is useful in, infections	drug, kills, infections	True
+drug, kills, infections	kanamycin, is useful in, infections	False
+norway, shows, a piedmont	geological formation, is common to, norway	True
+geological formation, is common to, norway	norway, shows, a piedmont	False
+cadmium, is released into, the air	chemical element, is found in, the air	False
+chemical element, is found in, the air	cadmium, is released into, the air	True
+acyclovir, is the treatment for, infections	drug, kills, infections	True
+drug, kills, infections	acyclovir, is the treatment for, infections	False
+radon, is released into, the air	chemical element, is found in, the air	False
+chemical element, is found in, the air	radon, is released into, the air	True
+clothing, was made of, leather	material, is used in, clothing	False
+material, is used in, clothing	clothing, was made of, leather	True
+chemical element, is found in, water	water, is a combination of, oxygen	True
+water, is a combination of, oxygen	chemical element, is found in, water	False
+mandarin, is the language of, china	language, is officially recognized in, china	False
+language, is officially recognized in, china	mandarin, is the language of, china	True
+material, is used in, medicine	lanolin, has been used extensively in, medicine	True
+lanolin, has been used extensively in, medicine	material, is used in, medicine	False
+air, is made up of, nitrogen	chemical element, is found in, the air	False
+chemical element, is found in, the air	air, is made up of, nitrogen	True
+hormone, causes, ovulation	fsh, have been used to induce, ovulation	True
+fsh, have been used to induce, ovulation	hormone, causes, ovulation	False
+person, interprets, laws	geologists, began to study, the laws	False
+geologists, began to study, the laws	person, interprets, laws	True
+the air, tainted with, pestilence	disease, is transmitted by, air	False
+disease, is transmitted by, air	the air, tainted with, pestilence	True
+crockett, was killed at, the alamo	person, died at, the alamo	False
+person, died at, the alamo	crockett, was killed at, the alamo	True
+human interferon, can be used to fight, infections	drug, kills, infections	True
+drug, kills, infections	human interferon, can be used to fight, infections	False
+deity, was worshiped in, egypt	amon, became the god of, egypt	True
+amon, became the god of, egypt	deity, was worshiped in, egypt	False
+international organization, promotes, peace	that great commonwealth, sought to promote, peace	False
+that great commonwealth, sought to promote, peace	international organization, promotes, peace	True
+virus, is often characterized by, gingivitis	disease, is caused by, a virus	False
+disease, is caused by, a virus	virus, is often characterized by, gingivitis	True
+plant life, is used to make, beer	hops, are added to, the beer	True
+hops, are added to, the beer	plant life, is used to make, beer	False
+the air, is made up of, fifth oxygen	chemical element, is found in, the air	False
+chemical element, is found in, the air	the air, is made up of, fifth oxygen	True
+person, is a politician from, texas	general lee, had served in, texas	False
+general lee, had served in, texas	person, is a politician from, texas	True
+person, is a politician from, texas	jones, was elected president of, texas	True
+jones, was elected president of, texas	person, is a politician from, texas	False
+artist, resided in, paris	halevy, was a native of, paris	True
+halevy, was a native of, paris	artist, resided in, paris	False
+person, is associated with, communism	plato, advocates, communism	True
+plato, advocates, communism	person, is associated with, communism	False
+disease, requires, antibiotics	pyelonephritis, should be treated with, antibiotics	False
+pyelonephritis, should be treated with, antibiotics	disease, requires, antibiotics	True
+material, is used in, medicine	steroids, are widely used in, medicine	True
+steroids, are widely used in, medicine	material, is used in, medicine	False
+president nixon, announced on, television	person, appeared on, television	False
+person, appeared on, television	president nixon, announced on, television	True
+drug, kills, cancer	tamoxifen, reduced the incidence of, cancer	False
+tamoxifen, reduced the incidence of, cancer	drug, kills, cancer	True
+animal, eats, hay	cattle, are fed on, hay	True
+cattle, are fed on, hay	animal, eats, hay	False
+person, was awarded, a medal	the medal, is awarded annually to, the artist	True
+the medal, is awarded annually to, the artist	person, was awarded, a medal	False
+hormone, increases, libido	testosterone, can increase, libido	False
+testosterone, can increase, libido	hormone, increases, libido	True
+chemical element, is found in, the air	sulfur, combines with oxygen in, the air	True
+sulfur, combines with oxygen in, the air	chemical element, is found in, the air	False
+chemical element, is found in, the air	the air, must contain, free oxygen	True
+the air, must contain, free oxygen	chemical element, is found in, the air	False
+united states president, committed, troops	cleveland, also used, the troops	True
+cleveland, also used, the troops	united states president, committed, troops	False
+disease, can cause, a rash	eczema, appears as, a rash	True
+eczema, appears as, a rash	disease, can cause, a rash	False
+islam, is the religion in, malaysia	asian country, believes in, islam	False
+asian country, believes in, islam	islam, is the religion in, malaysia	True
+ruler, fought, the persians	leonidas, repulsed, the persians	True
+leonidas, repulsed, the persians	ruler, fought, the persians	False
+mohammedanism, is the creed of, india	religion, is predominant in, india	False
+religion, is predominant in, india	mohammedanism, is the creed of, india	True
+zinc, is permanent in, air	chemical element, is found in, the air	False
+chemical element, is found in, the air	zinc, is permanent in, air	True
+person, is associated with, communism	the communists, want, communism	True
+the communists, want, communism	person, is associated with, communism	False
+rats, give me, the creeps	disease, is spread by, rats	False
+disease, is spread by, rats	rats, give me, the creeps	True
+person, is a politician from, texas	george bush, was the governor of, texas	True
+george bush, was the governor of, texas	person, is a politician from, texas	False
+truman, approached, stalin	united states president, met, stalin	False
+united states president, met, stalin	truman, approached, stalin	True
+material, is used in, clothing	the clothing, should be of, linen	True
+the clothing, should be of, linen	material, is used in, clothing	False
+smetana, began to compose, the opera	person, composed, an opera	True
+person, composed, an opera	smetana, began to compose, the opera	False
+person, appeared on, television	magicians, perform on, television	True
+magicians, perform on, television	person, appeared on, television	False
+these vines, would produce, wine	plant life, is used to make, wine	True
+plant life, is used to make, wine	these vines, would produce, wine	False
+animal, eats, crops	the gentle deer, nibbled at, the crops	True
+the gentle deer, nibbled at, the crops	animal, eats, crops	False
+a policeman, will get, a medal	person, was awarded, a medal	False
+person, was awarded, a medal	a policeman, will get, a medal	True
+lyme disease, starts with, a rash	disease, can cause, a rash	False
+disease, can cause, a rash	lyme disease, starts with, a rash	True
+religion, is predominant in, india	the cult, is widespread in, india	False
+the cult, is widespread in, india	religion, is predominant in, india	True
+disease, is caused by, bacteria	trachoma, is probably caused by, bacteria	False
+trachoma, is probably caused by, bacteria	disease, is caused by, bacteria	True
+kazakhstan, is bounded on the east by, china	asian country, is a neighbor of, china	False
+asian country, is a neighbor of, china	kazakhstan, is bounded on the east by, china	True
+person, is the governor of, california	reagan, served as governor of, california	False
+reagan, served as governor of, california	person, is the governor of, california	True
+natural phenomenon, is common to, america	works, have appeared in, america	False
+works, have appeared in, america	natural phenomenon, is common to, america	True
+animal, eats, crops	the crops, are fed to, livestock	True
+the crops, are fed to, livestock	animal, eats, crops	False
+the north pole, was discovered by, peary	person, reached, the north pole	False
+person, reached, the north pole	the north pole, was discovered by, peary	True
+richards, became governor of, texas	person, is a politician from, texas	False
+person, is a politician from, texas	richards, became governor of, texas	True
+religion, is predominant in, india	the vedanta, is the philosophy of, india	False
+the vedanta, is the philosophy of, india	religion, is predominant in, india	True
+artist, resided in, paris	browne, was a student in, paris	True
+browne, was a student in, paris	artist, resided in, paris	False
+asian country, exports, rice	china, sends, more rice	True
+china, sends, more rice	asian country, exports, rice	False
+plant life, is used to make, bread	the bread, was composed of, rye	True
+the bread, was composed of, rye	plant life, is used to make, bread	False
+material, is used in, clothing	the clothing, consists mainly of, sheepskin	True
+the clothing, consists mainly of, sheepskin	material, is used in, clothing	False
+emissaries, preached, communism	person, is associated with, communism	False
+person, is associated with, communism	emissaries, preached, communism	True
+ruler, fought, the persians	julian, led against, the persians	True
+julian, led against, the persians	ruler, fought, the persians	False
+the air, gives you, rheumatism	disease, is transmitted by, air	False
+disease, is transmitted by, air	the air, gives you, rheumatism	True
+that commonwealth, sought to promote, peace	international organization, promotes, peace	True
+international organization, promotes, peace	that commonwealth, sought to promote, peace	False
+deity, was worshiped in, athens	athena, was the goddess of, athens	True
+athena, was the goddess of, athens	deity, was worshiped in, athens	False
+singers, were singing on, television	person, appeared on, television	False
+person, appeared on, television	singers, were singing on, television	True
+person, is associated with, communism	communism, was strengthened by, students	True
+communism, was strengthened by, students	person, is associated with, communism	False
+disease, decimated, europe	the black death, struck, europe	False
+the black death, struck, europe	disease, decimated, europe	True
+the pharisees, have organized, communism	person, is associated with, communism	False
+person, is associated with, communism	the pharisees, have organized, communism	True
+asian country, is a neighbor of, india	bangladesh, is surrounded by, india	True
+bangladesh, is surrounded by, india	asian country, is a neighbor of, india	False
+keynes, was the prophet of, capitalism	person, is associated with, capitalism	False
+person, is associated with, capitalism	keynes, was the prophet of, capitalism	True
+islam, entered, india	asian country, believes in, islam	True
+asian country, believes in, islam	islam, entered, india	False
+the young birds, are fed with, insects	animal, eats, insects	False
+animal, eats, insects	the young birds, are fed with, insects	True
+body of water, borders, russia	russia, expanded to, the pacific	True
+russia, expanded to, the pacific	body of water, borders, russia	False
+person, walked on, the moon	the first men, to land on, the moon	False
+the first men, to land on, the moon	person, walked on, the moon	True
+beverage, contains, alcohol	whiskey, consists chiefly of, alcohol	True
+whiskey, consists chiefly of, alcohol	beverage, contains, alcohol	False
+person, is the governor of, california	upton sinclair, ran for governor of, california	False
+upton sinclair, ran for governor of, california	person, is the governor of, california	True
+animal, eats, crops	the scale insects, do damage to, crops	False
+the scale insects, do damage to, crops	animal, eats, crops	True
+city, is packed with, tourists	colorado springs, attracts numbers of, tourists	False
+colorado springs, attracts numbers of, tourists	city, is packed with, tourists	True
+epidemic typhus, has, a rash	disease, can cause, a rash	False
+disease, can cause, a rash	epidemic typhus, has, a rash	True
+peary, had discovered, the north pole	person, reached, the north pole	False
+person, reached, the north pole	peary, had discovered, the north pole	True
+animal, eats, crops	the deer, nibbled at, the crops	True
+the deer, nibbled at, the crops	animal, eats, crops	False
+person, is associated with, capitalism	the jews, were the creators of, capitalism	True
+the jews, were the creators of, capitalism	person, is associated with, capitalism	False
+material, is used in, medicine	granules, are frequently encountered in, medicines	True
+granules, are frequently encountered in, medicines	material, is used in, medicine	False
+musician, played, the piano	paderewski, sat and played, the piano	True
+paderewski, sat and played, the piano	musician, played, the piano	False
+animal, eats, carrion	carrion, are devoured by, this feeder	True
+carrion, are devoured by, this feeder	animal, eats, carrion	False
+person, appeared on, television	castro, spoke on, television	True
+castro, spoke on, television	person, appeared on, television	False
+disease, can cause, a rash	scarlet fever, is characterized by, a rash	True
+scarlet fever, is characterized by, a rash	disease, can cause, a rash	False
+frances wright, preached, communism	person, is associated with, communism	False
+person, is associated with, communism	frances wright, preached, communism	True
+presley, first appeared on, television	person, appeared on, television	False
+person, appeared on, television	presley, first appeared on, television	True
+drug, kills, cancer	tamoxifen, has been used to treat, cancer	False
+tamoxifen, has been used to treat, cancer	drug, kills, cancer	True
+vancomycin, is the treatment for, infections	drug, kills, infections	False
+drug, kills, infections	vancomycin, is the treatment for, infections	True
+person, is associated with, communism	engels, defined, communism	True
+engels, defined, communism	person, is associated with, communism	False
+gonadotropins, are required for, ovulation	hormone, causes, ovulation	False
+hormone, causes, ovulation	gonadotropins, are required for, ovulation	True
+disease, requires, antibiotics	antibiotics, would abolish, infectious disease	True
+antibiotics, would abolish, infectious disease	disease, requires, antibiotics	False
+the leprosy, prevailed extensively in, europe	disease, decimated, europe	True
+disease, decimated, europe	the leprosy, prevailed extensively in, europe	False
+babylon, was the city of, marduk	deity, was worshiped in, babylon	False
+deity, was worshiped in, babylon	babylon, was the city of, marduk	True
+nixon, announced on, television	person, appeared on, television	False
+person, appeared on, television	nixon, announced on, television	True
+britain, is separated by, a strait	body of water, surrounds, britain	True
+body of water, surrounds, britain	britain, is separated by, a strait	False
+person, was the leader of, the soviet union	stalin, represented, the soviet union	False
+stalin, represented, the soviet union	person, was the leader of, the soviet union	True
+the crops, were destroyed by, grasshoppers	animal, eats, crops	True
+animal, eats, crops	the crops, were destroyed by, grasshoppers	False
+india, exported tons of, rice	asian country, exports, rice	False
+asian country, exports, rice	india, exported tons of, rice	True
+north american country, exports, sugar	the states, exported pounds of, sugar	True
+the states, exported pounds of, sugar	north american country, exports, sugar	False
+richards, was elected governor of, texas	person, is a politician from, texas	False
+person, is a politician from, texas	richards, was elected governor of, texas	True
+animal, eats, corn	bruin, was fond of, corn	True
+bruin, was fond of, corn	animal, eats, corn	False
+asian country, believes in, islam	saudi arabia, is the home of, islam	True
+saudi arabia, is the home of, islam	asian country, believes in, islam	False
+united states president, made peace with, britain	roosevelt, supported, britain	True
+roosevelt, supported, britain	united states president, made peace with, britain	False
+asian country, believes in, islam	islam, was brought to, india	False
+islam, was brought to, india	asian country, believes in, islam	True
+claudio monteverdi, was the composer of, opera	person, composed, an opera	False
+person, composed, an opera	claudio monteverdi, was the composer of, opera	True
+person, walked on, the moon	astronauts, had landed on, the moon	False
+astronauts, had landed on, the moon	person, walked on, the moon	True
+disease, is transferred by, mosquitoes	yellow fever, is transmitted by the bite of, a mosquito	True
+yellow fever, is transmitted by the bite of, a mosquito	disease, is transferred by, mosquitoes	False
+the constitution, was a effort of, legislators	person, drafted, the constitution	True
+person, drafted, the constitution	the constitution, was a effort of, legislators	False
+this infection, may be treated with, a resistant penicillin	drug, kills, infections	True
+drug, kills, infections	this infection, may be treated with, a resistant penicillin	False
+deity, controls, thunder	jupiter, was the god of, thunder	True
+jupiter, was the god of, thunder	deity, controls, thunder	False
+respighi, has composed, operas	person, composed, an opera	False
+person, composed, an opera	respighi, has composed, operas	True
+person, is associated with, communism	smith, introduced an element of, communism	True
+smith, introduced an element of, communism	person, is associated with, communism	False
+a coin, was issued in, rome	currency, was used in, rome	False
+currency, was used in, rome	a coin, was issued in, rome	True
+ruler, fought, the romans	the romans, were exasperated against, augustus	False
+the romans, were exasperated against, augustus	ruler, fought, the romans	True
+person, is associated with, communism	smith, attempted to establish, communism	True
+smith, attempted to establish, communism	person, is associated with, communism	False
+beer, can be made from, maize	plant life, is used to make, beer	True
+plant life, is used to make, beer	beer, can be made from, maize	False
+cheese, is imported from, france	european country, produces, cheese	False
+european country, produces, cheese	cheese, is imported from, france	True
+bruce, was the manager of, capitalism	person, is associated with, capitalism	False
+person, is associated with, capitalism	bruce, was the manager of, capitalism	True
+galileo, was imprisoned by, the church	scientist, was persecuted by, the church	False
+scientist, was persecuted by, the church	galileo, was imprisoned by, the church	True
+disease, decimated, europe	leprosy, became widespread in, europe	False
+leprosy, became widespread in, europe	disease, decimated, europe	True
+peary, carried to, the north pole	person, reached, the north pole	False
+person, reached, the north pole	peary, carried to, the north pole	True
+debussy, was born and died in, paris	artist, resided in, paris	False
+artist, resided in, paris	debussy, was born and died in, paris	True
+the only democrat, was a representative from, texas	person, is a politician from, texas	False
+person, is a politician from, texas	the only democrat, was a representative from, texas	True
+deity, was worshiped in, egypt	the sun god, ruled in, egypt	True
+the sun god, ruled in, egypt	deity, was worshiped in, egypt	False
+hemoglobin, is contained within, the blood cells	chemical, is essential for, blood cells	True
+chemical, is essential for, blood cells	hemoglobin, is contained within, the blood cells	False
+polk, negotiated with, britain	united states president, made peace with, britain	True
+united states president, made peace with, britain	polk, negotiated with, britain	False
+these lymphomas, are responsive to, chemotherapy	disease, requires, chemotherapy	True
+disease, requires, chemotherapy	these lymphomas, are responsive to, chemotherapy	False
+common alcohol, is known as, alcohol	beverage, contains, alcohol	False
+beverage, contains, alcohol	common alcohol, is known as, alcohol	True
+chemical, is essential for, blood cells	this enzyme, is found in, the blood cells	False
+this enzyme, is found in, the blood cells	chemical, is essential for, blood cells	True
+animal, eats, corn	the hog, is fed with, corn	True
+the hog, is fed with, corn	animal, eats, corn	False
+language, is officially recognized in, china	the beijing dialect, are found in the regions of, china	False
+the beijing dialect, are found in the regions of, china	language, is officially recognized in, china	True
+this brahms, had worked upon, a symphony	person, composed, a symphony	True
+person, composed, a symphony	this brahms, had worked upon, a symphony	False
+disease, is caused by, bacteria	grippe, are believed to be caused by, bacteria	False
+grippe, are believed to be caused by, bacteria	disease, is caused by, bacteria	True
+natural phenomenon, is common to, america	events, had occurred in, america	False
+events, had occurred in, america	natural phenomenon, is common to, america	True
+the chlorate, is extensively used in, medicine	material, is used in, medicine	False
+material, is used in, medicine	the chlorate, is extensively used in, medicine	True
+haydn, wrote a set of, symphonies	person, composed, a symphony	False
+person, composed, a symphony	haydn, wrote a set of, symphonies	True
+person, is associated with, capitalism	the jew, was the representative of, capitalism	True
+the jew, was the representative of, capitalism	person, is associated with, capitalism	False
+this preparation, soon became, a medicine	material, is used in, medicine	False
+material, is used in, medicine	this preparation, soon became, a medicine	True
+reagan, was elected governor of, california	person, is the governor of, california	True
+person, is the governor of, california	reagan, was elected governor of, california	False
+mulberries, are preferred by, these birds	plant life, is consumed by, birds	False
+plant life, is consumed by, birds	mulberries, are preferred by, these birds	True
+nigeria, is the exporter of, oil	african country, exports, oil	False
+african country, exports, oil	nigeria, is the exporter of, oil	True
+picasso, developed, cubism	art movement, was started by, picasso	True
+art movement, was started by, picasso	picasso, developed, cubism	False
+mandarin, is spoken in, china	language, is officially recognized in, china	True
+language, is officially recognized in, china	mandarin, is spoken in, china	False
+alcohol, is made from, sugar cane	plant life, is used to make, alcohol	False
+plant life, is used to make, alcohol	alcohol, is made from, sugar cane	True
+person, is associated with, communism	eisenhower, sponsors, communism	True
+eisenhower, sponsors, communism	person, is associated with, communism	False
+lincoln, was stricken down by, the assassin	person, assassinated, lincoln	True
+person, assassinated, lincoln	lincoln, was stricken down by, the assassin	False
+the cholera, was conveyed in, the air	disease, is transmitted by, air	True
+disease, is transmitted by, air	the cholera, was conveyed in, the air	False
+disease, decimated, europe	relapsing fever, has prevailed in, europe	False
+relapsing fever, has prevailed in, europe	disease, decimated, europe	True
+disease, is caused by, bacteria	chronic gonorrhea, means the presence of, bacteria	False
+chronic gonorrhea, means the presence of, bacteria	disease, is caused by, bacteria	True
+animal, eats, crops	mites, are pests of, crops	True
+mites, are pests of, crops	animal, eats, crops	False
+person, appeared on, television	representative bartlett, was interviewed on, television	True
+representative bartlett, was interviewed on, television	person, appeared on, television	False
+drug, kills, infections	chloramphenicol, has been used in the treatment of, infections	False
+chloramphenicol, has been used in the treatment of, infections	drug, kills, infections	True
+roosevelt, led during, the great depression	person, was president during, the great depression	True
+person, was president during, the great depression	roosevelt, led during, the great depression	False
+the crops, had been devoured by, grasshoppers	animal, eats, crops	False
+animal, eats, crops	the crops, had been devoured by, grasshoppers	True
+person, composed, an opera	rossini, had composed, the opera	True
+rossini, had composed, the opera	person, composed, an opera	False
+president johnson, announced on, television	person, appeared on, television	False
+person, appeared on, television	president johnson, announced on, television	True
+mammal, lives in, the sea	the fur seals, swim in, the sea	False
+the fur seals, swim in, the sea	mammal, lives in, the sea	True
+elements, may have reached, america	natural phenomenon, is common to, america	True
+natural phenomenon, is common to, america	elements, may have reached, america	False
+disease, is transferred by, mosquitoes	yellow fever, is carried by, mosquitoes	False
+yellow fever, is carried by, mosquitoes	disease, is transferred by, mosquitoes	True
+disease, is caused by, a virus	a sore throat, might be caused by, the virus	False
+a sore throat, might be caused by, the virus	disease, is caused by, a virus	True
+racine, would have written, hamlet	author, wrote, hamlet	True
+author, wrote, hamlet	racine, would have written, hamlet	False
+european country, exports, coal	poland, exported tons of, coal	True
+poland, exported tons of, coal	european country, exports, coal	False
+person, interprets, laws	the experimenter, must have a knowledge of, the laws	False
+the experimenter, must have a knowledge of, the laws	person, interprets, laws	True
+gutenberg, developed, the printing press	device, was invented by, gutenberg	True
+device, was invented by, gutenberg	gutenberg, developed, the printing press	False
+geological period, saw the rise of, the dinosaurs	the dinosaurs, appeared in, the triassic	False
+the dinosaurs, appeared in, the triassic	geological period, saw the rise of, the dinosaurs	True
+material, is used in, medicine	compounds, are widely used in, medicine	True
+compounds, are widely used in, medicine	material, is used in, medicine	False
+isoniazid, may be used for, infection	drug, kills, infections	True
+drug, kills, infections	isoniazid, may be used for, infection	False
+viruses, isolated from, natural colds	disease, is caused by, a virus	False
+disease, is caused by, a virus	viruses, isolated from, natural colds	True
+sweden, did not join, the european union	european country, is not part of, the european union	False
+european country, is not part of, the european union	sweden, did not join, the european union	True
+united states president, committed, troops	eisenhower, responded by sending, troops	True
+eisenhower, responded by sending, troops	united states president, committed, troops	False
+thailand, exported tons of, rice	asian country, exports, rice	False
+asian country, exports, rice	thailand, exported tons of, rice	True
+geological formation, is common to, norway	glaciers, are found in, norway	False
+glaciers, are found in, norway	geological formation, is common to, norway	True
+the incidence, is highest in, america	natural phenomenon, is common to, america	False
+natural phenomenon, is common to, america	the incidence, is highest in, america	True
+person, is associated with, capitalism	proudhon, indicts, capitalism	True
+proudhon, indicts, capitalism	person, is associated with, capitalism	False
+the north pole, was found by, ross	person, reached, the north pole	False
+person, reached, the north pole	the north pole, was found by, ross	True
+beverage, contains, alcohol	sweet cider, may have, alcohol	False
+sweet cider, may have, alcohol	beverage, contains, alcohol	True
+tasmania, is the state of, australia	state, is part of, australia	False
+state, is part of, australia	tasmania, is the state of, australia	True
+galileo, was condemned by, the church	scientist, was persecuted by, the church	True
+scientist, was persecuted by, the church	galileo, was condemned by, the church	False
+artist, resided in, paris	stravinsky, moved to, paris	True
+stravinsky, moved to, paris	artist, resided in, paris	False
+picasso, remained in, paris	artist, resided in, paris	False
+artist, resided in, paris	picasso, remained in, paris	True
+metronidazole, is the treatment for, infection	drug, kills, infections	True
+drug, kills, infections	metronidazole, is the treatment for, infection	False
+water, is a combination of, hydrogen	chemical element, is found in, water	False
+chemical element, is found in, water	water, is a combination of, hydrogen	True
+city, was bombed by, the allies	allies, made an attack upon, detroit	False
+allies, made an attack upon, detroit	city, was bombed by, the allies	True
+chemical, is essential for, blood cells	blood cells, consist of, hemoglobin	False
+blood cells, consist of, hemoglobin	chemical, is essential for, blood cells	True
+shintoism, is the religion of, japan	religion, is predominant in, japan	False
+religion, is predominant in, japan	shintoism, is the religion of, japan	True
+orpiment, is much used as, a medicine	material, is used in, medicine	False
+material, is used in, medicine	orpiment, is much used as, a medicine	True
+european country, produces, cheese	cheese, is the product of, switzerland	True
+cheese, is the product of, switzerland	european country, produces, cheese	False
+geological formation, is common to, new zealand	geysers, occur in, new zealand	False
+geysers, occur in, new zealand	geological formation, is common to, new zealand	True
+cancers, may be treated by, the following salve	drug, kills, cancer	True
+drug, kills, cancer	cancers, may be treated by, the following salve	False
+the rash, was due to, rubella	disease, can cause, a rash	False
+disease, can cause, a rash	the rash, was due to, rubella	True
+clothing, was made from, hides	material, is used in, clothing	False
+material, is used in, clothing	clothing, was made from, hides	True
+some cheese, is imported from, the netherlands	european country, produces, cheese	False
+european country, produces, cheese	some cheese, is imported from, the netherlands	True
+india, is the home of, brahmanism	religion, is predominant in, india	False
+religion, is predominant in, india	india, is the home of, brahmanism	True
+tunisians, confessed on, television	person, appeared on, television	False
+person, appeared on, television	tunisians, confessed on, television	True
+progesterone, facilitates, ovulation	hormone, causes, ovulation	True
+hormone, causes, ovulation	progesterone, facilitates, ovulation	False
+athena, was the patroness of, athens	deity, was worshiped in, athens	False
+deity, was worshiped in, athens	athena, was the patroness of, athens	True
+person, is a politician from, texas	the democrat, was a representative from, texas	True
+the democrat, was a representative from, texas	person, is a politician from, texas	False
+geological period, saw the rise of, the dinosaurs	dinosaurs, evolved during, the triassic	False
+dinosaurs, evolved during, the triassic	geological period, saw the rise of, the dinosaurs	True
+person, interprets, laws	the laws, have been approved by, the secretary	True
+the laws, have been approved by, the secretary	person, interprets, laws	False
+person, composed, an opera	donizetti, had composed, operas	True
+donizetti, had composed, operas	person, composed, an opera	False
+thailand, is the exporter of, rice	asian country, exports, rice	False
+asian country, exports, rice	thailand, is the exporter of, rice	True
+stanford, was elected governor of, california	person, is the governor of, california	False
+person, is the governor of, california	stanford, was elected governor of, california	True
+plant life, is used to make, bread	maize, may be made into, bread	False
+maize, may be made into, bread	plant life, is used to make, bread	True
+person, appeared on, television	young tunisians, confessed on, television	True
+young tunisians, confessed on, television	person, appeared on, television	False
+germany, declared and invaded, belgium	european country, declared war on, belgium	False
+european country, declared war on, belgium	germany, declared and invaded, belgium	True
+ascension day, is the day after, easter	calendar day, is the end of, easter	False
+calendar day, is the end of, easter	ascension day, is the day after, easter	True
+living thing, rebuilds, tissue	a writer, will make, a tissue	False
+a writer, will make, a tissue	living thing, rebuilds, tissue	True
+a zoster, is seen with, a rash	disease, can cause, a rash	False
+disease, can cause, a rash	a zoster, is seen with, a rash	True
+lymphoma, should be treated with, chemotherapy	disease, requires, chemotherapy	True
+disease, requires, chemotherapy	lymphoma, should be treated with, chemotherapy	False
+general taylor, was in command in, florida	person, is the governor of, florida	True
+person, is the governor of, florida	general taylor, was in command in, florida	False
+typhus fever, is bred in, the air	disease, is transmitted by, air	False
+disease, is transmitted by, air	typhus fever, is bred in, the air	True
+chemical, is essential for, blood cells	this cholinesterase, is found in, blood cells	False
+this cholinesterase, is found in, blood cells	chemical, is essential for, blood cells	True
+living thing, rebuilds, tissue	women, tend to have, tissue	False
+women, tend to have, tissue	living thing, rebuilds, tissue	True
+united states president, committed, troops	kennedy, deployed, troops	True
+kennedy, deployed, troops	united states president, committed, troops	False
+person, is associated with, capitalism	keynes, was the engineer of, capitalism	True
+keynes, was the engineer of, capitalism	person, is associated with, capitalism	False
+gide, looked towards, communism	person, is associated with, communism	True
+person, is associated with, communism	gide, looked towards, communism	False
+animal, eats, corn	corn, is fed to, cattle	True
+corn, is fed to, cattle	animal, eats, corn	False
+animal, eats, corn	corn, was fed to, hogs	True
+corn, was fed to, hogs	animal, eats, corn	False
+city, is packed with, tourists	tourists, visit, paris	False
+tourists, visit, paris	city, is packed with, tourists	True
+religion, is predominant in, india	vedanta, is the philosophy of, india	True
+vedanta, is the philosophy of, india	religion, is predominant in, india	False
+the bread, was a mixture of, rye	plant life, is used to make, bread	False
+plant life, is used to make, bread	the bread, was a mixture of, rye	True
+european country, produces, cheese	switzerland, is an exporter of, cheese	True
+switzerland, is an exporter of, cheese	european country, produces, cheese	False
+person, interprets, laws	the laws, are discussed by, representatives	False
+the laws, are discussed by, representatives	person, interprets, laws	True
+maize, was introduced from, america	north american country, exports, maize	False
+north american country, exports, maize	maize, was introduced from, america	True
+clothing, was made from, buckskin	material, is used in, clothing	False
+material, is used in, clothing	clothing, was made from, buckskin	True
+cheese, can only be made in, switzerland	european country, produces, cheese	False
+european country, produces, cheese	cheese, can only be made in, switzerland	True
+china, sent, rice	asian country, exports, rice	True
+asian country, exports, rice	china, sent, rice	False
+capitalism, produced by, the owners	person, is associated with, capitalism	False
+person, is associated with, capitalism	capitalism, produced by, the owners	True
+mononucleosis, is probably caused by, a virus	disease, is caused by, a virus	True
+disease, is caused by, a virus	mononucleosis, is probably caused by, a virus	False
+the first aeroplane, was built by, the wright brothers	vehicle, was invented by, the wright brothers	True
+vehicle, was invented by, the wright brothers	the first aeroplane, was built by, the wright brothers	False
+professional magicians, perform on, television	person, appeared on, television	False
+person, appeared on, television	professional magicians, perform on, television	True
+natural phenomenon, is common to, america	a form, is found in, america	False
+a form, is found in, america	natural phenomenon, is common to, america	True
+picasso, moved to, paris	artist, resided in, paris	False
+artist, resided in, paris	picasso, moved to, paris	True
+deity, was worshiped in, egypt	the athanasius, was seated on the throne of, egypt	True
+the athanasius, was seated on the throne of, egypt	deity, was worshiped in, egypt	False
+geological formation, is common to, new zealand	geysers, are found in, new zealand	False
+geysers, are found in, new zealand	geological formation, is common to, new zealand	True
+joan miro, was born in, barcelona	artist, lived in, barcelona	False
+artist, lived in, barcelona	joan miro, was born in, barcelona	True
+person, died at, trafalgar	nelson, was killed at the battle of, trafalgar	True
+nelson, was killed at the battle of, trafalgar	person, died at, trafalgar	False
+another officer, has flown to, the north pole	person, reached, the north pole	False
+person, reached, the north pole	another officer, has flown to, the north pole	True
+hormone, causes, ovulation	hcg, is used to stimulate, ovulation	True
+hcg, is used to stimulate, ovulation	hormone, causes, ovulation	False
+islam, is the religion of, malaysia	asian country, believes in, islam	False
+asian country, believes in, islam	islam, is the religion of, malaysia	True
+person, composed, an opera	monteverdi, was the composer of, opera	True
+monteverdi, was the composer of, opera	person, composed, an opera	False
+asian country, believes in, islam	islam, burst forth in, the iraq	True
+islam, burst forth in, the iraq	asian country, believes in, islam	False
+india, is the birthplace of, hinduism	religion, is predominant in, india	False
+religion, is predominant in, india	india, is the birthplace of, hinduism	True
+britain, possesses in, the indian ocean	body of water, surrounds, britain	True
+body of water, surrounds, britain	britain, possesses in, the indian ocean	False
+bartlett, was interviewed on, television	person, appeared on, television	False
+person, appeared on, television	bartlett, was interviewed on, television	True
+the north pole, was discovered by, ross	person, reached, the north pole	False
+person, reached, the north pole	the north pole, was discovered by, ross	True
+both medals, would go to, physicists	person, was awarded, a medal	False
+person, was awarded, a medal	both medals, would go to, physicists	True
+medals, were won by, athletes	person, was awarded, a medal	False
+person, was awarded, a medal	medals, were won by, athletes	True
+medals, were won by, competitors	person, was awarded, a medal	False
+person, was awarded, a medal	medals, were won by, competitors	True
+the heavenly artisans, prepared to make, the clothes	worker, makes, clothes	False
+worker, makes, clothes	the heavenly artisans, prepared to make, the clothes	True
+infections, may be treated with, chloramphenicol	drug, kills, infections	True
+drug, kills, infections	infections, may be treated with, chloramphenicol	False
+several antibiotics, have been used to treat, infections	drug, kills, infections	True
+drug, kills, infections	several antibiotics, have been used to treat, infections	False
+the cattle, must eat, hay	animal, eats, hay	False
+animal, eats, hay	the cattle, must eat, hay	True
+delegates, met to draft, a constitution	person, drafted, the constitution	True
+person, drafted, the constitution	delegates, met to draft, a constitution	False
+person, is associated with, communism	communism, made by, the russian successes	True
+communism, made by, the russian successes	person, is associated with, communism	False
+person, is associated with, communism	plato, demanded, communism	True
+plato, demanded, communism	person, is associated with, communism	False
+an american runner, seems to have won, a medal	person, was awarded, a medal	False
+person, was awarded, a medal	an american runner, seems to have won, a medal	True
+chemical, is essential for, blood cells	hemoglobin, is found in, blood cells	False
+hemoglobin, is found in, blood cells	chemical, is essential for, blood cells	True
+worker, makes, furniture	the furniture, was made by, carpenters	True
+the furniture, was made by, carpenters	worker, makes, furniture	False
+athene, was the goddess of, athens	deity, was worshiped in, athens	False
+deity, was worshiped in, athens	athene, was the goddess of, athens	True
+ruler, fought, the romans	pyrrhus, won over, the romans	True
+pyrrhus, won over, the romans	ruler, fought, the romans	False
+disease, decimated, europe	the black death, killed in, europe	False
+the black death, killed in, europe	disease, decimated, europe	True
+the south pole, was discovered by, amundsen	person, reached, the south pole	False
+person, reached, the south pole	the south pole, was discovered by, amundsen	True
+person, was born in, poland	copernicus, was a native of, poland	True
+copernicus, was a native of, poland	person, was born in, poland	False
+stella, was born and died at, paris	artist, resided in, paris	False
+artist, resided in, paris	stella, was born and died at, paris	True
+disease, can cause, a rash	the rash, was caused by, rubella	True
+the rash, was caused by, rubella	disease, can cause, a rash	False
+islam, entered, china	asian country, believes in, islam	True
+asian country, believes in, islam	islam, entered, china	False
+person, composed, a symphony	sibelius, has composed, symphonies	True
+sibelius, has composed, symphonies	person, composed, a symphony	False
+rumania, entered the war against, germany	european country, declared war on, germany	True
+european country, declared war on, germany	rumania, entered the war against, germany	False
+ciprofloxacin, is useful for, infections	drug, kills, infections	True
+drug, kills, infections	ciprofloxacin, is useful for, infections	False
+city, is packed with, tourists	valencia, is popular with, tourists	False
+valencia, is popular with, tourists	city, is packed with, tourists	True
+chemical, is essential for, blood cells	a blood cell, contains molecules of, hemoglobin	False
+a blood cell, contains molecules of, hemoglobin	chemical, is essential for, blood cells	True
+islam, was introduced into, yemen	asian country, believes in, islam	True
+asian country, believes in, islam	islam, was introduced into, yemen	False
+cook, had discovered, the north pole	person, reached, the north pole	False
+person, reached, the north pole	cook, had discovered, the north pole	True
+lice, can transmit, trench fever	disease, is transferred by, lice	True
+disease, is transferred by, lice	lice, can transmit, trench fever	False
+the black death, swept across, europe	disease, decimated, europe	True
+disease, decimated, europe	the black death, swept across, europe	False
+chemical, is essential for, bones	fluoride, is present in, the bones	False
+fluoride, is present in, the bones	chemical, is essential for, bones	True
+virus, is detected in, nasopharyngeal carcinoma	disease, is caused by, a virus	True
+disease, is caused by, a virus	virus, is detected in, nasopharyngeal carcinoma	False
+animal, eats, hay	an ox, came to eat, the hay	True
+an ox, came to eat, the hay	animal, eats, hay	False
+audubon, remained in, paris	artist, resided in, paris	False
+artist, resided in, paris	audubon, remained in, paris	True
+ruler, fought, the romans	pyrrhus, was beaten by, the romans	True
+pyrrhus, was beaten by, the romans	ruler, fought, the romans	False
+artist, resided in, paris	picasso, settled in, paris	True
+picasso, settled in, paris	artist, resided in, paris	False
+air, consists primarily of, nitrogen	chemical element, is found in, the air	False
+chemical element, is found in, the air	air, consists primarily of, nitrogen	True
+drug, kills, cancer	that cancer, should be treated with, iodine	False
+that cancer, should be treated with, iodine	drug, kills, cancer	True
+bubonic plague, arrived in, europe	disease, decimated, europe	True
+disease, decimated, europe	bubonic plague, arrived in, europe	False
+bombs, are masses of, lava	material, is used in, bombs	False
+material, is used in, bombs	bombs, are masses of, lava	True
+the water, is higher in, chlorine	chemical element, is found in, water	False
+chemical element, is found in, water	the water, is higher in, chlorine	True
+marduk, was the deity of, babylon	deity, was worshiped in, babylon	False
+deity, was worshiped in, babylon	marduk, was the deity of, babylon	True
+deity, controls, thunder	jove, wields, the thunder	True
+jove, wields, the thunder	deity, controls, thunder	False
+person, reached, the north pole	the north pole, was located by, ross	True
+the north pole, was located by, ross	person, reached, the north pole	False
+person, was awarded, a medal	goodyear, however obtained, the medal	False
+goodyear, however obtained, the medal	person, was awarded, a medal	True
+animal, eats, hay	horses, prefer, hay	True
+horses, prefer, hay	animal, eats, hay	False
+zinc, is permanent in, the air	chemical element, is found in, the air	False
+chemical element, is found in, the air	zinc, is permanent in, the air	True
+person, composed, a symphony	bennett, could have written, a symphony	False
+bennett, could have written, a symphony	person, composed, a symphony	True
+lincoln, issued a call for, troops	united states president, committed, troops	True
+united states president, committed, troops	lincoln, issued a call for, troops	False
+rye, is grown for, bread	plant life, is used to make, bread	False
+plant life, is used to make, bread	rye, is grown for, bread	True
+east pakistan, was surrounded by, india	asian country, is a neighbor of, india	False
+asian country, is a neighbor of, india	east pakistan, was surrounded by, india	True
+lenin, defined, communism	person, is associated with, communism	False
+person, is associated with, communism	lenin, defined, communism	True
+antibiotics, may be prescribed for, bronchitis	disease, requires, antibiotics	True
+disease, requires, antibiotics	antibiotics, may be prescribed for, bronchitis	False
+burma, exported tons of, rice	asian country, exports, rice	False
+asian country, exports, rice	burma, exported tons of, rice	True
+animal, eats, crops	cattle, fattened on, crops	True
+cattle, fattened on, crops	animal, eats, crops	False
+acyclovir, has been fighting, infections	drug, kills, infections	True
+drug, kills, infections	acyclovir, has been fighting, infections	False
+city, is packed with, politicians	washington, is overrun with, politicians	True
+washington, is overrun with, politicians	city, is packed with, politicians	False
+ernst, moved to, paris	artist, resided in, paris	False
+artist, resided in, paris	ernst, moved to, paris	True
+person, is the governor of, florida	bushnell, ruling in, florida	False
+bushnell, ruling in, florida	person, is the governor of, florida	True
+person, reached, the north pole	santa claus, dwelt at, the north pole	True
+santa claus, dwelt at, the north pole	person, reached, the north pole	False
+q fever, begins with, headache	disease, can cause, a headache	False
+disease, can cause, a headache	q fever, begins with, headache	True

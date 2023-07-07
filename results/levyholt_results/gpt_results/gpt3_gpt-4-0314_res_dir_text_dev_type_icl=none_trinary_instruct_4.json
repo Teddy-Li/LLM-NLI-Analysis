@@ -1,0 +1,630 @@
+{"premise": "medicine X, is widely used in, thing Y", "hypothesis": "medicine X, is used in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, is used in, thing Y", "hypothesis": "medicine X, is widely used in, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, is useful in, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, is useful in, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, is common to, location Y", "hypothesis": "location Y, shows, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, shows, location Y", "hypothesis": "location Y, is common to, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "chemistry X, is found in, thing Y", "hypothesis": "chemistry X, is released into, thing Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is released into, thing Y", "hypothesis": "chemistry X, is found in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, is the treatment for, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, is the treatment for, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "chemistry X, is found in, thing Y", "hypothesis": "chemistry X, is released into, thing Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is released into, thing Y", "hypothesis": "chemistry X, is found in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, is used in, thing Y", "hypothesis": "thing Y, was made of, location X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was made of, location Y", "hypothesis": "location Y, is used in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "chemistry X, is a combination of, chemistry Y", "hypothesis": "chemistry Y, is found in, chemistry X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "chemistry X, is found in, chemistry Y", "hypothesis": "chemistry Y, is a combination of, chemistry X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, is officially recognized in, location Y", "hypothesis": "thing X, is the language of, location Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is the language of, location Y", "hypothesis": "thing X, is officially recognized in, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "medicine X, has been used extensively in, thing Y", "hypothesis": "medicine X, is used in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, is used in, thing Y", "hypothesis": "medicine X, has been used extensively in, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is found in, thing Y", "hypothesis": "thing Y, is made up of, chemistry X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, is made up of, chemistry Y", "hypothesis": "chemistry Y, is found in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, have been used to induce, thing Y", "hypothesis": "thing X, causes, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, causes, thing Y", "hypothesis": "thing X, have been used to induce, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "title X, began to study, education Y", "hypothesis": "title X, interprets, education Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "title X, interprets, education Y", "hypothesis": "title X, began to study, education Y", "preds": [1.0, 1.0, 0.0, 1.0], "gold": true}
+{"premise": "thing X, is transmitted by, thing Y", "hypothesis": "thing Y, tainted with, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, tainted with, thing Y", "hypothesis": "thing Y, is transmitted by, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, died at, event Y", "hypothesis": "thing X, was killed at, event Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was killed at, event Y", "hypothesis": "thing X, died at, event Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, can be used to fight, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, can be used to fight, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [1.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "god X, became the god of, location Y", "hypothesis": "god X, was worshiped in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "god X, was worshiped in, location Y", "hypothesis": "god X, became the god of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, sought to promote, thing Y", "hypothesis": "thing X, promotes, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, promotes, thing Y", "hypothesis": "thing X, sought to promote, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "disease X, is caused by, living thing Y", "hypothesis": "living thing Y, is often characterized by, disease X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "living thing X, is often characterized by, disease Y", "hypothesis": "disease Y, is caused by, living thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "food X, are added to, food Y", "hypothesis": "food X, is used to make, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "food X, is used to make, food Y", "hypothesis": "food X, are added to, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "chemistry X, is found in, thing Y", "hypothesis": "thing Y, is made up of, chemistry X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, is made up of, chemistry Y", "hypothesis": "chemistry Y, is found in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, had served in, location Y", "hypothesis": "thing X, is a politician from, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is a politician from, location Y", "hypothesis": "thing X, had served in, location Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, was elected president of, location Y", "hypothesis": "thing X, is a politician from, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is a politician from, location Y", "hypothesis": "thing X, was elected president of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was a native of, location Y", "hypothesis": "thing X, resided in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, resided in, location Y", "hypothesis": "thing X, was a native of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, advocates, government Y", "hypothesis": "person X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, is associated with, government Y", "hypothesis": "person X, advocates, government Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, should be treated with, medicine Y", "hypothesis": "disease X, requires, medicine Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "disease X, requires, medicine Y", "hypothesis": "disease X, should be treated with, medicine Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, are widely used in, thing Y", "hypothesis": "medicine X, is used in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, is used in, thing Y", "hypothesis": "medicine X, are widely used in, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, appeared on, thing Y", "hypothesis": "person X, announced on, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, announced on, thing Y", "hypothesis": "person X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, reduced the incidence of, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, reduced the incidence of, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "livingthing X, are fed on, thing Y", "hypothesis": "livingthing X, eats, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "livingthing X, eats, thing Y", "hypothesis": "livingthing X, are fed on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, is awarded annually to, title Y", "hypothesis": "title Y, was awarded, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "title X, was awarded, thing Y", "hypothesis": "thing Y, is awarded annually to, title X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, can increase, thing Y", "hypothesis": "chemistry X, increases, thing Y", "preds": [1.0, 0.0, 0.0, 1.0], "gold": false}
+{"premise": "chemistry X, increases, thing Y", "hypothesis": "chemistry X, can increase, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "chemistry X, combines with oxygen in, thing Y", "hypothesis": "chemistry X, is found in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "chemistry X, is found in, thing Y", "hypothesis": "chemistry X, combines with oxygen in, thing Y", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, must contain, chemistry Y", "hypothesis": "chemistry Y, is found in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "chemistry X, is found in, thing Y", "hypothesis": "thing Y, must contain, chemistry X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "location X, also used, military Y", "hypothesis": "location X, committed, military Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, committed, military Y", "hypothesis": "location X, also used, military Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "disease X, appears as, disease Y", "hypothesis": "disease X, can cause, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "disease X, can cause, disease Y", "hypothesis": "disease X, appears as, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, believes in, religion Y", "hypothesis": "religion Y, is the religion in, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "religion X, is the religion in, location Y", "hypothesis": "location Y, believes in, religion X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, repulsed, thing Y", "hypothesis": "person X, fought, thing Y", "preds": [0.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "person X, fought, thing Y", "hypothesis": "person X, repulsed, thing Y", "preds": [1.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, is predominant in, location Y", "hypothesis": "thing X, is the creed of, location Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is the creed of, location Y", "hypothesis": "thing X, is predominant in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "chemistry X, is found in, thing Y", "hypothesis": "chemistry X, is permanent in, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is permanent in, thing Y", "hypothesis": "chemistry X, is found in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "government X, want, government Y", "hypothesis": "government X, is associated with, government Y", "preds": [0.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "government X, is associated with, government Y", "hypothesis": "government X, want, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is spread by, livingthing Y", "hypothesis": "livingthing Y, give me, thing X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "livingthing X, give me, thing Y", "hypothesis": "thing Y, is spread by, livingthing X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "person X, was the governor of, location Y", "hypothesis": "person X, is a politician from, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, is a politician from, location Y", "hypothesis": "person X, was the governor of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, met, person Y", "hypothesis": "thing X, approached, person Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, approached, person Y", "hypothesis": "thing X, met, person Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "thing X, should be of, thing Y", "hypothesis": "thing Y, is used in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is used in, thing Y", "hypothesis": "thing Y, should be of, thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, composed, music Y", "hypothesis": "person X, began to compose, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, began to compose, music Y", "hypothesis": "person X, composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, perform on, thing Y", "hypothesis": "thing X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, appeared on, thing Y", "hypothesis": "thing X, perform on, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is used to make, food Y", "hypothesis": "thing X, would produce, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, would produce, food Y", "hypothesis": "thing X, is used to make, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "livingthing X, nibbled at, thing Y", "hypothesis": "livingthing X, eats, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "livingthing X, eats, thing Y", "hypothesis": "livingthing X, nibbled at, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "title X, was awarded, thing Y", "hypothesis": "title X, will get, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "title X, will get, thing Y", "hypothesis": "title X, was awarded, thing Y", "preds": [1.0, 1.0, 0.0, 1.0], "gold": true}
+{"premise": "thing X, can cause, disease Y", "hypothesis": "thing X, starts with, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, starts with, disease Y", "hypothesis": "thing X, can cause, disease Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, is widespread in, location Y", "hypothesis": "thing X, is predominant in, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is predominant in, location Y", "hypothesis": "thing X, is widespread in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, is probably caused by, living thing Y", "hypothesis": "disease X, is caused by, living thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, is caused by, living thing Y", "hypothesis": "disease X, is probably caused by, living thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, is a neighbor of, location Y", "hypothesis": "location X, is bounded on the east by, location Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, is bounded on the east by, location Y", "hypothesis": "location X, is a neighbor of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, served as governor of, location Y", "hypothesis": "person X, is the governor of, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "person X, is the governor of, location Y", "hypothesis": "person X, served as governor of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, have appeared in, location Y", "hypothesis": "thing X, is common to, location Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is common to, location Y", "hypothesis": "thing X, have appeared in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, are fed to, thing Y", "hypothesis": "thing Y, eats, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, eats, thing Y", "hypothesis": "thing Y, are fed to, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, reached, thing Y", "hypothesis": "thing Y, was discovered by, thing X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, was discovered by, thing Y", "hypothesis": "thing Y, reached, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is a politician from, location Y", "hypothesis": "thing X, became governor of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, became governor of, location Y", "hypothesis": "thing X, is a politician from, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "religion X, is the philosophy of, location Y", "hypothesis": "religion X, is predominant in, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "religion X, is predominant in, location Y", "hypothesis": "religion X, is the philosophy of, location Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "person X, was a student in, location Y", "hypothesis": "person X, resided in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, resided in, location Y", "hypothesis": "person X, was a student in, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, sends, food Y", "hypothesis": "location X, exports, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, exports, food Y", "hypothesis": "location X, sends, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "food X, was composed of, living thing Y", "hypothesis": "living thing Y, is used to make, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "living thing X, is used to make, food Y", "hypothesis": "food Y, was composed of, living thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, consists mainly of, thing Y", "hypothesis": "thing Y, is used in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is used in, thing Y", "hypothesis": "thing Y, consists mainly of, thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is associated with, government Y", "hypothesis": "thing X, preached, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, preached, government Y", "hypothesis": "thing X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, led against, thing Y", "hypothesis": "thing X, fought, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, fought, thing Y", "hypothesis": "thing X, led against, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "disease X, is transmitted by, thing Y", "hypothesis": "thing Y, gives you, disease X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, gives you, disease Y", "hypothesis": "disease Y, is transmitted by, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, promotes, thing Y", "hypothesis": "thing X, sought to promote, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, sought to promote, thing Y", "hypothesis": "thing X, promotes, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "god X, was the goddess of, location Y", "hypothesis": "god X, was worshiped in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "god X, was worshiped in, location Y", "hypothesis": "god X, was the goddess of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "product X, appeared on, thing Y", "hypothesis": "product X, were singing on, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "product X, were singing on, thing Y", "hypothesis": "product X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "government X, was strengthened by, title Y", "hypothesis": "title Y, is associated with, government X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "title X, is associated with, government Y", "hypothesis": "government Y, was strengthened by, title X", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, struck, location Y", "hypothesis": "thing X, decimated, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, decimated, location Y", "hypothesis": "thing X, struck, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is associated with, government Y", "hypothesis": "thing X, have organized, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, have organized, government Y", "hypothesis": "thing X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, is surrounded by, location Y", "hypothesis": "location X, is a neighbor of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "location X, is a neighbor of, location Y", "hypothesis": "location X, is surrounded by, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, is associated with, government Y", "hypothesis": "person X, was the prophet of, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, was the prophet of, government Y", "hypothesis": "person X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, believes in, religion Y", "hypothesis": "religion Y, entered, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "religion X, entered, location Y", "hypothesis": "location Y, believes in, religion X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "livingthing X, eats, living thing Y", "hypothesis": "livingthing X, are fed with, living thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "livingthing X, are fed with, living thing Y", "hypothesis": "livingthing X, eats, living thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, expanded to, location Y", "hypothesis": "location Y, borders, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, borders, location Y", "hypothesis": "location Y, expanded to, location X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, to land on, astral body Y", "hypothesis": "thing X, walked on, astral body Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, walked on, astral body Y", "hypothesis": "thing X, to land on, astral body Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "food X, consists chiefly of, chemistry Y", "hypothesis": "food X, contains, chemistry Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "food X, contains, chemistry Y", "hypothesis": "food X, consists chiefly of, chemistry Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, ran for governor of, location Y", "hypothesis": "person X, is the governor of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, is the governor of, location Y", "hypothesis": "person X, ran for governor of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "living thing X, do damage to, thing Y", "hypothesis": "living thing X, eats, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "living thing X, eats, thing Y", "hypothesis": "living thing X, do damage to, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, attracts numbers of, thing Y", "hypothesis": "location X, is packed with, thing Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, is packed with, thing Y", "hypothesis": "location X, attracts numbers of, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, can cause, disease Y", "hypothesis": "disease X, has, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, has, disease Y", "hypothesis": "disease X, can cause, disease Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, reached, thing Y", "hypothesis": "thing X, had discovered, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, had discovered, thing Y", "hypothesis": "thing X, reached, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "livingthing X, nibbled at, thing Y", "hypothesis": "livingthing X, eats, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "livingthing X, eats, thing Y", "hypothesis": "livingthing X, nibbled at, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "people X, were the creators of, government Y", "hypothesis": "people X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "people X, is associated with, government Y", "hypothesis": "people X, were the creators of, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, are frequently encountered in, medicine Y", "hypothesis": "thing X, is used in, medicine Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is used in, medicine Y", "hypothesis": "thing X, are frequently encountered in, medicine Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "person X, sat and played, product Y", "hypothesis": "person X, played, product Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, played, product Y", "hypothesis": "person X, sat and played, product Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, are devoured by, person Y", "hypothesis": "person Y, eats, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, eats, thing Y", "hypothesis": "thing Y, are devoured by, person X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, spoke on, thing Y", "hypothesis": "thing X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, appeared on, thing Y", "hypothesis": "thing X, spoke on, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, is characterized by, disease Y", "hypothesis": "disease X, can cause, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "disease X, can cause, disease Y", "hypothesis": "disease X, is characterized by, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "art X, is associated with, government Y", "hypothesis": "art X, preached, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "art X, preached, government Y", "hypothesis": "art X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, appeared on, thing Y", "hypothesis": "thing X, first appeared on, thing Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, first appeared on, thing Y", "hypothesis": "thing X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, has been used to treat, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, has been used to treat, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, is the treatment for, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "medicine X, is the treatment for, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "person X, defined, government Y", "hypothesis": "person X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, is associated with, government Y", "hypothesis": "person X, defined, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, causes, thing Y", "hypothesis": "thing X, are required for, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, are required for, thing Y", "hypothesis": "thing X, causes, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, would abolish, thing Y", "hypothesis": "thing Y, requires, medicine X", "preds": [0.0, 0.0, 1.0, 0.0], "gold": true}
+{"premise": "thing X, requires, medicine Y", "hypothesis": "medicine Y, would abolish, thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, decimated, location Y", "hypothesis": "disease X, prevailed extensively in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, prevailed extensively in, location Y", "hypothesis": "disease X, decimated, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "god X, was worshiped in, location Y", "hypothesis": "location Y, was the city of, god X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "location X, was the city of, god Y", "hypothesis": "god Y, was worshiped in, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, appeared on, thing Y", "hypothesis": "person X, announced on, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, announced on, thing Y", "hypothesis": "person X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, surrounds, thing Y", "hypothesis": "thing Y, is separated by, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is separated by, location Y", "hypothesis": "location Y, surrounds, thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, represented, thing Y", "hypothesis": "person X, was the leader of, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, was the leader of, thing Y", "hypothesis": "person X, represented, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, eats, thing Y", "hypothesis": "thing Y, were destroyed by, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, were destroyed by, thing Y", "hypothesis": "thing Y, eats, thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, exports, food Y", "hypothesis": "location X, exported tons of, food Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, exported tons of, food Y", "hypothesis": "location X, exports, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, exported pounds of, food Y", "hypothesis": "thing X, exports, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, exports, food Y", "hypothesis": "thing X, exported pounds of, food Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, is a politician from, location Y", "hypothesis": "thing X, was elected governor of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was elected governor of, location Y", "hypothesis": "thing X, is a politician from, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was fond of, food Y", "hypothesis": "thing X, eats, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, eats, food Y", "hypothesis": "thing X, was fond of, food Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, is the home of, religion Y", "hypothesis": "location X, believes in, religion Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, believes in, religion Y", "hypothesis": "location X, is the home of, religion Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, supported, thing Y", "hypothesis": "thing X, made peace with, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, made peace with, thing Y", "hypothesis": "thing X, supported, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "religion X, was brought to, location Y", "hypothesis": "location Y, believes in, religion X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, believes in, religion Y", "hypothesis": "religion Y, was brought to, location X", "preds": [1.0, 1.0, 0.0, 1.0], "gold": true}
+{"premise": "person X, composed, music Y", "hypothesis": "person X, was the composer of, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "person X, was the composer of, music Y", "hypothesis": "person X, composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "title X, had landed on, astral body Y", "hypothesis": "title X, walked on, astral body Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "title X, walked on, astral body Y", "hypothesis": "title X, had landed on, astral body Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, is transmitted by the bite of, livingthing Y", "hypothesis": "disease X, is transferred by, livingthing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, is transferred by, livingthing Y", "hypothesis": "disease X, is transmitted by the bite of, livingthing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "title X, drafted, thing Y", "hypothesis": "thing Y, was a effort of, title X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was a effort of, title Y", "hypothesis": "title Y, drafted, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "disease Y, may be treated with, medicine X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, may be treated with, medicine Y", "hypothesis": "medicine Y, kills, disease X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, was the god of, thing Y", "hypothesis": "location X, controls, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, controls, thing Y", "hypothesis": "location X, was the god of, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, composed, music Y", "hypothesis": "thing X, has composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, has composed, music Y", "hypothesis": "thing X, composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "organization X, introduced an element of, government Y", "hypothesis": "organization X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "organization X, is associated with, government Y", "hypothesis": "organization X, introduced an element of, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was used in, location Y", "hypothesis": "thing X, was issued in, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was issued in, location Y", "hypothesis": "thing X, was used in, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, were exasperated against, person Y", "hypothesis": "person Y, fought, thing X", "preds": [0.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "person X, fought, thing Y", "hypothesis": "thing Y, were exasperated against, person X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "organization X, attempted to establish, government Y", "hypothesis": "organization X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "organization X, is associated with, government Y", "hypothesis": "organization X, attempted to establish, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "food X, is used to make, food Y", "hypothesis": "food Y, can be made from, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "food X, can be made from, food Y", "hypothesis": "food Y, is used to make, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "location X, produces, food Y", "hypothesis": "food Y, is imported from, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "food X, is imported from, location Y", "hypothesis": "location Y, produces, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is associated with, government Y", "hypothesis": "thing X, was the manager of, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was the manager of, government Y", "hypothesis": "thing X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, was persecuted by, thing Y", "hypothesis": "person X, was imprisoned by, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, was imprisoned by, thing Y", "hypothesis": "person X, was persecuted by, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, became widespread in, location Y", "hypothesis": "disease X, decimated, location Y", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, decimated, location Y", "hypothesis": "disease X, became widespread in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, reached, thing Y", "hypothesis": "thing X, carried to, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, carried to, thing Y", "hypothesis": "thing X, reached, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, resided in, location Y", "hypothesis": "person X, was born and died in, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, was born and died in, location Y", "hypothesis": "person X, resided in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is a politician from, location Y", "hypothesis": "thing X, was a representative from, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was a representative from, location Y", "hypothesis": "thing X, is a politician from, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "god X, ruled in, location Y", "hypothesis": "god X, was worshiped in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "god X, was worshiped in, location Y", "hypothesis": "god X, ruled in, location Y", "preds": [0.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "biology X, is essential for, thing Y", "hypothesis": "biology X, is contained within, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "biology X, is contained within, thing Y", "hypothesis": "biology X, is essential for, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, made peace with, thing Y", "hypothesis": "thing X, negotiated with, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, negotiated with, thing Y", "hypothesis": "thing X, made peace with, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, requires, medicine Y", "hypothesis": "disease X, are responsive to, medicine Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, are responsive to, medicine Y", "hypothesis": "disease X, requires, medicine Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, contains, chemistry Y", "hypothesis": "chemistry Y, is known as, chemistry X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is known as, chemistry Y", "hypothesis": "chemistry Y, contains, chemistry X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "biology X, is found in, thing Y", "hypothesis": "biology X, is essential for, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "biology X, is essential for, thing Y", "hypothesis": "biology X, is found in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is fed with, food Y", "hypothesis": "thing X, eats, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, eats, food Y", "hypothesis": "thing X, is fed with, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, are found in the regions of, location Y", "hypothesis": "thing X, is officially recognized in, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is officially recognized in, location Y", "hypothesis": "thing X, are found in the regions of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, composed, music Y", "hypothesis": "thing X, had worked upon, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, had worked upon, music Y", "hypothesis": "thing X, composed, music Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, are believed to be caused by, living thing Y", "hypothesis": "disease X, is caused by, living thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, is caused by, living thing Y", "hypothesis": "disease X, are believed to be caused by, living thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "thing X, had occurred in, location Y", "hypothesis": "thing X, is common to, location Y", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is common to, location Y", "hypothesis": "thing X, had occurred in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "chemistry X, is used in, thing Y", "hypothesis": "chemistry X, is extensively used in, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is extensively used in, thing Y", "hypothesis": "chemistry X, is used in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, composed, music Y", "hypothesis": "person X, wrote a set of, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "person X, wrote a set of, music Y", "hypothesis": "person X, composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "people X, was the representative of, government Y", "hypothesis": "people X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "people X, is associated with, government Y", "hypothesis": "people X, was the representative of, government Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is used in, thing Y", "hypothesis": "thing X, soon became, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, soon became, thing Y", "hypothesis": "thing X, is used in, thing Y", "preds": [1.0, 0.0, 1.0, 0.0], "gold": true}
+{"premise": "person X, is the governor of, location Y", "hypothesis": "person X, was elected governor of, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "person X, was elected governor of, location Y", "hypothesis": "person X, is the governor of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "living thing X, is consumed by, livingthing Y", "hypothesis": "living thing X, are preferred by, livingthing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "living thing X, are preferred by, livingthing Y", "hypothesis": "living thing X, is consumed by, livingthing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "location X, exports, food Y", "hypothesis": "location X, is the exporter of, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "location X, is the exporter of, food Y", "hypothesis": "location X, exports, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was started by, person Y", "hypothesis": "person Y, developed, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, developed, thing Y", "hypothesis": "thing Y, was started by, person X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, is officially recognized in, location Y", "hypothesis": "thing X, is spoken in, location Y", "preds": [0.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, is spoken in, location Y", "hypothesis": "thing X, is officially recognized in, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "living thing X, is used to make, chemistry Y", "hypothesis": "chemistry Y, is made from, living thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "chemistry X, is made from, living thing Y", "hypothesis": "living thing Y, is used to make, chemistry X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, sponsors, government Y", "hypothesis": "person X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, is associated with, government Y", "hypothesis": "person X, sponsors, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, assassinated, thing Y", "hypothesis": "thing Y, was stricken down by, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was stricken down by, thing Y", "hypothesis": "thing Y, assassinated, thing X", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, is transmitted by, thing Y", "hypothesis": "disease X, was conveyed in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, was conveyed in, thing Y", "hypothesis": "disease X, is transmitted by, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "disease X, has prevailed in, location Y", "hypothesis": "disease X, decimated, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, decimated, location Y", "hypothesis": "disease X, has prevailed in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, means the presence of, living thing Y", "hypothesis": "disease X, is caused by, living thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "disease X, is caused by, living thing Y", "hypothesis": "disease X, means the presence of, living thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "living thing X, are pests of, thing Y", "hypothesis": "living thing X, eats, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "living thing X, eats, thing Y", "hypothesis": "living thing X, are pests of, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was interviewed on, thing Y", "hypothesis": "thing X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, appeared on, thing Y", "hypothesis": "thing X, was interviewed on, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "medicine X, has been used in the treatment of, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, has been used in the treatment of, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was president during, thing Y", "hypothesis": "thing X, led during, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, led during, thing Y", "hypothesis": "thing X, was president during, thing Y", "preds": [1.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, eats, thing Y", "hypothesis": "thing Y, had been devoured by, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, had been devoured by, thing Y", "hypothesis": "thing Y, eats, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, had composed, music Y", "hypothesis": "person X, composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, composed, music Y", "hypothesis": "person X, had composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, appeared on, thing Y", "hypothesis": "thing X, announced on, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, announced on, thing Y", "hypothesis": "thing X, appeared on, thing Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, swim in, location Y", "hypothesis": "thing X, lives in, location Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, lives in, location Y", "hypothesis": "thing X, swim in, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, is common to, location Y", "hypothesis": "thing X, may have reached, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, may have reached, location Y", "hypothesis": "thing X, is common to, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, is carried by, livingthing Y", "hypothesis": "disease X, is transferred by, livingthing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "disease X, is transferred by, livingthing Y", "hypothesis": "disease X, is carried by, livingthing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "body part X, might be caused by, living thing Y", "hypothesis": "body part X, is caused by, living thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "body part X, is caused by, living thing Y", "hypothesis": "body part X, might be caused by, living thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, wrote, play Y", "hypothesis": "thing X, would have written, play Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "thing X, would have written, play Y", "hypothesis": "thing X, wrote, play Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, exported tons of, product Y", "hypothesis": "location X, exports, product Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, exports, product Y", "hypothesis": "location X, exported tons of, product Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "written work X, must have a knowledge of, education Y", "hypothesis": "written work X, interprets, education Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "written work X, interprets, education Y", "hypothesis": "written work X, must have a knowledge of, education Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was invented by, thing Y", "hypothesis": "thing Y, developed, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, developed, thing Y", "hypothesis": "thing Y, was invented by, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "living thing X, appeared in, thing Y", "hypothesis": "thing Y, saw the rise of, living thing X", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, saw the rise of, living thing Y", "hypothesis": "living thing Y, appeared in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, are widely used in, thing Y", "hypothesis": "thing X, is used in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is used in, thing Y", "hypothesis": "thing X, are widely used in, thing Y", "preds": [1.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, may be used for, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, may be used for, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is caused by, living thing Y", "hypothesis": "living thing Y, isolated from, chemistry X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "living thing X, isolated from, chemistry Y", "hypothesis": "chemistry Y, is caused by, living thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "location X, is not part of, thing Y", "hypothesis": "location X, did not join, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "location X, did not join, thing Y", "hypothesis": "location X, is not part of, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, responded by sending, military Y", "hypothesis": "person X, committed, military Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, committed, military Y", "hypothesis": "person X, responded by sending, military Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, exports, food Y", "hypothesis": "location X, exported tons of, food Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "location X, exported tons of, food Y", "hypothesis": "location X, exports, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, are found in, location Y", "hypothesis": "location X, is common to, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "location X, is common to, location Y", "hypothesis": "location X, are found in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is common to, location Y", "hypothesis": "thing X, is highest in, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is highest in, location Y", "hypothesis": "thing X, is common to, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "person X, indicts, government Y", "hypothesis": "person X, is associated with, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "person X, is associated with, government Y", "hypothesis": "person X, indicts, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, reached, thing Y", "hypothesis": "thing Y, was found by, location X", "preds": [0.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, was found by, location Y", "hypothesis": "location Y, reached, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "food X, may have, chemistry Y", "hypothesis": "food X, contains, chemistry Y", "preds": [1.0, 0.0, 0.0, 1.0], "gold": false}
+{"premise": "food X, contains, chemistry Y", "hypothesis": "food X, may have, chemistry Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, is part of, location Y", "hypothesis": "location X, is the state of, location Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, is the state of, location Y", "hypothesis": "location X, is part of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, was persecuted by, thing Y", "hypothesis": "person X, was condemned by, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, was condemned by, thing Y", "hypothesis": "person X, was persecuted by, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "person X, moved to, location Y", "hypothesis": "person X, resided in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, resided in, location Y", "hypothesis": "person X, moved to, location Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, resided in, location Y", "hypothesis": "person X, remained in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "person X, remained in, location Y", "hypothesis": "person X, resided in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, is the treatment for, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, is the treatment for, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "chemistry X, is found in, chemistry Y", "hypothesis": "chemistry Y, is a combination of, chemistry X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "chemistry X, is a combination of, chemistry Y", "hypothesis": "chemistry Y, is found in, chemistry X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, made an attack upon, location Y", "hypothesis": "location Y, was bombed by, thing X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "location X, was bombed by, thing Y", "hypothesis": "thing Y, made an attack upon, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, consist of, biology Y", "hypothesis": "biology Y, is essential for, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "biology X, is essential for, thing Y", "hypothesis": "thing Y, consist of, biology X", "preds": [0.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "religion X, is predominant in, location Y", "hypothesis": "religion X, is the religion of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "religion X, is the religion of, location Y", "hypothesis": "religion X, is predominant in, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "thing X, is used in, thing Y", "hypothesis": "thing X, is much used as, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is much used as, thing Y", "hypothesis": "thing X, is used in, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "food X, is the product of, location Y", "hypothesis": "location Y, produces, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, produces, food Y", "hypothesis": "food Y, is the product of, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "location X, occur in, location Y", "hypothesis": "location X, is common to, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "location X, is common to, location Y", "hypothesis": "location X, occur in, location Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "disease Y, may be treated by, medicine X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, may be treated by, medicine Y", "hypothesis": "medicine Y, kills, disease X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, can cause, disease Y", "hypothesis": "disease Y, was due to, disease X", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, was due to, disease Y", "hypothesis": "disease Y, can cause, disease X", "preds": [1.0, 0.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is used in, thing Y", "hypothesis": "thing Y, was made from, thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was made from, thing Y", "hypothesis": "thing Y, is used in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, produces, food Y", "hypothesis": "food Y, is imported from, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "food X, is imported from, location Y", "hypothesis": "location Y, produces, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is predominant in, location Y", "hypothesis": "location Y, is the home of, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "location X, is the home of, thing Y", "hypothesis": "thing Y, is predominant in, location X", "preds": [1.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, appeared on, thing Y", "hypothesis": "thing X, confessed on, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, confessed on, thing Y", "hypothesis": "thing X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, causes, thing Y", "hypothesis": "medicine X, facilitates, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, facilitates, thing Y", "hypothesis": "medicine X, causes, thing Y", "preds": [1.0, 1.0, 0.0, 1.0], "gold": false}
+{"premise": "god X, was worshiped in, location Y", "hypothesis": "god X, was the patroness of, location Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "god X, was the patroness of, location Y", "hypothesis": "god X, was worshiped in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was a representative from, location Y", "hypothesis": "thing X, is a politician from, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is a politician from, location Y", "hypothesis": "thing X, was a representative from, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "living thing X, evolved during, thing Y", "hypothesis": "thing Y, saw the rise of, living thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, saw the rise of, living thing Y", "hypothesis": "living thing Y, evolved during, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "education X, have been approved by, title Y", "hypothesis": "title Y, interprets, education X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "title X, interprets, education Y", "hypothesis": "education Y, have been approved by, title X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "person X, had composed, music Y", "hypothesis": "person X, composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, composed, music Y", "hypothesis": "person X, had composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "location X, exports, food Y", "hypothesis": "location X, is the exporter of, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "location X, is the exporter of, food Y", "hypothesis": "location X, exports, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "organization X, is the governor of, location Y", "hypothesis": "organization X, was elected governor of, location Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "organization X, was elected governor of, location Y", "hypothesis": "organization X, is the governor of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "food X, may be made into, food Y", "hypothesis": "food X, is used to make, food Y", "preds": [1.0, 0.0, 1.0, 1.0], "gold": false}
+{"premise": "food X, is used to make, food Y", "hypothesis": "food X, may be made into, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, confessed on, thing Y", "hypothesis": "thing X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, appeared on, thing Y", "hypothesis": "thing X, confessed on, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, declared war on, location Y", "hypothesis": "location X, declared and invaded, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, declared and invaded, location Y", "hypothesis": "location X, declared war on, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "time X, is the end of, time Y", "hypothesis": "time X, is the day after, time Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "time X, is the day after, time Y", "hypothesis": "time X, is the end of, time Y", "preds": [0.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "title X, will make, thing Y", "hypothesis": "title X, rebuilds, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "title X, rebuilds, thing Y", "hypothesis": "title X, will make, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, can cause, disease Y", "hypothesis": "disease X, is seen with, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "disease X, is seen with, disease Y", "hypothesis": "disease X, can cause, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "disease X, requires, medicine Y", "hypothesis": "disease X, should be treated with, medicine Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, should be treated with, medicine Y", "hypothesis": "disease X, requires, medicine Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "person X, is the governor of, location Y", "hypothesis": "person X, was in command in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, was in command in, location Y", "hypothesis": "person X, is the governor of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, is transmitted by, thing Y", "hypothesis": "disease X, is bred in, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "disease X, is bred in, thing Y", "hypothesis": "disease X, is transmitted by, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "biology X, is found in, thing Y", "hypothesis": "biology X, is essential for, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "biology X, is essential for, thing Y", "hypothesis": "biology X, is found in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, tend to have, thing Y", "hypothesis": "thing X, rebuilds, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, rebuilds, thing Y", "hypothesis": "thing X, tend to have, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "thing X, deployed, military Y", "hypothesis": "thing X, committed, military Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, committed, military Y", "hypothesis": "thing X, deployed, military Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "person X, was the engineer of, government Y", "hypothesis": "person X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, is associated with, government Y", "hypothesis": "person X, was the engineer of, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is associated with, government Y", "hypothesis": "thing X, looked towards, government Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, looked towards, government Y", "hypothesis": "thing X, is associated with, government Y", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "food X, is fed to, livingthing Y", "hypothesis": "livingthing Y, eats, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "livingthing X, eats, food Y", "hypothesis": "food Y, is fed to, livingthing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "food X, was fed to, thing Y", "hypothesis": "thing Y, eats, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, eats, food Y", "hypothesis": "food Y, was fed to, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, visit, location Y", "hypothesis": "location Y, is packed with, thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, is packed with, thing Y", "hypothesis": "thing Y, visit, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "religion X, is the philosophy of, location Y", "hypothesis": "religion X, is predominant in, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "religion X, is predominant in, location Y", "hypothesis": "religion X, is the philosophy of, location Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "living thing X, is used to make, food Y", "hypothesis": "food Y, was a mixture of, living thing X", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "food X, was a mixture of, living thing Y", "hypothesis": "living thing Y, is used to make, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, is an exporter of, food Y", "hypothesis": "location X, produces, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, produces, food Y", "hypothesis": "location X, is an exporter of, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "education X, are discussed by, government Y", "hypothesis": "government Y, interprets, education X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "government X, interprets, education Y", "hypothesis": "education Y, are discussed by, government X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, exports, food Y", "hypothesis": "food Y, was introduced from, location X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "food X, was introduced from, location Y", "hypothesis": "location Y, exports, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is used in, thing Y", "hypothesis": "thing Y, was made from, thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was made from, thing Y", "hypothesis": "thing Y, is used in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, produces, food Y", "hypothesis": "food Y, can only be made in, location X", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "food X, can only be made in, location Y", "hypothesis": "location Y, produces, food X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, exports, food Y", "hypothesis": "location X, sent, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, sent, food Y", "hypothesis": "location X, exports, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "title X, is associated with, government Y", "hypothesis": "government Y, produced by, title X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "government X, produced by, title Y", "hypothesis": "title Y, is associated with, government X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is caused by, living thing Y", "hypothesis": "thing X, is probably caused by, living thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is probably caused by, living thing Y", "hypothesis": "thing X, is caused by, living thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was invented by, thing Y", "hypothesis": "thing X, was built by, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was built by, thing Y", "hypothesis": "thing X, was invented by, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, appeared on, thing Y", "hypothesis": "thing X, perform on, thing Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, perform on, thing Y", "hypothesis": "thing X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is found in, location Y", "hypothesis": "thing X, is common to, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is common to, location Y", "hypothesis": "thing X, is found in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, resided in, location Y", "hypothesis": "person X, moved to, location Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, moved to, location Y", "hypothesis": "person X, resided in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, was seated on the throne of, location Y", "hypothesis": "person X, was worshiped in, location Y", "preds": [0.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "person X, was worshiped in, location Y", "hypothesis": "person X, was seated on the throne of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, are found in, location Y", "hypothesis": "location X, is common to, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "location X, is common to, location Y", "hypothesis": "location X, are found in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, lived in, location Y", "hypothesis": "person X, was born in, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, was born in, location Y", "hypothesis": "person X, lived in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was killed at the battle of, thing Y", "hypothesis": "thing X, died at, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, died at, thing Y", "hypothesis": "thing X, was killed at the battle of, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, reached, thing Y", "hypothesis": "thing X, has flown to, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, has flown to, thing Y", "hypothesis": "thing X, reached, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is used to stimulate, thing Y", "hypothesis": "thing X, causes, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, causes, thing Y", "hypothesis": "thing X, is used to stimulate, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "location X, believes in, religion Y", "hypothesis": "religion Y, is the religion of, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "religion X, is the religion of, location Y", "hypothesis": "location Y, believes in, religion X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, was the composer of, music Y", "hypothesis": "person X, composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, composed, music Y", "hypothesis": "person X, was the composer of, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "religion X, burst forth in, location Y", "hypothesis": "location Y, believes in, religion X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "location X, believes in, religion Y", "hypothesis": "religion Y, burst forth in, location X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "religion X, is predominant in, location Y", "hypothesis": "location Y, is the birthplace of, religion X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, is the birthplace of, religion Y", "hypothesis": "religion Y, is predominant in, location X", "preds": [1.0, 0.0, 1.0, 0.0], "gold": true}
+{"premise": "location X, surrounds, thing Y", "hypothesis": "thing Y, possesses in, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, possesses in, location Y", "hypothesis": "location Y, surrounds, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, appeared on, thing Y", "hypothesis": "thing X, was interviewed on, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was interviewed on, thing Y", "hypothesis": "thing X, appeared on, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, reached, thing Y", "hypothesis": "thing Y, was discovered by, location X", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was discovered by, location Y", "hypothesis": "location Y, reached, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "title X, was awarded, thing Y", "hypothesis": "thing Y, would go to, title X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, would go to, title Y", "hypothesis": "title Y, was awarded, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was awarded, thing Y", "hypothesis": "thing Y, were won by, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, were won by, thing Y", "hypothesis": "thing Y, was awarded, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was awarded, thing Y", "hypothesis": "thing X, were won by, thing Y", "preds": [0.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, were won by, thing Y", "hypothesis": "thing X, was awarded, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "title X, makes, thing Y", "hypothesis": "title X, prepared to make, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "title X, prepared to make, thing Y", "hypothesis": "title X, makes, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "disease Y, may be treated with, medicine X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, may be treated with, medicine Y", "hypothesis": "medicine Y, kills, disease X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, have been used to treat, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, have been used to treat, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "livingthing X, eats, thing Y", "hypothesis": "livingthing X, must eat, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "livingthing X, must eat, thing Y", "hypothesis": "livingthing X, eats, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "title X, drafted, thing Y", "hypothesis": "title X, met to draft, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "title X, met to draft, thing Y", "hypothesis": "title X, drafted, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "government X, made by, thing Y", "hypothesis": "thing Y, is associated with, government X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is associated with, government Y", "hypothesis": "government Y, made by, thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, demanded, government Y", "hypothesis": "person X, is associated with, government Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "person X, is associated with, government Y", "hypothesis": "person X, demanded, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was awarded, thing Y", "hypothesis": "thing X, seems to have won, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, seems to have won, thing Y", "hypothesis": "thing X, was awarded, thing Y", "preds": [1.0, 0.0, 1.0, 1.0], "gold": true}
+{"premise": "biology X, is found in, thing Y", "hypothesis": "biology X, is essential for, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "biology X, is essential for, thing Y", "hypothesis": "biology X, is found in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "product X, was made by, title Y", "hypothesis": "title Y, makes, product X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "title X, makes, product Y", "hypothesis": "product Y, was made by, title X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "god X, was worshiped in, location Y", "hypothesis": "god X, was the goddess of, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "god X, was the goddess of, location Y", "hypothesis": "god X, was worshiped in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, won over, thing Y", "hypothesis": "thing X, fought, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, fought, thing Y", "hypothesis": "thing X, won over, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, killed in, location Y", "hypothesis": "thing X, decimated, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, decimated, location Y", "hypothesis": "thing X, killed in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, reached, thing Y", "hypothesis": "thing Y, was discovered by, person X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, was discovered by, person Y", "hypothesis": "person Y, reached, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, was a native of, location Y", "hypothesis": "person X, was born in, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "person X, was born in, location Y", "hypothesis": "person X, was a native of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "person X, resided in, location Y", "hypothesis": "person X, was born and died at, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, was born and died at, location Y", "hypothesis": "person X, resided in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, was caused by, disease Y", "hypothesis": "disease Y, can cause, disease X", "preds": [1.0, 0.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, can cause, disease Y", "hypothesis": "disease Y, was caused by, disease X", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, believes in, religion Y", "hypothesis": "religion Y, entered, location X", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "religion X, entered, location Y", "hypothesis": "location Y, believes in, religion X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, has composed, music Y", "hypothesis": "person X, composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, composed, music Y", "hypothesis": "person X, has composed, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "location X, declared war on, location Y", "hypothesis": "location X, entered the war against, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, entered the war against, location Y", "hypothesis": "location X, declared war on, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, is useful for, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, is useful for, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, is popular with, thing Y", "hypothesis": "location X, is packed with, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, is packed with, thing Y", "hypothesis": "location X, is popular with, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, contains molecules of, biology Y", "hypothesis": "biology Y, is essential for, thing X", "preds": [1.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "biology X, is essential for, thing Y", "hypothesis": "thing Y, contains molecules of, biology X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, believes in, religion Y", "hypothesis": "religion Y, was introduced into, location X", "preds": [1.0, 1.0, 0.0, 1.0], "gold": true}
+{"premise": "religion X, was introduced into, location Y", "hypothesis": "location Y, believes in, religion X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, reached, thing Y", "hypothesis": "thing X, had discovered, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, had discovered, thing Y", "hypothesis": "thing X, reached, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "disease X, is transferred by, livingthing Y", "hypothesis": "livingthing Y, can transmit, disease X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "livingthing X, can transmit, disease Y", "hypothesis": "disease Y, is transferred by, livingthing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, decimated, location Y", "hypothesis": "thing X, swept across, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, swept across, location Y", "hypothesis": "thing X, decimated, location Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is present in, body part Y", "hypothesis": "chemistry X, is essential for, body part Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is essential for, body part Y", "hypothesis": "chemistry X, is present in, body part Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, is caused by, living thing Y", "hypothesis": "living thing Y, is detected in, disease X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "living thing X, is detected in, disease Y", "hypothesis": "disease Y, is caused by, living thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, came to eat, thing Y", "hypothesis": "thing X, eats, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, eats, thing Y", "hypothesis": "thing X, came to eat, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, resided in, location Y", "hypothesis": "thing X, remained in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, remained in, location Y", "hypothesis": "thing X, resided in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, was beaten by, thing Y", "hypothesis": "thing X, fought, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, fought, thing Y", "hypothesis": "thing X, was beaten by, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, settled in, location Y", "hypothesis": "person X, resided in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, resided in, location Y", "hypothesis": "person X, settled in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "chemistry X, is found in, thing Y", "hypothesis": "thing Y, consists primarily of, chemistry X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, consists primarily of, chemistry Y", "hypothesis": "chemistry Y, is found in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, should be treated with, chemistry Y", "hypothesis": "chemistry Y, kills, disease X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "chemistry X, kills, disease Y", "hypothesis": "disease Y, should be treated with, chemistry X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, decimated, location Y", "hypothesis": "thing X, arrived in, location Y", "preds": [0.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, arrived in, location Y", "hypothesis": "thing X, decimated, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, is used in, thing Y", "hypothesis": "thing Y, are masses of, thing X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, are masses of, thing Y", "hypothesis": "thing Y, is used in, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "chemistry X, is found in, chemistry Y", "hypothesis": "chemistry Y, is higher in, chemistry X", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is higher in, chemistry Y", "hypothesis": "chemistry Y, is found in, chemistry X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "god X, was worshiped in, location Y", "hypothesis": "god X, was the deity of, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "god X, was the deity of, location Y", "hypothesis": "god X, was worshiped in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "software X, wields, thing Y", "hypothesis": "software X, controls, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "software X, controls, thing Y", "hypothesis": "software X, wields, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, was located by, location Y", "hypothesis": "location Y, reached, thing X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, reached, thing Y", "hypothesis": "thing Y, was located by, location X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "thing X, however obtained, thing Y", "hypothesis": "thing X, was awarded, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, was awarded, thing Y", "hypothesis": "thing X, however obtained, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "living thing X, prefer, thing Y", "hypothesis": "living thing X, eats, thing Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "living thing X, eats, thing Y", "hypothesis": "living thing X, prefer, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is found in, thing Y", "hypothesis": "chemistry X, is permanent in, thing Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "chemistry X, is permanent in, thing Y", "hypothesis": "chemistry X, is found in, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, could have written, music Y", "hypothesis": "thing X, composed, music Y", "preds": [1.0, 0.0, 0.0, 1.0], "gold": false}
+{"premise": "thing X, composed, music Y", "hypothesis": "thing X, could have written, music Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, committed, military Y", "hypothesis": "thing X, issued a call for, military Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "thing X, issued a call for, military Y", "hypothesis": "thing X, committed, military Y", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "living thing X, is used to make, food Y", "hypothesis": "living thing X, is grown for, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "living thing X, is grown for, food Y", "hypothesis": "living thing X, is used to make, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "location X, is a neighbor of, location Y", "hypothesis": "location X, was surrounded by, location Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, was surrounded by, location Y", "hypothesis": "location X, is a neighbor of, location Y", "preds": [0.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "person X, is associated with, government Y", "hypothesis": "person X, defined, government Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "person X, defined, government Y", "hypothesis": "person X, is associated with, government Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "disease X, requires, medicine Y", "hypothesis": "medicine Y, may be prescribed for, disease X", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, may be prescribed for, disease Y", "hypothesis": "disease Y, requires, medicine X", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "location X, exports, food Y", "hypothesis": "location X, exported tons of, food Y", "preds": [1.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "location X, exported tons of, food Y", "hypothesis": "location X, exports, food Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "livingthing X, fattened on, thing Y", "hypothesis": "livingthing X, eats, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "livingthing X, eats, thing Y", "hypothesis": "livingthing X, fattened on, thing Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "medicine X, kills, disease Y", "hypothesis": "medicine X, has been fighting, disease Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "medicine X, has been fighting, disease Y", "hypothesis": "medicine X, kills, disease Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, is overrun with, title Y", "hypothesis": "thing X, is packed with, title Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, is packed with, title Y", "hypothesis": "thing X, is overrun with, title Y", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "music X, resided in, location Y", "hypothesis": "music X, moved to, location Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "music X, moved to, location Y", "hypothesis": "music X, resided in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, ruling in, location Y", "hypothesis": "thing X, is the governor of, location Y", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "thing X, is the governor of, location Y", "hypothesis": "thing X, ruling in, location Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, dwelt at, thing Y", "hypothesis": "thing X, reached, thing Y", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "thing X, reached, thing Y", "hypothesis": "thing X, dwelt at, thing Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, can cause, disease Y", "hypothesis": "thing X, begins with, disease Y", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "thing X, begins with, disease Y", "hypothesis": "thing X, can cause, disease Y", "preds": [1.0, 1.0, 0.0, 0.0], "gold": true}

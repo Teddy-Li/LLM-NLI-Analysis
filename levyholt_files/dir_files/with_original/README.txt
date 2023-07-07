@@ -1,0 +1,2 @@
+Note: the dev set file in with_original folder was initially out of order, so there has to be a dev_ordered.txt;
+the test set file was already in order, but for the case of consistency, there is a test_ordered.txt, which is the same as test.txt.

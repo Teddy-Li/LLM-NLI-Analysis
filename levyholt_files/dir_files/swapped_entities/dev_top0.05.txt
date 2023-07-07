@@ -1,0 +1,630 @@
+mdma, is used in, middle school	mdma, is widely used in, middle school	True
+mdma, is widely used in, middle school	mdma, is used in, middle school	False
+mmr vaccine, is useful in, bovine spongiform encephalopathy	mmr vaccine, kills, bovine spongiform encephalopathy	True
+mmr vaccine, kills, bovine spongiform encephalopathy	mmr vaccine, is useful in, bovine spongiform encephalopathy	False
+turnberry (golf course), shows, sahel	sahel, is common to, turnberry (golf course)	True
+sahel, is common to, turnberry (golf course)	turnberry (golf course), shows, sahel	False
+ddt, is released into, mohammad-bagher ghalibaf	ddt, is found in, mohammad-bagher ghalibaf	False
+ddt, is found in, mohammad-bagher ghalibaf	ddt, is released into, mohammad-bagher ghalibaf	True
+psychoactive drug, is the treatment for, chronic myelogenous leukemia	psychoactive drug, kills, chronic myelogenous leukemia	True
+psychoactive drug, kills, chronic myelogenous leukemia	psychoactive drug, is the treatment for, chronic myelogenous leukemia	False
+ddt, is released into, 2010 icc world twenty20	ddt, is found in, 2010 icc world twenty20	False
+ddt, is found in, 2010 icc world twenty20	ddt, is released into, 2010 icc world twenty20	True
+ethics commission, was made of, spanish florida	spanish florida, is used in, ethics commission	False
+spanish florida, is used in, ethics commission	ethics commission, was made of, spanish florida	True
+docosahexaenoic acid, is found in, ddt	ddt, is a combination of, docosahexaenoic acid	True
+ddt, is a combination of, docosahexaenoic acid	docosahexaenoic acid, is found in, ddt	False
+edward island (lake superior), is the language of, chechnya	edward island (lake superior), is officially recognized in, chechnya	False
+edward island (lake superior), is officially recognized in, chechnya	edward island (lake superior), is the language of, chechnya	True
+oseltamivir, is used in, treasury select committee	oseltamivir, has been used extensively in, treasury select committee	True
+oseltamivir, has been used extensively in, treasury select committee	oseltamivir, is used in, treasury select committee	False
+jama'at-ud-da'wah, is made up of, titanium isopropoxide	titanium isopropoxide, is found in, jama'at-ud-da'wah	False
+titanium isopropoxide, is found in, jama'at-ud-da'wah	jama'at-ud-da'wah, is made up of, titanium isopropoxide	True
+triple crown (rugby union), causes, anita roy	triple crown (rugby union), have been used to induce, anita roy	True
+triple crown (rugby union), have been used to induce, anita roy	triple crown (rugby union), causes, anita roy	False
+foreign minister, interprets, master of mathematics	foreign minister, began to study, master of mathematics	False
+foreign minister, began to study, master of mathematics	foreign minister, interprets, master of mathematics	True
+hwang woo-suk, tainted with, jeremy hanson	jeremy hanson, is transmitted by, hwang woo-suk	False
+jeremy hanson, is transmitted by, hwang woo-suk	hwang woo-suk, tainted with, jeremy hanson	True
+angola three, was killed at, 1996 summer olympics	angola three, died at, 1996 summer olympics	False
+angola three, died at, 1996 summer olympics	angola three, was killed at, 1996 summer olympics	True
+rosiglitazone, can be used to fight, posttraumatic stress disorder	rosiglitazone, kills, posttraumatic stress disorder	True
+rosiglitazone, kills, posttraumatic stress disorder	rosiglitazone, can be used to fight, posttraumatic stress disorder	False
+circe, was worshiped in, sunset boulevard	circe, became the god of, sunset boulevard	True
+circe, became the god of, sunset boulevard	circe, was worshiped in, sunset boulevard	False
+mass (liturgy), promotes, odysseus	mass (liturgy), sought to promote, odysseus	False
+mass (liturgy), sought to promote, odysseus	mass (liturgy), promotes, odysseus	True
+doberman pinscher, is often characterized by, human papillomavirus	human papillomavirus, is caused by, doberman pinscher	False
+human papillomavirus, is caused by, doberman pinscher	doberman pinscher, is often characterized by, human papillomavirus	True
+bbc radio wales, is used to make, nabemono	bbc radio wales, are added to, nabemono	True
+bbc radio wales, are added to, nabemono	bbc radio wales, is used to make, nabemono	False
+finn hudson, is made up of, butylated hydroxyanisole	butylated hydroxyanisole, is found in, finn hudson	False
+butylated hydroxyanisole, is found in, finn hudson	finn hudson, is made up of, butylated hydroxyanisole	True
+nuclear weapon, is a politician from, hong kong	nuclear weapon, had served in, hong kong	False
+nuclear weapon, had served in, hong kong	nuclear weapon, is a politician from, hong kong	True
+jimmy anderson, is a politician from, virginia	jimmy anderson, was elected president of, virginia	True
+jimmy anderson, was elected president of, virginia	jimmy anderson, is a politician from, virginia	False
+pakistan tehreek-e-insaf, resided in, cumbria	pakistan tehreek-e-insaf, was a native of, cumbria	True
+pakistan tehreek-e-insaf, was a native of, cumbria	pakistan tehreek-e-insaf, resided in, cumbria	False
+nicole scherzinger, is associated with, national assembly for wales	nicole scherzinger, advocates, national assembly for wales	True
+nicole scherzinger, advocates, national assembly for wales	nicole scherzinger, is associated with, national assembly for wales	False
+irritable bowel syndrome, requires, orlistat	irritable bowel syndrome, should be treated with, orlistat	False
+irritable bowel syndrome, should be treated with, orlistat	irritable bowel syndrome, requires, orlistat	True
+tenofovir/emtricitabine, is used in, 2010 spanish grand prix	tenofovir/emtricitabine, are widely used in, 2010 spanish grand prix	True
+tenofovir/emtricitabine, are widely used in, 2010 spanish grand prix	tenofovir/emtricitabine, is used in, 2010 spanish grand prix	False
+michael pascoe, announced on, anti corruption commission bangladesh	michael pascoe, appeared on, anti corruption commission bangladesh	False
+michael pascoe, appeared on, anti corruption commission bangladesh	michael pascoe, announced on, anti corruption commission bangladesh	True
+oseltamivir, kills, aids	oseltamivir, reduced the incidence of, aids	False
+oseltamivir, reduced the incidence of, aids	oseltamivir, kills, aids	True
+ulmus 'fiorente', eats, old firm	ulmus 'fiorente', are fed on, old firm	True
+ulmus 'fiorente', are fed on, old firm	ulmus 'fiorente', eats, old firm	False
+order of nova scotia, was awarded, suncorp-metway	suncorp-metway, is awarded annually to, order of nova scotia	True
+suncorp-metway, is awarded annually to, order of nova scotia	order of nova scotia, was awarded, suncorp-metway	False
+titanium isopropoxide, increases, jean-claude van damme	titanium isopropoxide, can increase, jean-claude van damme	False
+titanium isopropoxide, can increase, jean-claude van damme	titanium isopropoxide, increases, jean-claude van damme	True
+docosahexaenoic acid, is found in, tariq al-hashimi	docosahexaenoic acid, combines with oxygen in, tariq al-hashimi	True
+docosahexaenoic acid, combines with oxygen in, tariq al-hashimi	docosahexaenoic acid, is found in, tariq al-hashimi	False
+agent orange, is found in, dan harris	dan harris, must contain, agent orange	True
+dan harris, must contain, agent orange	agent orange, is found in, dan harris	False
+nile, committed, israel defense forces	nile, also used, israel defense forces	True
+nile, also used, israel defense forces	nile, committed, israel defense forces	False
+chronic myelogenous leukemia, can cause, crohn's disease	chronic myelogenous leukemia, appears as, crohn's disease	True
+chronic myelogenous leukemia, appears as, crohn's disease	chronic myelogenous leukemia, can cause, crohn's disease	False
+anglicanism, is the religion in, world golf hall of fame	world golf hall of fame, believes in, anglicanism	False
+world golf hall of fame, believes in, anglicanism	anglicanism, is the religion in, world golf hall of fame	True
+joss whedon, fought, joe smith	joss whedon, repulsed, joe smith	True
+joss whedon, repulsed, joe smith	joss whedon, fought, joe smith	False
+australian rules football, is the creed of, rajasthan	australian rules football, is predominant in, rajasthan	False
+australian rules football, is predominant in, rajasthan	australian rules football, is the creed of, rajasthan	True
+titanium isopropoxide, is permanent in, foundation (engineering)	titanium isopropoxide, is found in, foundation (engineering)	False
+titanium isopropoxide, is found in, foundation (engineering)	titanium isopropoxide, is permanent in, foundation (engineering)	True
+roman senate, is associated with, scottish conservative party	roman senate, want, scottish conservative party	True
+roman senate, want, scottish conservative party	roman senate, is associated with, scottish conservative party	False
+pseudomonas, give me, rafael cabrera-bello	rafael cabrera-bello, is spread by, pseudomonas	False
+rafael cabrera-bello, is spread by, pseudomonas	pseudomonas, give me, rafael cabrera-bello	True
+jerry yan, is a politician from, vancouver	jerry yan, was the governor of, vancouver	True
+jerry yan, was the governor of, vancouver	jerry yan, is a politician from, vancouver	False
+rettig report, approached, lael brainard	rettig report, met, lael brainard	False
+rettig report, met, lael brainard	rettig report, approached, lael brainard	True
+kurram agency, is used in, japanese red army	japanese red army, should be of, kurram agency	True
+japanese red army, should be of, kurram agency	kurram agency, is used in, japanese red army	False
+wendi deng, began to compose, duchess (song)	wendi deng, composed, duchess (song)	True
+wendi deng, composed, duchess (song)	wendi deng, began to compose, duchess (song)	False
+united states house committee on homeland security, appeared on, nigel twiston-davies	united states house committee on homeland security, perform on, nigel twiston-davies	True
+united states house committee on homeland security, perform on, nigel twiston-davies	united states house committee on homeland security, appeared on, nigel twiston-davies	False
+sadrist movement, would produce, bloody mary (cocktail)	sadrist movement, is used to make, bloody mary (cocktail)	True
+sadrist movement, is used to make, bloody mary (cocktail)	sadrist movement, would produce, bloody mary (cocktail)	False
+chow chow, eats, primary election	chow chow, nibbled at, primary election	True
+chow chow, nibbled at, primary election	chow chow, eats, primary election	False
+secretary of state for commonwealth relations, will get, kyle	kyle, was awarded, secretary of state for commonwealth relations	False
+kyle, was awarded, secretary of state for commonwealth relations	secretary of state for commonwealth relations, will get, kyle	True
+ministry of information (united kingdom), starts with, ebola	ministry of information (united kingdom), can cause, ebola	False
+ministry of information (united kingdom), can cause, ebola	ministry of information (united kingdom), starts with, ebola	True
+roberto bautista-agut, is predominant in, mount olympus	roberto bautista-agut, is widespread in, mount olympus	False
+roberto bautista-agut, is widespread in, mount olympus	roberto bautista-agut, is predominant in, mount olympus	True
+posttraumatic stress disorder, is caused by, lake sturgeon	posttraumatic stress disorder, is probably caused by, lake sturgeon	False
+posttraumatic stress disorder, is probably caused by, lake sturgeon	posttraumatic stress disorder, is caused by, lake sturgeon	True
+south texas, is bounded on the east by, punjab region	south texas, is a neighbor of, punjab region	False
+south texas, is a neighbor of, punjab region	south texas, is bounded on the east by, punjab region	True
+zhou xiaochuan, is the governor of, kidderminster	zhou xiaochuan, served as governor of, kidderminster	False
+zhou xiaochuan, served as governor of, kidderminster	zhou xiaochuan, is the governor of, kidderminster	True
+joint intelligence committee (united kingdom), is common to, bayonne	joint intelligence committee (united kingdom), have appeared in, bayonne	False
+joint intelligence committee (united kingdom), have appeared in, bayonne	joint intelligence committee (united kingdom), is common to, bayonne	True
+pharmaceuticals in india, eats, pa pitt	pa pitt, are fed to, pharmaceuticals in india	True
+pa pitt, are fed to, pharmaceuticals in india	pharmaceuticals in india, eats, pa pitt	False
+deirdre barlow, was discovered by, alinghi (horse)	alinghi (horse), reached, deirdre barlow	False
+alinghi (horse), reached, deirdre barlow	deirdre barlow, was discovered by, alinghi (horse)	True
+british african-caribbean community, became governor of, sloviansk	british african-caribbean community, is a politician from, sloviansk	False
+british african-caribbean community, is a politician from, sloviansk	british african-caribbean community, became governor of, sloviansk	True
+anglicanism, is predominant in, manchuria	anglicanism, is the philosophy of, manchuria	False
+anglicanism, is the philosophy of, manchuria	anglicanism, is predominant in, manchuria	True
+robert warren miller, resided in, hama	robert warren miller, was a student in, hama	True
+robert warren miller, was a student in, hama	robert warren miller, resided in, hama	False
+north adelaide, exports, san pellegrino	north adelaide, sends, san pellegrino	True
+north adelaide, sends, san pellegrino	north adelaide, exports, san pellegrino	False
+homo habilis, is used to make, bloody mary (cocktail)	bloody mary (cocktail), was composed of, homo habilis	True
+bloody mary (cocktail), was composed of, homo habilis	homo habilis, is used to make, bloody mary (cocktail)	False
+wafa, is used in, bob diamond (comics)	bob diamond (comics), consists mainly of, wafa	True
+bob diamond (comics), consists mainly of, wafa	wafa, is used in, bob diamond (comics)	False
+adam silver, preached, oregon state senate	adam silver, is associated with, oregon state senate	False
+adam silver, is associated with, oregon state senate	adam silver, preached, oregon state senate	True
+nikolai rimsky-korsakov, fought, hong kong basic law	nikolai rimsky-korsakov, led against, hong kong basic law	True
+nikolai rimsky-korsakov, led against, hong kong basic law	nikolai rimsky-korsakov, fought, hong kong basic law	False
+mir-hossein mousavi, gives you, human papillomavirus	human papillomavirus, is transmitted by, mir-hossein mousavi	False
+human papillomavirus, is transmitted by, mir-hossein mousavi	mir-hossein mousavi, gives you, human papillomavirus	True
+international, sought to promote, country music	international, promotes, country music	True
+international, promotes, country music	international, sought to promote, country music	False
+allah, was worshiped in, england	allah, was the goddess of, england	True
+allah, was the goddess of, england	allah, was worshiped in, england	False
+director of national intelligence, were singing on, ngozi okonjo-iweala	director of national intelligence, appeared on, ngozi okonjo-iweala	False
+director of national intelligence, appeared on, ngozi okonjo-iweala	director of national intelligence, were singing on, ngozi okonjo-iweala	True
+director of national intelligence, is associated with, christian democracy	christian democracy, was strengthened by, director of national intelligence	True
+christian democracy, was strengthened by, director of national intelligence	director of national intelligence, is associated with, christian democracy	False
+american depositary receipt, decimated, hounslow	american depositary receipt, struck, hounslow	False
+american depositary receipt, struck, hounslow	american depositary receipt, decimated, hounslow	True
+claret jug (golf trophy), have organized, scottish national party	claret jug (golf trophy), is associated with, scottish national party	False
+claret jug (golf trophy), is associated with, scottish national party	claret jug (golf trophy), have organized, scottish national party	True
+nagasaki, is a neighbor of, camberwell	nagasaki, is surrounded by, camberwell	True
+nagasaki, is surrounded by, camberwell	nagasaki, is a neighbor of, camberwell	False
+rob lee, was the prophet of, national league for democracy	rob lee, is associated with, national league for democracy	False
+rob lee, is associated with, national league for democracy	rob lee, was the prophet of, national league for democracy	True
+mormon, entered, harley street	harley street, believes in, mormon	True
+harley street, believes in, mormon	mormon, entered, harley street	False
+iris (plant), are fed with, pomeranian (dog)	iris (plant), eats, pomeranian (dog)	False
+iris (plant), eats, pomeranian (dog)	iris (plant), are fed with, pomeranian (dog)	True
+district of maine, borders, detroit	detroit, expanded to, district of maine	True
+detroit, expanded to, district of maine	district of maine, borders, detroit	False
+wichita mid-continent airport, walked on, saturn	wichita mid-continent airport, to land on, saturn	False
+wichita mid-continent airport, to land on, saturn	wichita mid-continent airport, walked on, saturn	True
+egg roll, contains, titanium isopropoxide	egg roll, consists chiefly of, titanium isopropoxide	True
+egg roll, consists chiefly of, titanium isopropoxide	egg roll, contains, titanium isopropoxide	False
+tsvetana pironkova, is the governor of, czechoslovakia	tsvetana pironkova, ran for governor of, czechoslovakia	False
+tsvetana pironkova, ran for governor of, czechoslovakia	tsvetana pironkova, is the governor of, czechoslovakia	True
+king charles spaniel, eats, cultural heritage	king charles spaniel, do damage to, cultural heritage	False
+king charles spaniel, do damage to, cultural heritage	king charles spaniel, eats, cultural heritage	True
+queanbeyan, is packed with, afro-cuban	queanbeyan, attracts numbers of, afro-cuban	False
+queanbeyan, attracts numbers of, afro-cuban	queanbeyan, is packed with, afro-cuban	True
+human papillomavirus, has, alzheimer's disease	human papillomavirus, can cause, alzheimer's disease	False
+human papillomavirus, can cause, alzheimer's disease	human papillomavirus, has, alzheimer's disease	True
+supreme court, had discovered, young british artists	supreme court, reached, young british artists	False
+supreme court, reached, young british artists	supreme court, had discovered, young british artists	True
+turkey (bird), eats, china at the 2008 summer olympics	turkey (bird), nibbled at, china at the 2008 summer olympics	True
+turkey (bird), nibbled at, china at the 2008 summer olympics	turkey (bird), eats, china at the 2008 summer olympics	False
+berber people, is associated with, spanish socialist workers' party	berber people, were the creators of, spanish socialist workers' party	True
+berber people, were the creators of, spanish socialist workers' party	berber people, is associated with, spanish socialist workers' party	False
+michael o'hanlon, is used in, botulinum toxin	michael o'hanlon, are frequently encountered in, botulinum toxin	True
+michael o'hanlon, are frequently encountered in, botulinum toxin	michael o'hanlon, is used in, botulinum toxin	False
+emile heskey, played, solar dynamics observatory	emile heskey, sat and played, solar dynamics observatory	True
+emile heskey, sat and played, solar dynamics observatory	emile heskey, played, solar dynamics observatory	False
+kim zolciak, eats, academy award for best picture	academy award for best picture, are devoured by, kim zolciak	True
+academy award for best picture, are devoured by, kim zolciak	kim zolciak, eats, academy award for best picture	False
+charles, appeared on, force (star wars)	charles, spoke on, force (star wars)	True
+charles, spoke on, force (star wars)	charles, appeared on, force (star wars)	False
+ebola, can cause, alzheimer's disease	ebola, is characterized by, alzheimer's disease	True
+ebola, is characterized by, alzheimer's disease	ebola, can cause, alzheimer's disease	False
+andrew haldane, preached, likud	andrew haldane, is associated with, likud	False
+andrew haldane, is associated with, likud	andrew haldane, preached, likud	True
+austria-hungary, first appeared on, irn-bru	austria-hungary, appeared on, irn-bru	False
+austria-hungary, appeared on, irn-bru	austria-hungary, first appeared on, irn-bru	True
+pyrimethamine, kills, crohn's disease	pyrimethamine, has been used to treat, crohn's disease	False
+pyrimethamine, has been used to treat, crohn's disease	pyrimethamine, kills, crohn's disease	True
+botulinum toxin, is the treatment for, amyotrophic lateral sclerosis	botulinum toxin, kills, amyotrophic lateral sclerosis	False
+botulinum toxin, kills, amyotrophic lateral sclerosis	botulinum toxin, is the treatment for, amyotrophic lateral sclerosis	True
+howard hawks, is associated with, british national party	howard hawks, defined, british national party	True
+howard hawks, defined, british national party	howard hawks, is associated with, british national party	False
+national naval medical center, are required for, internet service provider	national naval medical center, causes, internet service provider	False
+national naval medical center, causes, internet service provider	national naval medical center, are required for, internet service provider	True
+amyotrophic lateral sclerosis, requires, ranibizumab	ranibizumab, would abolish, amyotrophic lateral sclerosis	True
+ranibizumab, would abolish, amyotrophic lateral sclerosis	amyotrophic lateral sclerosis, requires, ranibizumab	False
+aids, prevailed extensively in, bengal	aids, decimated, bengal	True
+aids, decimated, bengal	aids, prevailed extensively in, bengal	False
+jilin, was the city of, rama	rama, was worshiped in, jilin	False
+rama, was worshiped in, jilin	jilin, was the city of, rama	True
+hamdi adus isaac, announced on, blue shield (comics)	hamdi adus isaac, appeared on, blue shield (comics)	False
+hamdi adus isaac, appeared on, blue shield (comics)	hamdi adus isaac, announced on, blue shield (comics)	True
+nations of nineteen eighty-four, is separated by, manchuria	manchuria, surrounds, nations of nineteen eighty-four	True
+manchuria, surrounds, nations of nineteen eighty-four	nations of nineteen eighty-four, is separated by, manchuria	False
+jonas brothers, was the leader of, kcbs-tv	jonas brothers, represented, kcbs-tv	False
+jonas brothers, represented, kcbs-tv	jonas brothers, was the leader of, kcbs-tv	True
+jake, were destroyed by, kray twins	kray twins, eats, jake	True
+kray twins, eats, jake	jake, were destroyed by, kray twins	False
+iraq, exported tons of, stella artois	iraq, exports, stella artois	False
+iraq, exports, stella artois	iraq, exported tons of, stella artois	True
+jean-bertrand aristide, exports, chianti	jean-bertrand aristide, exported pounds of, chianti	True
+jean-bertrand aristide, exported pounds of, chianti	jean-bertrand aristide, exports, chianti	False
+united states board on geographic names, was elected governor of, alsace	united states board on geographic names, is a politician from, alsace	False
+united states board on geographic names, is a politician from, alsace	united states board on geographic names, was elected governor of, alsace	True
+paul harris (cricketer), eats, bloody mary (cocktail)	paul harris (cricketer), was fond of, bloody mary (cocktail)	True
+paul harris (cricketer), was fond of, bloody mary (cocktail)	paul harris (cricketer), eats, bloody mary (cocktail)	False
+fort benning, believes in, tibetan buddhism	fort benning, is the home of, tibetan buddhism	True
+fort benning, is the home of, tibetan buddhism	fort benning, believes in, tibetan buddhism	False
+stephen, made peace with, wyndham championship	stephen, supported, wyndham championship	True
+stephen, supported, wyndham championship	stephen, made peace with, wyndham championship	False
+dominica, believes in, anglicanism	anglicanism, was brought to, dominica	False
+anglicanism, was brought to, dominica	dominica, believes in, anglicanism	True
+stonewall jackson, was the composer of, lucy	stonewall jackson, composed, lucy	False
+stonewall jackson, composed, lucy	stonewall jackson, was the composer of, lucy	True
+disc jockey, walked on, europa (moon)	disc jockey, had landed on, europa (moon)	False
+disc jockey, had landed on, europa (moon)	disc jockey, walked on, europa (moon)	True
+west nile virus, is transferred by, alzheimer's disease	alzheimer's disease, is transmitted by the bite of, west nile virus	True
+alzheimer's disease, is transmitted by the bite of, west nile virus	west nile virus, is transferred by, alzheimer's disease	False
+randa abdel-fattah, was a effort of, attorney general in brazil	attorney general in brazil, drafted, randa abdel-fattah	True
+attorney general in brazil, drafted, randa abdel-fattah	randa abdel-fattah, was a effort of, attorney general in brazil	False
+hodgkin's lymphoma, may be treated with, mdma	mdma, kills, hodgkin's lymphoma	True
+mdma, kills, hodgkin's lymphoma	hodgkin's lymphoma, may be treated with, mdma	False
+bolton, controls, fred flintstone	bolton, was the god of, fred flintstone	True
+bolton, was the god of, fred flintstone	bolton, controls, fred flintstone	False
+capital market, has composed, adia	capital market, composed, adia	False
+capital market, composed, adia	capital market, has composed, adia	True
+george washington university, is associated with, bharatiya janata party	george washington university, introduced an element of, bharatiya janata party	True
+george washington university, introduced an element of, bharatiya janata party	george washington university, is associated with, bharatiya janata party	False
+najat vallaud-belkacem, was issued in, leicester square	najat vallaud-belkacem, was used in, leicester square	False
+najat vallaud-belkacem, was used in, leicester square	najat vallaud-belkacem, was issued in, leicester square	True
+craig bellamy, fought, chung mong-joon	chung mong-joon, were exasperated against, craig bellamy	False
+chung mong-joon, were exasperated against, craig bellamy	craig bellamy, fought, chung mong-joon	True
+warner music group, is associated with, spanish socialist workers' party	warner music group, attempted to establish, spanish socialist workers' party	True
+warner music group, attempted to establish, spanish socialist workers' party	warner music group, is associated with, spanish socialist workers' party	False
+cadbury creme egg, can be made from, splenda	splenda, is used to make, cadbury creme egg	True
+splenda, is used to make, cadbury creme egg	cadbury creme egg, can be made from, splenda	False
+bay laurel, is imported from, andorra	andorra, produces, bay laurel	False
+andorra, produces, bay laurel	bay laurel, is imported from, andorra	True
+kurdish christians, was the manager of, likud	kurdish christians, is associated with, likud	False
+kurdish christians, is associated with, likud	kurdish christians, was the manager of, likud	True
+george martin, was imprisoned by, illinois circuit court of cook county	george martin, was persecuted by, illinois circuit court of cook county	False
+george martin, was persecuted by, illinois circuit court of cook county	george martin, was imprisoned by, illinois circuit court of cook county	True
+chronic myelogenous leukemia, decimated, isle of anglesey	chronic myelogenous leukemia, became widespread in, isle of anglesey	False
+chronic myelogenous leukemia, became widespread in, isle of anglesey	chronic myelogenous leukemia, decimated, isle of anglesey	True
+jim hamilton, carried to, mediterranean revival architecture	jim hamilton, reached, mediterranean revival architecture	False
+jim hamilton, reached, mediterranean revival architecture	jim hamilton, carried to, mediterranean revival architecture	True
+kevin thomson, was born and died in, muirfield village	kevin thomson, resided in, muirfield village	False
+kevin thomson, resided in, muirfield village	kevin thomson, was born and died in, muirfield village	True
+frodo baggins, was a representative from, nagasaki	frodo baggins, is a politician from, nagasaki	False
+frodo baggins, is a politician from, nagasaki	frodo baggins, was a representative from, nagasaki	True
+circe, was worshiped in, dalian	circe, ruled in, dalian	True
+circe, ruled in, dalian	circe, was worshiped in, dalian	False
+brenda, is contained within, kfc twenty20 big bash	brenda, is essential for, kfc twenty20 big bash	True
+brenda, is essential for, kfc twenty20 big bash	brenda, is contained within, kfc twenty20 big bash	False
+the co-operative bank, negotiated with, urban planning	the co-operative bank, made peace with, urban planning	True
+the co-operative bank, made peace with, urban planning	the co-operative bank, negotiated with, urban planning	False
+alzheimer's disease, are responsive to, botulinum toxin	alzheimer's disease, requires, botulinum toxin	True
+alzheimer's disease, requires, botulinum toxin	alzheimer's disease, are responsive to, botulinum toxin	False
+titanium isopropoxide, is known as, butylated hydroxyanisole	butylated hydroxyanisole, contains, titanium isopropoxide	False
+butylated hydroxyanisole, contains, titanium isopropoxide	titanium isopropoxide, is known as, butylated hydroxyanisole	True
+brenda, is essential for, test match special	brenda, is found in, test match special	False
+brenda, is found in, test match special	brenda, is essential for, test match special	True
+schering-plough, eats, sauvignon blanc	schering-plough, is fed with, sauvignon blanc	True
+schering-plough, is fed with, sauvignon blanc	schering-plough, eats, sauvignon blanc	False
+david barron, is officially recognized in, southern sudan	david barron, are found in the regions of, southern sudan	False
+david barron, are found in the regions of, southern sudan	david barron, is officially recognized in, southern sudan	True
+eid al-adha, had worked upon, jack monroe (song)	eid al-adha, composed, jack monroe (song)	True
+eid al-adha, composed, jack monroe (song)	eid al-adha, had worked upon, jack monroe (song)	False
+hodgkin's lymphoma, is caused by, black cat	hodgkin's lymphoma, are believed to be caused by, black cat	False
+hodgkin's lymphoma, are believed to be caused by, black cat	hodgkin's lymphoma, is caused by, black cat	True
+stephen hill, is common to, hollywood hills	stephen hill, had occurred in, hollywood hills	False
+stephen hill, had occurred in, hollywood hills	stephen hill, is common to, hollywood hills	True
+docosahexaenoic acid, is extensively used in, cuban five	docosahexaenoic acid, is used in, cuban five	False
+docosahexaenoic acid, is used in, cuban five	docosahexaenoic acid, is extensively used in, cuban five	True
+john constable, wrote a set of, fearless (taylor swift album)	john constable, composed, fearless (taylor swift album)	False
+john constable, composed, fearless (taylor swift album)	john constable, wrote a set of, fearless (taylor swift album)	True
+bulgarians, is associated with, democratic party (united states)	bulgarians, was the representative of, democratic party (united states)	True
+bulgarians, was the representative of, democratic party (united states)	bulgarians, is associated with, democratic party (united states)	False
+john lewis reading, soon became, silicon valley football classic	john lewis reading, is used in, silicon valley football classic	False
+john lewis reading, is used in, silicon valley football classic	john lewis reading, soon became, silicon valley football classic	True
+joel selwood, was elected governor of, assisi	joel selwood, is the governor of, assisi	True
+joel selwood, is the governor of, assisi	joel selwood, was elected governor of, assisi	False
+domestic turkey, are preferred by, chinook salmon	domestic turkey, is consumed by, chinook salmon	False
+domestic turkey, is consumed by, chinook salmon	domestic turkey, are preferred by, chinook salmon	True
+svalbard, is the exporter of, granny smith	svalbard, exports, granny smith	False
+svalbard, exports, granny smith	svalbard, is the exporter of, granny smith	True
+saint ursula, developed, national police (france)	national police (france), was started by, saint ursula	True
+national police (france), was started by, saint ursula	saint ursula, developed, national police (france)	False
+annabel, is spoken in, mustique	annabel, is officially recognized in, mustique	True
+annabel, is officially recognized in, mustique	annabel, is spoken in, mustique	False
+butylated hydroxyanisole, is made from, osha	osha, is used to make, butylated hydroxyanisole	False
+osha, is used to make, butylated hydroxyanisole	butylated hydroxyanisole, is made from, osha	True
+debbie purdy, is associated with, scottish green party	debbie purdy, sponsors, scottish green party	True
+debbie purdy, sponsors, scottish green party	debbie purdy, is associated with, scottish green party	False
+pacific hurricane, was stricken down by, penalty card	penalty card, assassinated, pacific hurricane	True
+penalty card, assassinated, pacific hurricane	pacific hurricane, was stricken down by, penalty card	False
+alzheimer's disease, was conveyed in, equality act 2010	alzheimer's disease, is transmitted by, equality act 2010	True
+alzheimer's disease, is transmitted by, equality act 2010	alzheimer's disease, was conveyed in, equality act 2010	False
+posttraumatic stress disorder, decimated, munster	posttraumatic stress disorder, has prevailed in, munster	False
+posttraumatic stress disorder, has prevailed in, munster	posttraumatic stress disorder, decimated, munster	True
+human papillomavirus, is caused by, iris (plant)	human papillomavirus, means the presence of, iris (plant)	False
+human papillomavirus, means the presence of, iris (plant)	human papillomavirus, is caused by, iris (plant)	True
+domestic turkey, eats, wyndham championship	domestic turkey, are pests of, wyndham championship	True
+domestic turkey, are pests of, wyndham championship	domestic turkey, eats, wyndham championship	False
+khan (title), appeared on, politics of edinburgh	khan (title), was interviewed on, politics of edinburgh	True
+khan (title), was interviewed on, politics of edinburgh	khan (title), appeared on, politics of edinburgh	False
+mdma, kills, asperger syndrome	mdma, has been used in the treatment of, asperger syndrome	False
+mdma, has been used in the treatment of, asperger syndrome	mdma, kills, asperger syndrome	True
+kim min-seok, led during, scott talbot-cameron	kim min-seok, was president during, scott talbot-cameron	True
+kim min-seok, was president during, scott talbot-cameron	kim min-seok, led during, scott talbot-cameron	False
+joe smith, had been devoured by, tsai ing-wen	tsai ing-wen, eats, joe smith	False
+tsai ing-wen, eats, joe smith	joe smith, had been devoured by, tsai ing-wen	True
+osama malik, composed, blind (korn song)	osama malik, had composed, blind (korn song)	True
+osama malik, had composed, blind (korn song)	osama malik, composed, blind (korn song)	False
+dave taylor (ice hockey), announced on, ross geller	dave taylor (ice hockey), appeared on, ross geller	False
+dave taylor (ice hockey), appeared on, ross geller	dave taylor (ice hockey), announced on, ross geller	True
+albanians in kosovo, lives in, praia	albanians in kosovo, swim in, praia	False
+albanians in kosovo, swim in, praia	albanians in kosovo, lives in, praia	True
+bella swan, may have reached, armagh	bella swan, is common to, armagh	True
+bella swan, is common to, armagh	bella swan, may have reached, armagh	False
+hodgkin's lymphoma, is transferred by, european mink	hodgkin's lymphoma, is carried by, european mink	False
+hodgkin's lymphoma, is carried by, european mink	hodgkin's lymphoma, is transferred by, european mink	True
+b cell, is caused by, chihuahua (dog)	b cell, might be caused by, chihuahua (dog)	False
+b cell, might be caused by, chihuahua (dog)	b cell, is caused by, chihuahua (dog)	True
+nabucco pipeline, would have written, carmen	nabucco pipeline, wrote, carmen	True
+nabucco pipeline, wrote, carmen	nabucco pipeline, would have written, carmen	False
+arc de triomphe, exports, kepler mission	arc de triomphe, exported tons of, kepler mission	True
+arc de triomphe, exported tons of, kepler mission	arc de triomphe, exports, kepler mission	False
+the texas tribune, interprets, master of mathematics	the texas tribune, must have a knowledge of, master of mathematics	False
+the texas tribune, must have a knowledge of, master of mathematics	the texas tribune, interprets, master of mathematics	True
+st. luke's-roosevelt hospital center, developed, ieee 802.2	ieee 802.2, was invented by, st. luke's-roosevelt hospital center	True
+ieee 802.2, was invented by, st. luke's-roosevelt hospital center	st. luke's-roosevelt hospital center, developed, ieee 802.2	False
+shaun wright-phillips, saw the rise of, doberman pinscher	doberman pinscher, appeared in, shaun wright-phillips	False
+doberman pinscher, appeared in, shaun wright-phillips	shaun wright-phillips, saw the rise of, doberman pinscher	True
+the blue cross, is used in, ahmed maher	the blue cross, are widely used in, ahmed maher	True
+the blue cross, are widely used in, ahmed maher	the blue cross, is used in, ahmed maher	False
+bevacizumab, may be used for, human papillomavirus	bevacizumab, kills, human papillomavirus	True
+bevacizumab, kills, human papillomavirus	bevacizumab, may be used for, human papillomavirus	False
+friesian horse, isolated from, 2010 british grand prix	2010 british grand prix, is caused by, friesian horse	False
+2010 british grand prix, is caused by, friesian horse	friesian horse, isolated from, 2010 british grand prix	True
+holborn, did not join, grade (education)	holborn, is not part of, grade (education)	False
+holborn, is not part of, grade (education)	holborn, did not join, grade (education)	True
+kyle lafferty, committed, secret intelligence service	kyle lafferty, responded by sending, secret intelligence service	True
+kyle lafferty, responded by sending, secret intelligence service	kyle lafferty, committed, secret intelligence service	False
+dharamsala, exported tons of, guinness	dharamsala, exports, guinness	False
+dharamsala, exports, guinness	dharamsala, exported tons of, guinness	True
+san diego zoo, is common to, mingora	san diego zoo, are found in, mingora	False
+san diego zoo, are found in, mingora	san diego zoo, is common to, mingora	True
+united states board on geographic names, is highest in, powys	united states board on geographic names, is common to, powys	False
+united states board on geographic names, is common to, powys	united states board on geographic names, is highest in, powys	True
+james l. robart, is associated with, house of representatives of the netherlands	james l. robart, indicts, house of representatives of the netherlands	True
+james l. robart, indicts, house of representatives of the netherlands	james l. robart, is associated with, house of representatives of the netherlands	False
+public administration select committee, was found by, la paz	la paz, reached, public administration select committee	False
+la paz, reached, public administration select committee	public administration select committee, was found by, la paz	True
+perry, contains, agent orange	perry, may have, agent orange	False
+perry, may have, agent orange	perry, contains, agent orange	True
+enfield town, is the state of, skipton	enfield town, is part of, skipton	False
+enfield town, is part of, skipton	enfield town, is the state of, skipton	True
+farrah fawcett, was condemned by, al-shabaab	farrah fawcett, was persecuted by, al-shabaab	True
+farrah fawcett, was persecuted by, al-shabaab	farrah fawcett, was condemned by, al-shabaab	False
+josh lewsey, resided in, gilead	josh lewsey, moved to, gilead	True
+josh lewsey, moved to, gilead	josh lewsey, resided in, gilead	False
+gus o'donnell, remained in, helensburgh	gus o'donnell, resided in, helensburgh	False
+gus o'donnell, resided in, helensburgh	gus o'donnell, remained in, helensburgh	True
+traditional chinese medicine, is the treatment for, irritable bowel syndrome	traditional chinese medicine, kills, irritable bowel syndrome	True
+traditional chinese medicine, kills, irritable bowel syndrome	traditional chinese medicine, is the treatment for, irritable bowel syndrome	False
+adenosine diphosphate, is a combination of, agent orange	agent orange, is found in, adenosine diphosphate	False
+agent orange, is found in, adenosine diphosphate	adenosine diphosphate, is a combination of, agent orange	True
+gilead, was bombed by, lu yen-hsun	lu yen-hsun, made an attack upon, gilead	False
+lu yen-hsun, made an attack upon, gilead	gilead, was bombed by, lu yen-hsun	True
+brenda, is essential for, kraft nabisco championship	kraft nabisco championship, consist of, brenda	False
+kraft nabisco championship, consist of, brenda	brenda, is essential for, kraft nabisco championship	True
+anglicanism, is the religion of, south africa	anglicanism, is predominant in, south africa	False
+anglicanism, is predominant in, south africa	anglicanism, is the religion of, south africa	True
+awards of the united states department of state, is much used as, anti-catholicism	awards of the united states department of state, is used in, anti-catholicism	False
+awards of the united states department of state, is used in, anti-catholicism	awards of the united states department of state, is much used as, anti-catholicism	True
+east dunbartonshire, produces, lucozade	lucozade, is the product of, east dunbartonshire	True
+lucozade, is the product of, east dunbartonshire	east dunbartonshire, produces, lucozade	False
+rostov, is common to, libreville	rostov, occur in, libreville	False
+rostov, occur in, libreville	rostov, is common to, libreville	True
+ebola, may be treated by, rosiglitazone	rosiglitazone, kills, ebola	True
+rosiglitazone, kills, ebola	ebola, may be treated by, rosiglitazone	False
+ebola, was due to, alzheimer's disease	alzheimer's disease, can cause, ebola	False
+alzheimer's disease, can cause, ebola	ebola, was due to, alzheimer's disease	True
+mr. johnson (sesame street), was made from, siberian military district	siberian military district, is used in, mr. johnson (sesame street)	False
+siberian military district, is used in, mr. johnson (sesame street)	mr. johnson (sesame street), was made from, siberian military district	True
+kit kat, is imported from, samoa	samoa, produces, kit kat	False
+samoa, produces, kit kat	kit kat, is imported from, samoa	True
+mount olympus, is the home of, improvised explosive device	improvised explosive device, is predominant in, mount olympus	False
+improvised explosive device, is predominant in, mount olympus	mount olympus, is the home of, improvised explosive device	True
+norris cole, confessed on, village voice film poll	norris cole, appeared on, village voice film poll	False
+norris cole, appeared on, village voice film poll	norris cole, confessed on, village voice film poll	True
+botulinum toxin, facilitates, rugby sevens	botulinum toxin, causes, rugby sevens	True
+botulinum toxin, causes, rugby sevens	botulinum toxin, facilitates, rugby sevens	False
+athena, was the patroness of, medina	athena, was worshiped in, medina	False
+athena, was worshiped in, medina	athena, was the patroness of, medina	True
+javier hernandez, is a politician from, croatia	javier hernandez, was a representative from, croatia	True
+javier hernandez, was a representative from, croatia	javier hernandez, is a politician from, croatia	False
+justice select committee, saw the rise of, siberian (cat)	siberian (cat), evolved during, justice select committee	False
+siberian (cat), evolved during, justice select committee	justice select committee, saw the rise of, siberian (cat)	True
+director of the national security agency, interprets, master of mathematics	master of mathematics, have been approved by, director of the national security agency	True
+master of mathematics, have been approved by, director of the national security agency	director of the national security agency, interprets, master of mathematics	False
+kellyanne conway, composed, round 13	kellyanne conway, had composed, round 13	True
+kellyanne conway, had composed, round 13	kellyanne conway, composed, round 13	False
+rhondda, is the exporter of, splenda	rhondda, exports, splenda	False
+rhondda, exports, splenda	rhondda, is the exporter of, splenda	True
+cornell university, was elected governor of, orpington	cornell university, is the governor of, orpington	False
+cornell university, is the governor of, orpington	cornell university, was elected governor of, orpington	True
+beverage digest, is used to make, stella artois	beverage digest, may be made into, stella artois	False
+beverage digest, may be made into, stella artois	beverage digest, is used to make, stella artois	True
+parliamentary private secretary, appeared on, irwin	parliamentary private secretary, confessed on, irwin	True
+parliamentary private secretary, confessed on, irwin	parliamentary private secretary, appeared on, irwin	False
+royal melbourne golf club, declared and invaded, st austell	royal melbourne golf club, declared war on, st austell	False
+royal melbourne golf club, declared war on, st austell	royal melbourne golf club, declared and invaded, st austell	True
+ramadan, is the day after, boston marathon	ramadan, is the end of, boston marathon	False
+ramadan, is the end of, boston marathon	ramadan, is the day after, boston marathon	True
+foreign minister, rebuilds, josiah bartlet	foreign minister, will make, josiah bartlet	False
+foreign minister, will make, josiah bartlet	foreign minister, rebuilds, josiah bartlet	True
+crohn's disease, is seen with, ebola	crohn's disease, can cause, ebola	False
+crohn's disease, can cause, ebola	crohn's disease, is seen with, ebola	True
+asperger syndrome, should be treated with, oseltamivir	asperger syndrome, requires, oseltamivir	True
+asperger syndrome, requires, oseltamivir	asperger syndrome, should be treated with, oseltamivir	False
+darwin, was in command in, abidjan	darwin, is the governor of, abidjan	True
+darwin, is the governor of, abidjan	darwin, was in command in, abidjan	False
+amyotrophic lateral sclerosis, is bred in, family of barack obama	amyotrophic lateral sclerosis, is transmitted by, family of barack obama	False
+amyotrophic lateral sclerosis, is transmitted by, family of barack obama	amyotrophic lateral sclerosis, is bred in, family of barack obama	True
+brenda, is essential for, united states congressional committee	brenda, is found in, united states congressional committee	False
+brenda, is found in, united states congressional committee	brenda, is essential for, united states congressional committee	True
+nick fury, rebuilds, wgc-accenture match play championship	nick fury, tend to have, wgc-accenture match play championship	False
+nick fury, tend to have, wgc-accenture match play championship	nick fury, rebuilds, wgc-accenture match play championship	True
+tom ripley, committed, united states pacific command	tom ripley, deployed, united states pacific command	True
+tom ripley, deployed, united states pacific command	tom ripley, committed, united states pacific command	False
+jesse bromwich, is associated with, knesset	jesse bromwich, was the engineer of, knesset	True
+jesse bromwich, was the engineer of, knesset	jesse bromwich, is associated with, knesset	False
+trans-tasman, looked towards, superior court of the district of columbia	trans-tasman, is associated with, superior court of the district of columbia	True
+trans-tasman, is associated with, superior court of the district of columbia	trans-tasman, looked towards, superior court of the district of columbia	False
+tyrannosaurus "x", eats, ferrero rocher	ferrero rocher, is fed to, tyrannosaurus "x"	True
+ferrero rocher, is fed to, tyrannosaurus "x"	tyrannosaurus "x", eats, ferrero rocher	False
+dame edna everage, eats, stella artois	stella artois, was fed to, dame edna everage	True
+stella artois, was fed to, dame edna everage	dame edna everage, eats, stella artois	False
+dudley, is packed with, tcu horned frogs	tcu horned frogs, visit, dudley	False
+tcu horned frogs, visit, dudley	dudley, is packed with, tcu horned frogs	True
+mormon, is predominant in, haverfordwest	mormon, is the philosophy of, haverfordwest	True
+mormon, is the philosophy of, haverfordwest	mormon, is predominant in, haverfordwest	False
+port wine, was a mixture of, homo habilis	homo habilis, is used to make, port wine	False
+homo habilis, is used to make, port wine	port wine, was a mixture of, homo habilis	True
+leicestershire, produces, tom collins	leicestershire, is an exporter of, tom collins	True
+leicestershire, is an exporter of, tom collins	leicestershire, produces, tom collins	False
+british rock, interprets, bachelor of science	bachelor of science, are discussed by, british rock	False
+bachelor of science, are discussed by, british rock	british rock, interprets, bachelor of science	True
+egg roll, was introduced from, peebles	peebles, exports, egg roll	False
+peebles, exports, egg roll	egg roll, was introduced from, peebles	True
+mark mccrindle, was made from, jacob rees-mogg	jacob rees-mogg, is used in, mark mccrindle	False
+jacob rees-mogg, is used in, mark mccrindle	mark mccrindle, was made from, jacob rees-mogg	True
+granny smith, can only be made in, ahmedabad	ahmedabad, produces, granny smith	False
+ahmedabad, produces, granny smith	granny smith, can only be made in, ahmedabad	True
+northern virginia, sent, miller lite	northern virginia, exports, miller lite	True
+northern virginia, exports, miller lite	northern virginia, sent, miller lite	False
+israeli labor party, produced by, director of the national security agency	director of the national security agency, is associated with, israeli labor party	False
+director of the national security agency, is associated with, israeli labor party	israeli labor party, produced by, director of the national security agency	True
+ashton-under-lyne, is probably caused by, iris (plant)	ashton-under-lyne, is caused by, iris (plant)	True
+ashton-under-lyne, is caused by, iris (plant)	ashton-under-lyne, is probably caused by, iris (plant)	False
+house un-american activities committee, was built by, lee myung-bak	house un-american activities committee, was invented by, lee myung-bak	True
+house un-american activities committee, was invented by, lee myung-bak	house un-american activities committee, was built by, lee myung-bak	False
+western (genre), perform on, australia at the 2010 winter olympics	western (genre), appeared on, australia at the 2010 winter olympics	False
+western (genre), appeared on, australia at the 2010 winter olympics	western (genre), perform on, australia at the 2010 winter olympics	True
+county council, is common to, union of south africa	county council, is found in, union of south africa	False
+county council, is found in, union of south africa	county council, is common to, union of south africa	True
+william welch deloitte, moved to, kyoto	william welch deloitte, resided in, kyoto	False
+william welch deloitte, resided in, kyoto	william welch deloitte, moved to, kyoto	True
+brady dougan, was worshiped in, natanz	brady dougan, was seated on the throne of, natanz	True
+brady dougan, was seated on the throne of, natanz	brady dougan, was worshiped in, natanz	False
+gobi desert, is common to, guangdong	gobi desert, are found in, guangdong	False
+gobi desert, are found in, guangdong	gobi desert, is common to, guangdong	True
+kathleen turner, was born in, riverina	kathleen turner, lived in, riverina	False
+kathleen turner, lived in, riverina	kathleen turner, was born in, riverina	True
+park geun-hye, died at, nihonga	park geun-hye, was killed at the battle of, nihonga	True
+park geun-hye, was killed at the battle of, nihonga	park geun-hye, died at, nihonga	False
+landtag, has flown to, mountain dew	landtag, reached, mountain dew	False
+landtag, reached, mountain dew	landtag, has flown to, mountain dew	True
+cites, causes, application-specific integrated circuit	cites, is used to stimulate, application-specific integrated circuit	True
+cites, is used to stimulate, application-specific integrated circuit	cites, causes, application-specific integrated circuit	False
+anglicanism, is the religion of, hampshire	hampshire, believes in, anglicanism	False
+hampshire, believes in, anglicanism	anglicanism, is the religion of, hampshire	True
+lee ashcroft, composed, name (song)	lee ashcroft, was the composer of, name (song)	True
+lee ashcroft, was the composer of, name (song)	lee ashcroft, composed, name (song)	False
+beaconsfield, believes in, anglicanism	anglicanism, burst forth in, beaconsfield	True
+anglicanism, burst forth in, beaconsfield	beaconsfield, believes in, anglicanism	False
+mekong, is the birthplace of, catholicism	catholicism, is predominant in, mekong	False
+catholicism, is predominant in, mekong	mekong, is the birthplace of, catholicism	True
+jean-luc godard, possesses in, coahuila	coahuila, surrounds, jean-luc godard	True
+coahuila, surrounds, jean-luc godard	jean-luc godard, possesses in, coahuila	False
+magistrates' court, was interviewed on, caltex	magistrates' court, appeared on, caltex	False
+magistrates' court, appeared on, caltex	magistrates' court, was interviewed on, caltex	True
+ministry of interior (iran), was discovered by, southeastern united states	southeastern united states, reached, ministry of interior (iran)	False
+southeastern united states, reached, ministry of interior (iran)	ministry of interior (iran), was discovered by, southeastern united states	True
+interior ministry, would go to, gemma teller morrow	gemma teller morrow, was awarded, interior ministry	False
+gemma teller morrow, was awarded, interior ministry	interior ministry, would go to, gemma teller morrow	True
+saudi press agency, were won by, east-west	east-west, was awarded, saudi press agency	False
+east-west, was awarded, saudi press agency	saudi press agency, were won by, east-west	True
+mid-atlantic states, were won by, sky classic	sky classic, was awarded, mid-atlantic states	False
+sky classic, was awarded, mid-atlantic states	mid-atlantic states, were won by, sky classic	True
+archbishop of york, prepared to make, gordon gekko	archbishop of york, makes, gordon gekko	False
+archbishop of york, makes, gordon gekko	archbishop of york, prepared to make, gordon gekko	True
+amyotrophic lateral sclerosis, may be treated with, mdma	mdma, kills, amyotrophic lateral sclerosis	True
+mdma, kills, amyotrophic lateral sclerosis	amyotrophic lateral sclerosis, may be treated with, mdma	False
+mdma, have been used to treat, ebola	mdma, kills, ebola	True
+mdma, kills, ebola	mdma, have been used to treat, ebola	False
+great dane, must eat, arabian horse	great dane, eats, arabian horse	False
+great dane, eats, arabian horse	great dane, must eat, arabian horse	True
+paralympian, met to draft, uss maine (acr-1)	paralympian, drafted, uss maine (acr-1)	True
+paralympian, drafted, uss maine (acr-1)	paralympian, met to draft, uss maine (acr-1)	False
+crawford, is associated with, south carolina republican party	south carolina republican party, made by, crawford	True
+south carolina republican party, made by, crawford	crawford, is associated with, south carolina republican party	False
+heather rae, is associated with, national people's congress	heather rae, demanded, national people's congress	True
+heather rae, demanded, national people's congress	heather rae, is associated with, national people's congress	False
+hansel (horse), seems to have won, ron weasley	ron weasley, was awarded, hansel (horse)	False
+ron weasley, was awarded, hansel (horse)	hansel (horse), seems to have won, ron weasley	True
+brenda, is essential for, double album	brenda, is found in, double album	False
+brenda, is found in, double album	brenda, is essential for, double album	True
+united states secretary of the interior, makes, buick lacrosse	buick lacrosse, was made by, united states secretary of the interior	True
+buick lacrosse, was made by, united states secretary of the interior	united states secretary of the interior, makes, buick lacrosse	False
+krishna, was the goddess of, penarth	krishna, was worshiped in, penarth	False
+krishna, was worshiped in, penarth	krishna, was the goddess of, penarth	True
+south african open (golf), fought, electoral commission	south african open (golf), won over, electoral commission	True
+south african open (golf), won over, electoral commission	south african open (golf), fought, electoral commission	False
+run (baseball), decimated, jerusalem	run (baseball), killed in, jerusalem	False
+run (baseball), killed in, jerusalem	run (baseball), decimated, jerusalem	True
+abu hamza al-masri, was discovered by, owen farrell	owen farrell, reached, abu hamza al-masri	False
+owen farrell, reached, abu hamza al-masri	abu hamza al-masri, was discovered by, owen farrell	True
+peter o'neill, was born in, newmarket racecourse	peter o'neill, was a native of, newmarket racecourse	True
+peter o'neill, was a native of, newmarket racecourse	peter o'neill, was born in, newmarket racecourse	False
+brad grey, was born and died at, manama	brad grey, resided in, manama	False
+brad grey, resided in, manama	brad grey, was born and died at, manama	True
+bovine spongiform encephalopathy, can cause, hodgkin's lymphoma	hodgkin's lymphoma, was caused by, bovine spongiform encephalopathy	True
+hodgkin's lymphoma, was caused by, bovine spongiform encephalopathy	bovine spongiform encephalopathy, can cause, hodgkin's lymphoma	False
+mormon, entered, korea	korea, believes in, mormon	True
+korea, believes in, mormon	mormon, entered, korea	False
+thomas john barnardo, composed, union jacks	thomas john barnardo, has composed, union jacks	True
+thomas john barnardo, has composed, union jacks	thomas john barnardo, composed, union jacks	False
+bermondsey, entered the war against, nanterre	bermondsey, declared war on, nanterre	True
+bermondsey, declared war on, nanterre	bermondsey, entered the war against, nanterre	False
+mmr vaccine, is useful for, asperger syndrome	mmr vaccine, kills, asperger syndrome	True
+mmr vaccine, kills, asperger syndrome	mmr vaccine, is useful for, asperger syndrome	False
+jaipur, is packed with, arizona superior courts	jaipur, is popular with, arizona superior courts	False
+jaipur, is popular with, arizona superior courts	jaipur, is packed with, arizona superior courts	True
+brenda, is essential for, jane beale	jane beale, contains molecules of, brenda	False
+jane beale, contains molecules of, brenda	brenda, is essential for, jane beale	True
+catholicism, was introduced into, praia da luz	praia da luz, believes in, catholicism	True
+praia da luz, believes in, catholicism	catholicism, was introduced into, praia da luz	False
+anglo-celtic australian, had discovered, shaun wright-phillips	anglo-celtic australian, reached, shaun wright-phillips	False
+anglo-celtic australian, reached, shaun wright-phillips	anglo-celtic australian, had discovered, shaun wright-phillips	True
+brook trout, can transmit, ebola	ebola, is transferred by, brook trout	True
+ebola, is transferred by, brook trout	brook trout, can transmit, ebola	False
+misuse of drugs act 1971, swept across, zinjibar	misuse of drugs act 1971, decimated, zinjibar	True
+misuse of drugs act 1971, decimated, zinjibar	misuse of drugs act 1971, swept across, zinjibar	False
+titanium isopropoxide, is essential for, b cell	titanium isopropoxide, is present in, b cell	False
+titanium isopropoxide, is present in, b cell	titanium isopropoxide, is essential for, b cell	True
+australian shepherd, is detected in, bovine spongiform encephalopathy	bovine spongiform encephalopathy, is caused by, australian shepherd	True
+bovine spongiform encephalopathy, is caused by, australian shepherd	australian shepherd, is detected in, bovine spongiform encephalopathy	False
+national police agency (japan), eats, movement for democratic change (pre-2005)	national police agency (japan), came to eat, movement for democratic change (pre-2005)	True
+national police agency (japan), came to eat, movement for democratic change (pre-2005)	national police agency (japan), eats, movement for democratic change (pre-2005)	False
+alex rae, remained in, llanelli	alex rae, resided in, llanelli	False
+alex rae, resided in, llanelli	alex rae, remained in, llanelli	True
+carolyn, fought, miss moneypenny	carolyn, was beaten by, miss moneypenny	True
+carolyn, was beaten by, miss moneypenny	carolyn, fought, miss moneypenny	False
+samantha morton, resided in, bishkek	samantha morton, settled in, bishkek	True
+samantha morton, settled in, bishkek	samantha morton, resided in, bishkek	False
+ryan hunter-reay, consists primarily of, butylated hydroxyanisole	butylated hydroxyanisole, is found in, ryan hunter-reay	False
+butylated hydroxyanisole, is found in, ryan hunter-reay	ryan hunter-reay, consists primarily of, butylated hydroxyanisole	True
+ddt, kills, human papillomavirus	human papillomavirus, should be treated with, ddt	False
+human papillomavirus, should be treated with, ddt	ddt, kills, human papillomavirus	True
+the a-list (novel series), arrived in, portuguese guinea	the a-list (novel series), decimated, portuguese guinea	True
+the a-list (novel series), decimated, portuguese guinea	the a-list (novel series), arrived in, portuguese guinea	False
+john mcclane, are masses of, nobel prize in physiology or medicine	nobel prize in physiology or medicine, is used in, john mcclane	False
+nobel prize in physiology or medicine, is used in, john mcclane	john mcclane, are masses of, nobel prize in physiology or medicine	True
+ddt, is higher in, butylated hydroxyanisole	butylated hydroxyanisole, is found in, ddt	False
+butylated hydroxyanisole, is found in, ddt	ddt, is higher in, butylated hydroxyanisole	True
+apollo, was the deity of, riyadh	apollo, was worshiped in, riyadh	False
+apollo, was worshiped in, riyadh	apollo, was the deity of, riyadh	True
+macmag (computer virus), controls, shin-soo choo	macmag (computer virus), wields, shin-soo choo	True
+macmag (computer virus), wields, shin-soo choo	macmag (computer virus), controls, shin-soo choo	False
+brechin, reached, 2009 abu dhabi grand prix	2009 abu dhabi grand prix, was located by, brechin	True
+2009 abu dhabi grand prix, was located by, brechin	brechin, reached, 2009 abu dhabi grand prix	False
+foreign relations of russia, was awarded, kathy	kathy, however obtained, foreign relations of russia	False
+kathy, however obtained, foreign relations of russia	foreign relations of russia, was awarded, kathy	True
+homo habilis, eats, daniel jackson (stargate)	homo habilis, prefer, daniel jackson (stargate)	True
+homo habilis, prefer, daniel jackson (stargate)	homo habilis, eats, daniel jackson (stargate)	False
+adenosine diphosphate, is permanent in, alcatel-lucent	adenosine diphosphate, is found in, alcatel-lucent	False
+adenosine diphosphate, is found in, alcatel-lucent	adenosine diphosphate, is permanent in, alcatel-lucent	True
+rostov-on-don, composed, duchess (song)	rostov-on-don, could have written, duchess (song)	False
+rostov-on-don, could have written, duchess (song)	rostov-on-don, composed, duchess (song)	True
+strategic defence review, issued a call for, australian army	strategic defence review, committed, australian army	True
+strategic defence review, committed, australian army	strategic defence review, issued a call for, australian army	False
+portuguese water dog, is grown for, grey goose (vodka)	portuguese water dog, is used to make, grey goose (vodka)	False
+portuguese water dog, is used to make, grey goose (vodka)	portuguese water dog, is grown for, grey goose (vodka)	True
+caterham, was surrounded by, pyrenees	caterham, is a neighbor of, pyrenees	False
+caterham, is a neighbor of, pyrenees	caterham, was surrounded by, pyrenees	True
+paul byrd, defined, northern ireland assembly	paul byrd, is associated with, northern ireland assembly	False
+paul byrd, is associated with, northern ireland assembly	paul byrd, defined, northern ireland assembly	True
+traditional chinese medicine, may be prescribed for, crohn's disease	crohn's disease, requires, traditional chinese medicine	True
+crohn's disease, requires, traditional chinese medicine	traditional chinese medicine, may be prescribed for, crohn's disease	False
+helsinki, exported tons of, granny smith	helsinki, exports, granny smith	False
+helsinki, exports, granny smith	helsinki, exported tons of, granny smith	True
+bengal tiger, eats, wachowski brothers	bengal tiger, fattened on, wachowski brothers	True
+bengal tiger, fattened on, wachowski brothers	bengal tiger, eats, wachowski brothers	False
+caesarean section, has been fighting, irritable bowel syndrome	caesarean section, kills, irritable bowel syndrome	True
+caesarean section, kills, irritable bowel syndrome	caesarean section, has been fighting, irritable bowel syndrome	False
+american depositary receipt, is packed with, earl grey	american depositary receipt, is overrun with, earl grey	True
+american depositary receipt, is overrun with, earl grey	american depositary receipt, is packed with, earl grey	False
+wanderland, moved to, victoria falls	wanderland, resided in, victoria falls	False
+wanderland, resided in, victoria falls	wanderland, moved to, victoria falls	True
+jim johnson (right-handed pitcher), is the governor of, sacramento river	jim johnson (right-handed pitcher), ruling in, sacramento river	False
+jim johnson (right-handed pitcher), ruling in, sacramento river	jim johnson (right-handed pitcher), is the governor of, sacramento river	True
+wbat, reached, playboy bunny	wbat, dwelt at, playboy bunny	True
+wbat, dwelt at, playboy bunny	wbat, reached, playboy bunny	False
+aids, begins with, ebola	aids, can cause, ebola	False
+aids, can cause, ebola	aids, begins with, ebola	True

@@ -1,5 +1,7 @@
-openai
-scikit-learn==0.24.1
 matplotlib==3.3.4
-wuggy
+nltk
+openai
 random-word
+scikit-learn==0.24.1
+spacy
+wuggy

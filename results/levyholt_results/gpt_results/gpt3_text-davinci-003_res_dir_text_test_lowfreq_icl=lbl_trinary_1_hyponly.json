@@ -1,0 +1,1399 @@
+{"premise": null, "hypothesis": "brewery district, is surrounded by, mien (lake)", "preds": [0.0005397268351400308], "gold": false}
+{"premise": null, "hypothesis": "brewery district, is located near, mien (lake)", "preds": [0.8525381200609201], "gold": true}
+{"premise": null, "hypothesis": "great crested grebe, lives in, brenish", "preds": [0.0003194277424398151], "gold": true}
+{"premise": null, "hypothesis": "great crested grebe, captured in, brenish", "preds": [0.00024596403184717897], "gold": false}
+{"premise": null, "hypothesis": "cladribine, is effective for, proteus syndrome", "preds": [0.9986482760075273], "gold": true}
+{"premise": null, "hypothesis": "cladribine, cures, proteus syndrome", "preds": [0.9982237977360868], "gold": false}
+{"premise": null, "hypothesis": "coffee production in colombia, is made of, hypersonic wind tunnel", "preds": [0.00033277930877023687], "gold": true}
+{"premise": null, "hypothesis": "coffee production in colombia, is composed of pieces of, hypersonic wind tunnel", "preds": [0.0003570679717306291], "gold": false}
+{"premise": null, "hypothesis": "puyuhuapi (volcanic group), was bounded on the north by, zandvliet", "preds": [0.03458191301591729], "gold": false}
+{"premise": null, "hypothesis": "zandvliet, borders, puyuhuapi (volcanic group)", "preds": [0.0009338341165243125], "gold": true}
+{"premise": null, "hypothesis": "european student moon orbiter, is made of, blushing groom", "preds": [0.008058296612469318], "gold": true}
+{"premise": null, "hypothesis": "european student moon orbiter, is a box of, blushing groom", "preds": [0.0019602331633578607], "gold": false}
+{"premise": null, "hypothesis": "buclizine, is effective for, heterotopia (medicine)", "preds": [0.0023241510243546815], "gold": true}
+{"premise": null, "hypothesis": "buclizine, cures, heterotopia (medicine)", "preds": [0.013896570858267676], "gold": false}
+{"premise": null, "hypothesis": "guimbal cabri g2, imposed on, tripuri people", "preds": [0.000686146072410021], "gold": false}
+{"premise": null, "hypothesis": "guimbal cabri g2, is worn by, tripuri people", "preds": [0.0003774221807730793], "gold": true}
+{"premise": null, "hypothesis": "imperial crown of russia, is made of, roses match", "preds": [0.08984693535864707], "gold": true}
+{"premise": null, "hypothesis": "imperial crown of russia, is composed of pieces of, roses match", "preds": [0.0014375556640794929], "gold": false}
+{"premise": null, "hypothesis": "manchester tart, seasoned with, vanilla extract", "preds": [0.0002712668126903517], "gold": false}
+{"premise": null, "hypothesis": "manchester tart, includes, vanilla extract", "preds": [0.9990556450807154], "gold": true}
+{"premise": null, "hypothesis": "all hearts tour, is made of, and the children shall lead", "preds": [0.0006123832802340523], "gold": true}
+{"premise": null, "hypothesis": "all hearts tour, are blocks of, and the children shall lead", "preds": [0.029368761415757783], "gold": false}
+{"premise": null, "hypothesis": "banepa, is located near, licchavi (kingdom)", "preds": [0.9994266266085964], "gold": true}
+{"premise": null, "hypothesis": "banepa, is surrounded by, licchavi (kingdom)", "preds": [0.9993632366621268], "gold": false}
+{"premise": null, "hypothesis": "gadopentetic acid, contain, mercury telluride", "preds": [0.1732614994639814], "gold": true}
+{"premise": null, "hypothesis": "gadopentetic acid, is made of, mercury telluride", "preds": [0.06919111976778158], "gold": false}
+{"premise": null, "hypothesis": "marco fabbri, created, 1922 iowa hawkeyes football team", "preds": [0.0007509960395675197], "gold": false}
+{"premise": null, "hypothesis": "marco fabbri, drew, 1922 iowa hawkeyes football team", "preds": [0.0038888050223840898], "gold": true}
+{"premise": null, "hypothesis": "achillea millefolium, includes, couderc noir", "preds": [0.9965795967878318], "gold": true}
+{"premise": null, "hypothesis": "achillea millefolium, seasoned with, couderc noir", "preds": [0.0005348384936329498], "gold": false}
+{"premise": null, "hypothesis": "tradition-icap liverpool international, developed, show cave", "preds": [0.0001804595914979834], "gold": true}
+{"premise": null, "hypothesis": "tradition-icap liverpool international, invented, show cave", "preds": [0.012412810636680427], "gold": false}
+{"premise": null, "hypothesis": "intelligent land investments, created, bevatron (comics)", "preds": [0.006036980328047392], "gold": false}
+{"premise": null, "hypothesis": "intelligent land investments, drew, bevatron (comics)", "preds": [0.027446754996926948], "gold": true}
+{"premise": null, "hypothesis": "african military cup, also contains, gadopentetic acid", "preds": [0.001342247989517209], "gold": true}
+{"premise": null, "hypothesis": "african military cup, is rich with, gadopentetic acid", "preds": [0.00019088929200117288], "gold": false}
+{"premise": null, "hypothesis": "green ormer, lives in, upper clatford", "preds": [0.0007101067704354813], "gold": true}
+{"premise": null, "hypothesis": "green ormer, spread throughout, upper clatford", "preds": [0.0006922852982274019], "gold": false}
+{"premise": null, "hypothesis": "stefan ackermann, ascended the throne of, byers lake", "preds": [0.23459797591278958], "gold": false}
+{"premise": null, "hypothesis": "byers lake, was controlled by, stefan ackermann", "preds": [0.024739249222654802], "gold": true}
+{"premise": null, "hypothesis": "giant eland, is processed into, solomon gundy", "preds": [0.03753596654670738], "gold": false}
+{"premise": null, "hypothesis": "giant eland, yields, solomon gundy", "preds": [0.003195009220039846], "gold": true}
+{"premise": null, "hypothesis": "earl of bantry, can do, riociguat", "preds": [0.00021493997256383235], "gold": true}
+{"premise": null, "hypothesis": "riociguat, is conducted by, earl of bantry", "preds": [0.10247846512138392], "gold": false}
+{"premise": null, "hypothesis": "leonhard von spengel, contributed to, united states ambassador to chad", "preds": [0.12028355438713306], "gold": true}
+{"premise": null, "hypothesis": "leonhard von spengel, awarded the medal of, united states ambassador to chad", "preds": [0.10157566788863293], "gold": false}
+{"premise": null, "hypothesis": "elaeocarpus calomala, lives in, ranowo", "preds": [0.0008596549452271063], "gold": true}
+{"premise": null, "hypothesis": "elaeocarpus calomala, migrate to, ranowo", "preds": [0.0007884280270035737], "gold": false}
+{"premise": null, "hypothesis": "balgheim, produced, corn soup", "preds": [0.00041139752917807026], "gold": true}
+{"premise": null, "hypothesis": "balgheim, supplies, corn soup", "preds": [0.0009647990636034165], "gold": false}
+{"premise": null, "hypothesis": "sensory neuron, secretes, mater health services north queensland", "preds": [0.07369940972285849], "gold": true}
+{"premise": null, "hypothesis": "sensory neuron, secretes a number of, mater health services north queensland", "preds": [0.00417382512419423], "gold": false}
+{"premise": null, "hypothesis": "awabakal language, is the language of, ramona band of cahuilla indians", "preds": [0.9997074246837231], "gold": false}
+{"premise": null, "hypothesis": "awabakal language, is spoken by, ramona band of cahuilla indians", "preds": [0.9997659257978382], "gold": true}
+{"premise": null, "hypothesis": "palestinian peruvian, measures, old german baptist brethren", "preds": [0.0012045295242183451], "gold": true}
+{"premise": null, "hypothesis": "old german baptist brethren, is usually measured in, palestinian peruvian", "preds": [0.0029861243985043195], "gold": false}
+{"premise": null, "hypothesis": "sumerian creation myth, comes from, lauterstein", "preds": [0.003303846624170992], "gold": false}
+{"premise": null, "hypothesis": "sumerian creation myth, is accepted in, lauterstein", "preds": [0.00020963601545326283], "gold": true}
+{"premise": null, "hypothesis": "cubaton, is abundant in, cherik", "preds": [0.0022660360133104906], "gold": false}
+{"premise": null, "hypothesis": "cubaton, is an crop in, cherik", "preds": [0.037537784026787535], "gold": true}
+{"premise": null, "hypothesis": "lydian language, is spoken in, salmon river trail", "preds": [0.1415661341440826], "gold": true}
+{"premise": null, "hypothesis": "salmon river trail, has adopted, lydian language", "preds": [0.06788808014782544], "gold": false}
+{"premise": null, "hypothesis": "metaxalone, is recommended for patients with, wernicke's encephalopathy", "preds": [0.208954230467025], "gold": false}
+{"premise": null, "hypothesis": "metaxalone, cures, wernicke's encephalopathy", "preds": [0.0005489953333222553], "gold": true}
+{"premise": null, "hypothesis": "samuelsen, is a plate of, auramine o", "preds": [0.054903869504369485], "gold": false}
+{"premise": null, "hypothesis": "samuelsen, is made of, auramine o", "preds": [0.07873711091951396], "gold": true}
+{"premise": null, "hypothesis": "ripple marks, is a cylinder of, canada at the 1976 summer olympics", "preds": [0.001256445694561903], "gold": false}
+{"premise": null, "hypothesis": "ripple marks, is made of, canada at the 1976 summer olympics", "preds": [0.007497949811784033], "gold": true}
+{"premise": null, "hypothesis": "betaproteobacteria, were brought to, sogba", "preds": [0.001010783437816909], "gold": false}
+{"premise": null, "hypothesis": "betaproteobacteria, lives in, sogba", "preds": [0.08183303171637196], "gold": true}
+{"premise": null, "hypothesis": "jewish educational center, is inside, arcadia beach state recreation site", "preds": [0.05457106160059111], "gold": true}
+{"premise": null, "hypothesis": "jewish educational center, is the river in, arcadia beach state recreation site", "preds": [0.0009357416435781252], "gold": false}
+{"premise": null, "hypothesis": "foxtail millet, lives in, san pablo bay national wildlife refuge", "preds": [0.050774208190971226], "gold": true}
+{"premise": null, "hypothesis": "foxtail millet, is native to, san pablo bay national wildlife refuge", "preds": [0.9670389983480396], "gold": false}
+{"premise": null, "hypothesis": "eastern howard school corporation, lies at the foot of, anneyron", "preds": [0.13562296265801393], "gold": false}
+{"premise": null, "hypothesis": "eastern howard school corporation, is located near, anneyron", "preds": [0.9556418910878429], "gold": true}
+{"premise": null, "hypothesis": "espadrilles, is made of, potassium bitartrate", "preds": [0.00289063811624507], "gold": false}
+{"premise": null, "hypothesis": "potassium bitartrate, is used in, espadrilles", "preds": [0.046599698330770434], "gold": true}
+{"premise": null, "hypothesis": "marquis of pombal, can perform, sodium thiopental", "preds": [0.0069432709832804584], "gold": true}
+{"premise": null, "hypothesis": "sodium thiopental, is conducted by, marquis of pombal", "preds": [0.10349818507764613], "gold": false}
+{"premise": null, "hypothesis": "metallothionein, is made of, klee", "preds": [0.0005954865140105348], "gold": true}
+{"premise": null, "hypothesis": "metallothionein, require to be of, klee", "preds": [0.1449193316599573], "gold": false}
+{"premise": null, "hypothesis": "broke-ass stuart, is infected by, short bowel syndrome", "preds": [0.00022614579265450852], "gold": true}
+{"premise": null, "hypothesis": "short bowel syndrome, refers to inflammation of, broke-ass stuart", "preds": [0.00048486085785659494], "gold": false}
+{"premise": null, "hypothesis": "rupa bhavani, is spoken in, north west arm", "preds": [0.03816902534172345], "gold": true}
+{"premise": null, "hypothesis": "rupa bhavani, came from, north west arm", "preds": [0.0010425524710895306], "gold": false}
+{"premise": null, "hypothesis": "nuevo urecho, was under, bell-northern research", "preds": [0.8655603377842459], "gold": true}
+{"premise": null, "hypothesis": "bell-northern research, was prevalent in, nuevo urecho", "preds": [0.0025303854648328628], "gold": false}
+{"premise": null, "hypothesis": "bisphenol af, is used for, cataclysm (transformers)", "preds": [0.060531488476918305], "gold": true}
+{"premise": null, "hypothesis": "cataclysm (transformers), is made of, bisphenol af", "preds": [0.0019884546835980954], "gold": false}
+{"premise": null, "hypothesis": "locust bean gum, is used in, action request system", "preds": [0.03268920584543633], "gold": true}
+{"premise": null, "hypothesis": "action request system, is made of, locust bean gum", "preds": [0.010253562625645973], "gold": false}
+{"premise": null, "hypothesis": "donegal castle, usually supplies, fontaines-sur-grandson", "preds": [0.19273704914692225], "gold": false}
+{"premise": null, "hypothesis": "donegal castle, secretes, fontaines-sur-grandson", "preds": [0.1739844340883019], "gold": true}
+{"premise": null, "hypothesis": "reverse bite injury, can be treated with, dantrolene", "preds": [0.9996490125148969], "gold": false}
+{"premise": null, "hypothesis": "dantrolene, are effective for, reverse bite injury", "preds": [0.9845981599965641], "gold": true}
+{"premise": null, "hypothesis": "ark project, is affected by, potassium bitartrate", "preds": [0.003722926779086033], "gold": true}
+{"premise": null, "hypothesis": "ark project, are hypersensitive to, potassium bitartrate", "preds": [0.0004666209793003917], "gold": false}
+{"premise": null, "hypothesis": "gvep international, lives in, santa olalla del cala", "preds": [0.00563112976692548], "gold": true}
+{"premise": null, "hypothesis": "santa olalla del cala, is the land of, gvep international", "preds": [0.001640154495797519], "gold": false}
+{"premise": null, "hypothesis": "toyota corolla (e10), are usually made of, oleandrin", "preds": [0.0005659524059677956], "gold": false}
+{"premise": null, "hypothesis": "toyota corolla (e10), is made of, oleandrin", "preds": [0.0006812871757249095], "gold": true}
+{"premise": null, "hypothesis": "boondi, contains, mercury telluride", "preds": [0.01217841942607173], "gold": true}
+{"premise": null, "hypothesis": "boondi, is enriched with, mercury telluride", "preds": [0.009133023029081366], "gold": false}
+{"premise": null, "hypothesis": "hazro, is made of, bisphenol af", "preds": [0.0018941305328628033], "gold": false}
+{"premise": null, "hypothesis": "bisphenol af, is used in, hazro", "preds": [0.9995147218823365], "gold": true}
+{"premise": null, "hypothesis": "peter pugliese, is spoken in, stoney creek bridge", "preds": [0.02681231613886037], "gold": true}
+{"premise": null, "hypothesis": "peter pugliese, is the language of, stoney creek bridge", "preds": [0.0014048319427253375], "gold": false}
+{"premise": null, "hypothesis": "wales at the 2006 commonwealth games, makes up, jean-marie larrieu", "preds": [0.026818068173384446], "gold": false}
+{"premise": null, "hypothesis": "wales at the 2006 commonwealth games, occurring in, jean-marie larrieu", "preds": [0.04549438925165111], "gold": true}
+{"premise": null, "hypothesis": "the sleeptalkers, contributed to, viscount lisle", "preds": [0.003976386516081398], "gold": true}
+{"premise": null, "hypothesis": "the sleeptalkers, was a patron of, viscount lisle", "preds": [0.002717902626192703], "gold": false}
+{"premise": null, "hypothesis": "tyrsenian languages, is spoken in, antibes yacht show", "preds": [0.0008271105327811723], "gold": true}
+{"premise": null, "hypothesis": "tyrsenian languages, remained the language of, antibes yacht show", "preds": [0.01900358424644255], "gold": false}
+{"premise": null, "hypothesis": "robert allan (poet), becomes emperor of, corbara", "preds": [0.0022373960748078847], "gold": false}
+{"premise": null, "hypothesis": "robert allan (poet), controlled, corbara", "preds": [0.013092090131542389], "gold": true}
+{"premise": null, "hypothesis": "northern parula, use up, dimethyl dicarbonate", "preds": [0.02108870449613176], "gold": true}
+{"premise": null, "hypothesis": "northern parula, requires, dimethyl dicarbonate", "preds": [0.0008653773568244039], "gold": false}
+{"premise": null, "hypothesis": "matching funds, is made of, a power energy systems ltd.", "preds": [0.159327672657691], "gold": true}
+{"premise": null, "hypothesis": "matching funds, consists of a piece of, a power energy systems ltd.", "preds": [0.032170163105027905], "gold": false}
+{"premise": null, "hypothesis": "esterre, has been the land of, fluorescent lamp", "preds": [0.0008696393992570495], "gold": false}
+{"premise": null, "hypothesis": "fluorescent lamp, is spoken in, esterre", "preds": [0.2414390787259476], "gold": true}
+{"premise": null, "hypothesis": "spanish match, could not be made without, south korea at the 2007 asian winter games", "preds": [0.053238444937617535], "gold": false}
+{"premise": null, "hypothesis": "spanish match, is made of, south korea at the 2007 asian winter games", "preds": [0.09465575309639446], "gold": true}
+{"premise": null, "hypothesis": "picea glauca, are bred for, floats (drink)", "preds": [0.0005715253596380587], "gold": false}
+{"premise": null, "hypothesis": "floats (drink), is produced from, picea glauca", "preds": [0.05223682365134391], "gold": true}
+{"premise": null, "hypothesis": "marty gateman, was still, bishop of knaresborough", "preds": [0.0003367119541346497], "gold": false}
+{"premise": null, "hypothesis": "marty gateman, was elected as, bishop of knaresborough", "preds": [0.00241400624905741], "gold": true}
+{"premise": null, "hypothesis": "bangladeshis in japan, had, uss tempest (1862)", "preds": [0.0023527917936802534], "gold": true}
+{"premise": null, "hypothesis": "uss tempest (1862), is worn by, bangladeshis in japan", "preds": [0.0076492251742221185], "gold": false}
+{"premise": null, "hypothesis": "signal (bridge), are often made of, jwing-ming yang", "preds": [0.130056745218126], "gold": false}
+{"premise": null, "hypothesis": "signal (bridge), is made of, jwing-ming yang", "preds": [0.008223101447606962], "gold": true}
+{"premise": null, "hypothesis": "aegiceras corniculatum, lives in, liverpool toxteth (uk parliament constituency)", "preds": [0.00012952726978832096], "gold": true}
+{"premise": null, "hypothesis": "aegiceras corniculatum, originated in, liverpool toxteth (uk parliament constituency)", "preds": [0.00017461808142460455], "gold": false}
+{"premise": null, "hypothesis": "whip-smart, can be made from, sybr green i", "preds": [0.007360263687459234], "gold": true}
+{"premise": null, "hypothesis": "whip-smart, is made of, sybr green i", "preds": [0.0009127038565361345], "gold": false}
+{"premise": null, "hypothesis": "grog (clay), contributed to, mayor of porto alegre", "preds": [0.0002746056441187972], "gold": true}
+{"premise": null, "hypothesis": "grog (clay), is a historian of, mayor of porto alegre", "preds": [0.11535605106724428], "gold": false}
+{"premise": null, "hypothesis": "fluorometholone, cures, psychotic depression", "preds": [0.00744248751075538], "gold": false}
+{"premise": null, "hypothesis": "fluorometholone, has been fighting, psychotic depression", "preds": [0.9938922689823725], "gold": true}
+{"premise": null, "hypothesis": "california sea slug, lives in, antrodoco", "preds": [0.05911082569998827], "gold": true}
+{"premise": null, "hypothesis": "california sea slug, originating in, antrodoco", "preds": [0.00022251014454183204], "gold": false}
+{"premise": null, "hypothesis": "the care of trees, is implemented in, chilkat pass", "preds": [0.006001784209048899], "gold": true}
+{"premise": null, "hypothesis": "chilkat pass, became a republic within, the care of trees", "preds": [0.004460612302963074], "gold": false}
+{"premise": null, "hypothesis": "wtto, feeds on, western swamp tortoise", "preds": [0.01061121965336509], "gold": true}
+{"premise": null, "hypothesis": "wtto, had eaten, western swamp tortoise", "preds": [0.0005397850222584322], "gold": false}
+{"premise": null, "hypothesis": "soundex, must be used for, doggles", "preds": [0.04557026717395646], "gold": false}
+{"premise": null, "hypothesis": "doggles, is made of, soundex", "preds": [0.03520855368938142], "gold": true}
+{"premise": null, "hypothesis": "sechelt indian band, have, war cross (greece)", "preds": [0.0009219719213878208], "gold": true}
+{"premise": null, "hypothesis": "war cross (greece), is worn by, sechelt indian band", "preds": [0.0007516507542820183], "gold": false}
+{"premise": null, "hypothesis": "hafthoz, only pays, the last crusade", "preds": [0.021064326332924654], "gold": false}
+{"premise": null, "hypothesis": "the last crusade, is accepted in, hafthoz", "preds": [0.0010319129383140613], "gold": true}
+{"premise": null, "hypothesis": "nes sound format, is worn by, moroccans in spain", "preds": [0.1087062062795423], "gold": true}
+{"premise": null, "hypothesis": "moroccans in spain, attended in, nes sound format", "preds": [0.0005519741501211484], "gold": false}
+{"premise": null, "hypothesis": "melocanna, lives in, bedfordshire south (european parliament constituency)", "preds": [0.000802881290731472], "gold": true}
+{"premise": null, "hypothesis": "melocanna, are natives of, bedfordshire south (european parliament constituency)", "preds": [0.05212526747218066], "gold": false}
+{"premise": null, "hypothesis": "thuringian sausage, is manufactured in, obubra", "preds": [0.0004111588057032489], "gold": true}
+{"premise": null, "hypothesis": "obubra, is the home of, thuringian sausage", "preds": [0.004011164984492888], "gold": false}
+{"premise": null, "hypothesis": "adenostoma, lives in, le bousquet", "preds": [0.001974329381821238], "gold": true}
+{"premise": null, "hypothesis": "le bousquet, is the country of, adenostoma", "preds": [0.16432971000299718], "gold": false}
+{"premise": null, "hypothesis": "nawallo, is located near, inmos microprocessor factory", "preds": [0.0013862357911167966], "gold": true}
+{"premise": null, "hypothesis": "nawallo, is situated at the foot of, inmos microprocessor factory", "preds": [0.0007431569199384813], "gold": false}
+{"premise": null, "hypothesis": "iris cristata, lives in, eindhoven railway station", "preds": [0.09469301062718749], "gold": true}
+{"premise": null, "hypothesis": "iris cristata, is the dog of, eindhoven railway station", "preds": [0.0023448353465117533], "gold": false}
+{"premise": null, "hypothesis": "vactrain, is made of, average betty", "preds": [0.11841129944828455], "gold": false}
+{"premise": null, "hypothesis": "average betty, can be used in, vactrain", "preds": [0.0830432962702084], "gold": true}
+{"premise": null, "hypothesis": "marmosa, were brought to, kowloon west (constituency)", "preds": [0.0006279113968753469], "gold": false}
+{"premise": null, "hypothesis": "marmosa, lives in, kowloon west (constituency)", "preds": [0.0006469847992242039], "gold": true}
+{"premise": null, "hypothesis": "bodle, are the children of, gilbert klingel", "preds": [0.0021590467543569636], "gold": true}
+{"premise": null, "hypothesis": "bodle, is the son of, gilbert klingel", "preds": [0.0003693755444739155], "gold": false}
+{"premise": null, "hypothesis": "armageddon now, lives in, essing", "preds": [0.04613025189898812], "gold": true}
+{"premise": null, "hypothesis": "armageddon now, are confined to, essing", "preds": [0.14654410942205642], "gold": false}
+{"premise": null, "hypothesis": "kstw, was known in, yuen long station", "preds": [0.0019059037734868167], "gold": true}
+{"premise": null, "hypothesis": "yuen long station, speaks, kstw", "preds": [0.24726389062644855], "gold": false}
+{"premise": null, "hypothesis": "stjepan musulin, invented, coombe country park", "preds": [0.1624840398856487], "gold": false}
+{"premise": null, "hypothesis": "stjepan musulin, designed, coombe country park", "preds": [0.043637459576444715], "gold": true}
+{"premise": null, "hypothesis": "carbonade flamande, is the flesh of, lesser yellowlegs", "preds": [0.008131222548038441], "gold": false}
+{"premise": null, "hypothesis": "carbonade flamande, is produced from, lesser yellowlegs", "preds": [0.000993825200729881], "gold": true}
+{"premise": null, "hypothesis": "lesser yellowlegs, is a fish with, directv-11", "preds": [0.018821104814384815], "gold": false}
+{"premise": null, "hypothesis": "lesser yellowlegs, is covered in, directv-11", "preds": [0.0035874160549590473], "gold": true}
+{"premise": null, "hypothesis": "henry ames blood, conquered, bengeworth", "preds": [0.009038102268343007], "gold": true}
+{"premise": null, "hypothesis": "henry ames blood, had retaken, bengeworth", "preds": [0.0006937756296701014], "gold": false}
+{"premise": null, "hypothesis": "sinornis, is said to be found in, hostie", "preds": [0.0009370527834753339], "gold": true}
+{"premise": null, "hypothesis": "sinornis, lives in, hostie", "preds": [0.24261889162753303], "gold": false}
+{"premise": null, "hypothesis": "aircrew badge, is worn by, united states ambassador to chad", "preds": [0.18109016994536725], "gold": true}
+{"premise": null, "hypothesis": "united states ambassador to chad, escaped in, aircrew badge", "preds": [0.0007527238874553976], "gold": false}
+{"premise": null, "hypothesis": "pipe spring national monument, lies at the foot of, villorba", "preds": [0.24131612705445343], "gold": false}
+{"premise": null, "hypothesis": "pipe spring national monument, is located near, villorba", "preds": [0.2160982298940885], "gold": true}
+{"premise": null, "hypothesis": "human respiratory syncytial virus, can be treated with, methyl salicylate", "preds": [0.005493680566385273], "gold": false}
+{"premise": null, "hypothesis": "human respiratory syncytial virus, may be relieved by, methyl salicylate", "preds": [0.06540003450729842], "gold": true}
+{"premise": null, "hypothesis": "krautergersheim, speaks, wcmc-fm", "preds": [0.009189707528749147], "gold": true}
+{"premise": null, "hypothesis": "wcmc-fm, is the language of, krautergersheim", "preds": [0.002485442875566124], "gold": false}
+{"premise": null, "hypothesis": "william duer (u.s. congressman), became, running of the brides", "preds": [0.03054766602135417], "gold": true}
+{"premise": null, "hypothesis": "william duer (u.s. congressman), was called and made, running of the brides", "preds": [0.00045720423676909316], "gold": false}
+{"premise": null, "hypothesis": "lupo class frigate, is used with, maria rosa calvo-manzano", "preds": [0.0002388726816619502], "gold": true}
+{"premise": null, "hypothesis": "lupo class frigate, is a must in, maria rosa calvo-manzano", "preds": [0.0020433821783442663], "gold": false}
+{"premise": null, "hypothesis": "snow cream, is prepared by the addition of, pozole", "preds": [0.0006308025531501782], "gold": false}
+{"premise": null, "hypothesis": "pozole, includes, snow cream", "preds": [0.000623500523610987], "gold": true}
+{"premise": null, "hypothesis": "fiasco (bottle), was headed by, muhammad akbar bhatti", "preds": [0.00993035658569541], "gold": false}
+{"premise": null, "hypothesis": "muhammad akbar bhatti, plays in, fiasco (bottle)", "preds": [0.00023562319426229106], "gold": true}
+{"premise": null, "hypothesis": "berkovich tip, feeds on, gambian pouched rat", "preds": [0.021044089436373425], "gold": true}
+{"premise": null, "hypothesis": "berkovich tip, are fond of, gambian pouched rat", "preds": [0.0008274685893663869], "gold": false}
+{"premise": null, "hypothesis": "science fiction on television, controlled, berenty", "preds": [0.15176191490445629], "gold": true}
+{"premise": null, "hypothesis": "science fiction on television, is the emperor of, berenty", "preds": [0.12186947947192817], "gold": false}
+{"premise": null, "hypothesis": "pozzolana, lives in, amphoe don sak", "preds": [0.0009602689012944143], "gold": true}
+{"premise": null, "hypothesis": "pozzolana, withdrew from, amphoe don sak", "preds": [0.0010478872955984597], "gold": false}
+{"premise": null, "hypothesis": "claravis (genus), lives in, therapia lane tram stop", "preds": [0.008568628840794845], "gold": true}
+{"premise": null, "hypothesis": "claravis (genus), is confined to, therapia lane tram stop", "preds": [0.0009855101915628994], "gold": false}
+{"premise": null, "hypothesis": "rhosymedre (hymn tune), lives in, gegharkunik province", "preds": [0.0010203504663514051], "gold": false}
+{"premise": null, "hypothesis": "rhosymedre (hymn tune), had been kept in, gegharkunik province", "preds": [0.0055258684186229035], "gold": true}
+{"premise": null, "hypothesis": "ali al-daqbaashi, includes, soki", "preds": [0.0002525800818091173], "gold": true}
+{"premise": null, "hypothesis": "ali al-daqbaashi, is simply, soki", "preds": [0.00020024865476653275], "gold": false}
+{"premise": null, "hypothesis": "southwaite services, unfortunately has, southport lord street railway station", "preds": [0.994129257797284], "gold": false}
+{"premise": null, "hypothesis": "southwaite services, is located near, southport lord street railway station", "preds": [0.9990416385320111], "gold": true}
+{"premise": null, "hypothesis": "national photographic archive, would remain within, red-shouldered hawk", "preds": [0.017779504774508736], "gold": false}
+{"premise": null, "hypothesis": "national photographic archive, was controlled by, red-shouldered hawk", "preds": [0.010143919144847247], "gold": true}
+{"premise": null, "hypothesis": "white sapote, lives in, konstantin velichkov metro station", "preds": [0.002054915715955785], "gold": true}
+{"premise": null, "hypothesis": "white sapote, belongs to, konstantin velichkov metro station", "preds": [0.005749983011902882], "gold": false}
+{"premise": null, "hypothesis": "kuxl (defunct), returned to, bannach", "preds": [0.20526341406061538], "gold": false}
+{"premise": null, "hypothesis": "kuxl (defunct), lives in, bannach", "preds": [0.11175772361593872], "gold": true}
+{"premise": null, "hypothesis": "ignacio rodriguez-iturbe, is made of, gun truck", "preds": [0.0005529281948288833], "gold": true}
+{"premise": null, "hypothesis": "ignacio rodriguez-iturbe, is a piece of, gun truck", "preds": [0.00031629791341819535], "gold": false}
+{"premise": null, "hypothesis": "fred valentine, are distributed throughout, executive residence", "preds": [0.040551226052038536], "gold": false}
+{"premise": null, "hypothesis": "fred valentine, lives in, executive residence", "preds": [0.0006738664456005794], "gold": true}
+{"premise": null, "hypothesis": "uss clearwater county (lst-602), was given, viscount barrington", "preds": [0.0015908294309158744], "gold": true}
+{"premise": null, "hypothesis": "viscount barrington, may be divided between, uss clearwater county (lst-602)", "preds": [0.0013392075642025825], "gold": false}
+{"premise": null, "hypothesis": "nduja, is applied to the surface of, achillea millefolium", "preds": [0.0019912855225794335], "gold": false}
+{"premise": null, "hypothesis": "achillea millefolium, includes, nduja", "preds": [0.0015566458127339589], "gold": true}
+{"premise": null, "hypothesis": "comedy death-ray (album), was measured with, gaiola (construction)", "preds": [0.1226513132921972], "gold": false}
+{"premise": null, "hypothesis": "gaiola (construction), measures, comedy death-ray (album)", "preds": [0.003910523848581371], "gold": true}
+{"premise": null, "hypothesis": "mee (psychedelic), is found in, fideo", "preds": [0.05231067161924152], "gold": false}
+{"premise": null, "hypothesis": "fideo, contains, mee (psychedelic)", "preds": [0.05258014199388966], "gold": true}
+{"premise": null, "hypothesis": "estragole, is found in, sweet onion", "preds": [0.9973636068981921], "gold": false}
+{"premise": null, "hypothesis": "sweet onion, contains, estragole", "preds": [0.9988693813787648], "gold": true}
+{"premise": null, "hypothesis": "tiv language, is spoken in, drosh", "preds": [0.0012202657742835799], "gold": true}
+{"premise": null, "hypothesis": "tiv language, was the language in, drosh", "preds": [0.004092913574517187], "gold": false}
+{"premise": null, "hypothesis": "dtd (tv station), was recorded of, sega worldwide soccer", "preds": [0.0010036008355420734], "gold": false}
+{"premise": null, "hypothesis": "sega worldwide soccer, measures, dtd (tv station)", "preds": [0.1723056289471554], "gold": true}
+{"premise": null, "hypothesis": "baron harmsworth, was the emperor of, birkenhead public library", "preds": [0.15190492780628956], "gold": false}
+{"premise": null, "hypothesis": "baron harmsworth, controlled, birkenhead public library", "preds": [0.9976794551479122], "gold": true}
+{"premise": null, "hypothesis": "belgian rock, controlled, blackbraes national park", "preds": [0.2371668031593433], "gold": true}
+{"premise": null, "hypothesis": "belgian rock, is the emperor of, blackbraes national park", "preds": [0.034934796460721784], "gold": false}
+{"premise": null, "hypothesis": "cape north vodka, includes, wenchang chicken", "preds": [0.233774552070538], "gold": true}
+{"premise": null, "hypothesis": "wenchang chicken, is prepared by the addition of, cape north vodka", "preds": [0.1536399023809863], "gold": false}
+{"premise": null, "hypothesis": "malolo, suffers from, afrosphere", "preds": [0.2203538207886161], "gold": true}
+{"premise": null, "hypothesis": "afrosphere, increased throughout, malolo", "preds": [0.0005686638759951346], "gold": false}
+{"premise": null, "hypothesis": "uss st. lo (cve-63), is made of, york regional road 30", "preds": [0.05795358475882906], "gold": true}
+{"premise": null, "hypothesis": "uss st. lo (cve-63), is a piece of, york regional road 30", "preds": [0.004831114888784516], "gold": false}
+{"premise": null, "hypothesis": "artyom vitalyevich anisimov, contributed to, united states ambassador to chad", "preds": [0.9459562006701414], "gold": true}
+{"premise": null, "hypothesis": "artyom vitalyevich anisimov, led on the part of, united states ambassador to chad", "preds": [0.09951203407773057], "gold": false}
+{"premise": null, "hypothesis": "killas, became the leader of, bangladesh at the asian games", "preds": [0.15148022616880713], "gold": false}
+{"premise": null, "hypothesis": "killas, plays in, bangladesh at the asian games", "preds": [0.11501492456896933], "gold": true}
+{"premise": null, "hypothesis": "sinornis, appeared in, lewis pass", "preds": [0.1393140704476274], "gold": true}
+{"premise": null, "hypothesis": "sinornis, lives in, lewis pass", "preds": [0.0006125624105400296], "gold": false}
+{"premise": null, "hypothesis": "couderc noir, is produced from, kunjin virus", "preds": [0.01538699701908175], "gold": true}
+{"premise": null, "hypothesis": "kunjin virus, are reared for, couderc noir", "preds": [0.013369400134693676], "gold": false}
+{"premise": null, "hypothesis": "the producer, is rich with, dapagliflozin", "preds": [0.0009449507414636127], "gold": false}
+{"premise": null, "hypothesis": "the producer, are found to contain, dapagliflozin", "preds": [0.0017263424639554215], "gold": true}
+{"premise": null, "hypothesis": "baron burgh, begin producing, cacciucco", "preds": [0.002490688790653506], "gold": false}
+{"premise": null, "hypothesis": "baron burgh, produces, cacciucco", "preds": [0.004933515623095963], "gold": true}
+{"premise": null, "hypothesis": "new zealand rockwren, came from, tippecanoe school corporation", "preds": [0.0016940369901842778], "gold": false}
+{"premise": null, "hypothesis": "new zealand rockwren, lives in, tippecanoe school corporation", "preds": [0.0007132660172398109], "gold": true}
+{"premise": null, "hypothesis": "tolfenamic acid, cures, coloboma", "preds": [0.006419553660098332], "gold": false}
+{"premise": null, "hypothesis": "tolfenamic acid, is indicated in the treatment of, coloboma", "preds": [0.9958985630956825], "gold": true}
+{"premise": null, "hypothesis": "proteus syndrome, usually is accompanied by, binge eating disorder", "preds": [0.020316044778435904], "gold": true}
+{"premise": null, "hypothesis": "proteus syndrome, causes, binge eating disorder", "preds": [0.0005500075197026333], "gold": false}
+{"premise": null, "hypothesis": "recoaro terme, is a member of, air miles (charter broker)", "preds": [0.0036825744379114234], "gold": true}
+{"premise": null, "hypothesis": "recoaro terme, left to join, air miles (charter broker)", "preds": [0.00015783824684362235], "gold": false}
+{"premise": null, "hypothesis": "eugene h. merrill, questioned, oborci", "preds": [0.0003365933190660475], "gold": true}
+{"premise": null, "hypothesis": "eugene h. merrill, was the critic of, oborci", "preds": [0.0016293648883453082], "gold": false}
+{"premise": null, "hypothesis": "rainer fischer, reigned in, svijany", "preds": [0.000510579580883852], "gold": true}
+{"premise": null, "hypothesis": "rainer fischer, conquered, svijany", "preds": [0.0013325918374504364], "gold": false}
+{"premise": null, "hypothesis": "perigiali, to remain within, drumometer", "preds": [0.0006802138889981935], "gold": false}
+{"premise": null, "hypothesis": "perigiali, was controlled by, drumometer", "preds": [0.01670027182178513], "gold": true}
+{"premise": null, "hypothesis": "gheenoe, measures, boong-ga boong-ga", "preds": [0.00035224016856144624], "gold": true}
+{"premise": null, "hypothesis": "boong-ga boong-ga, totals, gheenoe", "preds": [0.0002597922645916073], "gold": false}
+{"premise": null, "hypothesis": "tandoori masala, is high in, cyclic guanosine monophosphate", "preds": [0.0007372259630427647], "gold": false}
+{"premise": null, "hypothesis": "tandoori masala, contains, cyclic guanosine monophosphate", "preds": [0.003939193271185026], "gold": true}
+{"premise": null, "hypothesis": "drimys winteri, has been mistaken for, large wall", "preds": [0.0065085737237607355], "gold": false}
+{"premise": null, "hypothesis": "large wall, is not, drimys winteri", "preds": [0.22700886055244246], "gold": true}
+{"premise": null, "hypothesis": "el torito (cd-rom standard), is led by, 1987 new york jets season", "preds": [0.001723750337991825], "gold": false}
+{"premise": null, "hypothesis": "1987 new york jets season, plays in, el torito (cd-rom standard)", "preds": [0.014177993318233717], "gold": true}
+{"premise": null, "hypothesis": "pasquale del pezzo, became emperor of, lackawanna state park", "preds": [0.0016408691433035805], "gold": false}
+{"premise": null, "hypothesis": "pasquale del pezzo, controlled, lackawanna state park", "preds": [0.0015661236728466421], "gold": true}
+{"premise": null, "hypothesis": "francis a. shoup, invented, garden railway", "preds": [0.9322646551913951], "gold": false}
+{"premise": null, "hypothesis": "francis a. shoup, designed, garden railway", "preds": [0.9995656845592065], "gold": true}
+{"premise": null, "hypothesis": "julius jaenzon, married and had, treaty of falaise", "preds": [0.019822246365531482], "gold": false}
+{"premise": null, "hypothesis": "treaty of falaise, is the son of, julius jaenzon", "preds": [0.0029082216073202383], "gold": true}
+{"premise": null, "hypothesis": "the baby show (30 rock), are imported from, verdigris river", "preds": [0.11697182577426335], "gold": false}
+{"premise": null, "hypothesis": "the baby show (30 rock), is abundant in, verdigris river", "preds": [0.019185200170688865], "gold": true}
+{"premise": null, "hypothesis": "giovanni battista brambilla, moved to, ada amendments act of 2008", "preds": [0.0019565065668604165], "gold": false}
+{"premise": null, "hypothesis": "giovanni battista brambilla, lived in, ada amendments act of 2008", "preds": [0.0012850261231267535], "gold": true}
+{"premise": null, "hypothesis": "blaise thompson, is served with, mumbo sauce", "preds": [0.003003439563293131], "gold": false}
+{"premise": null, "hypothesis": "blaise thompson, was eaten with, mumbo sauce", "preds": [0.0010457109615268911], "gold": true}
+{"premise": null, "hypothesis": "the eight garudhammas, measures, sharmagne leland-st. john", "preds": [0.06235976200535026], "gold": true}
+{"premise": null, "hypothesis": "sharmagne leland-st. john, could not be less than, the eight garudhammas", "preds": [0.00018743213541261294], "gold": false}
+{"premise": null, "hypothesis": "nudnik (cartoon), measures, micron (skate company)", "preds": [0.004294763697113069], "gold": true}
+{"premise": null, "hypothesis": "micron (skate company), amounts to, nudnik (cartoon)", "preds": [0.0012579952883778334], "gold": false}
+{"premise": null, "hypothesis": "tayberry, includes, nduja", "preds": [0.11748186709818942], "gold": true}
+{"premise": null, "hypothesis": "tayberry, is rubbed with, nduja", "preds": [0.0006097025603124528], "gold": false}
+{"premise": null, "hypothesis": "nanbanzuke, contains, tetraethyllead", "preds": [0.10835370318639942], "gold": true}
+{"premise": null, "hypothesis": "tetraethyllead, is found in, nanbanzuke", "preds": [0.23457138395189425], "gold": false}
+{"premise": null, "hypothesis": "dromaius, are natives of, buggenum", "preds": [0.022533850445675796], "gold": false}
+{"premise": null, "hypothesis": "dromaius, lives in, buggenum", "preds": [0.030687856413569248], "gold": true}
+{"premise": null, "hypothesis": "fresno pepper, have been found in, faycelles", "preds": [0.15623190815343735], "gold": false}
+{"premise": null, "hypothesis": "fresno pepper, lives in, faycelles", "preds": [0.12896826485549895], "gold": true}
+{"premise": null, "hypothesis": "callisia, is diffused throughout, boa nova", "preds": [0.0007382690716668527], "gold": false}
+{"premise": null, "hypothesis": "callisia, lives in, boa nova", "preds": [0.0005632103556889589], "gold": true}
+{"premise": null, "hypothesis": "eugene young (character), are cut from, leinefelde-worbis", "preds": [0.0008656158432900907], "gold": false}
+{"premise": null, "hypothesis": "eugene young (character), is made of, leinefelde-worbis", "preds": [0.04134275030683143], "gold": true}
+{"premise": null, "hypothesis": "kapampangan language, was the language in, shanklin railway station", "preds": [0.12930314787261177], "gold": false}
+{"premise": null, "hypothesis": "kapampangan language, is spoken in, shanklin railway station", "preds": [0.0004607795366861067], "gold": true}
+{"premise": null, "hypothesis": "2010 dresden anti-fascist blockade, consists of, tombos", "preds": [0.010624928709252135], "gold": false}
+{"premise": null, "hypothesis": "tombos, was controlled by, 2010 dresden anti-fascist blockade", "preds": [0.011105965111910587], "gold": true}
+{"premise": null, "hypothesis": "dunfermline city chambers, swarmed with, afl new zealand", "preds": [0.11539392509213747], "gold": false}
+{"premise": null, "hypothesis": "dunfermline city chambers, is inhabited by, afl new zealand", "preds": [0.0005261666043245294], "gold": true}
+{"premise": null, "hypothesis": "comparator, is equal to, bad reputation (glee)", "preds": [0.21158007288710867], "gold": false}
+{"premise": null, "hypothesis": "bad reputation (glee), measures, comparator", "preds": [0.00011286791391657003], "gold": true}
+{"premise": null, "hypothesis": "praeneste fibula, served as, bishop of knaresborough", "preds": [0.011203150029772624], "gold": false}
+{"premise": null, "hypothesis": "praeneste fibula, was elected as, bishop of knaresborough", "preds": [0.0034090500313560534], "gold": true}
+{"premise": null, "hypothesis": "bernie mireault, conquered, nkhotakota district", "preds": [0.010698510995637567], "gold": true}
+{"premise": null, "hypothesis": "nkhotakota district, was recaptured by, bernie mireault", "preds": [0.002589096597489904], "gold": false}
+{"premise": null, "hypothesis": "geologists range, is located near, sheepshead bay houses", "preds": [0.005104492452002285], "gold": true}
+{"premise": null, "hypothesis": "geologists range, lies at the foot of, sheepshead bay houses", "preds": [0.020870968279611546], "gold": false}
+{"premise": null, "hypothesis": "jarmania, lives in, reichenburg", "preds": [0.0009865828719572978], "gold": true}
+{"premise": null, "hypothesis": "jarmania, are abundant in, reichenburg", "preds": [0.0015913068568316757], "gold": false}
+{"premise": null, "hypothesis": "anogeissus, usually covered with, nanjing war crimes tribunal", "preds": [0.027860585147647277], "gold": true}
+{"premise": null, "hypothesis": "anogeissus, is covered in, nanjing war crimes tribunal", "preds": [0.0029254177028593675], "gold": false}
+{"premise": null, "hypothesis": "tallkrogen, has been inhabited by, nmp (art collective)", "preds": [0.019291564832033647], "gold": true}
+{"premise": null, "hypothesis": "nmp (art collective), lives in, tallkrogen", "preds": [0.007779876747059378], "gold": false}
+{"premise": null, "hypothesis": "siberian accentor, lives in, gordexola", "preds": [0.02638131523413345], "gold": true}
+{"premise": null, "hypothesis": "gordexola, is the country of, siberian accentor", "preds": [0.06455689778539159], "gold": false}
+{"premise": null, "hypothesis": "princess marie-gabrielle of nassau, measures, ulla barding-poulsen", "preds": [0.007658195231275644], "gold": true}
+{"premise": null, "hypothesis": "ulla barding-poulsen, is millionths of, princess marie-gabrielle of nassau", "preds": [0.004758963526124704], "gold": false}
+{"premise": null, "hypothesis": "belgium in the eurovision song contest 2002, is the language in, dobri", "preds": [0.06879749522634837], "gold": false}
+{"premise": null, "hypothesis": "dobri, speaks, belgium in the eurovision song contest 2002", "preds": [0.0019866671675505265], "gold": true}
+{"premise": null, "hypothesis": "lesser yellowlegs, lives in, crescent bend", "preds": [0.00022966318866268765], "gold": true}
+{"premise": null, "hypothesis": "lesser yellowlegs, is the bird of, crescent bend", "preds": [0.00022829198190166267], "gold": false}
+{"premise": null, "hypothesis": "face the facts, came from, gold coast (connecticut)", "preds": [0.004158685832473918], "gold": false}
+{"premise": null, "hypothesis": "face the facts, is spoken in, gold coast (connecticut)", "preds": [0.004772523040072751], "gold": true}
+{"premise": null, "hypothesis": "creodonta, feeds on, bassina", "preds": [0.814647573569912], "gold": true}
+{"premise": null, "hypothesis": "creodonta, is going down to, bassina", "preds": [0.0005441070825282779], "gold": false}
+{"premise": null, "hypothesis": "toxicodendron radicans, lives in, nieuwerkerk", "preds": [0.004351477062909781], "gold": true}
+{"premise": null, "hypothesis": "toxicodendron radicans, are found throughout, nieuwerkerk", "preds": [0.06702924798041354], "gold": false}
+{"premise": null, "hypothesis": "league of communists of slovenia, is prevalent in, bradi", "preds": [0.13621072017742375], "gold": false}
+{"premise": null, "hypothesis": "league of communists of slovenia, has been used in, bradi", "preds": [0.0008543212527448718], "gold": true}
+{"premise": null, "hypothesis": "united states ambassador to bahrain, contributed to, minister of state (with special responsibility for labour affairs)", "preds": [0.03249846861080391], "gold": false}
+{"premise": null, "hypothesis": "united states ambassador to bahrain, can develop, minister of state (with special responsibility for labour affairs)", "preds": [0.0001631436683524612], "gold": true}
+{"premise": null, "hypothesis": "lake beloye (nizhny novgorod oblast), is the port on, meanwood valley trail", "preds": [0.0009545765721369337], "gold": false}
+{"premise": null, "hypothesis": "lake beloye (nizhny novgorod oblast), is next to, meanwood valley trail", "preds": [0.0005363283959875509], "gold": true}
+{"premise": null, "hypothesis": "la chapelle-saint-mesmin, largely consists of, frog legs", "preds": [0.000766045074874433], "gold": false}
+{"premise": null, "hypothesis": "la chapelle-saint-mesmin, includes, frog legs", "preds": [0.0005019363411718492], "gold": true}
+{"premise": null, "hypothesis": "greater asiatic yellow bat, flourished in, harashim", "preds": [0.00026816718063971123], "gold": false}
+{"premise": null, "hypothesis": "greater asiatic yellow bat, lives in, harashim", "preds": [0.0003306331135279894], "gold": true}
+{"premise": null, "hypothesis": "chelmsford high school, provides, line of beauty", "preds": [0.09487048001117082], "gold": true}
+{"premise": null, "hypothesis": "chelmsford high school, came to, line of beauty", "preds": [0.0019505481878852593], "gold": false}
+{"premise": null, "hypothesis": "redshirt theory, is processed into, diet soda", "preds": [0.005932492642096665], "gold": false}
+{"premise": null, "hypothesis": "redshirt theory, are converted into, diet soda", "preds": [0.003962500140648306], "gold": true}
+{"premise": null, "hypothesis": "county borough of carlisle, indicates the number of, battle of beaune-la-rolande", "preds": [0.015663163219133247], "gold": false}
+{"premise": null, "hypothesis": "battle of beaune-la-rolande, measures, county borough of carlisle", "preds": [0.20669884954644768], "gold": true}
+{"premise": null, "hypothesis": "kapal, will run down, synemon plana", "preds": [0.000300861496032756], "gold": false}
+{"premise": null, "hypothesis": "kapal, hunts, synemon plana", "preds": [0.003928585393474959], "gold": true}
+{"premise": null, "hypothesis": "didymium, lies on, minard castle", "preds": [0.015413760002370935], "gold": false}
+{"premise": null, "hypothesis": "didymium, is next to, minard castle", "preds": [0.0015526829729377578], "gold": true}
+{"premise": null, "hypothesis": "2006 south american championships in athletics, is made of, jean-michel bombardier", "preds": [0.0004336598952851545], "gold": false}
+{"premise": null, "hypothesis": "jean-michel bombardier, has been used in, 2006 south american championships in athletics", "preds": [0.0029770046072316037], "gold": true}
+{"premise": null, "hypothesis": "lord lieutenant of berkshire, was established at, monti della tolfa", "preds": [0.01374622012602189], "gold": false}
+{"premise": null, "hypothesis": "lord lieutenant of berkshire, was used by, monti della tolfa", "preds": [0.0012696786817321115], "gold": true}
+{"premise": null, "hypothesis": "layforce, is made of, enclosed oppidum", "preds": [0.1407224540023866], "gold": false}
+{"premise": null, "hypothesis": "layforce, may be built of, enclosed oppidum", "preds": [0.003280363417328902], "gold": true}
+{"premise": null, "hypothesis": "tokutomi mathematics contest, was surrounded by, pashand", "preds": [0.002478111596291077], "gold": false}
+{"premise": null, "hypothesis": "tokutomi mathematics contest, is next to, pashand", "preds": [0.0004084764760387549], "gold": true}
+{"premise": null, "hypothesis": "bubalus, form throughout, istana besar", "preds": [0.0008362603379037381], "gold": false}
+{"premise": null, "hypothesis": "bubalus, lives in, istana besar", "preds": [0.0035555267770079335], "gold": true}
+{"premise": null, "hypothesis": "rbc verviers-pepinster, contributed to, high sheriff of glamorgan", "preds": [0.0010861844918251262], "gold": true}
+{"premise": null, "hypothesis": "rbc verviers-pepinster, was elected a member of, high sheriff of glamorgan", "preds": [0.037700387209367914], "gold": false}
+{"premise": null, "hypothesis": "sweet onion, includes, cut brandy", "preds": [0.003413758932713007], "gold": true}
+{"premise": null, "hypothesis": "sweet onion, are high in, cut brandy", "preds": [0.0025806616805781335], "gold": false}
+{"premise": null, "hypothesis": "universal business language, contributed to, voice teacher", "preds": [0.24492872180767283], "gold": true}
+{"premise": null, "hypothesis": "universal business language, founded the institute of, voice teacher", "preds": [0.0006270765958570346], "gold": false}
+{"premise": null, "hypothesis": "okc-3s bayonet, is the language of, bad kissingen (district)", "preds": [0.011537230126840603], "gold": false}
+{"premise": null, "hypothesis": "bad kissingen (district), speaks, okc-3s bayonet", "preds": [0.004079741115544933], "gold": true}
+{"premise": null, "hypothesis": "shepherds' crusade, is spoken in, bonnebosq", "preds": [0.11203792173273164], "gold": true}
+{"premise": null, "hypothesis": "shepherds' crusade, was the language in, bonnebosq", "preds": [0.04167573195676816], "gold": false}
+{"premise": null, "hypothesis": "midhurst (uk electoral ward), lived in, personalism", "preds": [0.0004439408497862729], "gold": true}
+{"premise": null, "hypothesis": "midhurst (uk electoral ward), was born at, personalism", "preds": [0.11209871062746185], "gold": false}
+{"premise": null, "hypothesis": "lookout (clipper), is worn by, kaniyar", "preds": [0.004800657599509317], "gold": true}
+{"premise": null, "hypothesis": "kaniyar, must wear, lookout (clipper)", "preds": [0.01116127887592383], "gold": false}
+{"premise": null, "hypothesis": "friden flexowriter, sued and obtained, viscount addison", "preds": [0.000682956195664941], "gold": false}
+{"premise": null, "hypothesis": "viscount addison, was given, friden flexowriter", "preds": [0.00013351924443699703], "gold": true}
+{"premise": null, "hypothesis": "logictools, was born at, computer cluster", "preds": [0.01453326352855061], "gold": false}
+{"premise": null, "hypothesis": "logictools, lived in, computer cluster", "preds": [0.006297543758694124], "gold": true}
+{"premise": null, "hypothesis": "nimule national park, extended into, salmon river trail", "preds": [0.0012455973057812209], "gold": false}
+{"premise": null, "hypothesis": "nimule national park, is next to, salmon river trail", "preds": [0.004451672691773989], "gold": true}
+{"premise": null, "hypothesis": "galley head, trades with, video volunteers", "preds": [0.007454973685434074], "gold": false}
+{"premise": null, "hypothesis": "galley head, had relations with, video volunteers", "preds": [0.0008578965206081368], "gold": true}
+{"premise": null, "hypothesis": "graphical projection, measures, mukti (film)", "preds": [0.02575814583438968], "gold": true}
+{"premise": null, "hypothesis": "mukti (film), are given in terms of, graphical projection", "preds": [9.62980854878892e-05], "gold": false}
+{"premise": null, "hypothesis": "kixx, ruled, raouraoua", "preds": [0.001001067823591606], "gold": true}
+{"premise": null, "hypothesis": "raouraoua, was the estate of, kixx", "preds": [0.0006711259864615737], "gold": false}
+{"premise": null, "hypothesis": "nshima, is served with, diet soda", "preds": [0.001838221437102161], "gold": true}
+{"premise": null, "hypothesis": "diet soda, boiled with, nshima", "preds": [0.0007530818476240153], "gold": false}
+{"premise": null, "hypothesis": "daemon (classical mythology), is the son of, adrian havill", "preds": [0.00058132999326721], "gold": false}
+{"premise": null, "hypothesis": "daemon (classical mythology), was descended from, adrian havill", "preds": [0.008159653217284568], "gold": true}
+{"premise": null, "hypothesis": "habakkuk commentary, is made of, provinces of argentina", "preds": [0.0008539638143963413], "gold": false}
+{"premise": null, "hypothesis": "habakkuk commentary, should be made of, provinces of argentina", "preds": [0.009423865344431681], "gold": true}
+{"premise": null, "hypothesis": "chief justice of the common pleas, have advocated, couchette car", "preds": [0.001099355393244239], "gold": true}
+{"premise": null, "hypothesis": "chief justice of the common pleas, proposed, couchette car", "preds": [0.0006116084797456733], "gold": false}
+{"premise": null, "hypothesis": "andreapol, should remain within, m-real", "preds": [0.0002806837871149326], "gold": false}
+{"premise": null, "hypothesis": "andreapol, was controlled by, m-real", "preds": [0.019196794398979755], "gold": true}
+{"premise": null, "hypothesis": "aralvaimozhi, is the river of, melekeok (town)", "preds": [0.7819702470401925], "gold": false}
+{"premise": null, "hypothesis": "aralvaimozhi, flows through, melekeok (town)", "preds": [0.9954737633017803], "gold": true}
+{"premise": null, "hypothesis": "tubanti, plays in, tactical nuclear weapon", "preds": [0.002698620636331639], "gold": true}
+{"premise": null, "hypothesis": "tactical nuclear weapon, was headed by, tubanti", "preds": [0.0002017377059475578], "gold": false}
+{"premise": null, "hypothesis": "minister of state (with special responsibility for labour affairs), was given, liquid rocket propellants", "preds": [0.008173333566270036], "gold": true}
+{"premise": null, "hypothesis": "liquid rocket propellants, was the winner of, minister of state (with special responsibility for labour affairs)", "preds": [0.2124703577438687], "gold": false}
+{"premise": null, "hypothesis": "heat illness, causes, stasis dermatitis", "preds": [0.9993333453238931], "gold": true}
+{"premise": null, "hypothesis": "stasis dermatitis, occurs after, heat illness", "preds": [0.9770062127431056], "gold": false}
+{"premise": null, "hypothesis": "other worlds (science fiction), is accepted in, formby railway station", "preds": [0.0072739271671901085], "gold": true}
+{"premise": null, "hypothesis": "other worlds (science fiction), came from, formby railway station", "preds": [0.2282600158625464], "gold": false}
+{"premise": null, "hypothesis": "opus signinum, is not less than, lee joon-hyup", "preds": [0.025209181267594083], "gold": false}
+{"premise": null, "hypothesis": "lee joon-hyup, measures, opus signinum", "preds": [0.00021958894657198025], "gold": true}
+{"premise": null, "hypothesis": "dharmasthala, once belonged to, curridabat", "preds": [0.006452308052406874], "gold": true}
+{"premise": null, "hypothesis": "dharmasthala, was taken from, curridabat", "preds": [0.2497493718149394], "gold": false}
+{"premise": null, "hypothesis": "alexandra sviridova, conquered, blandiana", "preds": [0.0018935343495908308], "gold": true}
+{"premise": null, "hypothesis": "alexandra sviridova, reconquered, blandiana", "preds": [0.00027245918901164234], "gold": false}
+{"premise": null, "hypothesis": "pencil sharpener, plays in, production engineering kmutt", "preds": [0.0036146251722093403], "gold": true}
+{"premise": null, "hypothesis": "pencil sharpener, became the leader of, production engineering kmutt", "preds": [0.0008357833867225772], "gold": false}
+{"premise": null, "hypothesis": "west african dwarf (sheep), is a piece of, allylamine", "preds": [0.001023866913244853], "gold": false}
+{"premise": null, "hypothesis": "west african dwarf (sheep), is made of, allylamine", "preds": [0.0010519403669383975], "gold": true}
+{"premise": null, "hypothesis": "andouille, contains, locust bean gum", "preds": [0.9352691165013802], "gold": true}
+{"premise": null, "hypothesis": "andouille, provide, locust bean gum", "preds": [0.028911354449065285], "gold": false}
+{"premise": null, "hypothesis": "steven deschain, is the language of, solanas", "preds": [0.13322276728835886], "gold": false}
+{"premise": null, "hypothesis": "solanas, speaks, steven deschain", "preds": [0.033037267096155454], "gold": true}
+{"premise": null, "hypothesis": "alfentanil, cures, prinzmetal's angina", "preds": [0.9929394575888262], "gold": false}
+{"premise": null, "hypothesis": "prinzmetal's angina, can be treated with, alfentanil", "preds": [0.9996241873059915], "gold": true}
+{"premise": null, "hypothesis": "reverse bite injury, can be treated with, fluorometholone", "preds": [0.9996679363950826], "gold": true}
+{"premise": null, "hypothesis": "reverse bite injury, is treated with, fluorometholone", "preds": [0.9996128312770469], "gold": false}
+{"premise": null, "hypothesis": "due carrare, made a fortune from, len de l'el", "preds": [0.05393188774419466], "gold": false}
+{"premise": null, "hypothesis": "due carrare, bought and sold, len de l'el", "preds": [0.0010075933895584144], "gold": true}
+{"premise": null, "hypothesis": "foundation for polish-german reconciliation, measures, pishon", "preds": [0.0006244544316891809], "gold": false}
+{"premise": null, "hypothesis": "foundation for polish-german reconciliation, is associated with, pishon", "preds": [0.0007051891402017341], "gold": true}
+{"premise": null, "hypothesis": "breaker (reef), is made of, russians in spain", "preds": [0.0007459587914053212], "gold": false}
+{"premise": null, "hypothesis": "breaker (reef), were also made of, russians in spain", "preds": [0.03305884261077713], "gold": true}
+{"premise": null, "hypothesis": "abbenrode, trades with, safoora goth", "preds": [0.0008046694116081721], "gold": false}
+{"premise": null, "hypothesis": "abbenrode, would operate with, safoora goth", "preds": [0.0011233777789380617], "gold": true}
+{"premise": null, "hypothesis": "1976 pittsburgh panthers football team, was used by, poverty reduction strategy paper", "preds": [0.0002350279095656438], "gold": false}
+{"premise": null, "hypothesis": "1976 pittsburgh panthers football team, was studied by, poverty reduction strategy paper", "preds": [0.0004011445269487268], "gold": true}
+{"premise": null, "hypothesis": "sprained ankle, causes, heat illness", "preds": [0.0014759118879167366], "gold": false}
+{"premise": null, "hypothesis": "sprained ankle, may cause, heat illness", "preds": [0.0017057497833397606], "gold": true}
+{"premise": null, "hypothesis": "alcyonidium diaphanum, is native to, calestano", "preds": [0.9707734820122277], "gold": false}
+{"premise": null, "hypothesis": "alcyonidium diaphanum, lives in, calestano", "preds": [0.000782914154819403], "gold": true}
+{"premise": null, "hypothesis": "muton (action force), will often remove, excelsior (typeface)", "preds": [0.07058655829107507], "gold": true}
+{"premise": null, "hypothesis": "muton (action force), removes, excelsior (typeface)", "preds": [0.017268781934049404], "gold": false}
+{"premise": null, "hypothesis": "derek brandon, includes, fabada asturiana", "preds": [0.0002702536166540037], "gold": true}
+{"premise": null, "hypothesis": "derek brandon, are loaded with, fabada asturiana", "preds": [0.002236502391026518], "gold": false}
+{"premise": null, "hypothesis": "prinzmetal's angina, causes, bullous pemphigoid", "preds": [0.7168449535560564], "gold": true}
+{"premise": null, "hypothesis": "bullous pemphigoid, is characterized by a onset of, prinzmetal's angina", "preds": [0.0012584124858903145], "gold": false}
+{"premise": null, "hypothesis": "kit kat guest ranch, suffers from, chaucer (crater)", "preds": [0.0010549503618185185], "gold": true}
+{"premise": null, "hypothesis": "chaucer (crater), increased throughout, kit kat guest ranch", "preds": [0.010779214130813675], "gold": false}
+{"premise": null, "hypothesis": "tamna, ruled, whizzer (roller coaster)", "preds": [0.0008135810669423482], "gold": true}
+{"premise": null, "hypothesis": "whizzer (roller coaster), was conquered by, tamna", "preds": [0.0032720186560279974], "gold": false}
+{"premise": null, "hypothesis": "wanton-lyman-hazard house, designed, texas state treasurer", "preds": [0.0008481521733497699], "gold": true}
+{"premise": null, "hypothesis": "wanton-lyman-hazard house, invented, texas state treasurer", "preds": [0.0018786937935315606], "gold": false}
+{"premise": null, "hypothesis": "sylvestre ratanga, was defeated at, choe kum-chol", "preds": [0.0240248731153046], "gold": true}
+{"premise": null, "hypothesis": "sylvestre ratanga, was defeated at the battle of, choe kum-chol", "preds": [0.0011283545472971501], "gold": false}
+{"premise": null, "hypothesis": "chief justice of the common pleas, may perform, nilotinib", "preds": [0.1627950524660018], "gold": true}
+{"premise": null, "hypothesis": "nilotinib, is conducted by, chief justice of the common pleas", "preds": [0.0006857879643855647], "gold": false}
+{"premise": null, "hypothesis": "no substitute love, is made of, mystery shopping", "preds": [0.008129225064877343], "gold": true}
+{"premise": null, "hypothesis": "no substitute love, consists of a piece of, mystery shopping", "preds": [0.0033853572112658714], "gold": false}
+{"premise": null, "hypothesis": "cwm gwyn, is the language of, mount morrison (california)", "preds": [0.15781227211082655], "gold": false}
+{"premise": null, "hypothesis": "mount morrison (california), is spoken in, cwm gwyn", "preds": [0.005463878739571326], "gold": true}
+{"premise": null, "hypothesis": "tandoori masala, is affected by, mee (psychedelic)", "preds": [0.0011983005773694155], "gold": true}
+{"premise": null, "hypothesis": "tandoori masala, must depend on, mee (psychedelic)", "preds": [0.000659591755719724], "gold": false}
+{"premise": null, "hypothesis": "dawg pound, discovered, moxifloxacin", "preds": [0.026326242967152857], "gold": true}
+{"premise": null, "hypothesis": "dawg pound, accidentally discovered, moxifloxacin", "preds": [0.11557480124436781], "gold": false}
+{"premise": null, "hypothesis": "mandi (food), is processed into, handi", "preds": [0.9995793940086748], "gold": false}
+{"premise": null, "hypothesis": "handi, are usually made from, mandi (food)", "preds": [0.017938563077773917], "gold": true}
+{"premise": null, "hypothesis": "debre marqos, had colonies in, keelby", "preds": [0.004085493261268114], "gold": false}
+{"premise": null, "hypothesis": "debre marqos, has possessions in, keelby", "preds": [0.0005209203034156062], "gold": true}
+{"premise": null, "hypothesis": "knedlington, is located near, bervie water", "preds": [0.0002567530552922692], "gold": true}
+{"premise": null, "hypothesis": "bervie water, is within sight of, knedlington", "preds": [0.0010816535854358822], "gold": false}
+{"premise": null, "hypothesis": "vron, is a power in, guardistallo", "preds": [0.0031156745557350263], "gold": true}
+{"premise": null, "hypothesis": "guardistallo, was ruled by, vron", "preds": [0.0014773119409998148], "gold": false}
+{"premise": null, "hypothesis": "zala county (former), lies to the east of, payyanur", "preds": [0.9474611366291611], "gold": false}
+{"premise": null, "hypothesis": "payyanur, is located near, zala county (former)", "preds": [0.9748207709063506], "gold": true}
+{"premise": null, "hypothesis": "aigon language, is spoken in, kyre", "preds": [0.01337261918546473], "gold": true}
+{"premise": null, "hypothesis": "aigon language, became the language of, kyre", "preds": [0.00044501419478187865], "gold": false}
+{"premise": null, "hypothesis": "kunming wolfdog, had been introduced into, grindstone island", "preds": [0.0008898448853569829], "gold": false}
+{"premise": null, "hypothesis": "kunming wolfdog, lives in, grindstone island", "preds": [0.009659810538360958], "gold": true}
+{"premise": null, "hypothesis": "martyrs monument in midway, is rich in, cardinal (bird)", "preds": [0.0008640655294852584], "gold": false}
+{"premise": null, "hypothesis": "cardinal (bird), lives in, martyrs monument in midway", "preds": [0.012975624387602913], "gold": true}
+{"premise": null, "hypothesis": "wild beagle productions, became the language of, baraolt river", "preds": [0.0016043904117064578], "gold": false}
+{"premise": null, "hypothesis": "wild beagle productions, is spoken in, baraolt river", "preds": [0.006463871245823982], "gold": true}
+{"premise": null, "hypothesis": "castelgomberto, is divided by, roselle (metra)", "preds": [0.001642568046684889], "gold": false}
+{"premise": null, "hypothesis": "roselle (metra), is inside, castelgomberto", "preds": [0.986514579064761], "gold": true}
+{"premise": null, "hypothesis": "strathcona science provincial park, was controlled by, berlinerisch dialect", "preds": [0.003689339148688797], "gold": true}
+{"premise": null, "hypothesis": "strathcona science provincial park, was added to, berlinerisch dialect", "preds": [0.015634881965570446], "gold": false}
+{"premise": null, "hypothesis": "kerry cattle, is indigenous in, spout run", "preds": [0.004057448254982665], "gold": false}
+{"premise": null, "hypothesis": "kerry cattle, lives in, spout run", "preds": [0.0014371386662766494], "gold": true}
+{"premise": null, "hypothesis": "ichinoya mitsuru, acknowledged in, huehueteotl", "preds": [0.00100836902275242], "gold": true}
+{"premise": null, "hypothesis": "ichinoya mitsuru, followed, huehueteotl", "preds": [0.0003155231032689887], "gold": false}
+{"premise": null, "hypothesis": "mount batu, was controlled by, hoosier group", "preds": [0.0023470102441253693], "gold": true}
+{"premise": null, "hypothesis": "mount batu, should remain within, hoosier group", "preds": [0.00013578547396631002], "gold": false}
+{"premise": null, "hypothesis": "knee replacement, cures, bullous pemphigoid", "preds": [0.07686631537364003], "gold": false}
+{"premise": null, "hypothesis": "knee replacement, has been used in the treatment of, bullous pemphigoid", "preds": [0.9941748541957625], "gold": true}
+{"premise": null, "hypothesis": "websockets, ruled, warren county school district (georgia)", "preds": [0.090164152153563], "gold": true}
+{"premise": null, "hypothesis": "warren county school district (georgia), was taken over by, websockets", "preds": [0.00028867138674282256], "gold": false}
+{"premise": null, "hypothesis": "tushingham, produced, wedding soup", "preds": [0.022016365038961205], "gold": false}
+{"premise": null, "hypothesis": "tushingham, supplies, wedding soup", "preds": [0.0006073185152808969], "gold": true}
+{"premise": null, "hypothesis": "johor sultanate, is spoken in, providence canyon state park", "preds": [0.0019895877581769805], "gold": true}
+{"premise": null, "hypothesis": "johor sultanate, first arrived in, providence canyon state park", "preds": [0.04125289972508284], "gold": false}
+{"premise": null, "hypothesis": "cape cobra, are rich in, iron(iii) chloride", "preds": [0.0013659698710302148], "gold": false}
+{"premise": null, "hypothesis": "cape cobra, contains, iron(iii) chloride", "preds": [0.001986607405946972], "gold": true}
+{"premise": null, "hypothesis": "kendrapara district, is a port on, coquitlam river", "preds": [0.010483278662834494], "gold": false}
+{"premise": null, "hypothesis": "kendrapara district, is next to, coquitlam river", "preds": [0.08229785430339664], "gold": true}
+{"premise": null, "hypothesis": "auslink, includes, spice cake", "preds": [0.005301218846033295], "gold": true}
+{"premise": null, "hypothesis": "auslink, were encrusted with, spice cake", "preds": [0.016484146486399287], "gold": false}
+{"premise": null, "hypothesis": "pozole, always has, fajita", "preds": [0.0015252053072404292], "gold": false}
+{"premise": null, "hypothesis": "pozole, includes, fajita", "preds": [0.000708795533596096], "gold": true}
+{"premise": null, "hypothesis": "edentulism, was born at, mimi jabalee", "preds": [0.19087353703755666], "gold": false}
+{"premise": null, "hypothesis": "edentulism, lived in, mimi jabalee", "preds": [0.11889301035520333], "gold": true}
+{"premise": null, "hypothesis": "sechura-catacao languages, is made of, naman", "preds": [0.01141337397230796], "gold": false}
+{"premise": null, "hypothesis": "sechura-catacao languages, are also made of, naman", "preds": [0.0011567868765859912], "gold": true}
+{"premise": null, "hypothesis": "white sapote, feeds on, fresno pepper", "preds": [0.010343029167930007], "gold": false}
+{"premise": null, "hypothesis": "white sapote, can eat, fresno pepper", "preds": [0.0011251062337767626], "gold": true}
+{"premise": null, "hypothesis": "mycobacterium abscessus, escaped, cantua buxifolia", "preds": [0.002586741599992892], "gold": false}
+{"premise": null, "hypothesis": "cantua buxifolia, hunts, mycobacterium abscessus", "preds": [0.09735573362244321], "gold": true}
+{"premise": null, "hypothesis": "tilidine, cures, ballistic trauma", "preds": [0.006663426772171854], "gold": false}
+{"premise": null, "hypothesis": "tilidine, may be used for, ballistic trauma", "preds": [0.06540108189195315], "gold": true}
+{"premise": null, "hypothesis": "mariko-juku, prodded, nandal", "preds": [0.00015765995311273207], "gold": false}
+{"premise": null, "hypothesis": "mariko-juku, questioned, nandal", "preds": [0.00027418724385996907], "gold": true}
+{"premise": null, "hypothesis": "indian hedgehog, feeds on, cape batis", "preds": [0.9994051093758105], "gold": false}
+{"premise": null, "hypothesis": "cape batis, attract, indian hedgehog", "preds": [0.0013254691205245028], "gold": true}
+{"premise": null, "hypothesis": "haydar al-kuzbari, is equal to, nagarathar", "preds": [0.004073810865632299], "gold": false}
+{"premise": null, "hypothesis": "nagarathar, measures, haydar al-kuzbari", "preds": [0.0004167611985267383], "gold": true}
+{"premise": null, "hypothesis": "axis (anatomy), secretes, never never (australian outback)", "preds": [0.008467867218285796], "gold": false}
+{"premise": null, "hypothesis": "axis (anatomy), may secrete, never never (australian outback)", "preds": [0.000706381354927732], "gold": true}
+{"premise": null, "hypothesis": "illinois-wabash company, is spoken in, lampron", "preds": [0.0015096186539830247], "gold": true}
+{"premise": null, "hypothesis": "illinois-wabash company, is the language in, lampron", "preds": [0.002485323322803712], "gold": false}
+{"premise": null, "hypothesis": "brunflo ik, is carried out by, donald ray barnes", "preds": [0.0039836584169619105], "gold": false}
+{"premise": null, "hypothesis": "brunflo ik, can be implemented on, donald ray barnes", "preds": [0.032428876763684555], "gold": true}
+{"premise": null, "hypothesis": "doryphora sassafras, originating in, sylling", "preds": [0.00030807157290330123], "gold": false}
+{"premise": null, "hypothesis": "doryphora sassafras, lives in, sylling", "preds": [0.0009023028188153148], "gold": true}
+{"premise": null, "hypothesis": "uss radford (dd-120), had been appointed, ordoliberalism", "preds": [0.015299292545487175], "gold": false}
+{"premise": null, "hypothesis": "ordoliberalism, became, uss radford (dd-120)", "preds": [0.0010344167039962882], "gold": true}
+{"premise": null, "hypothesis": "lumbar vertebrae, produces a number of, doggles", "preds": [0.0006690989068500741], "gold": false}
+{"premise": null, "hypothesis": "lumbar vertebrae, secretes, doggles", "preds": [0.0008039539144281127], "gold": true}
+{"premise": null, "hypothesis": "nitisinone, is useful for, habitual abortion", "preds": [0.0021051635078837005], "gold": true}
+{"premise": null, "hypothesis": "nitisinone, cures, habitual abortion", "preds": [0.00030115888189258255], "gold": false}
+{"premise": null, "hypothesis": "corn soup, is found in quantities in, the calais school (new jersey)", "preds": [0.0018958894412035576], "gold": false}
+{"premise": null, "hypothesis": "the calais school (new jersey), includes, corn soup", "preds": [0.007741402334186742], "gold": true}
+{"premise": null, "hypothesis": "chloral hydrate, is an cure for, polycystic kidney disease", "preds": [0.02054814556891532], "gold": false}
+{"premise": null, "hypothesis": "chloral hydrate, relieves, polycystic kidney disease", "preds": [0.007416111827471095], "gold": true}
+{"premise": null, "hypothesis": "soundex, is washed off with, lignan", "preds": [0.026095302467303183], "gold": false}
+{"premise": null, "hypothesis": "lignan, removes, soundex", "preds": [0.009234918399659175], "gold": true}
+{"premise": null, "hypothesis": "longtail (rat), is served with, shakshouka", "preds": [0.08854036275280708], "gold": true}
+{"premise": null, "hypothesis": "longtail (rat), cooked with, shakshouka", "preds": [0.01963970715818364], "gold": false}
+{"premise": null, "hypothesis": "regulator of g protein signalling, is led by, silver banshee", "preds": [0.00396977001297244], "gold": false}
+{"premise": null, "hypothesis": "silver banshee, plays in, regulator of g protein signalling", "preds": [0.045092087470534004], "gold": true}
+{"premise": null, "hypothesis": "nimodipine, is preferred for, uveal melanoma", "preds": [0.9961486862272715], "gold": false}
+{"premise": null, "hypothesis": "nimodipine, cures, uveal melanoma", "preds": [0.011177072022202084], "gold": true}
+{"premise": null, "hypothesis": "nimodipine, cures, stasis dermatitis", "preds": [0.999475801076718], "gold": true}
+{"premise": null, "hypothesis": "nimodipine, is the drug for, stasis dermatitis", "preds": [0.9997366910409584], "gold": false}
+{"premise": null, "hypothesis": "tomboy (software), must be made of, phantom (song)", "preds": [0.0005884825662978432], "gold": false}
+{"premise": null, "hypothesis": "tomboy (software), is made of, phantom (song)", "preds": [0.0017516449052422112], "gold": true}
+{"premise": null, "hypothesis": "cassinia, is covered in, cardweb", "preds": [0.00552446757142383], "gold": false}
+{"premise": null, "hypothesis": "cardweb, are those of, cassinia", "preds": [0.015665308826567637], "gold": true}
+{"premise": null, "hypothesis": "iveagh trust, is the heart of, crosby independent school district", "preds": [0.05903485836012956], "gold": false}
+{"premise": null, "hypothesis": "iveagh trust, flows through, crosby independent school district", "preds": [0.003139159884290088], "gold": true}
+{"premise": null, "hypothesis": "taeniopygia, are confined to, mascara province", "preds": [0.002147184606429542], "gold": false}
+{"premise": null, "hypothesis": "taeniopygia, lives in, mascara province", "preds": [0.0009508207421470294], "gold": true}
+{"premise": null, "hypothesis": "leo berngruber, was studied by, 5g-tronic", "preds": [0.0011636698677547908], "gold": true}
+{"premise": null, "hypothesis": "5g-tronic, wrote on, leo berngruber", "preds": [0.1501099653430007], "gold": false}
+{"premise": null, "hypothesis": "unlimited sunshine tour, ruled, soyuz tm-32", "preds": [0.0010437448781728254], "gold": true}
+{"premise": null, "hypothesis": "unlimited sunshine tour, was made king of, soyuz tm-32", "preds": [0.0017597516888017695], "gold": false}
+{"premise": null, "hypothesis": "tumucumaque national park, lives in, henty gold mine", "preds": [0.0019089132489246152], "gold": true}
+{"premise": null, "hypothesis": "tumucumaque national park, are native to, henty gold mine", "preds": [0.0048254521050346555], "gold": false}
+{"premise": null, "hypothesis": "binkolo, is located near, bhadrak", "preds": [0.001235196671779959], "gold": true}
+{"premise": null, "hypothesis": "bhadrak, are on the side of, binkolo", "preds": [0.0006192082642763053], "gold": false}
+{"premise": null, "hypothesis": "perfluorooctane, is used on, summorum pontificum", "preds": [0.1457438643895071], "gold": true}
+{"premise": null, "hypothesis": "summorum pontificum, is made of, perfluorooctane", "preds": [0.07895165600904985], "gold": false}
+{"premise": null, "hypothesis": "metaxalone, is used for the treatment of, paraganglioma", "preds": [0.0004428089244116751], "gold": true}
+{"premise": null, "hypothesis": "metaxalone, cures, paraganglioma", "preds": [0.0002839029336008658], "gold": false}
+{"premise": null, "hypothesis": "mango (chinese dialect), is spoken by, mbochi people", "preds": [0.9995487868908381], "gold": true}
+{"premise": null, "hypothesis": "mbochi people, speak, mango (chinese dialect)", "preds": [0.0570812438981988], "gold": false}
+{"premise": null, "hypothesis": "ulnar nerve entrapment, may be treated with, methyl salicylate", "preds": [0.9996797978931837], "gold": true}
+{"premise": null, "hypothesis": "methyl salicylate, cures, ulnar nerve entrapment", "preds": [0.006591007541745075], "gold": false}
+{"premise": null, "hypothesis": "presley hutchens, is the pseudonym of, kbhc", "preds": [0.07632474725967237], "gold": false}
+{"premise": null, "hypothesis": "kbhc, was known as, presley hutchens", "preds": [0.19877158269960982], "gold": true}
+{"premise": null, "hypothesis": "influvac, was stopped at, bonnefamille", "preds": [0.018668901185282194], "gold": false}
+{"premise": null, "hypothesis": "influvac, is next to, bonnefamille", "preds": [0.007822680808823479], "gold": true}
+{"premise": null, "hypothesis": "metaxalone, cures, diaper rash", "preds": [0.0007560023337037092], "gold": false}
+{"premise": null, "hypothesis": "metaxalone, is the treatment for, diaper rash", "preds": [0.0004930256657854626], "gold": true}
+{"premise": null, "hypothesis": "the meeting, measures, the general directorate for state security investigations", "preds": [0.0009142539693619556], "gold": true}
+{"premise": null, "hypothesis": "the general directorate for state security investigations, required to produce, the meeting", "preds": [0.0008252031396090431], "gold": false}
+{"premise": null, "hypothesis": "st. nicholas ukrainian catholic church, hunts, cassinia", "preds": [0.0017918194419509481], "gold": true}
+{"premise": null, "hypothesis": "st. nicholas ukrainian catholic church, had caught, cassinia", "preds": [0.005000780191901921], "gold": false}
+{"premise": null, "hypothesis": "bouillon cube, includes, dove bar", "preds": [0.0011294863361153706], "gold": true}
+{"premise": null, "hypothesis": "dove bar, has been added to, bouillon cube", "preds": [0.09698344584037905], "gold": false}
+{"premise": null, "hypothesis": "nicarbazin, contributes to the growth of, michiganites", "preds": [0.0021875375261880547], "gold": false}
+{"premise": null, "hypothesis": "michiganites, is affected by, nicarbazin", "preds": [0.0006711850570638722], "gold": true}
+{"premise": null, "hypothesis": "coedty reservoir, suffers from, plymouth expresso", "preds": [0.15632309773137187], "gold": true}
+{"premise": null, "hypothesis": "coedty reservoir, is suffering, plymouth expresso", "preds": [0.24854327719215996], "gold": false}
+{"premise": null, "hypothesis": "my inconvenient truth, became, the astro-zombies", "preds": [0.13122630676809416], "gold": true}
+{"premise": null, "hypothesis": "my inconvenient truth, made himself, the astro-zombies", "preds": [0.04482559262282432], "gold": false}
+{"premise": null, "hypothesis": "mercury telluride, relieves, ulnar nerve entrapment", "preds": [0.0003634752716649148], "gold": false}
+{"premise": null, "hypothesis": "ulnar nerve entrapment, treated with, mercury telluride", "preds": [0.1457497945875813], "gold": true}
+{"premise": null, "hypothesis": "chloromonas, lives in, imphal west district", "preds": [0.0006482962982610752], "gold": true}
+{"premise": null, "hypothesis": "chloromonas, are natives of, imphal west district", "preds": [0.00024256775684644571], "gold": false}
+{"premise": null, "hypothesis": "viscount barrington, invented, starci", "preds": [0.0737195604754941], "gold": false}
+{"premise": null, "hypothesis": "viscount barrington, contributed to the development of, starci", "preds": [0.0014608922276413971], "gold": true}
+{"premise": null, "hypothesis": "corn soup, includes, nanbanzuke", "preds": [0.05618082390918616], "gold": true}
+{"premise": null, "hypothesis": "nanbanzuke, was confined to, corn soup", "preds": [0.0011821184894343917], "gold": false}
+{"premise": null, "hypothesis": "acquaformosa, is the headquarters of, u.s. sestese calcio", "preds": [0.09434772446703721], "gold": false}
+{"premise": null, "hypothesis": "u.s. sestese calcio, assembled at, acquaformosa", "preds": [0.00023899135492516654], "gold": true}
+{"premise": null, "hypothesis": "little chocolatiers, is made of, locust bean gum", "preds": [0.007560444849029735], "gold": false}
+{"premise": null, "hypothesis": "locust bean gum, is used to make, little chocolatiers", "preds": [0.9764376375349955], "gold": true}
+{"premise": null, "hypothesis": "tropospheric ozone, makes up, national languages committee", "preds": [0.0016354750243868232], "gold": false}
+{"premise": null, "hypothesis": "tropospheric ozone, is used in making, national languages committee", "preds": [0.000897087220628312], "gold": true}
+{"premise": null, "hypothesis": "commodity exchange bratislava, is accepted in, hecken", "preds": [0.0004084164551095282], "gold": true}
+{"premise": null, "hypothesis": "hecken, lent, commodity exchange bratislava", "preds": [0.00021100634379256356], "gold": false}
+{"premise": null, "hypothesis": "eucalyptus obliqua, lives in, victoria south", "preds": [0.9993849335173097], "gold": true}
+{"premise": null, "hypothesis": "eucalyptus obliqua, originated in, victoria south", "preds": [0.9991786999233866], "gold": false}
+{"premise": null, "hypothesis": "1992 king fahd cup, is used to relieve, heterotopia (medicine)", "preds": [0.011227945576242848], "gold": false}
+{"premise": null, "hypothesis": "1992 king fahd cup, relieves, heterotopia (medicine)", "preds": [0.00025579897955652076], "gold": true}
+{"premise": null, "hypothesis": "agreement on the conservation of african-eurasian migratory waterbirds, lives in, dostoyevskaya (moscow metro)", "preds": [0.007852424646315304], "gold": true}
+{"premise": null, "hypothesis": "agreement on the conservation of african-eurasian migratory waterbirds, roamed over, dostoyevskaya (moscow metro)", "preds": [0.011223952292245654], "gold": false}
+{"premise": null, "hypothesis": "kasseri, includes, samgyetang", "preds": [0.9598355191254514], "gold": true}
+{"premise": null, "hypothesis": "kasseri, is treated with, samgyetang", "preds": [0.9972267537021837], "gold": false}
+{"premise": null, "hypothesis": "louis b. sohn, reigned in, kagal", "preds": [0.002127425680730044], "gold": true}
+{"premise": null, "hypothesis": "louis b. sohn, conquered, kagal", "preds": [0.0020795613959112003], "gold": false}
+{"premise": null, "hypothesis": "isotope ratio mass spectrometry, plays in, trident charter company", "preds": [0.05646299429192564], "gold": true}
+{"premise": null, "hypothesis": "isotope ratio mass spectrometry, is at the head of, trident charter company", "preds": [0.0016392598393998314], "gold": false}
+{"premise": null, "hypothesis": "charles j. watters, ruled, bear island (nunavut)", "preds": [0.2028252354945999], "gold": true}
+{"premise": null, "hypothesis": "charles j. watters, became president of, bear island (nunavut)", "preds": [0.002560247818702288], "gold": false}
+{"premise": null, "hypothesis": "rhode island locations by per capita income, requires, oleandrin", "preds": [0.011140892409651382], "gold": true}
+{"premise": null, "hypothesis": "rhode island locations by per capita income, should breathe, oleandrin", "preds": [0.005595278319658781], "gold": false}
+{"premise": null, "hypothesis": "koolasuchus, lives in, ubuntu local municipality", "preds": [0.0011620011576721767], "gold": true}
+{"premise": null, "hypothesis": "koolasuchus, were brought to, ubuntu local municipality", "preds": [0.0013324125166182532], "gold": false}
+{"premise": null, "hypothesis": "galinsoga, are indigenous to, waychinicup river", "preds": [0.05796628191770298], "gold": false}
+{"premise": null, "hypothesis": "galinsoga, lives in, waychinicup river", "preds": [0.0006105945704650839], "gold": true}
+{"premise": null, "hypothesis": "enviga, is imported from, atakule tower", "preds": [0.004482696019220078], "gold": false}
+{"premise": null, "hypothesis": "atakule tower, produces, enviga", "preds": [0.017906553135643988], "gold": true}
+{"premise": null, "hypothesis": "diaper rash, can cause, trisomy 16", "preds": [0.0006525573979735966], "gold": true}
+{"premise": null, "hypothesis": "diaper rash, causes, trisomy 16", "preds": [0.000565415613964948], "gold": false}
+{"premise": null, "hypothesis": "ckrm, came from, turbhe", "preds": [0.001620304427839614], "gold": false}
+{"premise": null, "hypothesis": "ckrm, is spoken in, turbhe", "preds": [0.002115146846528859], "gold": true}
+{"premise": null, "hypothesis": "duc de montebello, is covered with, amanda (highlander)", "preds": [0.024018019024128145], "gold": false}
+{"premise": null, "hypothesis": "amanda (highlander), is worn by, duc de montebello", "preds": [0.025956898771850256], "gold": true}
+{"premise": null, "hypothesis": "prix athanase-david, is made of, the nazi drawings", "preds": [0.0008375712399954494], "gold": true}
+{"premise": null, "hypothesis": "prix athanase-david, is a beam of, the nazi drawings", "preds": [0.000528639193469238], "gold": false}
+{"premise": null, "hypothesis": "crocodylomorpha, was introduced into, cloppenburg (district)", "preds": [0.004416297207370634], "gold": false}
+{"premise": null, "hypothesis": "crocodylomorpha, lives in, cloppenburg (district)", "preds": [0.15643339344115664], "gold": true}
+{"premise": null, "hypothesis": "matacoan languages, is spoken in, magui", "preds": [0.07657973570903004], "gold": true}
+{"premise": null, "hypothesis": "matacoan languages, shall be the language of, magui", "preds": [0.0004196521934357045], "gold": false}
+{"premise": null, "hypothesis": "gunther disease, should be controlled with, hexamine", "preds": [0.00034872316058437436], "gold": true}
+{"premise": null, "hypothesis": "hexamine, cures, gunther disease", "preds": [0.0024725079757052515], "gold": false}
+{"premise": null, "hypothesis": "george valavanis, remained as, big brother brasil 1", "preds": [0.09251933715161198], "gold": false}
+{"premise": null, "hypothesis": "george valavanis, became, big brother brasil 1", "preds": [0.03623262783124703], "gold": true}
+{"premise": null, "hypothesis": "memory hold-the-door, was determined to be, nanika", "preds": [0.00115702472497331], "gold": false}
+{"premise": null, "hypothesis": "nanika, measures, memory hold-the-door", "preds": [0.00022036394545893456], "gold": true}
+{"premise": null, "hypothesis": "m-real, is made of, alpek", "preds": [0.9743120092092176], "gold": false}
+{"premise": null, "hypothesis": "alpek, has been added to, m-real", "preds": [0.19301575764923973], "gold": true}
+{"premise": null, "hypothesis": "cesanese comune, are rich in, locust bean gum", "preds": [0.0008492250990935202], "gold": false}
+{"premise": null, "hypothesis": "cesanese comune, contains, locust bean gum", "preds": [0.0002758552558775329], "gold": true}
+{"premise": null, "hypothesis": "lobster newberg, have, bisphenol af", "preds": [0.11796174085464328], "gold": false}
+{"premise": null, "hypothesis": "lobster newberg, contains, bisphenol af", "preds": [0.055027103120698195], "gold": true}
+{"premise": null, "hypothesis": "chuna river, produces, kutia", "preds": [0.011133830299973613], "gold": true}
+{"premise": null, "hypothesis": "kutia, is now made in, chuna river", "preds": [0.00033349456189801785], "gold": false}
+{"premise": null, "hypothesis": "2005 all-pro team, is the son of, jagoba beobide", "preds": [0.00041694086361460103], "gold": false}
+{"premise": null, "hypothesis": "2005 all-pro team, are the descendants of, jagoba beobide", "preds": [0.0021304359087886415], "gold": true}
+{"premise": null, "hypothesis": "luminous infrared galaxy, becomes minister of, melesse", "preds": [0.058450203772019094], "gold": false}
+{"premise": null, "hypothesis": "luminous infrared galaxy, controlled, melesse", "preds": [0.0009765416229531865], "gold": true}
+{"premise": null, "hypothesis": "imperial province, stick to, rose hill marple railway station", "preds": [0.0008463043097887146], "gold": false}
+{"premise": null, "hypothesis": "imperial province, lives in, rose hill marple railway station", "preds": [0.030799316542666988], "gold": true}
+{"premise": null, "hypothesis": "duinencross koksijde, are said to contain, potassium bitartrate", "preds": [0.0008512810469861742], "gold": true}
+{"premise": null, "hypothesis": "duinencross koksijde, is rich with, potassium bitartrate", "preds": [0.00019071192970870898], "gold": false}
+{"premise": null, "hypothesis": "uss cubera (ss-347), is produced from, large wall", "preds": [0.04417980232039237], "gold": true}
+{"premise": null, "hypothesis": "uss cubera (ss-347), is the meat of, large wall", "preds": [0.0006797973063268348], "gold": false}
+{"premise": null, "hypothesis": "parotta, includes, balisto", "preds": [0.0697324569168914], "gold": true}
+{"premise": null, "hypothesis": "parotta, is a product of, balisto", "preds": [0.10730889972277963], "gold": false}
+{"premise": null, "hypothesis": "drimys winteri, lives in, thistles centre", "preds": [0.08313884345839867], "gold": true}
+{"premise": null, "hypothesis": "drimys winteri, invaded, thistles centre", "preds": [0.0010011873837214025], "gold": false}
+{"premise": null, "hypothesis": "mayor of porto alegre, was cultivated by, youngstown fire department", "preds": [0.0020699367497737375], "gold": false}
+{"premise": null, "hypothesis": "youngstown fire department, contributed to, mayor of porto alegre", "preds": [0.09617999018718854], "gold": true}
+{"premise": null, "hypothesis": "stroudsburg area school district, is under the shadow of, breaffy", "preds": [0.8773621922589805], "gold": false}
+{"premise": null, "hypothesis": "stroudsburg area school district, is located near, breaffy", "preds": [0.9978242344838615], "gold": true}
+{"premise": null, "hypothesis": "turtur, lives in, wadsley", "preds": [0.00099951703230039], "gold": true}
+{"premise": null, "hypothesis": "turtur, is the bird in, wadsley", "preds": [0.001600963531392774], "gold": false}
+{"premise": null, "hypothesis": "joseph peabody, began as, united states assistant secretary of state", "preds": [0.9950985818152198], "gold": false}
+{"premise": null, "hypothesis": "united states assistant secretary of state, was known as, joseph peabody", "preds": [0.04693496856914181], "gold": true}
+{"premise": null, "hypothesis": "edward davy wedge, became, gare de saint-denis", "preds": [0.01994565779438956], "gold": true}
+{"premise": null, "hypothesis": "gare de saint-denis, was chosen, edward davy wedge", "preds": [0.009085102255814548], "gold": false}
+{"premise": null, "hypothesis": "ashizuri-uwakai national park, was studied by, harriman alaska expedition", "preds": [0.9987059134551461], "gold": false}
+{"premise": null, "hypothesis": "harriman alaska expedition, wrote on, ashizuri-uwakai national park", "preds": [0.001722378581588302], "gold": true}
+{"premise": null, "hypothesis": "a. j. wynder, reached the summit of, farallon de pajaros", "preds": [0.0001938697747920215], "gold": false}
+{"premise": null, "hypothesis": "a. j. wynder, climbed, farallon de pajaros", "preds": [0.0001606992702099519], "gold": true}
+{"premise": null, "hypothesis": "sawatch range, has launched, miller fisher test", "preds": [0.0003762295802564597], "gold": false}
+{"premise": null, "hypothesis": "sawatch range, launched, miller fisher test", "preds": [0.007697772505809164], "gold": true}
+{"premise": null, "hypothesis": "brown tree snake, lives in, puegnago sul garda", "preds": [0.0004935616364813433], "gold": true}
+{"premise": null, "hypothesis": "brown tree snake, are exclusively confined to, puegnago sul garda", "preds": [0.07480875394687597], "gold": false}
+{"premise": null, "hypothesis": "anders rekdal, is produced from, dirofilaria immitis", "preds": [0.0017133180182549168], "gold": false}
+{"premise": null, "hypothesis": "anders rekdal, is the flesh of, dirofilaria immitis", "preds": [0.0008400156324240293], "gold": true}
+{"premise": null, "hypothesis": "cefdinir, cures, abdominal trauma", "preds": [0.21501823424290428], "gold": false}
+{"premise": null, "hypothesis": "abdominal trauma, have been successfully treated with, cefdinir", "preds": [0.9968620323844123], "gold": true}
+{"premise": null, "hypothesis": "the tender box, became, geo-mineral exploration corporation", "preds": [0.004211733552653085], "gold": true}
+{"premise": null, "hypothesis": "the tender box, was called and made, geo-mineral exploration corporation", "preds": [0.1487288408445157], "gold": false}
+{"premise": null, "hypothesis": "lucid (absinthe), is rich in, hydrogen sulfide", "preds": [0.07630090638244386], "gold": false}
+{"premise": null, "hypothesis": "lucid (absinthe), contains, hydrogen sulfide", "preds": [0.004173646626739136], "gold": true}
+{"premise": null, "hypothesis": "diaper rash, causes, gunther disease", "preds": [0.0007872950650553712], "gold": true}
+{"premise": null, "hypothesis": "diaper rash, is characterised by, gunther disease", "preds": [0.0008002587018596241], "gold": false}
+{"premise": null, "hypothesis": "bungarus, are natives of, dirico", "preds": [0.002623310376902721], "gold": false}
+{"premise": null, "hypothesis": "bungarus, lives in, dirico", "preds": [0.0020356329171608567], "gold": true}
+{"premise": null, "hypothesis": "geek show, is made of, rupa bhavani", "preds": [0.04691932124501985], "gold": true}
+{"premise": null, "hypothesis": "geek show, is a cylinder of, rupa bhavani", "preds": [0.008817148676803388], "gold": false}
+{"premise": null, "hypothesis": "tibetan festivals, is made of, dapagliflozin", "preds": [0.002460825893045415], "gold": false}
+{"premise": null, "hypothesis": "dapagliflozin, is used in, tibetan festivals", "preds": [0.02848261483859238], "gold": true}
+{"premise": null, "hypothesis": "kom language (cameroon), is spoken in, u minh", "preds": [0.0020102724400773986], "gold": true}
+{"premise": null, "hypothesis": "kom language (cameroon), is official in, u minh", "preds": [0.0008282435541198119], "gold": false}
+{"premise": null, "hypothesis": "secretaries cup, was actually, running of the brides", "preds": [0.10958157897739323], "gold": false}
+{"premise": null, "hypothesis": "secretaries cup, became, running of the brides", "preds": [0.07510534465540969], "gold": true}
+{"premise": null, "hypothesis": "cuvier (crater), is washed off with, nicarbazin", "preds": [0.0042908590115881], "gold": false}
+{"premise": null, "hypothesis": "nicarbazin, removes, cuvier (crater)", "preds": [0.004436025506310615], "gold": true}
+{"premise": null, "hypothesis": "korchi, was taken from, telford steam railway", "preds": [0.012708566866903248], "gold": false}
+{"premise": null, "hypothesis": "korchi, declared independent of, telford steam railway", "preds": [0.01704806587947061], "gold": true}
+{"premise": null, "hypothesis": "witzenhausen, flows through, mount bishop (camelsfoot range)", "preds": [0.07070680298091025], "gold": true}
+{"premise": null, "hypothesis": "witzenhausen, is the river of, mount bishop (camelsfoot range)", "preds": [0.005363356530633578], "gold": false}
+{"premise": null, "hypothesis": "fox squirrel, is native to, bonnebosq", "preds": [0.01609460563520243], "gold": false}
+{"premise": null, "hypothesis": "fox squirrel, lives in, bonnebosq", "preds": [0.008405461286643101], "gold": true}
+{"premise": null, "hypothesis": "tegea, is located near, new germany state park", "preds": [0.1478031830423941], "gold": true}
+{"premise": null, "hypothesis": "tegea, was among, new germany state park", "preds": [0.04014007491655136], "gold": false}
+{"premise": null, "hypothesis": "ipratropium/salbutamol, can be used to fight, bullous pemphigoid", "preds": [0.9998218650895851], "gold": true}
+{"premise": null, "hypothesis": "ipratropium/salbutamol, cures, bullous pemphigoid", "preds": [0.991138326633515], "gold": false}
+{"premise": null, "hypothesis": "6th panzer army, invented, buclizine", "preds": [0.010321482318182917], "gold": false}
+{"premise": null, "hypothesis": "buclizine, was developed by, 6th panzer army", "preds": [0.11651800965180176], "gold": true}
+{"premise": null, "hypothesis": "verduzzo, is produced from, laureliopsis philippiana", "preds": [0.9829941942636192], "gold": true}
+{"premise": null, "hypothesis": "verduzzo, is the flesh of, laureliopsis philippiana", "preds": [0.02157791282143362], "gold": false}
+{"premise": null, "hypothesis": "kings of connacht, was founded by, pedro carmona (oaxaca)", "preds": [0.14719635404380566], "gold": false}
+{"premise": null, "hypothesis": "pedro carmona (oaxaca), contributed to, kings of connacht", "preds": [0.0011007265698916302], "gold": true}
+{"premise": null, "hypothesis": "wonsa, was given, olympus e-420", "preds": [0.0002874194583830092], "gold": true}
+{"premise": null, "hypothesis": "olympus e-420, was and won, wonsa", "preds": [0.18916238162173132], "gold": false}
+{"premise": null, "hypothesis": "carbonade flamande, is made by heating, le snak", "preds": [0.23340320166613132], "gold": false}
+{"premise": null, "hypothesis": "carbonade flamande, includes, le snak", "preds": [0.012575382153884374], "gold": true}
+{"premise": null, "hypothesis": "mail delivery agent, are made of pieces of, integra bank (pittsburgh)", "preds": [0.14540580305878864], "gold": false}
+{"premise": null, "hypothesis": "mail delivery agent, is made of, integra bank (pittsburgh)", "preds": [0.050312479161253754], "gold": true}
+{"premise": null, "hypothesis": "coelurosauravus, is covered in, underworld usa trilogy", "preds": [0.01638868958493872], "gold": false}
+{"premise": null, "hypothesis": "coelurosauravus, has a tuft of, underworld usa trilogy", "preds": [0.07843819051032902], "gold": true}
+{"premise": null, "hypothesis": "delhi herald extraordinary, are artists in, traffic homicide investigator", "preds": [0.0009360990732719676], "gold": false}
+{"premise": null, "hypothesis": "delhi herald extraordinary, contributed to, traffic homicide investigator", "preds": [0.0001716966135223985], "gold": true}
+{"premise": null, "hypothesis": "henry ernest kendall, controlled, budhlada", "preds": [0.003244838397794325], "gold": true}
+{"premise": null, "hypothesis": "henry ernest kendall, became emperor of, budhlada", "preds": [0.0035343678130193568], "gold": false}
+{"premise": null, "hypothesis": "penitentiary of new mexico, is sinking into, tinchebray", "preds": [0.017606590499334385], "gold": false}
+{"premise": null, "hypothesis": "penitentiary of new mexico, is next to, tinchebray", "preds": [0.002978465355668536], "gold": true}
+{"premise": null, "hypothesis": "axis (anatomy), secretes, arizona bar exam", "preds": [0.0010190381481474664], "gold": true}
+{"premise": null, "hypothesis": "axis (anatomy), are stimulated to release, arizona bar exam", "preds": [0.000608272354391648], "gold": false}
+{"premise": null, "hypothesis": "olayinka koso-thomas, may be added to, sarsi (drink)", "preds": [0.0002943633162143522], "gold": true}
+{"premise": null, "hypothesis": "olayinka koso-thomas, is served with, sarsi (drink)", "preds": [0.0005664876990931211], "gold": false}
+{"premise": null, "hypothesis": "emerald swallowtail, lives in, plompton", "preds": [0.0017399616415362251], "gold": false}
+{"premise": null, "hypothesis": "emerald swallowtail, once lived in, plompton", "preds": [0.8047150197737596], "gold": true}
+{"premise": null, "hypothesis": "common operational picture, originated in, provinces of rwanda", "preds": [0.028168054544282006], "gold": false}
+{"premise": null, "hypothesis": "common operational picture, lives in, provinces of rwanda", "preds": [0.0020264244749437776], "gold": true}
+{"premise": null, "hypothesis": "rhynia, are esteemed in, tosse", "preds": [0.0011643857971420646], "gold": true}
+{"premise": null, "hypothesis": "rhynia, represents, tosse", "preds": [0.02860772716310378], "gold": false}
+{"premise": null, "hypothesis": "ghari language, is spoken in, cleland railway station", "preds": [0.05035748388459049], "gold": true}
+{"premise": null, "hypothesis": "ghari language, would be the language of, cleland railway station", "preds": [0.19367538640219106], "gold": false}
+{"premise": null, "hypothesis": "oregon beach bill, was patented by, mountain view house", "preds": [0.009839369161324885], "gold": true}
+{"premise": null, "hypothesis": "mountain view house, invented, oregon beach bill", "preds": [0.0023955892554339275], "gold": false}
+{"premise": null, "hypothesis": "kondovo, is made up of, greasestock", "preds": [0.0024120095319754564], "gold": false}
+{"premise": null, "hypothesis": "kondovo, is made of, greasestock", "preds": [0.11540089793706654], "gold": true}
+{"premise": null, "hypothesis": "carolina anole, were discovered in, visiedo", "preds": [0.9964992485165216], "gold": false}
+{"premise": null, "hypothesis": "carolina anole, lives in, visiedo", "preds": [0.9962490296936415], "gold": true}
+{"premise": null, "hypothesis": "iron horsemen, is accepted in, sawatch range", "preds": [0.0009007825649143819], "gold": true}
+{"premise": null, "hypothesis": "sawatch range, spends, iron horsemen", "preds": [0.08163304992165799], "gold": false}
+{"premise": null, "hypothesis": "black mountain (hill), was taken from, yepocapa", "preds": [0.0023831905406679343], "gold": false}
+{"premise": null, "hypothesis": "black mountain (hill), had been a part of, yepocapa", "preds": [0.004212746694940428], "gold": true}
+{"premise": null, "hypothesis": "phakopsora pachyrhizi, is completely covered with, uss caiman (ss-323)", "preds": [0.004960755411904383], "gold": false}
+{"premise": null, "hypothesis": "phakopsora pachyrhizi, is covered in, uss caiman (ss-323)", "preds": [0.0008846005576723104], "gold": true}
+{"premise": null, "hypothesis": "robotic surgery, is the treatment for, heat illness", "preds": [0.00032681859304090066], "gold": false}
+{"premise": null, "hypothesis": "robotic surgery, cures, heat illness", "preds": [0.003715684157886312], "gold": true}
+{"premise": null, "hypothesis": "weapon class destroyer, is made of, kim yong-dae", "preds": [0.0003240166678202816], "gold": true}
+{"premise": null, "hypothesis": "weapon class destroyer, were entirely of, kim yong-dae", "preds": [0.005431454404946412], "gold": false}
+{"premise": null, "hypothesis": "south american championship of champions, are high in, nanbanzuke", "preds": [0.0033966219424315103], "gold": false}
+{"premise": null, "hypothesis": "south american championship of champions, includes, nanbanzuke", "preds": [0.0006674898603618584], "gold": true}
+{"premise": null, "hypothesis": "byers lake, supplies, len de l'el", "preds": [0.004979202210611822], "gold": true}
+{"premise": null, "hypothesis": "len de l'el, came from, byers lake", "preds": [0.00034854490995955834], "gold": false}
+{"premise": null, "hypothesis": "emerald swallowtail, breathe in, allylamine", "preds": [0.7543846771751384], "gold": false}
+{"premise": null, "hypothesis": "emerald swallowtail, requires, allylamine", "preds": [0.7753131448629369], "gold": true}
+{"premise": null, "hypothesis": "pachycondyla, feeds on, priene (gastropod)", "preds": [0.9994766361010602], "gold": true}
+{"premise": null, "hypothesis": "pachycondyla, dived for, priene (gastropod)", "preds": [0.004114907061987083], "gold": false}
+{"premise": null, "hypothesis": "bullous pemphigoid, can be treated with, hexamine", "preds": [0.999621027842508], "gold": true}
+{"premise": null, "hypothesis": "bullous pemphigoid, will require the use of, hexamine", "preds": [0.9945928646228996], "gold": false}
+{"premise": null, "hypothesis": "adult learner, is diluted with, estragole", "preds": [0.0034107489654078837], "gold": true}
+{"premise": null, "hypothesis": "estragole, removes, adult learner", "preds": [0.057541392180345985], "gold": false}
+{"premise": null, "hypothesis": "baeolophus, are in this part of, barrett mountain", "preds": [0.0009251907147500571], "gold": false}
+{"premise": null, "hypothesis": "baeolophus, lives in, barrett mountain", "preds": [0.00054470338256285], "gold": true}
+{"premise": null, "hypothesis": "nestorian stele, is found throughout, charleston community unit school district 1", "preds": [0.009711188633554357], "gold": true}
+{"premise": null, "hypothesis": "nestorian stele, is abundant in, charleston community unit school district 1", "preds": [0.01595739803969437], "gold": false}
+{"premise": null, "hypothesis": "nanbanzuke, is ground into, tayberry", "preds": [0.12791800062038539], "gold": false}
+{"premise": null, "hypothesis": "nanbanzuke, is processed into, tayberry", "preds": [0.011417813250224396], "gold": true}
+{"premise": null, "hypothesis": "cadbury fudge, is mixed with, nshima", "preds": [0.037988067614620535], "gold": false}
+{"premise": null, "hypothesis": "cadbury fudge, includes, nshima", "preds": [0.003146341806769315], "gold": true}
+{"premise": null, "hypothesis": "aicha mezmat, is accepted in, krynica morska", "preds": [0.00023174837608896937], "gold": true}
+{"premise": null, "hypothesis": "aicha mezmat, has been used in, krynica morska", "preds": [0.0012120107517368806], "gold": false}
+{"premise": null, "hypothesis": "samcheonggak, prepared against, blackwater river (maine)", "preds": [0.0007177660183654844], "gold": true}
+{"premise": null, "hypothesis": "samcheonggak, invaded, blackwater river (maine)", "preds": [0.001179465968415172], "gold": false}
+{"premise": null, "hypothesis": "andrius bartkus, discharges, grisette (french)", "preds": [0.00027371020537142465], "gold": true}
+{"premise": null, "hypothesis": "andrius bartkus, removes, grisette (french)", "preds": [0.000978029409274106], "gold": false}
+{"premise": null, "hypothesis": "order of the companions of o. r. tambo, were cultivated by, waywayseecappo first nation", "preds": [0.0002186952834222211], "gold": false}
+{"premise": null, "hypothesis": "waywayseecappo first nation, contributed to, order of the companions of o. r. tambo", "preds": [0.9925968511806966], "gold": true}
+{"premise": null, "hypothesis": "carolina wren, were imported from, camano island state park", "preds": [0.16484552383466095], "gold": false}
+{"premise": null, "hypothesis": "carolina wren, lives in, camano island state park", "preds": [0.999564820790902], "gold": true}
+{"premise": null, "hypothesis": "hamoir, suffers from, king dragon operation in arakan", "preds": [0.0009872690149341223], "gold": true}
+{"premise": null, "hypothesis": "king dragon operation in arakan, is concentrated in, hamoir", "preds": [0.00044841232109088525], "gold": false}
+{"premise": null, "hypothesis": "iris cristata, can only come from, international bluegrass music museum", "preds": [0.050196698952027], "gold": false}
+{"premise": null, "hypothesis": "iris cristata, lives in, international bluegrass music museum", "preds": [0.08798973733424564], "gold": true}
+{"premise": null, "hypothesis": "international reaction to fitna, is a cylinder of, jean-paul favre de thierrens", "preds": [0.09930466781522851], "gold": false}
+{"premise": null, "hypothesis": "international reaction to fitna, is made of, jean-paul favre de thierrens", "preds": [0.032330678387817224], "gold": true}
+{"premise": null, "hypothesis": "nshima, was imported from, toyota motor manufacturing mississippi", "preds": [0.0030978236656987734], "gold": false}
+{"premise": null, "hypothesis": "toyota motor manufacturing mississippi, produces, nshima", "preds": [0.0007351400887418147], "gold": true}
+{"premise": null, "hypothesis": "seimareh dam, were firmly in, shepherd avenue (ind fulton street line)", "preds": [0.0006079146899082288], "gold": false}
+{"premise": null, "hypothesis": "seimareh dam, lives in, shepherd avenue (ind fulton street line)", "preds": [0.0004959447760138347], "gold": true}
+{"premise": null, "hypothesis": "grant izzard, was called to be, multi-agent system", "preds": [0.1389427985963807], "gold": false}
+{"premise": null, "hypothesis": "grant izzard, became, multi-agent system", "preds": [0.00873286822275987], "gold": true}
+{"premise": null, "hypothesis": "anterior cruciate ligament reconstruction, are used for the treatment of, commotio cordis", "preds": [0.1332918249392966], "gold": true}
+{"premise": null, "hypothesis": "anterior cruciate ligament reconstruction, cures, commotio cordis", "preds": [0.002295511244519155], "gold": false}
+{"premise": null, "hypothesis": "guaiacol, includes, sarsi (drink)", "preds": [0.04016287144741515], "gold": true}
+{"premise": null, "hypothesis": "sarsi (drink), is dissolved in, guaiacol", "preds": [0.10666886947246595], "gold": false}
+{"premise": null, "hypothesis": "alcyonidium diaphanum, lives in, jang river", "preds": [0.0065683274761660915], "gold": true}
+{"premise": null, "hypothesis": "alcyonidium diaphanum, were common in, jang river", "preds": [0.001201638347653744], "gold": false}
+{"premise": null, "hypothesis": "catherine de lorraine, ruled, milton bryan", "preds": [0.16706170636096185], "gold": true}
+{"premise": null, "hypothesis": "catherine de lorraine, was the queen of, milton bryan", "preds": [0.0016438198193103881], "gold": false}
+{"premise": null, "hypothesis": "ryu seung-beom, causes, habitual abortion", "preds": [0.01813689729647483], "gold": false}
+{"premise": null, "hypothesis": "habitual abortion, may represent, ryu seung-beom", "preds": [0.0018094623253133157], "gold": true}
+{"premise": null, "hypothesis": "kerry cattle, lives in, huc river", "preds": [0.004752824480186824], "gold": true}
+{"premise": null, "hypothesis": "kerry cattle, live in the part of, huc river", "preds": [0.002610345437924766], "gold": false}
+{"premise": null, "hypothesis": "gogolfest, was prevalent in, portsburgh", "preds": [0.0019869060146876505], "gold": true}
+{"premise": null, "hypothesis": "portsburgh, was established as, gogolfest", "preds": [0.0027341754192902745], "gold": false}
+{"premise": null, "hypothesis": "institute of trade mark attorneys, was pursued by, waheguru", "preds": [0.010761689439168887], "gold": true}
+{"premise": null, "hypothesis": "waheguru, contributed to, institute of trade mark attorneys", "preds": [0.0004038864878067594], "gold": false}
+{"premise": null, "hypothesis": "jean-pierre eychenne, belong exclusively to, bongo district", "preds": [0.0023509738353433285], "gold": false}
+{"premise": null, "hypothesis": "jean-pierre eychenne, lives in, bongo district", "preds": [0.00038555831831860177], "gold": true}
+{"premise": null, "hypothesis": "little yellow bat, feeds on, brancus", "preds": [0.0034980981844047743], "gold": true}
+{"premise": null, "hypothesis": "little yellow bat, dive for, brancus", "preds": [0.003316543008970385], "gold": false}
+{"premise": null, "hypothesis": "chrysopelea ornata, feeds on, kluyveromyces lactis", "preds": [0.9995121595132543], "gold": true}
+{"premise": null, "hypothesis": "chrysopelea ornata, dive for, kluyveromyces lactis", "preds": [0.0007332918068092553], "gold": false}
+{"premise": null, "hypothesis": "airheads, is a native of, devils island (wisconsin)", "preds": [0.12267187068866048], "gold": false}
+{"premise": null, "hypothesis": "airheads, came from, devils island (wisconsin)", "preds": [0.18340743020603617], "gold": true}
+{"premise": null, "hypothesis": "cristal (aguardiente), is drawn up through, sensory neuron", "preds": [0.0003090251141128486], "gold": false}
+{"premise": null, "hypothesis": "sensory neuron, fills up with, cristal (aguardiente)", "preds": [0.0002866441537128783], "gold": true}
+{"premise": null, "hypothesis": "cadbury fudge, is processed into, lucid (absinthe)", "preds": [0.0009192899686744083], "gold": false}
+{"premise": null, "hypothesis": "cadbury fudge, contain quantities of, lucid (absinthe)", "preds": [0.00036466743296881265], "gold": true}
+{"premise": null, "hypothesis": "squat lobster, lives in, zlatar (mountain)", "preds": [0.0005094468374918226], "gold": true}
+{"premise": null, "hypothesis": "squat lobster, is rare in, zlatar (mountain)", "preds": [0.00028831350835245573], "gold": false}
+{"premise": null, "hypothesis": "green ormer, lives in, carterpuri", "preds": [0.0007174979037338214], "gold": true}
+{"premise": null, "hypothesis": "green ormer, evolved in, carterpuri", "preds": [0.0018385791171307564], "gold": false}
+{"premise": null, "hypothesis": "hms belleisle (1876), is worn by, barbadian american", "preds": [0.0009107376483512009], "gold": true}
+{"premise": null, "hypothesis": "barbadian american, must wear, hms belleisle (1876)", "preds": [0.0016349980394717023], "gold": false}
+{"premise": null, "hypothesis": "gobernador roca, is the offspring of, ishana", "preds": [0.0030612860992266233], "gold": true}
+{"premise": null, "hypothesis": "gobernador roca, was the son of, ishana", "preds": [0.005976719585727819], "gold": false}
+{"premise": null, "hypothesis": "the centre of attention, trades with, auswil", "preds": [0.020641904237811037], "gold": true}
+{"premise": null, "hypothesis": "auswil, sold to, the centre of attention", "preds": [0.016792628823650624], "gold": false}
+{"premise": null, "hypothesis": "arizona bar exam, was prevalent in, campo gallo", "preds": [0.14543655567988267], "gold": true}
+{"premise": null, "hypothesis": "campo gallo, was ruled by, arizona bar exam", "preds": [0.0013332466870608628], "gold": false}
+{"premise": null, "hypothesis": "pater familias, are present in, braconidae", "preds": [0.04788631286242806], "gold": true}
+{"premise": null, "hypothesis": "braconidae, is covered in, pater familias", "preds": [0.186574874184879], "gold": false}
+{"premise": null, "hypothesis": "mongol raids into palestine, became professor of, wonsa", "preds": [0.0015960454051152095], "gold": false}
+{"premise": null, "hypothesis": "wonsa, was studied by, mongol raids into palestine", "preds": [0.011106472583655436], "gold": true}
+{"premise": null, "hypothesis": "perl compatible regular expressions, records, kubaba", "preds": [0.002637048527137087], "gold": false}
+{"premise": null, "hypothesis": "perl compatible regular expressions, followed, kubaba", "preds": [0.017992266550853953], "gold": true}
+{"premise": null, "hypothesis": "archelon, lives in, alverstone", "preds": [0.0024726273822890388], "gold": true}
+{"premise": null, "hypothesis": "archelon, are concentrated in, alverstone", "preds": [0.0027515494344981795], "gold": false}
+{"premise": null, "hypothesis": "sweet onion, is rich with, diisodecyl phthalate", "preds": [0.0014075744080453978], "gold": false}
+{"premise": null, "hypothesis": "sweet onion, provide, diisodecyl phthalate", "preds": [0.12001557751403424], "gold": true}
+{"premise": null, "hypothesis": "fontaines-sur-grandson, has long been in, miguasha national park", "preds": [0.0304633213335202], "gold": false}
+{"premise": null, "hypothesis": "miguasha national park, suffers from, fontaines-sur-grandson", "preds": [0.12257692676163656], "gold": true}
+{"premise": null, "hypothesis": "salamu mezhidov, dialogues concerning, strategos", "preds": [0.00014019545156057633], "gold": true}
+{"premise": null, "hypothesis": "salamu mezhidov, contributed to, strategos", "preds": [0.001967117121047246], "gold": false}
+{"premise": null, "hypothesis": "kuxl (defunct), consists of strips of, canadian notes & queries", "preds": [0.1857242238588085], "gold": false}
+{"premise": null, "hypothesis": "kuxl (defunct), is made of, canadian notes & queries", "preds": [0.009984417596654083], "gold": true}
+{"premise": null, "hypothesis": "bing (chinese flatbread), can be added to, ondenc", "preds": [0.9847477053440801], "gold": true}
+{"premise": null, "hypothesis": "bing (chinese flatbread), are used for, ondenc", "preds": [0.9997206872696678], "gold": false}
+{"premise": null, "hypothesis": "ss empire aden, are high in, le snak", "preds": [0.012323613517914112], "gold": false}
+{"premise": null, "hypothesis": "ss empire aden, includes, le snak", "preds": [0.0013882928179579368], "gold": true}
+{"premise": null, "hypothesis": "freeze (t-pain song), is made of, no value added", "preds": [0.0006612603987738996], "gold": true}
+{"premise": null, "hypothesis": "freeze (t-pain song), is composed wholly of, no value added", "preds": [0.0002899819279547078], "gold": false}
+{"premise": null, "hypothesis": "elk neck state park, is a member of, best male action sports athlete espy award", "preds": [0.0037349661659626943], "gold": true}
+{"premise": null, "hypothesis": "elk neck state park, left and joined, best male action sports athlete espy award", "preds": [0.06573664951633262], "gold": false}
+{"premise": null, "hypothesis": "hexamine, was developed by, jolyon wagg", "preds": [0.05776654409397308], "gold": true}
+{"premise": null, "hypothesis": "jolyon wagg, invented, hexamine", "preds": [0.03129688852775414], "gold": false}
+{"premise": null, "hypothesis": "oats, is sprinkled with, mince pie", "preds": [0.004339585816555136], "gold": false}
+{"premise": null, "hypothesis": "oats, includes, mince pie", "preds": [0.009653015356931693], "gold": true}
+{"premise": null, "hypothesis": "slime flux, breathe in, tricaine mesylate", "preds": [0.001847609356808333], "gold": false}
+{"premise": null, "hypothesis": "slime flux, requires, tricaine mesylate", "preds": [0.9973159524968138], "gold": true}
+{"premise": null, "hypothesis": "wbgo, is a cylinder of, children of earth", "preds": [0.0018978565002624737], "gold": false}
+{"premise": null, "hypothesis": "wbgo, is made of, children of earth", "preds": [0.039581219176069604], "gold": true}
+{"premise": null, "hypothesis": "clobazam, can be made of, abraham joseph heschel", "preds": [0.14001165770131013], "gold": true}
+{"premise": null, "hypothesis": "clobazam, is made of, abraham joseph heschel", "preds": [0.0011830716297317467], "gold": false}
+{"premise": null, "hypothesis": "project habakkuk, is covered in, alcatraz island in popular culture", "preds": [0.017953074836838945], "gold": false}
+{"premise": null, "hypothesis": "project habakkuk, has a tuft of, alcatraz island in popular culture", "preds": [0.0021262627984001137], "gold": true}
+{"premise": null, "hypothesis": "danish defence research establishment, is now used in, cinelerra", "preds": [0.003711184377223453], "gold": true}
+{"premise": null, "hypothesis": "cinelerra, is made of, danish defence research establishment", "preds": [0.014768341922305639], "gold": false}
+{"premise": null, "hypothesis": "jetboy, returned to, valbo", "preds": [0.0004286528016919644], "gold": false}
+{"premise": null, "hypothesis": "jetboy, lives in, valbo", "preds": [0.0005589776109604649], "gold": true}
+{"premise": null, "hypothesis": "samgyetang, is processed into, livermush", "preds": [0.0005347193711777165], "gold": false}
+{"premise": null, "hypothesis": "samgyetang, may be made into, livermush", "preds": [0.01776770373015263], "gold": true}
+{"premise": null, "hypothesis": "fohnsdorf, is the waterway in, tiputini river", "preds": [0.005917234613736444], "gold": false}
+{"premise": null, "hypothesis": "fohnsdorf, is inside, tiputini river", "preds": [0.0021932597479937255], "gold": true}
+{"premise": null, "hypothesis": "diet soda, are essential to, tolfenamic acid", "preds": [0.17879680842865697], "gold": false}
+{"premise": null, "hypothesis": "tolfenamic acid, includes, diet soda", "preds": [0.0017406773417413257], "gold": true}
+{"premise": null, "hypothesis": "siegfried knappe, was one of, bishop of knaresborough", "preds": [0.24204498779410583], "gold": true}
+{"premise": null, "hypothesis": "bishop of knaresborough, was known as, siegfried knappe", "preds": [0.005679828139998899], "gold": false}
+{"premise": null, "hypothesis": "huave people, are fond of, havhingsten fra glendalough", "preds": [0.0005567132900644034], "gold": false}
+{"premise": null, "hypothesis": "havhingsten fra glendalough, is worn by, huave people", "preds": [0.001142004336856961], "gold": true}
+{"premise": null, "hypothesis": "carbonade flamande, includes, bing (chinese flatbread)", "preds": [0.15844119225313463], "gold": true}
+{"premise": null, "hypothesis": "carbonade flamande, are sweetened with, bing (chinese flatbread)", "preds": [0.1031686821132124], "gold": false}
+{"premise": null, "hypothesis": "sour cream, is produced from, abies bracteata", "preds": [0.002470750705500069], "gold": true}
+{"premise": null, "hypothesis": "abies bracteata, are raised for, sour cream", "preds": [0.0006943108856556912], "gold": false}
+{"premise": null, "hypothesis": "andrea soncin, contributed to, vice chief of naval operations", "preds": [0.0019409813131077702], "gold": true}
+{"premise": null, "hypothesis": "andrea soncin, gave and created, vice chief of naval operations", "preds": [0.13603576095732406], "gold": false}
+{"premise": null, "hypothesis": "geek show, appointed governor of, hedemora municipality", "preds": [0.008456631156840477], "gold": false}
+{"premise": null, "hypothesis": "geek show, ruled, hedemora municipality", "preds": [0.0926153079183451], "gold": true}
+{"premise": null, "hypothesis": "stephen nicholas (actor), questioned, now dance anthems", "preds": [0.00014579899851874245], "gold": true}
+{"premise": null, "hypothesis": "stephen nicholas (actor), had accused, now dance anthems", "preds": [0.00023994503795277122], "gold": false}
+{"premise": null, "hypothesis": "pas de quatre, lived in, 12th parallel north", "preds": [0.013221997844624966], "gold": true}
+{"premise": null, "hypothesis": "pas de quatre, was born at, 12th parallel north", "preds": [0.0029605230514417324], "gold": false}
+{"premise": null, "hypothesis": "spud gun, is made of, nbl (australia) all-star game", "preds": [0.07894974865573146], "gold": false}
+{"premise": null, "hypothesis": "spud gun, is usually made of, nbl (australia) all-star game", "preds": [0.1931381033215896], "gold": true}
+{"premise": null, "hypothesis": "gewiss-ballan, is millionths of, sts-73", "preds": [0.0007322204791573861], "gold": false}
+{"premise": null, "hypothesis": "sts-73, measures, gewiss-ballan", "preds": [0.014773734756985513], "gold": true}
+{"premise": null, "hypothesis": "wbaa, landed in, bin qasim town", "preds": [0.0007686388381492604], "gold": false}
+{"premise": null, "hypothesis": "wbaa, flies to, bin qasim town", "preds": [0.036702786278012045], "gold": true}
+{"premise": null, "hypothesis": "heathrow terminal 5 station, is the lake of, courlac", "preds": [0.0009808014187194236], "gold": false}
+{"premise": null, "hypothesis": "heathrow terminal 5 station, is inside, courlac", "preds": [0.24833213342375154], "gold": true}
+{"premise": null, "hypothesis": "cyathea sect. alsophila, is served with, nshima", "preds": [0.0007691744631893593], "gold": true}
+{"premise": null, "hypothesis": "cyathea sect. alsophila, stuffed with, nshima", "preds": [0.0005709295411123749], "gold": false}
+{"premise": null, "hypothesis": "curlew sandpiper, soared with, my first sony", "preds": [0.0003992973267096245], "gold": false}
+{"premise": null, "hypothesis": "curlew sandpiper, has, my first sony", "preds": [0.05244078525108675], "gold": true}
+{"premise": null, "hypothesis": "cypsiurus, has, ms stena germanica", "preds": [0.0015328343557446944], "gold": true}
+{"premise": null, "hypothesis": "cypsiurus, soared with, ms stena germanica", "preds": [0.0009273666761749899], "gold": false}
+{"premise": null, "hypothesis": "mathi, is in, gould lake", "preds": [0.00014472644021473746], "gold": true}
+{"premise": null, "hypothesis": "mathi, is the capital of, gould lake", "preds": [0.0027595366722099612], "gold": false}
+{"premise": null, "hypothesis": "wild life (manga), is celebrated in, migdalim", "preds": [0.0008666882822757627], "gold": true}
+{"premise": null, "hypothesis": "wild life (manga), is a festival in, migdalim", "preds": [0.012419099008111001], "gold": false}
+{"premise": null, "hypothesis": "parasrampur, remained the capital of, broxton railway station", "preds": [0.011445470127844248], "gold": false}
+{"premise": null, "hypothesis": "parasrampur, is in, broxton railway station", "preds": [0.2287530126030799], "gold": true}
+{"premise": null, "hypothesis": "freiburg (region), became the center in, le porge", "preds": [0.03649455689459308], "gold": false}
+{"premise": null, "hypothesis": "freiburg (region), is in, le porge", "preds": [0.05271970403302556], "gold": true}
+{"premise": null, "hypothesis": "lezhi county, is in, kanfanar", "preds": [0.11075111803802262], "gold": true}
+{"premise": null, "hypothesis": "lezhi county, became the center in, kanfanar", "preds": [0.001464229935794925], "gold": false}
+{"premise": null, "hypothesis": "martyrs monument in midway, is in, hatsi", "preds": [0.007741402334186742], "gold": true}
+{"premise": null, "hypothesis": "martyrs monument in midway, is the capital of, hatsi", "preds": [0.002519060340655188], "gold": false}
+{"premise": null, "hypothesis": "camille bright-smith, are common in, ein hemed", "preds": [0.004284391452234637], "gold": false}
+{"premise": null, "hypothesis": "camille bright-smith, occurs in, ein hemed", "preds": [0.0013932097533422283], "gold": true}
+{"premise": null, "hypothesis": "pix brook, is examined with, optogan", "preds": [0.00014353375911635435], "gold": false}
+{"premise": null, "hypothesis": "pix brook, can be seen with, optogan", "preds": [0.00035116710389426764], "gold": true}
+{"premise": null, "hypothesis": "hastelloy, are common in, iruya", "preds": [0.00034270305092609643], "gold": false}
+{"premise": null, "hypothesis": "hastelloy, occurs in, iruya", "preds": [0.0010404068496603358], "gold": true}
+{"premise": null, "hypothesis": "sensory neuron, is part of, pedicle of vertebral arch", "preds": [0.001976385277348669], "gold": true}
+{"premise": null, "hypothesis": "pedicle of vertebral arch, has a pair of, sensory neuron", "preds": [0.9931937305465519], "gold": false}
+{"premise": null, "hypothesis": "lumbar vertebrae, is part of, sensory neuron", "preds": [0.0025063337199687785], "gold": true}
+{"premise": null, "hypothesis": "lumbar vertebrae, is the tooth in, sensory neuron", "preds": [0.0005888406941685909], "gold": false}
+{"premise": null, "hypothesis": "i-201 class submarine, exist in parts of, aulesti", "preds": [0.02175955624732373], "gold": true}
+{"premise": null, "hypothesis": "i-201 class submarine, is native to, aulesti", "preds": [0.04988022751741972], "gold": false}
+{"premise": null, "hypothesis": "western beaver county school district, was part of, taebong", "preds": [0.004728922779493716], "gold": true}
+{"premise": null, "hypothesis": "western beaver county school district, withdrew and joined, taebong", "preds": [0.16236694541745883], "gold": false}
+{"premise": null, "hypothesis": "oats, is rich in, orange ggn", "preds": [0.0022321804909195553], "gold": false}
+{"premise": null, "hypothesis": "oats, contains, orange ggn", "preds": [0.0005517355637422172], "gold": true}
+{"premise": null, "hypothesis": "florida college hockey classic, became, polish passport", "preds": [0.00048414535185886676], "gold": true}
+{"premise": null, "hypothesis": "florida college hockey classic, was hailed as, polish passport", "preds": [0.0013826596206526487], "gold": false}
+{"premise": null, "hypothesis": "rony abou jaoude, has, dear dad", "preds": [0.00021958894657198025], "gold": true}
+{"premise": null, "hypothesis": "rony abou jaoude, only have, dear dad", "preds": [0.00022137724264598146], "gold": false}
+{"premise": null, "hypothesis": "picea glauca, is native to, market weston", "preds": [0.987670636323713], "gold": false}
+{"premise": null, "hypothesis": "market weston, was inhabited by, picea glauca", "preds": [0.0023441790882134383], "gold": true}
+{"premise": null, "hypothesis": "gillig phantom (school bus), traveled to, edsbruk", "preds": [0.0002555015716991238], "gold": true}
+{"premise": null, "hypothesis": "gillig phantom (school bus), reached, edsbruk", "preds": [0.00018838591682956984], "gold": false}
+{"premise": null, "hypothesis": "1962 world rowing championships, occurs in, florala state park", "preds": [0.017088507064069558], "gold": true}
+{"premise": null, "hypothesis": "1962 world rowing championships, are frequent in, florala state park", "preds": [0.004228393245861106], "gold": false}
+{"premise": null, "hypothesis": "yelsk, works at, shalom meir tower", "preds": [0.0006001956766081284], "gold": true}
+{"premise": null, "hypothesis": "yelsk, retiring from, shalom meir tower", "preds": [0.0006440042520519107], "gold": false}
+{"premise": null, "hypothesis": "gonium, is native to, eichert (aue)", "preds": [0.001420777010530394], "gold": false}
+{"premise": null, "hypothesis": "gonium, are inhabitants of, eichert (aue)", "preds": [0.007252916386761288], "gold": true}
+{"premise": null, "hypothesis": "tracheal intubation, relieves, neurological disorder", "preds": [0.21362979455076547], "gold": true}
+{"premise": null, "hypothesis": "tracheal intubation, are effective against, neurological disorder", "preds": [0.143208314157941], "gold": false}
+{"premise": null, "hypothesis": "bethel school district (washington), was part of, environmental law alliance worldwide", "preds": [0.0015529809944995199], "gold": true}
+{"premise": null, "hypothesis": "bethel school district (washington), had just entered, environmental law alliance worldwide", "preds": [0.8559596345835869], "gold": false}
+{"premise": null, "hypothesis": "allobates, flew with, adobe incopy", "preds": [0.1464135010181306], "gold": false}
+{"premise": null, "hypothesis": "allobates, has, adobe incopy", "preds": [0.0019873234490880853], "gold": true}
+{"premise": null, "hypothesis": "haute route, was part of, grane oil pipeline", "preds": [0.16891774520343567], "gold": true}
+{"premise": null, "hypothesis": "haute route, would go to, grane oil pipeline", "preds": [0.006281897586233265], "gold": false}
+{"premise": null, "hypothesis": "detainees held in the bagram theater internment facility, studies, sincina", "preds": [0.001055784946505045], "gold": true}
+{"premise": null, "hypothesis": "detainees held in the bagram theater internment facility, revealed differences between, sincina", "preds": [0.0006322921692444305], "gold": false}
+{"premise": null, "hypothesis": "9k35 strela-10, was a table of, behold", "preds": [0.23415681671286437], "gold": false}
+{"premise": null, "hypothesis": "9k35 strela-10, is constructed from, behold", "preds": [0.0007898581662664217], "gold": true}
+{"premise": null, "hypothesis": "bass player (magazine), is concerned with, thespesia populnea", "preds": [0.0005197871339420734], "gold": true}
+{"premise": null, "hypothesis": "bass player (magazine), researches, thespesia populnea", "preds": [0.014628809513661578], "gold": false}
+{"premise": null, "hypothesis": "rhamphorhynchus (pterosaur), has, sugar (desktop environment)", "preds": [0.0003809099189020504], "gold": true}
+{"premise": null, "hypothesis": "rhamphorhynchus (pterosaur), have pairs of, sugar (desktop environment)", "preds": [0.0002996687127655995], "gold": false}
+{"premise": null, "hypothesis": "tracheal intubation, is required on account of, diaper rash", "preds": [0.0002985955551817465], "gold": false}
+{"premise": null, "hypothesis": "tracheal intubation, relieves, diaper rash", "preds": [0.0004278176525856492], "gold": true}
+{"premise": null, "hypothesis": "tracheomalacia, often require, calcium carbonate", "preds": [0.9979607011822553], "gold": false}
+{"premise": null, "hypothesis": "calcium carbonate, treats, tracheomalacia", "preds": [0.9992999966624931], "gold": true}
+{"premise": null, "hypothesis": "north tyrone (northern ireland parliament constituency), is in, mulwala canal", "preds": [0.0002017377059475578], "gold": true}
+{"premise": null, "hypothesis": "north tyrone (northern ireland parliament constituency), remained the center of, mulwala canal", "preds": [0.0001481834173353569], "gold": false}
+{"premise": null, "hypothesis": "cleveland indians (nfl 1931), had won, west virginia wild", "preds": [0.0014764171418240046], "gold": false}
+{"premise": null, "hypothesis": "cleveland indians (nfl 1931), fought in, west virginia wild", "preds": [0.0008091100338399326], "gold": true}
+{"premise": null, "hypothesis": "buceros, resided in, sahebganj district", "preds": [0.0015163532135429314], "gold": true}
+{"premise": null, "hypothesis": "buceros, is native to, sahebganj district", "preds": [0.06423351351301365], "gold": false}
+{"premise": null, "hypothesis": "soldier of fortune (horse), could be made into, havana high school", "preds": [0.008827847505149533], "gold": true}
+{"premise": null, "hypothesis": "soldier of fortune (horse), became, havana high school", "preds": [0.0007417261975532496], "gold": false}
+{"premise": null, "hypothesis": "from prussia with love, is the founder of, north elbian evangelical lutheran church", "preds": [0.027628219813920996], "gold": false}
+{"premise": null, "hypothesis": "north elbian evangelical lutheran church, was first introduced by, from prussia with love", "preds": [0.0016313323520549816], "gold": true}
+{"premise": null, "hypothesis": "alfred john church, prepares, complementary good", "preds": [0.0003953937812896102], "gold": true}
+{"premise": null, "hypothesis": "complementary good, should be prepared by, alfred john church", "preds": [0.02093012747988421], "gold": false}
+{"premise": null, "hypothesis": "uss grenadier (ss-210), is part of, sensory neuron", "preds": [0.000997908601451436], "gold": true}
+{"premise": null, "hypothesis": "uss grenadier (ss-210), are the teeth in, sensory neuron", "preds": [0.0025053802724437357], "gold": false}
+{"premise": null, "hypothesis": "nordic catholic church, are the teeth in, sensory neuron", "preds": [0.006399914690604247], "gold": false}
+{"premise": null, "hypothesis": "nordic catholic church, is part of, sensory neuron", "preds": [0.003948283006127151], "gold": true}
+{"premise": null, "hypothesis": "diary (stationery), became, kiwengwa", "preds": [0.026009500416137366], "gold": false}
+{"premise": null, "hypothesis": "diary (stationery), assumed the attitude of, kiwengwa", "preds": [0.0012883343379334056], "gold": true}
+{"premise": null, "hypothesis": "german wirehaired pointer, are imported from, prali", "preds": [0.13888377897356402], "gold": false}
+{"premise": null, "hypothesis": "german wirehaired pointer, is native to, prali", "preds": [0.11043516111694685], "gold": true}
+{"premise": null, "hypothesis": "myrciaria dubia, contains, mee (psychedelic)", "preds": [0.01796440087833373], "gold": true}
+{"premise": null, "hypothesis": "myrciaria dubia, are fortified with, mee (psychedelic)", "preds": [0.0009476919934149342], "gold": false}
+{"premise": null, "hypothesis": "rock oyster, have a pair of, nunnally lamperouge", "preds": [0.14745560470469332], "gold": false}
+{"premise": null, "hypothesis": "rock oyster, has, nunnally lamperouge", "preds": [0.01221671338049668], "gold": true}
+{"premise": null, "hypothesis": "whempstead, was visited by, samuelsen", "preds": [0.0008693414183428283], "gold": false}
+{"premise": null, "hypothesis": "samuelsen, occurs in, whempstead", "preds": [0.0008438004986560665], "gold": true}
+{"premise": null, "hypothesis": "cidona, is rich with, estragole", "preds": [0.0007281671572359483], "gold": false}
+{"premise": null, "hypothesis": "estragole, is found in, cidona", "preds": [0.994388210815956], "gold": true}
+{"premise": null, "hypothesis": "if you were the only girl in the world, gathers in, monarchy of tuvalu", "preds": [0.0001369181200053804], "gold": true}
+{"premise": null, "hypothesis": "monarchy of tuvalu, processes, if you were the only girl in the world", "preds": [0.00013459277153426985], "gold": false}
+{"premise": null, "hypothesis": "bali aga, to ravage, gaoming district", "preds": [0.0004991948884761621], "gold": false}
+{"premise": null, "hypothesis": "gaoming district, was invaded by, bali aga", "preds": [0.009432477823451135], "gold": true}
+{"premise": null, "hypothesis": "oatmeal cookie (cocktail), is rich with, tetraethyllead", "preds": [0.00048012240979639076], "gold": false}
+{"premise": null, "hypothesis": "oatmeal cookie (cocktail), is an source of, tetraethyllead", "preds": [0.001122959570490356], "gold": true}
+{"premise": null, "hypothesis": "moravians (ethnic group), conquer, moon island (massachusetts)", "preds": [0.0005782609062842115], "gold": false}
+{"premise": null, "hypothesis": "moon island (massachusetts), was invaded by, moravians (ethnic group)", "preds": [0.0014520700513862006], "gold": true}
+{"premise": null, "hypothesis": "michiganites, has, high level assembly", "preds": [0.031757783609171086], "gold": true}
+{"premise": null, "hypothesis": "michiganites, swung on, high level assembly", "preds": [0.0019920616187553697], "gold": false}
+{"premise": null, "hypothesis": "diet soda, contains, orange ggn", "preds": [0.0005927746901991382], "gold": true}
+{"premise": null, "hypothesis": "diet soda, are rich in, orange ggn", "preds": [0.0019312057132027105], "gold": false}
+{"premise": null, "hypothesis": "shasta (deity), works at, chester city walls", "preds": [0.09871027268729254], "gold": false}
+{"premise": null, "hypothesis": "shasta (deity), had served in, chester city walls", "preds": [0.00021070937908007625], "gold": true}
+{"premise": null, "hypothesis": "santa cruz monastery, are destroyed in, yonkers motorcycle club", "preds": [0.0014473910075422092], "gold": false}
+{"premise": null, "hypothesis": "santa cruz monastery, fought in, yonkers motorcycle club", "preds": [0.004121075338294478], "gold": true}
+{"premise": null, "hypothesis": "mercedes-benz 190sl, is heaviest in, october 11", "preds": [0.24539238421480147], "gold": false}
+{"premise": null, "hypothesis": "october 11, has a lot of, mercedes-benz 190sl", "preds": [0.005308371149307101], "gold": true}
+{"premise": null, "hypothesis": "hapuku river, is in, macomer", "preds": [0.003969651461733337], "gold": true}
+{"premise": null, "hypothesis": "hapuku river, became the center of, macomer", "preds": [0.0011500811316226822], "gold": false}
+{"premise": null, "hypothesis": "thai basil, relieves, adrenal insufficiency", "preds": [0.0002523413024347887], "gold": true}
+{"premise": null, "hypothesis": "thai basil, would stop, adrenal insufficiency", "preds": [0.00020903976519337508], "gold": false}
+{"premise": null, "hypothesis": "john hext, arrived at, wellington north", "preds": [0.0005305464212190802], "gold": false}
+{"premise": null, "hypothesis": "john hext, traveled to, wellington north", "preds": [0.0006622741552539391], "gold": true}
+{"premise": null, "hypothesis": "ben bowyang, was measured by means of, long-billed corella", "preds": [0.002756764847245574], "gold": false}
+{"premise": null, "hypothesis": "long-billed corella, measures, ben bowyang", "preds": [0.0011007265698916302], "gold": true}
+{"premise": null, "hypothesis": "viscount lyons, is to be appointed by, solar pyramid", "preds": [0.0026365719537286836], "gold": false}
+{"premise": null, "hypothesis": "viscount lyons, is employed by, solar pyramid", "preds": [0.00038687000435194685], "gold": true}
+{"premise": null, "hypothesis": "itupiranga, had influence in, camano island state park", "preds": [0.00080815697768305], "gold": true}
+{"premise": null, "hypothesis": "itupiranga, were the powers of, camano island state park", "preds": [0.0015592396055116864], "gold": false}
+{"premise": null, "hypothesis": "mile pehar, became, wesleyan methodist church of australia", "preds": [0.01729479851467719], "gold": true}
+{"premise": null, "hypothesis": "mile pehar, painted as, wesleyan methodist church of australia", "preds": [0.0005633889542530079], "gold": false}
+{"premise": null, "hypothesis": "lee m. thompson, is part of, pedicle of vertebral arch", "preds": [0.0010263398328325124], "gold": true}
+{"premise": null, "hypothesis": "lee m. thompson, is the tooth in, pedicle of vertebral arch", "preds": [0.020134993244242783], "gold": false}
+{"premise": null, "hypothesis": "coso people, were to be found in, museology", "preds": [0.001470575906782845], "gold": true}
+{"premise": null, "hypothesis": "coso people, lives in, museology", "preds": [0.004307428556256876], "gold": false}
+{"premise": null, "hypothesis": "tailwind capital, are at the back of, sensory neuron", "preds": [0.01652726982575453], "gold": false}
+{"premise": null, "hypothesis": "tailwind capital, is part of, sensory neuron", "preds": [0.008562250020198725], "gold": true}
+{"premise": null, "hypothesis": "eastgate mall (chattanooga), is in, pershotravensk", "preds": [0.001642061466097855], "gold": true}
+{"premise": null, "hypothesis": "eastgate mall (chattanooga), became the power in, pershotravensk", "preds": [0.016057710313656604], "gold": false}
+{"premise": null, "hypothesis": "george dougan, traveled to, kolomenskaya (moscow metro)", "preds": [0.0005777845576022678], "gold": true}
+{"premise": null, "hypothesis": "george dougan, left, kolomenskaya (moscow metro)", "preds": [0.000897564113233662], "gold": false}
+{"premise": null, "hypothesis": "northwest smith, returned as, center console (boat)", "preds": [0.0002475734871283941], "gold": false}
+{"premise": null, "hypothesis": "northwest smith, became, center console (boat)", "preds": [0.018925739740968894], "gold": true}
+{"premise": null, "hypothesis": "tracheomalacia, must be relieved by, dolasetron", "preds": [0.9269012826905447], "gold": false}
+{"premise": null, "hypothesis": "dolasetron, relieves, tracheomalacia", "preds": [0.9993314967952702], "gold": true}
+{"premise": null, "hypothesis": "raj bhavan (uttarakhand), is the city in, murrell river", "preds": [0.13904624110595482], "gold": false}
+{"premise": null, "hypothesis": "raj bhavan (uttarakhand), is in, murrell river", "preds": [0.0049567025090183625], "gold": true}
+{"premise": null, "hypothesis": "lomaland, is often, player's handbook", "preds": [0.007835615058815026], "gold": false}
+{"premise": null, "hypothesis": "lomaland, became, player's handbook", "preds": [0.0027350098306438975], "gold": true}
+{"premise": null, "hypothesis": "faithful companions of jesus, will remain in, thorndale (cta)", "preds": [0.0007360941330510906], "gold": false}
+{"premise": null, "hypothesis": "faithful companions of jesus, occurs in, thorndale (cta)", "preds": [0.0006145292440897787], "gold": true}
+{"premise": null, "hypothesis": "kutia, is traditionally from, montboudif", "preds": [0.05561683992708405], "gold": false}
+{"premise": null, "hypothesis": "kutia, come from, montboudif", "preds": [0.0011987186727786536], "gold": true}
+{"premise": null, "hypothesis": "north direction island, stayed in, mount miguel high school", "preds": [0.0025771154162482768], "gold": false}
+{"premise": null, "hypothesis": "north direction island, was part of, mount miguel high school", "preds": [0.002811451485104921], "gold": true}
+{"premise": null, "hypothesis": "kabsa, are rich in, sybr green i", "preds": [0.005874050634085803], "gold": false}
+{"premise": null, "hypothesis": "kabsa, contains, sybr green i", "preds": [0.026739808294031053], "gold": true}
+{"premise": null, "hypothesis": "cesanese comune, was known in, little sutton railway station", "preds": [0.0036298245575094867], "gold": true}
+{"premise": null, "hypothesis": "cesanese comune, is traditionally from, little sutton railway station", "preds": [0.08032468683264271], "gold": false}
+{"premise": null, "hypothesis": "abdominal trauma, must be relieved by, methyl salicylate", "preds": [0.0343048765828185], "gold": false}
+{"premise": null, "hypothesis": "methyl salicylate, relieves, abdominal trauma", "preds": [0.9996012991469254], "gold": true}
+{"premise": null, "hypothesis": "nala sopara, was part of, northrop high school", "preds": [0.004286090762428085], "gold": true}
+{"premise": null, "hypothesis": "nala sopara, were the members of, northrop high school", "preds": [0.007586014109083272], "gold": false}
+{"premise": null, "hypothesis": "cadbury fudge, was discovered in, or yehuda", "preds": [0.7637087299496021], "gold": false}
+{"premise": null, "hypothesis": "cadbury fudge, is traditionally from, or yehuda", "preds": [0.9760550879022474], "gold": true}
+{"premise": null, "hypothesis": "baeolophus, is defined as, chlorophytum comosum", "preds": [0.2482940104048273], "gold": true}
+{"premise": null, "hypothesis": "baeolophus, are the group of, chlorophytum comosum", "preds": [0.8080266971951531], "gold": false}
+{"premise": null, "hypothesis": "wilderness road state park, became, baron wolverton", "preds": [0.20220444368714002], "gold": false}
+{"premise": null, "hypothesis": "baron wolverton, was used in, wilderness road state park", "preds": [0.0015699087653314736], "gold": true}
+{"premise": null, "hypothesis": "moses taiwa molelekwa, traveled to, hedel", "preds": [0.008497073189897675], "gold": true}
+{"premise": null, "hypothesis": "moses taiwa molelekwa, left, hedel", "preds": [0.8262272023765111], "gold": false}
+{"premise": null, "hypothesis": "grecanico, contains, tricaine mesylate", "preds": [0.008688076373971287], "gold": true}
+{"premise": null, "hypothesis": "grecanico, are high in, tricaine mesylate", "preds": [0.0014906039240802915], "gold": false}
+{"premise": null, "hypothesis": "angelicum school iloilo, measures, march 16", "preds": [0.0001536658319729045], "gold": false}
+{"premise": null, "hypothesis": "angelicum school iloilo, can be used to compare, march 16", "preds": [0.0012990930283889868], "gold": true}
+{"premise": null, "hypothesis": "pedicle of vertebral arch, contain a percentage of, mee (psychedelic)", "preds": [0.0034775948143312974], "gold": true}
+{"premise": null, "hypothesis": "pedicle of vertebral arch, is rich with, mee (psychedelic)", "preds": [0.009658440525957712], "gold": false}
+{"premise": null, "hypothesis": "terrace (stadium), is the study of, hylobates", "preds": [0.0003766479150642543], "gold": false}
+{"premise": null, "hypothesis": "terrace (stadium), researches, hylobates", "preds": [0.024924593756176783], "gold": true}
+{"premise": null, "hypothesis": "lumbar vertebrae, is part of, 2000 north carolina tar heels football team", "preds": [0.000388360817730804], "gold": true}
+{"premise": null, "hypothesis": "lumbar vertebrae, is at the bottom of, 2000 north carolina tar heels football team", "preds": [0.0006351528888381419], "gold": false}
+{"premise": null, "hypothesis": "nanbanzuke, is enriched with, mee (psychedelic)", "preds": [0.018791898293812115], "gold": false}
+{"premise": null, "hypothesis": "nanbanzuke, is rich with, mee (psychedelic)", "preds": [0.0010428503485967466], "gold": true}
+{"premise": null, "hypothesis": "riorges, was still, marshal of the senate of the republic of poland", "preds": [0.003564736431582227], "gold": false}
+{"premise": null, "hypothesis": "marshal of the senate of the republic of poland, was used in, riorges", "preds": [0.00022078097640665373], "gold": true}
+{"premise": null, "hypothesis": "park royal partnership, bombed in, kfar yehoshua", "preds": [0.0009107376483512009], "gold": false}
+{"premise": null, "hypothesis": "kfar yehoshua, was attacked by, park royal partnership", "preds": [0.03612733836876281], "gold": true}
+{"premise": null, "hypothesis": "spiazzo, is in, alcover", "preds": [0.8528362853311928], "gold": true}
+{"premise": null, "hypothesis": "spiazzo, had become the centre of, alcover", "preds": [0.0004858745478756865], "gold": false}
+{"premise": null, "hypothesis": "i love the world, is constructed from, saint-vaast-la-hougue", "preds": [0.14291178631172752], "gold": true}
+{"premise": null, "hypothesis": "saint-vaast-la-hougue, is carved, i love the world", "preds": [0.0010481851699208344], "gold": false}
+{"premise": null, "hypothesis": "mellor brook, became the hub of, dubno", "preds": [0.0011712697310020115], "gold": false}
+{"premise": null, "hypothesis": "mellor brook, is in, dubno", "preds": [0.0005978114863111061], "gold": true}
+{"premise": null, "hypothesis": "frank illiano, proved to be, fifa world ranking system 1999-2006", "preds": [0.002513696074258165], "gold": false}
+{"premise": null, "hypothesis": "frank illiano, became, fifa world ranking system 1999-2006", "preds": [0.008685483714109599], "gold": true}
+{"premise": null, "hypothesis": "ragged island wildlife management area, was the capital in, torrevecchia pia", "preds": [0.0015110785307760888], "gold": false}
+{"premise": null, "hypothesis": "ragged island wildlife management area, is in, torrevecchia pia", "preds": [0.23289034461288166], "gold": true}
+{"premise": null, "hypothesis": "winchester bible, fought in, katuntsi", "preds": [0.003089717833143657], "gold": true}
+{"premise": null, "hypothesis": "winchester bible, went and fell in, katuntsi", "preds": [0.0008459463665451694], "gold": false}
+{"premise": null, "hypothesis": "cidona, came from, guelders", "preds": [0.0012686051635600881], "gold": true}
+{"premise": null, "hypothesis": "cidona, is native to, guelders", "preds": [0.0006264212683396719], "gold": false}
+{"premise": null, "hypothesis": "sexcrime (nineteen eighty-four), entered and shot, st thomas' school (pune)", "preds": [0.0024777533804024587], "gold": false}
+{"premise": null, "hypothesis": "sexcrime (nineteen eighty-four), murdered, st thomas' school (pune)", "preds": [0.0022796272002333917], "gold": true}
+{"premise": null, "hypothesis": "alpine newt, is a plant of, madurai district", "preds": [0.008214906900873675], "gold": true}
+{"premise": null, "hypothesis": "alpine newt, is native to, madurai district", "preds": [0.001503926060720695], "gold": false}
+{"premise": null, "hypothesis": "fettisdagen, is native to, barel", "preds": [0.006725237478970025], "gold": false}
+{"premise": null, "hypothesis": "fettisdagen, is and was in, barel", "preds": [0.0021554994257906857], "gold": true}
+{"premise": null, "hypothesis": "tel tsaf, was the emporium of, seversk", "preds": [0.00034657747851651877], "gold": false}
+{"premise": null, "hypothesis": "tel tsaf, is in, seversk", "preds": [0.0012149902528916234], "gold": true}
+{"premise": null, "hypothesis": "the cadillac (seinfeld), are rich in, oleandrin", "preds": [0.0013128910936773264], "gold": false}
+{"premise": null, "hypothesis": "the cadillac (seinfeld), contains, oleandrin", "preds": [0.002967706711089202], "gold": true}
+{"premise": null, "hypothesis": "via balbia, died on the field of, mtv europe music award for best song", "preds": [0.0009624147176207631], "gold": false}
+{"premise": null, "hypothesis": "via balbia, fought in, mtv europe music award for best song", "preds": [0.16047617596586838], "gold": true}
+{"premise": null, "hypothesis": "kliment voroshilov tank, returned from, monte carasso", "preds": [0.0016709991251854794], "gold": false}
+{"premise": null, "hypothesis": "kliment voroshilov tank, traveled to, monte carasso", "preds": [0.005031506314799594], "gold": true}
+{"premise": null, "hypothesis": "ewaninga rock carvings conservation reserve, seceded and joined, 2006 football league championship play-off final", "preds": [0.009551062111549713], "gold": false}
+{"premise": null, "hypothesis": "ewaninga rock carvings conservation reserve, was part of, 2006 football league championship play-off final", "preds": [0.0003888968307865226], "gold": true}
+{"premise": null, "hypothesis": "chloral hydrate, treats, sprained ankle", "preds": [0.07471269664752178], "gold": true}
+{"premise": null, "hypothesis": "sprained ankle, can be closed with, chloral hydrate", "preds": [0.0018330652865616859], "gold": false}
+{"premise": null, "hypothesis": "march 16, is a festival in, baekdamsa", "preds": [0.00021184092074466587], "gold": false}
+{"premise": null, "hypothesis": "march 16, was celebrated over, baekdamsa", "preds": [0.00031266247140626646], "gold": true}
+{"premise": null, "hypothesis": "soviet union at the 1980 winter olympics, became, krotona", "preds": [0.015043353432151296], "gold": false}
+{"premise": null, "hypothesis": "soviet union at the 1980 winter olympics, will pass for, krotona", "preds": [0.0010470531467591804], "gold": true}
+{"premise": null, "hypothesis": "hazro, can survive in, chris klein-beekman", "preds": [0.004893998334285221], "gold": true}
+{"premise": null, "hypothesis": "hazro, are fed by, chris klein-beekman", "preds": [0.007627916263927559], "gold": false}
+{"premise": null, "hypothesis": "boulainvilliers (paris rer), is in, bir lahmar", "preds": [0.012846491264721649], "gold": true}
+{"premise": null, "hypothesis": "boulainvilliers (paris rer), is the city of, bir lahmar", "preds": [0.01046557692861999], "gold": false}
+{"premise": null, "hypothesis": "ouville, had become the capital of, gandhi square", "preds": [0.036343253298181555], "gold": false}
+{"premise": null, "hypothesis": "ouville, is in, gandhi square", "preds": [0.002550681064883653], "gold": true}
+{"premise": null, "hypothesis": "merete barker, was sent to, bad brambach", "preds": [0.00013298436202308084], "gold": false}
+{"premise": null, "hypothesis": "merete barker, traveled to, bad brambach", "preds": [0.00019518148427116744], "gold": true}
+{"premise": null, "hypothesis": "the bakery tour, detected, monkey wrench", "preds": [0.13370552792439988], "gold": false}
+{"premise": null, "hypothesis": "the bakery tour, measures, monkey wrench", "preds": [0.006768272344816917], "gold": true}
+{"premise": null, "hypothesis": "gilberta, hung with, carillon in berlin-tiergarten", "preds": [0.0005169867902786174], "gold": false}
+{"premise": null, "hypothesis": "gilberta, has, carillon in berlin-tiergarten", "preds": [0.0013482968209592716], "gold": true}
+{"premise": null, "hypothesis": "e1 series shinkansen, can prepare, bertram fraser-reid", "preds": [0.023139725012912393], "gold": true}
+{"premise": null, "hypothesis": "e1 series shinkansen, prepares, bertram fraser-reid", "preds": [0.004232297927659279], "gold": false}
+{"premise": null, "hypothesis": "crag chilia, is native to, little river (texas)", "preds": [0.009057922491032544], "gold": false}
+{"premise": null, "hypothesis": "crag chilia, is found in the regions of, little river (texas)", "preds": [0.025555904966803156], "gold": true}
+{"premise": null, "hypothesis": "torgersen island, was to be administered by, amund ringnes island", "preds": [0.008548957923620149], "gold": false}
+{"premise": null, "hypothesis": "torgersen island, had influence in, amund ringnes island", "preds": [0.002121405518526187], "gold": true}
+{"premise": null, "hypothesis": "polar bear expedition, set up in, pittsburgh patriots", "preds": [0.007688772646525344], "gold": true}
+{"premise": null, "hypothesis": "polar bear expedition, lives in, pittsburgh patriots", "preds": [0.0021129408632230007], "gold": false}
+{"premise": null, "hypothesis": "ashdod marina, eliminates, atopic dermatitis", "preds": [0.0007399387998076601], "gold": false}
+{"premise": null, "hypothesis": "ashdod marina, relieves, atopic dermatitis", "preds": [0.0015162945918626436], "gold": true}
+{"premise": null, "hypothesis": "the gasman, occurs in, kfar netter", "preds": [0.0012653269414546475], "gold": true}
+{"premise": null, "hypothesis": "the gasman, is universal in, kfar netter", "preds": [0.0005889598037158716], "gold": false}
+{"premise": null, "hypothesis": "tokod, signed a pact with, rio grande city consolidated independent school district", "preds": [0.0021667933980226706], "gold": false}
+{"premise": null, "hypothesis": "rio grande city consolidated independent school district, is an ally of, tokod", "preds": [0.002557536117990089], "gold": true}
+{"premise": null, "hypothesis": "taeniopygia, has, sugar (desktop environment)", "preds": [0.0825107028380011], "gold": true}
+{"premise": null, "hypothesis": "taeniopygia, obtain, sugar (desktop environment)", "preds": [0.12589737864664308], "gold": false}
+{"premise": null, "hypothesis": "teslin tlingit council, sailed and discovered, rochechouart crater", "preds": [0.011919528720171935], "gold": false}
+{"premise": null, "hypothesis": "teslin tlingit council, discovered, rochechouart crater", "preds": [0.017964816874876277], "gold": true}
+{"premise": null, "hypothesis": "corn soup, contains, guaiacol", "preds": [0.00012618840880584958], "gold": true}
+{"premise": null, "hypothesis": "corn soup, are the sources of, guaiacol", "preds": [0.00229375305053664], "gold": false}
+{"premise": null, "hypothesis": "pileated woodpecker, eat the leaves of, taeniopygia", "preds": [0.9956758810123212], "gold": false}
+{"premise": null, "hypothesis": "pileated woodpecker, lives off, taeniopygia", "preds": [0.9968006991982641], "gold": true}
+{"premise": null, "hypothesis": "epinastine, relieves, human respiratory syncytial virus", "preds": [0.9988322466248771], "gold": true}
+{"premise": null, "hypothesis": "epinastine, is required to relieve, human respiratory syncytial virus", "preds": [0.9991127777457545], "gold": false}
+{"premise": null, "hypothesis": "boac (rapper), took refuge in, the property ombudsman", "preds": [0.0015814724086790632], "gold": false}
+{"premise": null, "hypothesis": "boac (rapper), lives in, the property ombudsman", "preds": [0.011090348609238354], "gold": true}
+{"premise": null, "hypothesis": "montmerrei, was claimed by, llangan", "preds": [0.007099017298937638], "gold": true}
+{"premise": null, "hypothesis": "montmerrei, was acquired by, llangan", "preds": [0.0038906230681380327], "gold": false}
+{"premise": null, "hypothesis": "cordelia frost, feeds upon, toxicodendron radicans", "preds": [0.006315335980905723], "gold": true}
+{"premise": null, "hypothesis": "cordelia frost, lives off, toxicodendron radicans", "preds": [0.007757793288077297], "gold": false}
+{"premise": null, "hypothesis": "1932 chicago cubs season, occurs in, halmaj", "preds": [0.00053591209284376], "gold": true}
+{"premise": null, "hypothesis": "1932 chicago cubs season, has shaken, halmaj", "preds": [0.00023958757944803066], "gold": false}
+{"premise": null, "hypothesis": "ennetmoos, fought in, kstm", "preds": [0.0024821942441561884], "gold": true}
+{"premise": null, "hypothesis": "ennetmoos, had been defeated in, kstm", "preds": [0.0006736279174496262], "gold": false}
+{"premise": null, "hypothesis": "john leech (disc jockey), discussed, hobart baronets", "preds": [0.00021917237442797832], "gold": true}
+{"premise": null, "hypothesis": "john leech (disc jockey), was well versed in, hobart baronets", "preds": [0.00039050632536286045], "gold": false}
+{"premise": null, "hypothesis": "viktor yakovlev, was taken to, beaver bridge (ohio river)", "preds": [0.0007591307365645283], "gold": false}
+{"premise": null, "hypothesis": "viktor yakovlev, traveled to, beaver bridge (ohio river)", "preds": [0.0005664296149722747], "gold": true}
+{"premise": null, "hypothesis": "feronia (mythology), received prayers from, lifting stone", "preds": [0.0015011836268759016], "gold": false}
+{"premise": null, "hypothesis": "lifting stone, saw and recognized, feronia (mythology)", "preds": [0.000583773293249823], "gold": true}
+{"premise": null, "hypothesis": "constitutional party (peru), had won, fair saint louis", "preds": [0.03226949388517286], "gold": false}
+{"premise": null, "hypothesis": "constitutional party (peru), fought in, fair saint louis", "preds": [0.004223804858407898], "gold": true}
+{"premise": null, "hypothesis": "william ainger wigram, became, fruit of the poisonous tree", "preds": [0.0008919310117125878], "gold": true}
+{"premise": null, "hypothesis": "william ainger wigram, is and remains, fruit of the poisonous tree", "preds": [0.06771376561840559], "gold": false}
+{"premise": null, "hypothesis": "carlaw park, was attacked by, barcalounger", "preds": [0.009478313820687534], "gold": true}
+{"premise": null, "hypothesis": "barcalounger, bombed in, carlaw park", "preds": [0.004638652390663356], "gold": false}
+{"premise": null, "hypothesis": "trollius, have pairs of, liberal parties in newfoundland (pre-confederation)", "preds": [0.012022702906193616], "gold": false}
+{"premise": null, "hypothesis": "trollius, has, liberal parties in newfoundland (pre-confederation)", "preds": [0.07097552935910917], "gold": true}
+{"premise": null, "hypothesis": "possession bay, had captured, southland regional council", "preds": [0.003465256724749455], "gold": false}
+{"premise": null, "hypothesis": "southland regional council, was invaded by, possession bay", "preds": [0.003677984026446035], "gold": true}
+{"premise": null, "hypothesis": "estragole, is common on, vale of siddim", "preds": [0.0002729357789400533], "gold": true}
+{"premise": null, "hypothesis": "estragole, is the most abundant on, vale of siddim", "preds": [0.0007349610523309513], "gold": false}
+{"premise": null, "hypothesis": "garantiana, evolved in, montello (mbta station)", "preds": [0.001981721472187503], "gold": false}
+{"premise": null, "hypothesis": "garantiana, is native to, montello (mbta station)", "preds": [0.0010818324476310481], "gold": true}
+{"premise": null, "hypothesis": "buclizine, relieves, wernicke's encephalopathy", "preds": [0.9992258770855469], "gold": false}
+{"premise": null, "hypothesis": "buclizine, may help to relieve, wernicke's encephalopathy", "preds": [0.9898885951518311], "gold": true}
+{"premise": null, "hypothesis": "heo young-ho, has been proclaimed by, perm (hairstyle)", "preds": [0.0011703758789993746], "gold": false}
+{"premise": null, "hypothesis": "perm (hairstyle), advocated, heo young-ho", "preds": [0.00034699486882522335], "gold": true}
+{"premise": null, "hypothesis": "lightsaber, was destroyed by, powerpc e500", "preds": [0.08134924233837093], "gold": true}
+{"premise": null, "hypothesis": "lightsaber, was beheaded by, powerpc e500", "preds": [0.04140125289422797], "gold": false}
+{"premise": null, "hypothesis": "cut brandy, is included in, the international records management trust", "preds": [0.004427830297102475], "gold": true}
+{"premise": null, "hypothesis": "cut brandy, is rolled out into, the international records management trust", "preds": [0.008689596490711382], "gold": false}
+{"premise": null, "hypothesis": "miniature museum, is the city in, bukit gantang", "preds": [0.00613610233799422], "gold": false}
+{"premise": null, "hypothesis": "miniature museum, is in, bukit gantang", "preds": [0.007434024314868726], "gold": true}
+{"premise": null, "hypothesis": "that wilkin boy, survived, superior concept monsters", "preds": [0.0001786716288418866], "gold": false}
+{"premise": null, "hypothesis": "that wilkin boy, fought in, superior concept monsters", "preds": [0.00038531963745436215], "gold": true}
+{"premise": null, "hypothesis": "independence movement (lebanon), would lose, medical illustrator", "preds": [0.00015777959036250566], "gold": false}
+{"premise": null, "hypothesis": "independence movement (lebanon), fought in, medical illustrator", "preds": [0.007001206182430164], "gold": true}
+{"premise": null, "hypothesis": "frosty (frozen dairy dessert), relieves, short bowel syndrome", "preds": [0.003753563548137273], "gold": true}
+{"premise": null, "hypothesis": "frosty (frozen dairy dessert), would stop, short bowel syndrome", "preds": [0.030984987081016768], "gold": false}
+{"premise": null, "hypothesis": "obadiah tarumbwa, traveled to, culpeper national cemetery", "preds": [0.00042155983735159275], "gold": true}
+{"premise": null, "hypothesis": "obadiah tarumbwa, joined in, culpeper national cemetery", "preds": [0.0005632699384944262], "gold": false}
+{"premise": null, "hypothesis": "little yellow bat, has, superoxide dismutase", "preds": [0.0009390793242705087], "gold": true}
+{"premise": null, "hypothesis": "little yellow bat, lives and has, superoxide dismutase", "preds": [0.0028074296112314268], "gold": false}
+{"premise": null, "hypothesis": "tropospheric ozone, is the most abundant in, 640 brambilla", "preds": [0.003625085887373536], "gold": true}
+{"premise": null, "hypothesis": "640 brambilla, consists entirely of, tropospheric ozone", "preds": [0.08529069354243718], "gold": false}
+{"premise": null, "hypothesis": "muiderberg, was part of, arab thought foundation", "preds": [0.0018474302709917123], "gold": true}
+{"premise": null, "hypothesis": "muiderberg, had been added to, arab thought foundation", "preds": [0.0007099278249056984], "gold": false}
+{"premise": null, "hypothesis": "bronzewing gold mine, is in, spinete", "preds": [0.11718562986103181], "gold": true}
+{"premise": null, "hypothesis": "bronzewing gold mine, is the port in, spinete", "preds": [0.017694955912737453], "gold": false}
+{"premise": null, "hypothesis": "kyoto energy, is depicted with, cold shoulder", "preds": [0.0011546409482360853], "gold": true}
+{"premise": null, "hypothesis": "kyoto energy, has, cold shoulder", "preds": [0.000855392867452287], "gold": false}
+{"premise": null, "hypothesis": "frank vandenbroucke (politician), was an student of, baron strange of blackmere", "preds": [0.004928657016777138], "gold": false}
+{"premise": null, "hypothesis": "frank vandenbroucke (politician), discussed, baron strange of blackmere", "preds": [0.0001636208223844693], "gold": true}
+{"premise": null, "hypothesis": "dimethyl dicarbonate, are specific for, ballistic trauma", "preds": [0.0058884742070940965], "gold": false}
+{"premise": null, "hypothesis": "dimethyl dicarbonate, relieves, ballistic trauma", "preds": [0.001417230603904529], "gold": true}
+{"premise": null, "hypothesis": "crag chilia, were a group of, barbary macaque", "preds": [0.7854345535800411], "gold": false}
+{"premise": null, "hypothesis": "crag chilia, is defined as, barbary macaque", "preds": [0.029785638783600854], "gold": true}
+{"premise": null, "hypothesis": "arborio rice, are fortified with, gadopentetic acid", "preds": [0.06796898985012512], "gold": false}
+{"premise": null, "hypothesis": "arborio rice, contains, gadopentetic acid", "preds": [0.11203062797709917], "gold": true}
+{"premise": null, "hypothesis": "vodka tonic, is rich with, guaiacol", "preds": [0.7657372924577679], "gold": false}
+{"premise": null, "hypothesis": "vodka tonic, contain an amount of, guaiacol", "preds": [0.9061380467448812], "gold": true}
+{"premise": null, "hypothesis": "cesanese comune, contains, tropospheric ozone", "preds": [0.0002897445906252516], "gold": true}
+{"premise": null, "hypothesis": "cesanese comune, contain amounts of, tropospheric ozone", "preds": [0.0014467349118770234], "gold": false}
+{"premise": null, "hypothesis": "black river (alaska), is the city in, villach hauptbahnhof", "preds": [0.000783926815650926], "gold": false}
+{"premise": null, "hypothesis": "black river (alaska), is in, villach hauptbahnhof", "preds": [0.0010614770692189968], "gold": true}
+{"premise": null, "hypothesis": "hart jessup, is native to, drosh", "preds": [0.0022632053922084783], "gold": false}
+{"premise": null, "hypothesis": "hart jessup, became known in, drosh", "preds": [0.0013770866432187279], "gold": true}
+{"premise": null, "hypothesis": "parotta, is rich in, benzil", "preds": [0.025814830472247308], "gold": false}
+{"premise": null, "hypothesis": "parotta, contains, benzil", "preds": [0.08641332381509764], "gold": true}
+{"premise": null, "hypothesis": "arnold's cat map, commanded the army in, veu", "preds": [0.19764137936371312], "gold": false}
+{"premise": null, "hypothesis": "arnold's cat map, fought in, veu", "preds": [0.00884370326864714], "gold": true}
+{"premise": null, "hypothesis": "rice bran oil, is included in, aceh (cattle)", "preds": [0.010002775686553778], "gold": true}
+{"premise": null, "hypothesis": "aceh (cattle), is covered with, rice bran oil", "preds": [0.0045751727205251], "gold": false}
+{"premise": null, "hypothesis": "heaste, became the metropolis of, gapstow bridge", "preds": [0.008033024918068343], "gold": false}
+{"premise": null, "hypothesis": "heaste, is in, gapstow bridge", "preds": [0.025582190339280275], "gold": true}
+{"premise": null, "hypothesis": "praya dubia, comes on, dynamic circuit network", "preds": [0.0012360300073172015], "gold": false}
+{"premise": null, "hypothesis": "praya dubia, has, dynamic circuit network", "preds": [0.0006421564816422309], "gold": true}
+{"premise": null, "hypothesis": "a masque of reason, fought in, bronzite", "preds": [0.0002259079602162095], "gold": true}
+{"premise": null, "hypothesis": "a masque of reason, is a veteran of, bronzite", "preds": [0.16353910934506521], "gold": false}
+{"premise": null, "hypothesis": "hubert scott-paine, is largely used in, blood plasma", "preds": [0.04651413588849834], "gold": false}
+{"premise": null, "hypothesis": "blood plasma, is constructed from, hubert scott-paine", "preds": [0.0003067010459840147], "gold": true}
+{"premise": null, "hypothesis": "london broil, is included in, uss bergen (apa-150)", "preds": [0.0006220695082637118], "gold": true}
+{"premise": null, "hypothesis": "uss bergen (apa-150), is covered with, london broil", "preds": [0.0009421490385526643], "gold": false}
+{"premise": null, "hypothesis": "proteus mirabilis, are found in, acrophobia (ride)", "preds": [0.0026009574677722247], "gold": true}
+{"premise": null, "hypothesis": "proteus mirabilis, is native to, acrophobia (ride)", "preds": [0.0020288986007101495], "gold": false}
+{"premise": null, "hypothesis": "boondi, contains, dimethyl dicarbonate", "preds": [0.0005654756459984034], "gold": true}
+{"premise": null, "hypothesis": "boondi, is high in, dimethyl dicarbonate", "preds": [0.0002866441537128783], "gold": false}
+{"premise": null, "hypothesis": "children's song, lives in, emily byrd starr", "preds": [0.0025763112320206782], "gold": true}
+{"premise": null, "hypothesis": "children's song, had been sent to, emily byrd starr", "preds": [0.0006025202774070371], "gold": false}
+{"premise": null, "hypothesis": "pedicle of vertebral arch, processes, 2006 washington huskies football team", "preds": [0.00021976862759309768], "gold": false}
+{"premise": null, "hypothesis": "2006 washington huskies football team, moves into, pedicle of vertebral arch", "preds": [0.11649052451263531], "gold": true}
+{"premise": null, "hypothesis": "longtail (rat), are the largest of, metatheria", "preds": [0.7212801727103784], "gold": false}
+{"premise": null, "hypothesis": "longtail (rat), is defined as, metatheria", "preds": [0.9995361801619762], "gold": true}
+{"premise": null, "hypothesis": "1780 atlantic hurricane season, had dedicated to, feronia (mythology)", "preds": [0.0009678685198775128], "gold": true}
+{"premise": null, "hypothesis": "feronia (mythology), received prayers from, 1780 atlantic hurricane season", "preds": [0.08764691761333454], "gold": false}
+{"premise": null, "hypothesis": "city of footscray, occupied along, buchberg", "preds": [0.0029497946864777136], "gold": true}
+{"premise": null, "hypothesis": "buchberg, is enclosed by, city of footscray", "preds": [0.03967718530999775], "gold": false}
+{"premise": null, "hypothesis": "wedding soup, is made in, spring independent school district", "preds": [0.034210577745159565], "gold": true}
+{"premise": null, "hypothesis": "wedding soup, is traditionally from, spring independent school district", "preds": [0.03663492401867152], "gold": false}
+{"premise": null, "hypothesis": "mandabe, was part of, gung-ho (g.i. joe)", "preds": [0.052684506161693845], "gold": true}
+{"premise": null, "hypothesis": "mandabe, seceded and joined, gung-ho (g.i. joe)", "preds": [0.011516874970650293], "gold": false}
+{"premise": null, "hypothesis": "alexander shaw (canadian politician), traveled to, burnaya river", "preds": [0.00012183837299889477], "gold": true}
+{"premise": null, "hypothesis": "alexander shaw (canadian politician), was sent to, burnaya river", "preds": [0.00024387935351349865], "gold": false}
+{"premise": null, "hypothesis": "oatmeal cookie (cocktail), is native to, hainan tibetan autonomous prefecture", "preds": [0.09930446346055699], "gold": false}
+{"premise": null, "hypothesis": "oatmeal cookie (cocktail), have been grown in, hainan tibetan autonomous prefecture", "preds": [0.003626665548386643], "gold": true}
+{"premise": null, "hypothesis": "matteo bassi, was born in, aupouri peninsula", "preds": [0.00026152133273471545], "gold": false}
+{"premise": null, "hypothesis": "matteo bassi, came from, aupouri peninsula", "preds": [0.0008984584540872032], "gold": true}
+{"premise": null, "hypothesis": "greenfield belser, fought in, hareeba", "preds": [0.0004133047000318135], "gold": true}
+{"premise": null, "hypothesis": "greenfield belser, has braved, hareeba", "preds": [0.000270491907729431], "gold": false}
+{"premise": null, "hypothesis": "finland at the 1948 summer olympics, are in the neighborhood of, redgrave pinsent rowing lake", "preds": [0.0033355866299928927], "gold": true}
+{"premise": null, "hypothesis": "redgrave pinsent rowing lake, is home to, finland at the 1948 summer olympics", "preds": [0.01783875156685588], "gold": false}
+{"premise": null, "hypothesis": "hesperocyon, floats on, black-crowned palm-tanager", "preds": [0.0015731877765868263], "gold": false}
+{"premise": null, "hypothesis": "hesperocyon, has, black-crowned palm-tanager", "preds": [0.0028577657722857475], "gold": true}
+{"premise": null, "hypothesis": "han jae-woong, studies, governator ale", "preds": [0.00023306046593440932], "gold": true}
+{"premise": null, "hypothesis": "han jae-woong, is the study of, governator ale", "preds": [0.021821098962817975], "gold": false}
+{"premise": null, "hypothesis": "thomas davidson (poet), brought from, smolenka river", "preds": [0.0004299639049893389], "gold": false}
+{"premise": null, "hypothesis": "thomas davidson (poet), traveled to, smolenka river", "preds": [0.00011090047426587368], "gold": true}
+{"premise": null, "hypothesis": "hylobates, were to be found in, porcari", "preds": [0.001354585128342467], "gold": true}
+{"premise": null, "hypothesis": "hylobates, is native to, porcari", "preds": [0.025286131026326708], "gold": false}
+{"premise": null, "hypothesis": "st. clair-superior, was used in, medel (lucmagn)", "preds": [0.0014789814906864818], "gold": true}
+{"premise": null, "hypothesis": "medel (lucmagn), still remained as, st. clair-superior", "preds": [0.0030241812819121194], "gold": false}
+{"premise": null, "hypothesis": "white sapote, has, apache james", "preds": [0.009605599453218872], "gold": true}
+{"premise": null, "hypothesis": "white sapote, are insects with, apache james", "preds": [0.0005921188182594905], "gold": false}
+{"premise": null, "hypothesis": "carlisle kingmoor tmd, terminates, bullous pemphigoid", "preds": [0.0011918037925657265], "gold": false}
+{"premise": null, "hypothesis": "carlisle kingmoor tmd, relieves, bullous pemphigoid", "preds": [0.003754963258861932], "gold": true}
+{"premise": null, "hypothesis": "claymore (g.i. joe), is undertaken by, homeboys of oz", "preds": [0.2258542858707479], "gold": false}
+{"premise": null, "hypothesis": "homeboys of oz, fought in, claymore (g.i. joe)", "preds": [0.17078480719476563], "gold": true}
+{"premise": null, "hypothesis": "juventae chasma, is in, taramati", "preds": [0.0005195489817197974], "gold": true}
+{"premise": null, "hypothesis": "juventae chasma, is the republic in, taramati", "preds": [0.2152961268755093], "gold": false}
+{"premise": null, "hypothesis": "pete cortlandt, resigned and retired to, nuvinci continuously variable planetary transmission", "preds": [0.0010303336519223993], "gold": false}
+{"premise": null, "hypothesis": "pete cortlandt, lives in, nuvinci continuously variable planetary transmission", "preds": [0.19874193735238793], "gold": true}
+{"premise": null, "hypothesis": "leaving certificate, fought in, vanlandi", "preds": [0.025449956414625552], "gold": true}
+{"premise": null, "hypothesis": "leaving certificate, was first in, vanlandi", "preds": [0.01745707120257095], "gold": false}
+{"premise": null, "hypothesis": "offendorf, had influence in, nabadwip", "preds": [0.0005607074718898541], "gold": true}
+{"premise": null, "hypothesis": "offendorf, took the lead with, nabadwip", "preds": [0.0007632432662104671], "gold": false}
+{"premise": null, "hypothesis": "ursus americanus carlottae, flew on, apple terminal", "preds": [0.01426084271050998], "gold": false}
+{"premise": null, "hypothesis": "ursus americanus carlottae, has, apple terminal", "preds": [0.002687473003669616], "gold": true}
+{"premise": null, "hypothesis": "christian drama, are found on the coast of, ingram planetarium", "preds": [0.005720955350280776], "gold": false}
+{"premise": null, "hypothesis": "christian drama, is native to, ingram planetarium", "preds": [0.02200846629413028], "gold": true}
+{"premise": null, "hypothesis": "whitefish lake first nation, lives in, usns fred c. ainsworth (t-ap-181)", "preds": [0.9992592869982158], "gold": false}
+{"premise": null, "hypothesis": "whitefish lake first nation, are to be found in, usns fred c. ainsworth (t-ap-181)", "preds": [0.04343647434161357], "gold": true}
+{"premise": null, "hypothesis": "georgii karpechenko, discussed, tuvan people's revolutionary party", "preds": [0.0001422223689612756], "gold": true}
+{"premise": null, "hypothesis": "georgii karpechenko, defined, tuvan people's revolutionary party", "preds": [0.035896880228068084], "gold": false}
+{"premise": null, "hypothesis": "oleg pravilo, became, shi (poetry)", "preds": [0.0003351637650246264], "gold": true}
+{"premise": null, "hypothesis": "oleg pravilo, stands at the head of, shi (poetry)", "preds": [0.00019780445307604477], "gold": false}
+{"premise": null, "hypothesis": "les gracques, lives in, naval star awards", "preds": [0.22445943519594785], "gold": true}
+{"premise": null, "hypothesis": "les gracques, dwelt together in, naval star awards", "preds": [0.22308252477547363], "gold": false}
+{"premise": null, "hypothesis": "fred rose (politician), arrived in, hesselberg", "preds": [0.002039120000024708], "gold": false}
+{"premise": null, "hypothesis": "fred rose (politician), traveled to, hesselberg", "preds": [0.004577349117010909], "gold": true}
+{"premise": null, "hypothesis": "the little mermaid (faerie tale theatre episode), was made by, muddy mountains", "preds": [0.00115428307644716], "gold": true}
+{"premise": null, "hypothesis": "muddy mountains, designed, the little mermaid (faerie tale theatre episode)", "preds": [0.02958074856238252], "gold": false}
+{"premise": null, "hypothesis": "cut brandy, is made by adding, ratte potato", "preds": [0.0007126694191649241], "gold": false}
+{"premise": null, "hypothesis": "ratte potato, is included in, cut brandy", "preds": [0.23375980277217095], "gold": true}
+{"premise": null, "hypothesis": "royal tru, is rich with, mee (psychedelic)", "preds": [0.0007710817209919951], "gold": false}
+{"premise": null, "hypothesis": "royal tru, are an source of, mee (psychedelic)", "preds": [0.10495050595860078], "gold": true}
+{"premise": null, "hypothesis": "estudiantes tecos reserves, volunteered in, sepulchrave", "preds": [0.0004570256002333628], "gold": false}
+{"premise": null, "hypothesis": "estudiantes tecos reserves, fought in, sepulchrave", "preds": [0.0005384146513867094], "gold": true}
+{"premise": null, "hypothesis": "jerusalem light rail, stayed in, burnt toast vinyl", "preds": [0.0012563264948382002], "gold": false}
+{"premise": null, "hypothesis": "jerusalem light rail, was part of, burnt toast vinyl", "preds": [0.0015632927099197835], "gold": true}
+{"premise": null, "hypothesis": "zhuyin (mythology), traveled to, arashiyama station (hankyu)", "preds": [0.0014836008647461374], "gold": true}
+{"premise": null, "hypothesis": "zhuyin (mythology), is now in, arashiyama station (hankyu)", "preds": [0.003938627761543023], "gold": false}
+{"premise": null, "hypothesis": "malchiah, fought in, mont saint-hilaire", "preds": [0.0005131117860309731], "gold": true}
+{"premise": null, "hypothesis": "malchiah, remained on the field of, mont saint-hilaire", "preds": [0.0003526571044571436], "gold": false}
+{"premise": null, "hypothesis": "worshipful company of water conservators, was born in, mtito andei", "preds": [0.0012236324263715237], "gold": false}
+{"premise": null, "hypothesis": "worshipful company of water conservators, came from, mtito andei", "preds": [0.0009322539707283806], "gold": true}
+{"premise": null, "hypothesis": "north american phalanx, was swallowed by, whitchurch (dn&s) railway station", "preds": [0.004651645053056819], "gold": false}
+{"premise": null, "hypothesis": "north american phalanx, was invaded by, whitchurch (dn&s) railway station", "preds": [0.11905661875706725], "gold": true}
+{"premise": null, "hypothesis": "whitehorse trolley, is in, jersey city armory", "preds": [0.08851593366897353], "gold": true}
+{"premise": null, "hypothesis": "whitehorse trolley, became the center of, jersey city armory", "preds": [0.09594693496902262], "gold": false}
+{"premise": null, "hypothesis": "yav (non-governmental environmental organization), relieves, propionic acidemia", "preds": [0.1870396364730455], "gold": true}
+{"premise": null, "hypothesis": "propionic acidemia, must be relieved by, yav (non-governmental environmental organization)", "preds": [0.0011104425885210545], "gold": false}
+{"premise": null, "hypothesis": "cape cobra, wavers on, flanders classics", "preds": [0.0009840211800052345], "gold": false}
+{"premise": null, "hypothesis": "cape cobra, has, flanders classics", "preds": [0.03155408672826504], "gold": true}
+{"premise": null, "hypothesis": "john crosby (conductor), was elected to, new melleray abbey", "preds": [0.0011577406638976773], "gold": false}
+{"premise": null, "hypothesis": "john crosby (conductor), works at, new melleray abbey", "preds": [0.000969001121917834], "gold": true}
+{"premise": null, "hypothesis": "allobates, has, palestinian satellite channel", "preds": [0.00295396755455013], "gold": true}
+{"premise": null, "hypothesis": "allobates, are distinguished by having, palestinian satellite channel", "preds": [0.00048575495918457], "gold": false}
+{"premise": null, "hypothesis": "levan nikoleishvili, fought in, sm u-35", "preds": [0.00017390309070092203], "gold": true}
+{"premise": null, "hypothesis": "levan nikoleishvili, was soon at, sm u-35", "preds": [0.00017092295368426047], "gold": false}
+{"premise": null, "hypothesis": "world wide telecom web, prevails in, pilar de la horadada", "preds": [0.0009815761454238237], "gold": true}
+{"premise": null, "hypothesis": "world wide telecom web, has official status in, pilar de la horadada", "preds": [0.0007928388412827836], "gold": false}
+{"premise": null, "hypothesis": "wessex trains, is rich with, nicarbazin", "preds": [0.006117894228168996], "gold": true}
+{"premise": null, "hypothesis": "nicarbazin, is the base of, wessex trains", "preds": [0.0333380319491019], "gold": false}
+{"premise": null, "hypothesis": "prestoy, is defined as, clivia", "preds": [0.03523447624459891], "gold": true}
+{"premise": null, "hypothesis": "prestoy, is the highest of, clivia", "preds": [0.0008503276221075162], "gold": false}
+{"premise": null, "hypothesis": "tracheomalacia, may be relieved by the application of, cyclic guanosine monophosphate", "preds": [0.9997851196218103], "gold": true}
+{"premise": null, "hypothesis": "cyclic guanosine monophosphate, relieves, tracheomalacia", "preds": [0.9878748092025715], "gold": false}
+{"premise": null, "hypothesis": "evansville triplets, has, vincentian records in athletics", "preds": [0.0010209457487182494], "gold": true}
+{"premise": null, "hypothesis": "evansville triplets, vomits, vincentian records in athletics", "preds": [0.2182175277086184], "gold": false}
+{"premise": null, "hypothesis": "wulgurukaba, advocated, slovakia at the 2010 winter olympics", "preds": [0.0006378953930475384], "gold": true}
+{"premise": null, "hypothesis": "wulgurukaba, signed the declaration of, slovakia at the 2010 winter olympics", "preds": [0.16604775676664574], "gold": false}
+{"premise": null, "hypothesis": "orange drink, contains, lignan", "preds": [0.0005638657162143623], "gold": true}
+{"premise": null, "hypothesis": "lignan, occurs in, orange drink", "preds": [0.19742726391894455], "gold": false}
+{"premise": null, "hypothesis": "barbara stager, traveled to, george h. moody middle school", "preds": [0.0012597536999640613], "gold": false}
+{"premise": null, "hypothesis": "barbara stager, set out for, george h. moody middle school", "preds": [0.003048739729138328], "gold": true}
+{"premise": null, "hypothesis": "fjuckby, is in, varenne (river)", "preds": [0.0015458586341593472], "gold": true}
+{"premise": null, "hypothesis": "fjuckby, is the capital in, varenne (river)", "preds": [0.2072036844739195], "gold": false}
+{"premise": null, "hypothesis": "cryptoclidus, is native to, yirka", "preds": [0.10751036139234177], "gold": true}
+{"premise": null, "hypothesis": "cryptoclidus, were moving from, yirka", "preds": [0.0002603293550938468], "gold": false}
+{"premise": null, "hypothesis": "lobster newberg, is rich with, hexachlorobutadiene", "preds": [0.20137936205034307], "gold": false}
+{"premise": null, "hypothesis": "hexachlorobutadiene, is found in, lobster newberg", "preds": [0.0060931278890262175], "gold": true}
+{"premise": null, "hypothesis": "yzerfontein, is an ally of, gabriel tucker bridge", "preds": [0.10661411790206066], "gold": true}

@@ -1,0 +1,630 @@
+{"premise": "Kanamycin,kills,infections", "hypothesis": "Kanamycin,is useful in,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Kanamycin,is useful in,infections", "hypothesis": "Kanamycin,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "A piedmont,is common to,Norway", "hypothesis": "Norway,shows,a piedmont", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Norway,shows,a piedmont", "hypothesis": "A piedmont,is common to,Norway", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Cadmium,is found in,The Air", "hypothesis": "Cadmium,is released into,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Cadmium,is released into,The Air", "hypothesis": "Cadmium,is found in,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Acyclovir,kills,infections", "hypothesis": "Acyclovir,is the treatment for,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Acyclovir,is the treatment for,infections", "hypothesis": "Acyclovir,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Radon,is found in,The Air", "hypothesis": "Radon,is released into,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Radon,is released into,The Air", "hypothesis": "Radon,is found in,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Leather,is used in,Clothing", "hypothesis": "Clothing,was made of,Leather", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Clothing,was made of,Leather", "hypothesis": "Leather,is used in,Clothing", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Water,is a combination of,Oxygen", "hypothesis": "Oxygen,is found in,Water", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Oxygen,is found in,Water", "hypothesis": "Water,is a combination of,Oxygen", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Mandarin,is officially recognized in,China", "hypothesis": "Mandarin,is the language of,China", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Mandarin,is the language of,China", "hypothesis": "Mandarin,is officially recognized in,China", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Lanolin,has been used extensively in,Medicine", "hypothesis": "Lanolin,is used in,Medicine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Lanolin,is used in,Medicine", "hypothesis": "Lanolin,has been used extensively in,Medicine", "preds": [1.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "Nitrogen,is found in,The Air", "hypothesis": "Air,is made up of,Nitrogen", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Air,is made up of,Nitrogen", "hypothesis": "Nitrogen,is found in,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Fsh,have been used to induce,ovulation", "hypothesis": "Fsh,causes,ovulation", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Fsh,causes,ovulation", "hypothesis": "Fsh,have been used to induce,ovulation", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Pestilence,is transmitted by,Air", "hypothesis": "The Air,tainted with,pestilence", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The Air,tainted with,pestilence", "hypothesis": "Pestilence,is transmitted by,Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Crockett,died at,the alamo", "hypothesis": "Crockett,was killed at,the alamo", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Crockett,was killed at,the alamo", "hypothesis": "Crockett,died at,the alamo", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Human interferon,kills,infections", "hypothesis": "Human interferon,can be used to fight,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Human interferon,can be used to fight,infections", "hypothesis": "Human interferon,kills,infections", "preds": [1.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "Gingivitis,is caused by,a virus", "hypothesis": "Virus,is often characterized by,gingivitis", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Virus,is often characterized by,gingivitis", "hypothesis": "Gingivitis,is caused by,a virus", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "Hops,are added to,the beer", "hypothesis": "Hops,is used to make,Beer", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Hops,is used to make,Beer", "hypothesis": "Hops,are added to,the beer", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Fifth oxygen,is found in,The Air", "hypothesis": "The Air,is made up of,fifth oxygen", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The Air,is made up of,fifth oxygen", "hypothesis": "Fifth oxygen,is found in,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "General Lee,had served in,Texas", "hypothesis": "General Lee,is a politician from,Texas", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "General Lee,is a politician from,Texas", "hypothesis": "General Lee,had served in,Texas", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Jones,was elected president of,Texas", "hypothesis": "Jones,is a politician from,Texas", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Jones,is a politician from,Texas", "hypothesis": "Jones,was elected president of,Texas", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Halevy,was a native of,Paris", "hypothesis": "Halevy,resided in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Halevy,resided in,Paris", "hypothesis": "Halevy,was a native of,Paris", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Steroids,are widely used in,Medicine", "hypothesis": "Steroids,is used in,Medicine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Steroids,is used in,Medicine", "hypothesis": "Steroids,are widely used in,Medicine", "preds": [1.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "President Nixon,appeared on,Television", "hypothesis": "President Nixon,announced on,Television", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "President Nixon,announced on,Television", "hypothesis": "President Nixon,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Tamoxifen,reduced the incidence of,Cancer", "hypothesis": "Tamoxifen,kills,Cancer", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Tamoxifen,kills,Cancer", "hypothesis": "Tamoxifen,reduced the incidence of,Cancer", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Cattle,are fed on,Hay", "hypothesis": "Cattle,eats,Hay", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Cattle,eats,Hay", "hypothesis": "Cattle,are fed on,Hay", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Testosterone,can increase,Libido", "hypothesis": "Testosterone,increases,Libido", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Testosterone,increases,Libido", "hypothesis": "Testosterone,can increase,Libido", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Sulfur,combines with oxygen in,The Air", "hypothesis": "Sulfur,is found in,The Air", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "Sulfur,is found in,The Air", "hypothesis": "Sulfur,combines with oxygen in,The Air", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "The Air,must contain,free oxygen", "hypothesis": "Free oxygen,is found in,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Free oxygen,is found in,The Air", "hypothesis": "The Air,must contain,free oxygen", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Cleveland,also used,the troops", "hypothesis": "Cleveland,committed,Troops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Cleveland,committed,Troops", "hypothesis": "Cleveland,also used,the troops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Eczema,appears as,a rash", "hypothesis": "Eczema,can cause,a rash", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Eczema,can cause,a rash", "hypothesis": "Eczema,appears as,a rash", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Malaysia,believes in,Islam", "hypothesis": "Islam,is the religion in,Malaysia", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Islam,is the religion in,Malaysia", "hypothesis": "Malaysia,believes in,Islam", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Mohammedanism,is predominant in,India", "hypothesis": "Mohammedanism,is the creed of,India", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Mohammedanism,is the creed of,India", "hypothesis": "Mohammedanism,is predominant in,India", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "Zinc,is found in,The Air", "hypothesis": "Zinc,is permanent in,Air", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Zinc,is permanent in,Air", "hypothesis": "Zinc,is found in,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The communists,want,Communism", "hypothesis": "The communists,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The communists,is associated with,Communism", "hypothesis": "The communists,want,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The creeps,is spread by,Rats", "hypothesis": "Rats,give me,the creeps", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Rats,give me,the creeps", "hypothesis": "The creeps,is spread by,Rats", "preds": [0.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "George Bush,was the governor of,Texas", "hypothesis": "George Bush,is a politician from,Texas", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "George Bush,is a politician from,Texas", "hypothesis": "George Bush,was the governor of,Texas", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Truman,met,Stalin", "hypothesis": "Truman,approached,Stalin", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Truman,approached,Stalin", "hypothesis": "Truman,met,Stalin", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "The clothing,should be of,Linen", "hypothesis": "Linen,is used in,Clothing", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Linen,is used in,Clothing", "hypothesis": "The clothing,should be of,Linen", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Smetana,composed,an opera", "hypothesis": "Smetana,began to compose,the opera", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Smetana,began to compose,the opera", "hypothesis": "Smetana,composed,an opera", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Magicians,perform on,Television", "hypothesis": "Magicians,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Magicians,appeared on,Television", "hypothesis": "Magicians,perform on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "These vines,is used to make,Wine", "hypothesis": "These vines,would produce,Wine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "These vines,would produce,Wine", "hypothesis": "These vines,is used to make,Wine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The gentle deer,nibbled at,the crops", "hypothesis": "The gentle deer,eats,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The gentle deer,eats,Crops", "hypothesis": "The gentle deer,nibbled at,the crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "A policeman,was awarded,a medal", "hypothesis": "A policeman,will get,a medal", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "A policeman,will get,a medal", "hypothesis": "A policeman,was awarded,a medal", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "The cult,is widespread in,India", "hypothesis": "The cult,is predominant in,India", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "The cult,is predominant in,India", "hypothesis": "The cult,is widespread in,India", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Trachoma,is probably caused by,bacteria", "hypothesis": "Trachoma,is caused by,bacteria", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Trachoma,is caused by,bacteria", "hypothesis": "Trachoma,is probably caused by,bacteria", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "Kazakhstan,is a neighbor of,China", "hypothesis": "Kazakhstan,is bounded on the east by,China", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Kazakhstan,is bounded on the east by,China", "hypothesis": "Kazakhstan,is a neighbor of,China", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Reagan,served as governor of,California", "hypothesis": "Reagan,is the governor of,California", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Reagan,is the governor of,California", "hypothesis": "Reagan,served as governor of,California", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Works,have appeared in,America", "hypothesis": "Works,is common to,America", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Works,is common to,America", "hypothesis": "Works,have appeared in,America", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The crops,are fed to,Livestock", "hypothesis": "Livestock,eats,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Livestock,eats,Crops", "hypothesis": "The crops,are fed to,Livestock", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Peary,reached,the north pole", "hypothesis": "The north pole,was discovered by,Peary", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The north pole,was discovered by,Peary", "hypothesis": "Peary,reached,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The vedanta,is the philosophy of,India", "hypothesis": "The vedanta,is predominant in,India", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "The vedanta,is predominant in,India", "hypothesis": "The vedanta,is the philosophy of,India", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Browne,was a student in,Paris", "hypothesis": "Browne,resided in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Browne,resided in,Paris", "hypothesis": "Browne,was a student in,Paris", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "China,sends,more rice", "hypothesis": "China,exports,Rice", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "China,exports,Rice", "hypothesis": "China,sends,more rice", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The bread,was composed of,Rye", "hypothesis": "Rye,is used to make,Bread", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Rye,is used to make,Bread", "hypothesis": "The bread,was composed of,Rye", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The clothing,consists mainly of,sheepskin", "hypothesis": "Sheepskin,is used in,Clothing", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Sheepskin,is used in,Clothing", "hypothesis": "The clothing,consists mainly of,sheepskin", "preds": [1.0, 1.0, 0.0, 1.0], "gold": false}
+{"premise": "Emissaries,is associated with,Communism", "hypothesis": "Emissaries,preached,Communism", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Emissaries,preached,Communism", "hypothesis": "Emissaries,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Julian,led against,the persians", "hypothesis": "Julian,fought,the persians", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Julian,fought,the persians", "hypothesis": "Julian,led against,the persians", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Rheumatism,is transmitted by,Air", "hypothesis": "The Air,gives you,Rheumatism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The Air,gives you,Rheumatism", "hypothesis": "Rheumatism,is transmitted by,Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Communism,was strengthened by,students", "hypothesis": "Students,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Students,is associated with,Communism", "hypothesis": "Communism,was strengthened by,students", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The black death,struck,Europe", "hypothesis": "The black death,decimated,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The black death,decimated,Europe", "hypothesis": "The black death,struck,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The pharisees,is associated with,Communism", "hypothesis": "The pharisees,have organized,Communism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "The pharisees,have organized,Communism", "hypothesis": "The pharisees,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Bangladesh,is surrounded by,India", "hypothesis": "Bangladesh,is a neighbor of,India", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Bangladesh,is a neighbor of,India", "hypothesis": "Bangladesh,is surrounded by,India", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Keynes,is associated with,capitalism", "hypothesis": "Keynes,was the prophet of,capitalism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Keynes,was the prophet of,capitalism", "hypothesis": "Keynes,is associated with,capitalism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "India,believes in,Islam", "hypothesis": "Islam,entered,India", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Islam,entered,India", "hypothesis": "India,believes in,Islam", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "The first men,to land on,the moon", "hypothesis": "The first men,walked on,the moon", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The first men,walked on,the moon", "hypothesis": "The first men,to land on,the moon", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Upton Sinclair,ran for governor of,California", "hypothesis": "Upton Sinclair,is the governor of,California", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Upton Sinclair,is the governor of,California", "hypothesis": "Upton Sinclair,ran for governor of,California", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The scale insects,do damage to,Crops", "hypothesis": "The scale insects,eats,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The scale insects,eats,Crops", "hypothesis": "The scale insects,do damage to,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Epidemic typhus,can cause,a rash", "hypothesis": "Epidemic typhus,has,a rash", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Epidemic typhus,has,a rash", "hypothesis": "Epidemic typhus,can cause,a rash", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Peary,reached,the north pole", "hypothesis": "Peary,had discovered,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Peary,had discovered,the north pole", "hypothesis": "Peary,reached,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The jews,were the creators of,capitalism", "hypothesis": "The jews,is associated with,capitalism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The jews,is associated with,capitalism", "hypothesis": "The jews,were the creators of,capitalism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Granules,are frequently encountered in,Medicines", "hypothesis": "Granules,is used in,Medicine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Granules,is used in,Medicine", "hypothesis": "Granules,are frequently encountered in,Medicines", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Paderewski,sat and played,the piano", "hypothesis": "Paderewski,played,the piano", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Paderewski,played,the piano", "hypothesis": "Paderewski,sat and played,the piano", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Carrion,are devoured by,this feeder", "hypothesis": "This feeder,eats,Carrion", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "This feeder,eats,Carrion", "hypothesis": "Carrion,are devoured by,this feeder", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Castro,spoke on,Television", "hypothesis": "Castro,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Castro,appeared on,Television", "hypothesis": "Castro,spoke on,Television", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Scarlet fever,is characterized by,a rash", "hypothesis": "Scarlet fever,can cause,a rash", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Scarlet fever,can cause,a rash", "hypothesis": "Scarlet fever,is characterized by,a rash", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Frances wright,is associated with,Communism", "hypothesis": "Frances wright,preached,Communism", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Frances wright,preached,Communism", "hypothesis": "Frances wright,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Presley,appeared on,Television", "hypothesis": "Presley,first appeared on,Television", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Presley,first appeared on,Television", "hypothesis": "Presley,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Tamoxifen,has been used to treat,Cancer", "hypothesis": "Tamoxifen,kills,Cancer", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Tamoxifen,kills,Cancer", "hypothesis": "Tamoxifen,has been used to treat,Cancer", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Vancomycin,kills,infections", "hypothesis": "Vancomycin,is the treatment for,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Vancomycin,is the treatment for,infections", "hypothesis": "Vancomycin,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Engels,defined,Communism", "hypothesis": "Engels,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Engels,is associated with,Communism", "hypothesis": "Engels,defined,Communism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Gonadotropins,causes,ovulation", "hypothesis": "Gonadotropins,are required for,ovulation", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Gonadotropins,are required for,ovulation", "hypothesis": "Gonadotropins,causes,ovulation", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Antibiotics,would abolish,infectious disease", "hypothesis": "Infectious disease,requires,Antibiotics", "preds": [0.0, 0.0, 1.0, 0.0], "gold": true}
+{"premise": "Infectious disease,requires,Antibiotics", "hypothesis": "Antibiotics,would abolish,infectious disease", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Nixon,appeared on,Television", "hypothesis": "Nixon,announced on,Television", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Nixon,announced on,Television", "hypothesis": "Nixon,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "A strait,surrounds,Britain", "hypothesis": "Britain,is separated by,a strait", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Britain,is separated by,a strait", "hypothesis": "A strait,surrounds,Britain", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Stalin,represented,the soviet union", "hypothesis": "Stalin,was the leader of,the soviet union", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Stalin,was the leader of,the soviet union", "hypothesis": "Stalin,represented,the soviet union", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Grasshoppers,eats,Crops", "hypothesis": "The crops,were destroyed by,Grasshoppers", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The crops,were destroyed by,Grasshoppers", "hypothesis": "Grasshoppers,eats,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "India,exports,Rice", "hypothesis": "India,exported tons of,Rice", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "India,exported tons of,Rice", "hypothesis": "India,exports,Rice", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The states,exported pounds of,Sugar", "hypothesis": "The states,exports,Sugar", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The states,exports,Sugar", "hypothesis": "The states,exported pounds of,Sugar", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Richards,is a politician from,Texas", "hypothesis": "Richards,was elected governor of,Texas", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Richards,was elected governor of,Texas", "hypothesis": "Richards,is a politician from,Texas", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Saudi Arabia,is the home of,Islam", "hypothesis": "Saudi Arabia,believes in,Islam", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Saudi Arabia,believes in,Islam", "hypothesis": "Saudi Arabia,is the home of,Islam", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Roosevelt,supported,Britain", "hypothesis": "Roosevelt,made peace with,Britain", "preds": [0.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "Roosevelt,made peace with,Britain", "hypothesis": "Roosevelt,supported,Britain", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Islam,was brought to,India", "hypothesis": "India,believes in,Islam", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "India,believes in,Islam", "hypothesis": "Islam,was brought to,India", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "Claudio monteverdi,composed,an opera", "hypothesis": "Claudio monteverdi,was the composer of,Opera", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Claudio monteverdi,was the composer of,Opera", "hypothesis": "Claudio monteverdi,composed,an opera", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Astronauts,had landed on,the moon", "hypothesis": "Astronauts,walked on,the moon", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Astronauts,walked on,the moon", "hypothesis": "Astronauts,had landed on,the moon", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Yellow fever,is transmitted by the bite of,a mosquito", "hypothesis": "Yellow fever,is transferred by,mosquitoes", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Yellow fever,is transferred by,mosquitoes", "hypothesis": "Yellow fever,is transmitted by the bite of,a mosquito", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Legislators,drafted,The Constitution", "hypothesis": "The Constitution,was a effort of,legislators", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The Constitution,was a effort of,legislators", "hypothesis": "Legislators,drafted,The Constitution", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "A resistant penicillin,kills,infections", "hypothesis": "This infection,may be treated with,a resistant penicillin", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "This infection,may be treated with,a resistant penicillin", "hypothesis": "A resistant penicillin,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Jupiter,was the god of,Thunder", "hypothesis": "Jupiter,controls,Thunder", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Jupiter,controls,Thunder", "hypothesis": "Jupiter,was the god of,Thunder", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Smith,introduced an element of,Communism", "hypothesis": "Smith,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Smith,is associated with,Communism", "hypothesis": "Smith,introduced an element of,Communism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "A coin,was used in,Rome", "hypothesis": "A coin,was issued in,Rome", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "A coin,was issued in,Rome", "hypothesis": "A coin,was used in,Rome", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The romans,were exasperated against,Augustus", "hypothesis": "Augustus,fought,the romans", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Augustus,fought,the romans", "hypothesis": "The romans,were exasperated against,Augustus", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "France,produces,Cheese", "hypothesis": "Cheese,is imported from,France", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Cheese,is imported from,France", "hypothesis": "France,produces,Cheese", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Bruce,is associated with,capitalism", "hypothesis": "Bruce,was the manager of,capitalism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Bruce,was the manager of,capitalism", "hypothesis": "Bruce,is associated with,capitalism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Leprosy,became widespread in,Europe", "hypothesis": "Leprosy,decimated,Europe", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Leprosy,decimated,Europe", "hypothesis": "Leprosy,became widespread in,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Peary,reached,the north pole", "hypothesis": "Peary,carried to,the north pole", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Peary,carried to,the north pole", "hypothesis": "Peary,reached,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The only democrat,is a politician from,Texas", "hypothesis": "The only democrat,was a representative from,Texas", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "The only democrat,was a representative from,Texas", "hypothesis": "The only democrat,is a politician from,Texas", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Hemoglobin,is essential for,blood cells", "hypothesis": "Hemoglobin,is contained within,the blood cells", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Hemoglobin,is contained within,the blood cells", "hypothesis": "Hemoglobin,is essential for,blood cells", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "These lymphomas,requires,Chemotherapy", "hypothesis": "These lymphomas,are responsive to,Chemotherapy", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "These lymphomas,are responsive to,Chemotherapy", "hypothesis": "These lymphomas,requires,Chemotherapy", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Common alcohol,contains,Alcohol", "hypothesis": "Common alcohol,is known as,Alcohol", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Common alcohol,is known as,Alcohol", "hypothesis": "Common alcohol,contains,Alcohol", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The hog,is fed with,Corn", "hypothesis": "The hog,eats,Corn", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The hog,eats,Corn", "hypothesis": "The hog,is fed with,Corn", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The beijing dialect,are found in the regions of,China", "hypothesis": "The beijing dialect,is officially recognized in,China", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "The beijing dialect,is officially recognized in,China", "hypothesis": "The beijing dialect,are found in the regions of,China", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Grippe,are believed to be caused by,bacteria", "hypothesis": "Grippe,is caused by,bacteria", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Grippe,is caused by,bacteria", "hypothesis": "Grippe,are believed to be caused by,bacteria", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "The chlorate,is used in,Medicine", "hypothesis": "The chlorate,is extensively used in,Medicine", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "The chlorate,is extensively used in,Medicine", "hypothesis": "The chlorate,is used in,Medicine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The jew,was the representative of,capitalism", "hypothesis": "The jew,is associated with,capitalism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The jew,is associated with,capitalism", "hypothesis": "The jew,was the representative of,capitalism", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "This preparation,is used in,Medicine", "hypothesis": "This preparation,soon became,a medicine", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "This preparation,soon became,a medicine", "hypothesis": "This preparation,is used in,Medicine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Reagan,is the governor of,California", "hypothesis": "Reagan,was elected governor of,California", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Reagan,was elected governor of,California", "hypothesis": "Reagan,is the governor of,California", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Mulberries,is consumed by,Birds", "hypothesis": "Mulberries,are preferred by,these birds", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Mulberries,are preferred by,these birds", "hypothesis": "Mulberries,is consumed by,Birds", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Nigeria,exports,Oil", "hypothesis": "Nigeria,is the exporter of,Oil", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Nigeria,is the exporter of,Oil", "hypothesis": "Nigeria,exports,Oil", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Sugar Cane,is used to make,Alcohol", "hypothesis": "Alcohol,is made from,Sugar Cane", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Alcohol,is made from,Sugar Cane", "hypothesis": "Sugar Cane,is used to make,Alcohol", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Eisenhower,sponsors,Communism", "hypothesis": "Eisenhower,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Eisenhower,is associated with,Communism", "hypothesis": "Eisenhower,sponsors,Communism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "The assassin,assassinated,Lincoln", "hypothesis": "Lincoln,was stricken down by,the assassin", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Lincoln,was stricken down by,the assassin", "hypothesis": "The assassin,assassinated,Lincoln", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Relapsing fever,has prevailed in,Europe", "hypothesis": "Relapsing fever,decimated,Europe", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Relapsing fever,decimated,Europe", "hypothesis": "Relapsing fever,has prevailed in,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Chronic gonorrhea,means the presence of,bacteria", "hypothesis": "Chronic gonorrhea,is caused by,bacteria", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Chronic gonorrhea,is caused by,bacteria", "hypothesis": "Chronic gonorrhea,means the presence of,bacteria", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Representative bartlett,was interviewed on,Television", "hypothesis": "Representative bartlett,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Representative bartlett,appeared on,Television", "hypothesis": "Representative bartlett,was interviewed on,Television", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Chloramphenicol,has been used in the treatment of,infections", "hypothesis": "Chloramphenicol,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Chloramphenicol,kills,infections", "hypothesis": "Chloramphenicol,has been used in the treatment of,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Roosevelt,was president during,the great depression", "hypothesis": "Roosevelt,led during,the great depression", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Roosevelt,led during,the great depression", "hypothesis": "Roosevelt,was president during,the great depression", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Grasshoppers,eats,Crops", "hypothesis": "The crops,had been devoured by,Grasshoppers", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The crops,had been devoured by,Grasshoppers", "hypothesis": "Grasshoppers,eats,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Rossini,had composed,the opera", "hypothesis": "Rossini,composed,an opera", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Rossini,composed,an opera", "hypothesis": "Rossini,had composed,the opera", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "President Johnson,appeared on,Television", "hypothesis": "President Johnson,announced on,Television", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "President Johnson,announced on,Television", "hypothesis": "President Johnson,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The fur seals,swim in,The Sea", "hypothesis": "The fur seals,lives in,The Sea", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "The fur seals,lives in,The Sea", "hypothesis": "The fur seals,swim in,The Sea", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Elements,is common to,America", "hypothesis": "Elements,may have reached,America", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Elements,may have reached,America", "hypothesis": "Elements,is common to,America", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Yellow fever,is carried by,mosquitoes", "hypothesis": "Yellow fever,is transferred by,mosquitoes", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Yellow fever,is transferred by,mosquitoes", "hypothesis": "Yellow fever,is carried by,mosquitoes", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "A sore throat,might be caused by,the virus", "hypothesis": "A sore throat,is caused by,a virus", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "A sore throat,is caused by,a virus", "hypothesis": "A sore throat,might be caused by,the virus", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Racine,wrote,Hamlet", "hypothesis": "Racine,would have written,Hamlet", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "Racine,would have written,Hamlet", "hypothesis": "Racine,wrote,Hamlet", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Poland,exported tons of,Coal", "hypothesis": "Poland,exports,Coal", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Poland,exports,Coal", "hypothesis": "Poland,exported tons of,Coal", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The experimenter,must have a knowledge of,the laws", "hypothesis": "The experimenter,interprets,Laws", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "The experimenter,interprets,Laws", "hypothesis": "The experimenter,must have a knowledge of,the laws", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The printing press,was invented by,Gutenberg", "hypothesis": "Gutenberg,developed,the printing press", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Gutenberg,developed,the printing press", "hypothesis": "The printing press,was invented by,Gutenberg", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The dinosaurs,appeared in,the triassic", "hypothesis": "The triassic,saw the rise of,the dinosaurs", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The triassic,saw the rise of,the dinosaurs", "hypothesis": "The dinosaurs,appeared in,the triassic", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Compounds,are widely used in,Medicine", "hypothesis": "Compounds,is used in,Medicine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Compounds,is used in,Medicine", "hypothesis": "Compounds,are widely used in,Medicine", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Isoniazid,kills,infections", "hypothesis": "Isoniazid,may be used for,infection", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Isoniazid,may be used for,infection", "hypothesis": "Isoniazid,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Natural colds,is caused by,a virus", "hypothesis": "Viruses,isolated from,natural colds", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Viruses,isolated from,natural colds", "hypothesis": "Natural colds,is caused by,a virus", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Sweden,is not part of,the european union", "hypothesis": "Sweden,did not join,the european union", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Sweden,did not join,the european union", "hypothesis": "Sweden,is not part of,the european union", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Eisenhower,responded by sending,Troops", "hypothesis": "Eisenhower,committed,Troops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Eisenhower,committed,Troops", "hypothesis": "Eisenhower,responded by sending,Troops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Thailand,exports,Rice", "hypothesis": "Thailand,exported tons of,Rice", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Thailand,exported tons of,Rice", "hypothesis": "Thailand,exports,Rice", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The incidence,is common to,America", "hypothesis": "The incidence,is highest in,America", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "The incidence,is highest in,America", "hypothesis": "The incidence,is common to,America", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Ross,reached,the north pole", "hypothesis": "The north pole,was found by,Ross", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The north pole,was found by,Ross", "hypothesis": "Ross,reached,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Sweet cider,may have,Alcohol", "hypothesis": "Sweet cider,contains,Alcohol", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Sweet cider,contains,Alcohol", "hypothesis": "Sweet cider,may have,Alcohol", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Stravinsky,moved to,Paris", "hypothesis": "Stravinsky,resided in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Stravinsky,resided in,Paris", "hypothesis": "Stravinsky,moved to,Paris", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Picasso,resided in,Paris", "hypothesis": "Picasso,remained in,Paris", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Picasso,remained in,Paris", "hypothesis": "Picasso,resided in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Hydrogen,is found in,Water", "hypothesis": "Water,is a combination of,hydrogen", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Water,is a combination of,hydrogen", "hypothesis": "Hydrogen,is found in,Water", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Allies,made an attack upon,Detroit", "hypothesis": "Detroit,was bombed by,the allies", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Detroit,was bombed by,the allies", "hypothesis": "Allies,made an attack upon,Detroit", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Blood cells,consist of,hemoglobin", "hypothesis": "Hemoglobin,is essential for,blood cells", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Hemoglobin,is essential for,blood cells", "hypothesis": "Blood cells,consist of,hemoglobin", "preds": [0.0, 0.0, 0.0, 0.0], "gold": true}
+{"premise": "Shintoism,is predominant in,Japan", "hypothesis": "Shintoism,is the religion of,Japan", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Shintoism,is the religion of,Japan", "hypothesis": "Shintoism,is predominant in,Japan", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Cheese,is the product of,Switzerland", "hypothesis": "Switzerland,produces,Cheese", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Switzerland,produces,Cheese", "hypothesis": "Cheese,is the product of,Switzerland", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Geysers,occur in,New Zealand", "hypothesis": "Geysers,is common to,New Zealand", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Geysers,is common to,New Zealand", "hypothesis": "Geysers,occur in,New Zealand", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The following salve,kills,Cancer", "hypothesis": "Cancers,may be treated by,the following salve", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Cancers,may be treated by,the following salve", "hypothesis": "The following salve,kills,Cancer", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Hides,is used in,Clothing", "hypothesis": "Clothing,was made from,hides", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Clothing,was made from,hides", "hypothesis": "Hides,is used in,Clothing", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The Netherlands,produces,Cheese", "hypothesis": "Some cheese,is imported from,The Netherlands", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Some cheese,is imported from,The Netherlands", "hypothesis": "The Netherlands,produces,Cheese", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Brahmanism,is predominant in,India", "hypothesis": "India,is the home of,Brahmanism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "India,is the home of,Brahmanism", "hypothesis": "Brahmanism,is predominant in,India", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Tunisians,appeared on,Television", "hypothesis": "Tunisians,confessed on,Television", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Tunisians,confessed on,Television", "hypothesis": "Tunisians,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Progesterone,causes,ovulation", "hypothesis": "Progesterone,facilitates,ovulation", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Progesterone,facilitates,ovulation", "hypothesis": "Progesterone,causes,ovulation", "preds": [1.0, 0.0, 1.0, 1.0], "gold": false}
+{"premise": "Athena,was worshiped in,Athens", "hypothesis": "Athena,was the patroness of,Athens", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Athena,was the patroness of,Athens", "hypothesis": "Athena,was worshiped in,Athens", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The democrat,was a representative from,Texas", "hypothesis": "The democrat,is a politician from,Texas", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The democrat,is a politician from,Texas", "hypothesis": "The democrat,was a representative from,Texas", "preds": [1.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Dinosaurs,evolved during,the triassic", "hypothesis": "The triassic,saw the rise of,the dinosaurs", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The triassic,saw the rise of,the dinosaurs", "hypothesis": "Dinosaurs,evolved during,the triassic", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Donizetti,had composed,Operas", "hypothesis": "Donizetti,composed,an opera", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Donizetti,composed,an opera", "hypothesis": "Donizetti,had composed,Operas", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Stanford,is the governor of,California", "hypothesis": "Stanford,was elected governor of,California", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Stanford,was elected governor of,California", "hypothesis": "Stanford,is the governor of,California", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Maize,may be made into,Bread", "hypothesis": "Maize,is used to make,Bread", "preds": [1.0, 0.0, 1.0, 0.0], "gold": false}
+{"premise": "Maize,is used to make,Bread", "hypothesis": "Maize,may be made into,Bread", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Young tunisians,confessed on,Television", "hypothesis": "Young tunisians,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Young tunisians,appeared on,Television", "hypothesis": "Young tunisians,confessed on,Television", "preds": [0.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Ascension day,is the end of,Easter", "hypothesis": "Ascension day,is the day after,Easter", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Ascension day,is the day after,Easter", "hypothesis": "Ascension day,is the end of,Easter", "preds": [0.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "A writer,will make,a tissue", "hypothesis": "A writer,rebuilds,tissue", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "A writer,rebuilds,tissue", "hypothesis": "A writer,will make,a tissue", "preds": [0.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "A zoster,can cause,a rash", "hypothesis": "A zoster,is seen with,a rash", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "A zoster,is seen with,a rash", "hypothesis": "A zoster,can cause,a rash", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "General taylor,is the governor of,Florida", "hypothesis": "General taylor,was in command in,Florida", "preds": [0.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "General taylor,was in command in,Florida", "hypothesis": "General taylor,is the governor of,Florida", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "This cholinesterase,is found in,blood cells", "hypothesis": "This cholinesterase,is essential for,blood cells", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "This cholinesterase,is essential for,blood cells", "hypothesis": "This cholinesterase,is found in,blood cells", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Women,tend to have,tissue", "hypothesis": "Women,rebuilds,tissue", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Women,rebuilds,tissue", "hypothesis": "Women,tend to have,tissue", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Kennedy,deployed,Troops", "hypothesis": "Kennedy,committed,Troops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Kennedy,committed,Troops", "hypothesis": "Kennedy,deployed,Troops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Keynes,was the engineer of,capitalism", "hypothesis": "Keynes,is associated with,capitalism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Keynes,is associated with,capitalism", "hypothesis": "Keynes,was the engineer of,capitalism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Gide,is associated with,Communism", "hypothesis": "Gide,looked towards,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Gide,looked towards,Communism", "hypothesis": "Gide,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Corn,is fed to,Cattle", "hypothesis": "Cattle,eats,Corn", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Cattle,eats,Corn", "hypothesis": "Corn,is fed to,Cattle", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Tourists,visit,Paris", "hypothesis": "Paris,is packed with,Tourists", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Paris,is packed with,Tourists", "hypothesis": "Tourists,visit,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Vedanta,is the philosophy of,India", "hypothesis": "Vedanta,is predominant in,India", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "Vedanta,is predominant in,India", "hypothesis": "Vedanta,is the philosophy of,India", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Switzerland,is an exporter of,Cheese", "hypothesis": "Switzerland,produces,Cheese", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Switzerland,produces,Cheese", "hypothesis": "Switzerland,is an exporter of,Cheese", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "America,exports,Maize", "hypothesis": "Maize,was introduced from,America", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Maize,was introduced from,America", "hypothesis": "America,exports,Maize", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Buckskin,is used in,Clothing", "hypothesis": "Clothing,was made from,Buckskin", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Clothing,was made from,Buckskin", "hypothesis": "Buckskin,is used in,Clothing", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Switzerland,produces,Cheese", "hypothesis": "Cheese,can only be made in,Switzerland", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Cheese,can only be made in,Switzerland", "hypothesis": "Switzerland,produces,Cheese", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "China,exports,Rice", "hypothesis": "China,sent,Rice", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "China,sent,Rice", "hypothesis": "China,exports,Rice", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The owners,is associated with,capitalism", "hypothesis": "Capitalism,produced by,the owners", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Capitalism,produced by,the owners", "hypothesis": "The owners,is associated with,capitalism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Mononucleosis,is caused by,a virus", "hypothesis": "Mononucleosis,is probably caused by,a virus", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Mononucleosis,is probably caused by,a virus", "hypothesis": "Mononucleosis,is caused by,a virus", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "The first aeroplane,was invented by,the wright brothers", "hypothesis": "The first aeroplane,was built by,the wright brothers", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The first aeroplane,was built by,the wright brothers", "hypothesis": "The first aeroplane,was invented by,the wright brothers", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Professional magicians,appeared on,Television", "hypothesis": "Professional magicians,perform on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Professional magicians,perform on,Television", "hypothesis": "Professional magicians,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Picasso,resided in,Paris", "hypothesis": "Picasso,moved to,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Picasso,moved to,Paris", "hypothesis": "Picasso,resided in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Joan Miro,lived in,Barcelona", "hypothesis": "Joan Miro,was born in,Barcelona", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Joan Miro,was born in,Barcelona", "hypothesis": "Joan Miro,lived in,Barcelona", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Hcg,is used to stimulate,ovulation", "hypothesis": "Hcg,causes,ovulation", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Hcg,causes,ovulation", "hypothesis": "Hcg,is used to stimulate,ovulation", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Monteverdi,was the composer of,Opera", "hypothesis": "Monteverdi,composed,an opera", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Monteverdi,composed,an opera", "hypothesis": "Monteverdi,was the composer of,Opera", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Islam,burst forth in,the iraq", "hypothesis": "The iraq,believes in,Islam", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The iraq,believes in,Islam", "hypothesis": "Islam,burst forth in,the iraq", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Hinduism,is predominant in,India", "hypothesis": "India,is the birthplace of,Hinduism", "preds": [1.0, 1.0, 0.0, 1.0], "gold": false}
+{"premise": "India,is the birthplace of,Hinduism", "hypothesis": "Hinduism,is predominant in,India", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The indian ocean,surrounds,Britain", "hypothesis": "Britain,possesses in,the indian ocean", "preds": [0.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "Britain,possesses in,the indian ocean", "hypothesis": "The indian ocean,surrounds,Britain", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Bartlett,appeared on,Television", "hypothesis": "Bartlett,was interviewed on,Television", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Bartlett,was interviewed on,Television", "hypothesis": "Bartlett,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Ross,reached,the north pole", "hypothesis": "The north pole,was discovered by,Ross", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The north pole,was discovered by,Ross", "hypothesis": "Ross,reached,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Physicists,was awarded,a medal", "hypothesis": "Both medals,would go to,Physicists", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Both medals,would go to,Physicists", "hypothesis": "Physicists,was awarded,a medal", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Athletes,was awarded,a medal", "hypothesis": "Medals,were won by,Athletes", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Medals,were won by,Athletes", "hypothesis": "Athletes,was awarded,a medal", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Competitors,was awarded,a medal", "hypothesis": "Medals,were won by,competitors", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Medals,were won by,competitors", "hypothesis": "Competitors,was awarded,a medal", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Chloramphenicol,kills,infections", "hypothesis": "Infections,may be treated with,chloramphenicol", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Infections,may be treated with,chloramphenicol", "hypothesis": "Chloramphenicol,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Several antibiotics,kills,infections", "hypothesis": "Several antibiotics,have been used to treat,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Several antibiotics,have been used to treat,infections", "hypothesis": "Several antibiotics,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Delegates,drafted,The Constitution", "hypothesis": "Delegates,met to draft,a constitution", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Delegates,met to draft,a constitution", "hypothesis": "Delegates,drafted,The Constitution", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Communism,made by,the russian successes", "hypothesis": "The russian successes,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The russian successes,is associated with,Communism", "hypothesis": "Communism,made by,the russian successes", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Plato,demanded,Communism", "hypothesis": "Plato,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Plato,is associated with,Communism", "hypothesis": "Plato,demanded,Communism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "An american runner,was awarded,a medal", "hypothesis": "An american runner,seems to have won,a medal", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "An american runner,seems to have won,a medal", "hypothesis": "An american runner,was awarded,a medal", "preds": [1.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "Hemoglobin,is found in,blood cells", "hypothesis": "Hemoglobin,is essential for,blood cells", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Hemoglobin,is essential for,blood cells", "hypothesis": "Hemoglobin,is found in,blood cells", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The furniture,was made by,Carpenters", "hypothesis": "Carpenters,makes,Furniture", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Carpenters,makes,Furniture", "hypothesis": "The furniture,was made by,Carpenters", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Athene,was worshiped in,Athens", "hypothesis": "Athene,was the goddess of,Athens", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Athene,was the goddess of,Athens", "hypothesis": "Athene,was worshiped in,Athens", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Pyrrhus,won over,the romans", "hypothesis": "Pyrrhus,fought,the romans", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Pyrrhus,fought,the romans", "hypothesis": "Pyrrhus,won over,the romans", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "The black death,killed in,Europe", "hypothesis": "The black death,decimated,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The black death,decimated,Europe", "hypothesis": "The black death,killed in,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Amundsen,reached,the south pole", "hypothesis": "The south pole,was discovered by,Amundsen", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The south pole,was discovered by,Amundsen", "hypothesis": "Amundsen,reached,the south pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Stella,resided in,Paris", "hypothesis": "Stella,was born and died at,Paris", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Stella,was born and died at,Paris", "hypothesis": "Stella,resided in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The rash,was caused by,rubella", "hypothesis": "Rubella,can cause,a rash", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Rubella,can cause,a rash", "hypothesis": "The rash,was caused by,rubella", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Sibelius,has composed,symphonies", "hypothesis": "Sibelius,composed,a symphony", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Sibelius,composed,a symphony", "hypothesis": "Sibelius,has composed,symphonies", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Rumania,declared war on,Germany", "hypothesis": "Rumania,entered the war against,Germany", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Rumania,entered the war against,Germany", "hypothesis": "Rumania,declared war on,Germany", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Ciprofloxacin,kills,infections", "hypothesis": "Ciprofloxacin,is useful for,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Ciprofloxacin,is useful for,infections", "hypothesis": "Ciprofloxacin,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Valencia,is popular with,Tourists", "hypothesis": "Valencia,is packed with,Tourists", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Valencia,is packed with,Tourists", "hypothesis": "Valencia,is popular with,Tourists", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "A blood cell,contains molecules of,hemoglobin", "hypothesis": "Hemoglobin,is essential for,blood cells", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Hemoglobin,is essential for,blood cells", "hypothesis": "A blood cell,contains molecules of,hemoglobin", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Yemen,believes in,Islam", "hypothesis": "Islam,was introduced into,Yemen", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Islam,was introduced into,Yemen", "hypothesis": "Yemen,believes in,Islam", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Cook,reached,the north pole", "hypothesis": "Cook,had discovered,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Cook,had discovered,the north pole", "hypothesis": "Cook,reached,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Trench fever,is transferred by,lice", "hypothesis": "Lice,can transmit,trench fever", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Lice,can transmit,trench fever", "hypothesis": "Trench fever,is transferred by,lice", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The black death,decimated,Europe", "hypothesis": "The black death,swept across,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The black death,swept across,Europe", "hypothesis": "The black death,decimated,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Fluoride,is present in,the bones", "hypothesis": "Fluoride,is essential for,Bones", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Fluoride,is essential for,Bones", "hypothesis": "Fluoride,is present in,the bones", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Nasopharyngeal carcinoma,is caused by,a virus", "hypothesis": "Virus,is detected in,nasopharyngeal carcinoma", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Virus,is detected in,nasopharyngeal carcinoma", "hypothesis": "Nasopharyngeal carcinoma,is caused by,a virus", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "An ox,came to eat,the hay", "hypothesis": "An ox,eats,Hay", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "An ox,eats,Hay", "hypothesis": "An ox,came to eat,the hay", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Audubon,resided in,Paris", "hypothesis": "Audubon,remained in,Paris", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Audubon,remained in,Paris", "hypothesis": "Audubon,resided in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Picasso,settled in,Paris", "hypothesis": "Picasso,resided in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Picasso,resided in,Paris", "hypothesis": "Picasso,settled in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Nitrogen,is found in,The Air", "hypothesis": "Air,consists primarily of,Nitrogen", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Air,consists primarily of,Nitrogen", "hypothesis": "Nitrogen,is found in,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "That cancer,should be treated with,iodine", "hypothesis": "Iodine,kills,Cancer", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Iodine,kills,Cancer", "hypothesis": "That cancer,should be treated with,iodine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Bubonic plague,decimated,Europe", "hypothesis": "Bubonic plague,arrived in,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Bubonic plague,arrived in,Europe", "hypothesis": "Bubonic plague,decimated,Europe", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Lava,is used in,Bombs", "hypothesis": "Bombs,are masses of,Lava", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Bombs,are masses of,Lava", "hypothesis": "Lava,is used in,Bombs", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Chlorine,is found in,Water", "hypothesis": "The water,is higher in,chlorine", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "The water,is higher in,chlorine", "hypothesis": "Chlorine,is found in,Water", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Marduk,was worshiped in,Babylon", "hypothesis": "Marduk,was the deity of,Babylon", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Marduk,was the deity of,Babylon", "hypothesis": "Marduk,was worshiped in,Babylon", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Jove,wields,the thunder", "hypothesis": "Jove,controls,Thunder", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Jove,controls,Thunder", "hypothesis": "Jove,wields,the thunder", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The north pole,was located by,Ross", "hypothesis": "Ross,reached,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Ross,reached,the north pole", "hypothesis": "The north pole,was located by,Ross", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Goodyear,however obtained,the medal", "hypothesis": "Goodyear,was awarded,a medal", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Goodyear,was awarded,a medal", "hypothesis": "Goodyear,however obtained,the medal", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Horses,prefer,Hay", "hypothesis": "Horses,eats,Hay", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Horses,eats,Hay", "hypothesis": "Horses,prefer,Hay", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Zinc,is found in,The Air", "hypothesis": "Zinc,is permanent in,The Air", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Zinc,is permanent in,The Air", "hypothesis": "Zinc,is found in,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Bennett,could have written,a symphony", "hypothesis": "Bennett,composed,a symphony", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Bennett,composed,a symphony", "hypothesis": "Bennett,could have written,a symphony", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Lincoln,committed,Troops", "hypothesis": "Lincoln,issued a call for,Troops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Lincoln,issued a call for,Troops", "hypothesis": "Lincoln,committed,Troops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "East Pakistan,is a neighbor of,India", "hypothesis": "East Pakistan,was surrounded by,India", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "East Pakistan,was surrounded by,India", "hypothesis": "East Pakistan,is a neighbor of,India", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Lenin,is associated with,Communism", "hypothesis": "Lenin,defined,Communism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Lenin,defined,Communism", "hypothesis": "Lenin,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Bronchitis,requires,Antibiotics", "hypothesis": "Antibiotics,may be prescribed for,Bronchitis", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Antibiotics,may be prescribed for,Bronchitis", "hypothesis": "Bronchitis,requires,Antibiotics", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Burma,exports,Rice", "hypothesis": "Burma,exported tons of,Rice", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Burma,exported tons of,Rice", "hypothesis": "Burma,exports,Rice", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Cattle,fattened on,Crops", "hypothesis": "Cattle,eats,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Cattle,eats,Crops", "hypothesis": "Cattle,fattened on,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Acyclovir,kills,infections", "hypothesis": "Acyclovir,has been fighting,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Acyclovir,has been fighting,infections", "hypothesis": "Acyclovir,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Washington,is overrun with,Politicians", "hypothesis": "Washington,is packed with,Politicians", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Washington,is packed with,Politicians", "hypothesis": "Washington,is overrun with,Politicians", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Ernst,resided in,Paris", "hypothesis": "Ernst,moved to,Paris", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Ernst,moved to,Paris", "hypothesis": "Ernst,resided in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Santa Claus,dwelt at,the north pole", "hypothesis": "Santa Claus,reached,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Santa Claus,reached,the north pole", "hypothesis": "Santa Claus,dwelt at,the north pole", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Q fever,can cause,a headache", "hypothesis": "Q fever,begins with,Headache", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Q fever,begins with,Headache", "hypothesis": "Q fever,can cause,a headache", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Ephedrine,is widely used in,Medicine", "hypothesis": "Ephedrine,is used in,Medicine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Ephedrine,is used in,Medicine", "hypothesis": "Ephedrine,is widely used in,Medicine", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Geologists,began to study,the laws", "hypothesis": "Geologists,interprets,Laws", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Geologists,interprets,Laws", "hypothesis": "Geologists,began to study,the laws", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "Amon,became the god of,Egypt", "hypothesis": "Amon,was worshiped in,Egypt", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Amon,was worshiped in,Egypt", "hypothesis": "Amon,became the god of,Egypt", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "That great commonwealth,sought to promote,Peace", "hypothesis": "That great commonwealth,promotes,Peace", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "That great commonwealth,promotes,Peace", "hypothesis": "That great commonwealth,sought to promote,Peace", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Plato,advocates,Communism", "hypothesis": "Plato,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Plato,is associated with,Communism", "hypothesis": "Plato,advocates,Communism", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Pyelonephritis,should be treated with,Antibiotics", "hypothesis": "Pyelonephritis,requires,Antibiotics", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Pyelonephritis,requires,Antibiotics", "hypothesis": "Pyelonephritis,should be treated with,Antibiotics", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The medal,is awarded annually to,the artist", "hypothesis": "The artist,was awarded,a medal", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The artist,was awarded,a medal", "hypothesis": "The medal,is awarded annually to,the artist", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Leonidas,repulsed,the persians", "hypothesis": "Leonidas,fought,the persians", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Leonidas,fought,the persians", "hypothesis": "Leonidas,repulsed,the persians", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Lyme disease,can cause,a rash", "hypothesis": "Lyme disease,starts with,a rash", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Lyme disease,starts with,a rash", "hypothesis": "Lyme disease,can cause,a rash", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Richards,is a politician from,Texas", "hypothesis": "Richards,became governor of,Texas", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Richards,became governor of,Texas", "hypothesis": "Richards,is a politician from,Texas", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "That commonwealth,promotes,Peace", "hypothesis": "That commonwealth,sought to promote,Peace", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "That commonwealth,sought to promote,Peace", "hypothesis": "That commonwealth,promotes,Peace", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Athena,was the goddess of,Athens", "hypothesis": "Athena,was worshiped in,Athens", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Athena,was worshiped in,Athens", "hypothesis": "Athena,was the goddess of,Athens", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Singers,appeared on,Television", "hypothesis": "Singers,were singing on,Television", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Singers,were singing on,Television", "hypothesis": "Singers,appeared on,Television", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The young birds,eats,Insects", "hypothesis": "The young birds,are fed with,Insects", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The young birds,are fed with,Insects", "hypothesis": "The young birds,eats,Insects", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Russia,expanded to,The Pacific", "hypothesis": "The Pacific,borders,Russia", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The Pacific,borders,Russia", "hypothesis": "Russia,expanded to,The Pacific", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Whiskey,consists chiefly of,Alcohol", "hypothesis": "Whiskey,contains,Alcohol", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Whiskey,contains,Alcohol", "hypothesis": "Whiskey,consists chiefly of,Alcohol", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Colorado Springs,attracts numbers of,Tourists", "hypothesis": "Colorado Springs,is packed with,Tourists", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Colorado Springs,is packed with,Tourists", "hypothesis": "Colorado Springs,attracts numbers of,Tourists", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The deer,nibbled at,the crops", "hypothesis": "The deer,eats,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The deer,eats,Crops", "hypothesis": "The deer,nibbled at,the crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The leprosy,decimated,Europe", "hypothesis": "The leprosy,prevailed extensively in,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The leprosy,prevailed extensively in,Europe", "hypothesis": "The leprosy,decimated,Europe", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Marduk,was worshiped in,Babylon", "hypothesis": "Babylon,was the city of,marduk", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Babylon,was the city of,marduk", "hypothesis": "Marduk,was worshiped in,Babylon", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Bruin,was fond of,Corn", "hypothesis": "Bruin,eats,Corn", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Bruin,eats,Corn", "hypothesis": "Bruin,was fond of,Corn", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Respighi,composed,an opera", "hypothesis": "Respighi,has composed,Operas", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Respighi,has composed,Operas", "hypothesis": "Respighi,composed,an opera", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Smith,attempted to establish,Communism", "hypothesis": "Smith,is associated with,Communism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Smith,is associated with,Communism", "hypothesis": "Smith,attempted to establish,Communism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Maize,is used to make,Beer", "hypothesis": "Beer,can be made from,Maize", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Beer,can be made from,Maize", "hypothesis": "Maize,is used to make,Beer", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Galileo,was persecuted by,The Church", "hypothesis": "Galileo,was imprisoned by,The Church", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Galileo,was imprisoned by,The Church", "hypothesis": "Galileo,was persecuted by,The Church", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Debussy,resided in,Paris", "hypothesis": "Debussy,was born and died in,Paris", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Debussy,was born and died in,Paris", "hypothesis": "Debussy,resided in,Paris", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The sun god,ruled in,Egypt", "hypothesis": "The sun god,was worshiped in,Egypt", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The sun god,was worshiped in,Egypt", "hypothesis": "The sun god,ruled in,Egypt", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Polk,made peace with,Britain", "hypothesis": "Polk,negotiated with,Britain", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Polk,negotiated with,Britain", "hypothesis": "Polk,made peace with,Britain", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "This enzyme,is found in,the blood cells", "hypothesis": "This enzyme,is essential for,blood cells", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "This enzyme,is essential for,blood cells", "hypothesis": "This enzyme,is found in,the blood cells", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "This brahms,composed,a symphony", "hypothesis": "This brahms,had worked upon,a symphony", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "This brahms,had worked upon,a symphony", "hypothesis": "This brahms,composed,a symphony", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Events,had occurred in,America", "hypothesis": "Events,is common to,America", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Events,is common to,America", "hypothesis": "Events,had occurred in,America", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Haydn,composed,a symphony", "hypothesis": "Haydn,wrote a set of,symphonies", "preds": [0.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Haydn,wrote a set of,symphonies", "hypothesis": "Haydn,composed,a symphony", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Cubism,was started by,Picasso", "hypothesis": "Picasso,developed,cubism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Picasso,developed,cubism", "hypothesis": "Cubism,was started by,Picasso", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Mandarin,is officially recognized in,China", "hypothesis": "Mandarin,is spoken in,China", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Mandarin,is spoken in,China", "hypothesis": "Mandarin,is officially recognized in,China", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "The cholera,is transmitted by,Air", "hypothesis": "The cholera,was conveyed in,The Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The cholera,was conveyed in,The Air", "hypothesis": "The cholera,is transmitted by,Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Mites,are pests of,Crops", "hypothesis": "Mites,eats,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Mites,eats,Crops", "hypothesis": "Mites,are pests of,Crops", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Glaciers,are found in,Norway", "hypothesis": "Glaciers,is common to,Norway", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Glaciers,is common to,Norway", "hypothesis": "Glaciers,are found in,Norway", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Proudhon,indicts,capitalism", "hypothesis": "Proudhon,is associated with,capitalism", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Proudhon,is associated with,capitalism", "hypothesis": "Proudhon,indicts,capitalism", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Tasmania,is part of,Australia", "hypothesis": "Tasmania,is the state of,Australia", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "Tasmania,is the state of,Australia", "hypothesis": "Tasmania,is part of,Australia", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Galileo,was persecuted by,The Church", "hypothesis": "Galileo,was condemned by,The Church", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Galileo,was condemned by,The Church", "hypothesis": "Galileo,was persecuted by,The Church", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Metronidazole,kills,infections", "hypothesis": "Metronidazole,is the treatment for,infection", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Metronidazole,is the treatment for,infection", "hypothesis": "Metronidazole,kills,infections", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Orpiment,is used in,Medicine", "hypothesis": "Orpiment,is much used as,a medicine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Orpiment,is much used as,a medicine", "hypothesis": "Orpiment,is used in,Medicine", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Rubella,can cause,a rash", "hypothesis": "The rash,was due to,rubella", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "The rash,was due to,rubella", "hypothesis": "Rubella,can cause,a rash", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The laws,have been approved by,The Secretary", "hypothesis": "The Secretary,interprets,Laws", "preds": [0.0, 1.0, 0.0, 0.0], "gold": true}
+{"premise": "The Secretary,interprets,Laws", "hypothesis": "The laws,have been approved by,The Secretary", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Thailand,exports,Rice", "hypothesis": "Thailand,is the exporter of,Rice", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Thailand,is the exporter of,Rice", "hypothesis": "Thailand,exports,Rice", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Germany,declared war on,Belgium", "hypothesis": "Germany,declared and invaded,Belgium", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Germany,declared and invaded,Belgium", "hypothesis": "Germany,declared war on,Belgium", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Lymphoma,requires,Chemotherapy", "hypothesis": "Lymphoma,should be treated with,Chemotherapy", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Lymphoma,should be treated with,Chemotherapy", "hypothesis": "Lymphoma,requires,Chemotherapy", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Typhus fever,is transmitted by,Air", "hypothesis": "Typhus fever,is bred in,The Air", "preds": [0.0, 0.0, 0.0, 0.0], "gold": false}
+{"premise": "Typhus fever,is bred in,The Air", "hypothesis": "Typhus fever,is transmitted by,Air", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Corn,was fed to,hogs", "hypothesis": "Hogs,eats,Corn", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Hogs,eats,Corn", "hypothesis": "Corn,was fed to,hogs", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Rye,is used to make,Bread", "hypothesis": "The bread,was a mixture of,Rye", "preds": [1.0, 1.0, 0.0, 1.0], "gold": false}
+{"premise": "The bread,was a mixture of,Rye", "hypothesis": "Rye,is used to make,Bread", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The laws,are discussed by,Representatives", "hypothesis": "Representatives,interprets,Laws", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Representatives,interprets,Laws", "hypothesis": "The laws,are discussed by,Representatives", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "A form,is found in,America", "hypothesis": "A form,is common to,America", "preds": [1.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "A form,is common to,America", "hypothesis": "A form,is found in,America", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The athanasius,was seated on the throne of,Egypt", "hypothesis": "The athanasius,was worshiped in,Egypt", "preds": [0.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "The athanasius,was worshiped in,Egypt", "hypothesis": "The athanasius,was seated on the throne of,Egypt", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Geysers,are found in,New Zealand", "hypothesis": "Geysers,is common to,New Zealand", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Geysers,is common to,New Zealand", "hypothesis": "Geysers,are found in,New Zealand", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Nelson,was killed at the battle of,Trafalgar", "hypothesis": "Nelson,died at,Trafalgar", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Nelson,died at,Trafalgar", "hypothesis": "Nelson,was killed at the battle of,Trafalgar", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Another officer,reached,the north pole", "hypothesis": "Another officer,has flown to,the north pole", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Another officer,has flown to,the north pole", "hypothesis": "Another officer,reached,the north pole", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Malaysia,believes in,Islam", "hypothesis": "Islam,is the religion of,Malaysia", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Islam,is the religion of,Malaysia", "hypothesis": "Malaysia,believes in,Islam", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The heavenly artisans,makes,Clothes", "hypothesis": "The heavenly artisans,prepared to make,the clothes", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "The heavenly artisans,prepared to make,the clothes", "hypothesis": "The heavenly artisans,makes,Clothes", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "The cattle,eats,Hay", "hypothesis": "The cattle,must eat,Hay", "preds": [1.0, 1.0, 1.0, 0.0], "gold": false}
+{"premise": "The cattle,must eat,Hay", "hypothesis": "The cattle,eats,Hay", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Copernicus,was a native of,Poland", "hypothesis": "Copernicus,was born in,Poland", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Copernicus,was born in,Poland", "hypothesis": "Copernicus,was a native of,Poland", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "China,believes in,Islam", "hypothesis": "Islam,entered,China", "preds": [1.0, 1.0, 1.0, 0.0], "gold": true}
+{"premise": "Islam,entered,China", "hypothesis": "China,believes in,Islam", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Pyrrhus,was beaten by,the romans", "hypothesis": "Pyrrhus,fought,the romans", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Pyrrhus,fought,the romans", "hypothesis": "Pyrrhus,was beaten by,the romans", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Rye,is used to make,Bread", "hypothesis": "Rye,is grown for,Bread", "preds": [1.0, 1.0, 1.0, 1.0], "gold": false}
+{"premise": "Rye,is grown for,Bread", "hypothesis": "Rye,is used to make,Bread", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
+{"premise": "Bushnell,ruling in,Florida", "hypothesis": "Bushnell,is the governor of,Florida", "preds": [0.0, 1.0, 0.0, 0.0], "gold": false}
+{"premise": "Bushnell,is the governor of,Florida", "hypothesis": "Bushnell,ruling in,Florida", "preds": [1.0, 1.0, 1.0, 1.0], "gold": true}
