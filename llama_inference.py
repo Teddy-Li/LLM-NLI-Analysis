@@ -804,16 +804,16 @@ if __name__ == '__main__':
     parser.add_argument('--model_name', type=str, default='llama-65b-hf')
     parser.add_argument('--subset', type=str, default='dir')
     parser.add_argument('--data_root', type=str,
-                        default=None,
+                        default='./levyholt_files/',
                         )
     parser.add_argument('--results_root', type=str,
-                        default=None)
-    parser.add_argument('--use_plhr', type=str, default='type')
+                        default='./results/levyholt_results/llama_results')
+    parser.add_argument('--use_plhr', type=str, default='original')
     parser.add_argument('--in_context', type=str, default='none')
     parser.add_argument('--instruction', action='store_true')
     parser.add_argument('--max_new_tokens', type=int, default=32)
     parser.add_argument('--split', type=str, default='dev')
-    parser.add_argument('--task', type=str, default='toy')
+    parser.add_argument('--task', type=str, default='lh')
     parser.add_argument('--no_accelerate', action='store_true')
     parser.add_argument('--beta', type=float, default=0.5)
     parser.add_argument('--tplt_id', type=str, default=None)

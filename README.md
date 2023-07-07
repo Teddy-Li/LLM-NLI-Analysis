@@ -20,5 +20,25 @@ The model outputs for GPT models and LLaMA models are stored in the [results](./
 
 ## Scripts
 
+### Running Models on Natural Language Inference Tasks
 
+- `gpt3_inference.py` contains the code to acquire natural language inference results with GPT-3/4 models.
+  - Example Script: 
+    - Dev set: `python -u gpt3_inference.py --model_name text-davinci-003 --use_plhr [original/type/lowfreq/highfreq/randprem-orig/randprem-type] --split dev --in_context cot --num_templates 4`
+    - Test set: `python -u gpt3_inference.py --model_name text-davinci-003 --use_plhr original --split dev --in_context cot --tplt_id 1 --num_templates 1`
+    - Hypothesis-only: `python -u gpt3_inference.py --model_name text-davinci-003 --use_plhr original --split test --in_context lbl --num_templates 1 --hypothesis-only`
+- `llama_inference.py` contains the code for calculating the LLaMA results.
+  - Example Script:
+    - Dev set: `python -u llama_inference.py --model_root [YOUR_PATH_TO_MODEL] --model_name llama-65b-hf --use_plhr [original/type/lowfreq/highfreq/randprem-orig/randprem-type] --split dev --in_context cot --task lh`
+    - Test set: `python -u llama_inference.py --model_root [YOUR_PATH_TO_MODEL] --model_name llama-65b-hf --use_plhr original --split test --in_context cot --task lh --tplt_id 1`
+    - Hypothesis-only: `python -u llama_inference.py --model_root [YOUR_PATH_TO_MODEL] --model_name llama-65b-hf --use_plhr original --split test --in_context lbl --task lh --single_statement h`
+  - Note: LLaMA is an LLM published by Meta, please visit [their website](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) to gain access to the model
+- Attestation bias can be measured with the hyp-only setting in the two scripts above.
+- Attestation results can be polled using the `poll_attestation.py` script.
+- Relative frequency prior can be measured using the `get_frequencies_ngram.py` script.
+
+### Controlled Experiments
+- `randprem_experiments.py` contains the code to calculate the probabilities of predicting `Entail` conditioned on attestation or relative frequency.
+- `attestation_controlled_experiment.py` contains the code to calculate the model performance on attestation-consistent / adversarial subsets of Levy/Holt.
+- `frequency_controlled_experiments.py` contains the code to calculate the model performance on frequency-consistent / adversarial subsets of Levy/Holt.
 

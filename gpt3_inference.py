@@ -583,9 +583,9 @@ if __name__ == '__main__':
     parser.add_argument('--use_plhr', type=str, default='original')
     parser.add_argument('--debug', action='store_true')
     parser.add_argument('--in_context', type=str, default='none')
-    parser.add_argument('--num_templates', type=int, default=7)
+    parser.add_argument('--num_templates', type=int, default=4)
     parser.add_argument('--hypothesis-only', action='store_true')
-    parser.add_argument('--subset', type=str, default='full', choices=['dir', 'full'])
+    parser.add_argument('--subset', type=str, default='dir', choices=['dir', 'full'])
     parser.add_argument('--split', type=str, default='dev')
     parser.add_argument('--task', type=str, default='query')
     parser.add_argument('--dry-run', action='store_true')  # will not call the actual API; instead use random fake data
