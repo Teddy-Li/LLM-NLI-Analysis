@@ -5,7 +5,7 @@ This repository contains the code and data for the paper [Sources of Hallucinati
 
 ## Data & Results Files
 
-The data used in the paper can be found in the [levyholt_files](levyholt_files) directory. The directory contains the following sub-folders:
+The data used in the paper can be found [here](https://www.dropbox.com/s/y92seono8ertugk/dir_files.zip?dl=0), please download and put in the `levyholt_files` directory. The directory contains the following sub-folders:
 
 - with_original: contains the directional Levy/Holt entries with their original context (i.e., the original entities as arguments).
 - with_type: contains the directional Levy/Holt entries with their type context (i.e., with typed placeholders of the entities as arguments). These files should be processed with 
